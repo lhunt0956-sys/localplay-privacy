@@ -1,9 +1,35 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-04T07:10:22.447645+08:00",
+  "generated_at": "2026-08-04T07:29:13.275384+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 17,
   "items": [
+    {
+      "title": "欧盟《人工智能法案》透明度规则正式生效",
+      "link": "https://36kr.com/newsflashes/3923951789176960?f=rss",
+      "source": "36氪",
+      "category": "AI与科技",
+      "published": "2026-08-03T23:08:53+00:00",
+      "summary": "欧盟《人工智能法案》的核心透明度条款正式生效，标志着全球首部全面监管人工智能的法律进入实质执行阶段。根据新规，聊天机器人等交互式系统必须明确告知用户其正在与人工智能而非人类互动；利用AI生成或修改的图像、视频、音频及文本内容，须进行清晰标识并附带机器可读的数字标记。（新浪财经）",
+      "score": 35,
+      "original_title": "",
+      "translated": false,
+      "priority": 20,
+      "uid": "e1ea44183d7e"
+    },
+    {
+      "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+      "link": "https://36kr.com/p/3923043072634498?f=rss",
+      "source": "36氪",
+      "category": "AI与科技",
+      "published": "2026-08-03T00:07:39+00:00",
+      "summary": "今日热点导览 马斯克关注了DeepSeek的X账号 祥鹏航空回应航班误发过期方便面 OpenAI或将IPO推迟到明年 SpaceX首份财报即将发布 小米多款手机正式涨价 每月10万美元，特朗普“真实社交”售卖“优先访问权” TOP3大新闻 蔡崇信宣布离婚，不涉及出售阿里股份 8月1日，阿里巴巴集团董事会主席、美国...",
+      "score": 30,
+      "original_title": "",
+      "translated": false,
+      "priority": 10,
+      "uid": "20a6858a715c"
+    },
     {
       "title": "庆祝 Jetpack Compose 五周年",
       "link": "https://android-developers.googleblog.com/2026/07/five-years-of-jetpack-compose.html",
@@ -14,19 +40,21 @@
       "score": 25,
       "original_title": "Celebrating 5 years of Jetpack Compose",
       "translated": true,
+      "priority": 0,
       "uid": "8ba0e2ad228e"
     },
     {
-      "title": "韩国芯片独角兽DeepX估值飙升4倍至22亿美元",
-      "link": "https://36kr.com/newsflashes/3923786103404676?f=rss",
+      "title": "机构预测：AI芯片建设潮将掀起逾5000亿美元发债高峰",
+      "link": "https://36kr.com/newsflashes/3923960964938118?f=rss",
       "source": "36氪",
       "category": "AI与科技",
-      "published": "2026-08-03T12:53:37+00:00",
-      "summary": "韩国AI芯片设计企业DeepX Co.近日完成新一轮融资，估值较上一轮暴涨约四倍，反映出市场对人工智能产业链相关公司的投资热情依旧高涨。据知情人士透露，这家总部位于京畿道板桥的初创公司在最新一轮交易中的估值约为3.14万亿韩元（合22亿美元）。DeepX已签署D轮融资的首批协议，从现有投资方BNW Investm...",
+      "published": "2026-08-03T23:29:15+00:00",
+      "summary": "8月3日，根据城堡证券的最新预测，到2028年，全球公开与私募信贷市场将再涌现超过5000亿美元的债务，以支持人工智能数据中心内部的芯片采购与设施建设。城堡证券分析师指出，到2028年，这一发债规模预计将相当于彭博美国投资级债券指数总额的5%以上。考虑到芯片的使用寿命，城堡证券预计大部分发行的债券将以3至5年期等...",
       "score": 20,
       "original_title": "",
       "translated": false,
-      "uid": "c20ec5e3e458"
+      "priority": 0,
+      "uid": "4912294e4264"
     },
     {
       "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
@@ -38,19 +66,8 @@
       "score": 20,
       "original_title": "",
       "translated": false,
+      "priority": 0,
       "uid": "f98cc9eb2896"
-    },
-    {
-      "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
-      "link": "https://36kr.com/p/3919025939246727?f=rss",
-      "source": "36氪",
-      "category": "AI与科技",
-      "published": "2026-08-03T00:10:16+00:00",
-      "summary": "文 | 赵京娜 访谈 编辑 | 海若镜 36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。 奇点逃逸创始人兼CEO薛传奕，本科、博...",
-      "score": 20,
-      "original_title": "",
-      "translated": false,
-      "uid": "08a79ac32a9e"
     },
     {
       "title": "会 Kotlin 吗？将它运送到各处，并在 2026 Shipaton 获胜",
@@ -62,6 +79,7 @@
       "score": 20,
       "original_title": "Know Kotlin? Ship It Everywhere and Win at Shipaton 2026",
       "translated": true,
+      "priority": 0,
       "uid": "43d67ec24104"
     },
     {
@@ -70,23 +88,12 @@
       "source": "Android Developers",
       "category": "Android开发",
       "published": "2026-07-27T13:00:00+00:00",
-      "summary": "由 Andrei Shikov，高级软件工程师，Android 工具包，以及 Jonathan Starup，软件工程师，R8 团队 发布 从 AGP 9.2.0 开始，R8 优化大部分...",
+      "summary": "由 Andrei Shikov，高级软件工程师，Android 工具包，以及 Jonathan Starup，软件工程师，R8 团队 发布 从 AGP 9.2.0 开始，R8 优化大多数...",
       "score": 20,
       "original_title": "How R8 made Kotlin Coroutines on Android 2x faster",
       "translated": true,
+      "priority": 0,
       "uid": "b6675ae1feae"
-    },
-    {
-      "title": "欧盟《人工智能法案》透明度规则正式生效",
-      "link": "https://36kr.com/newsflashes/3923951789176960?f=rss",
-      "source": "36氪",
-      "category": "AI与科技",
-      "published": "2026-08-03T23:08:53+00:00",
-      "summary": "欧盟《人工智能法案》的核心透明度条款正式生效，标志着全球首部全面监管人工智能的法律进入实质执行阶段。根据新规，聊天机器人等交互式系统必须明确告知用户其正在与人工智能而非人类互动；利用AI生成或修改的图像、视频、音频及文本内容，须进行清晰标识并附带机器可读的数字标记。（新浪财经）",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "uid": "e1ea44183d7e"
     },
     {
       "title": "哈罗德·哈姆在阿根廷瓦卡穆埃尔塔页岩热潮上下注更大",
@@ -94,14 +101,15 @@
       "source": "OilPrice",
       "category": "能源与电力",
       "published": "2026-08-03T22:00:00+00:00",
-      "summary": "大陆资源公司，由页岩亿万富翁哈罗德·哈姆创立，正在寻求在瓦卡穆埃尔塔扩张，因为国际公司争相开发阿根廷...",
+      "summary": "大陆资源公司，由页岩亿万富翁哈罗德·哈姆创立，正在寻求在瓦卡穆埃尔塔扩张，因为国际公司争相开发阿根廷的能源资源…",
       "score": 15,
       "original_title": "Harold Hamm Bets Bigger on Argentina’s Vaca Muerta Shale Boom",
       "translated": true,
+      "priority": 0,
       "uid": "951db252d2f8"
     },
     {
-      "title": "美国联邦航空管理局批准最小的波音737 Max在多年延误后飞行",
+      "title": "在多年延迟后，美国联邦航空管理局批准最小型波音737 Max飞行",
       "link": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
       "source": "CNBC",
       "category": "A股与宏观",
@@ -110,6 +118,7 @@
       "score": 15,
       "original_title": "FAA clears smallest Boeing 737 Max to fly after years of delays",
       "translated": true,
+      "priority": 0,
       "uid": "03b1a03f69cd"
     },
     {
@@ -122,6 +131,7 @@
       "score": 15,
       "original_title": "Ukraine’s Drone Campaign Drives Russian Oil Refining to 24-Year Low",
       "translated": true,
+      "priority": 0,
       "uid": "735d95dc86b1"
     },
     {
@@ -130,10 +140,11 @@
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-08-03T18:56:51+00:00",
-      "summary": "随着像 Anthropic 和 OpenAI 这样的私人公司价值飙升，以及更多公司长期保持私有化，捐赠建议基金（DAFs）正在越来越受欢迎。",
+      "summary": "随着像 Anthropic 和 OpenAI 这样的私人公司价值飞涨，以及更多公司更长时间保持私有化，捐赠者指导基金（DAFs）越来越受欢迎。",
       "score": 15,
       "original_title": "More tech millionaires are using donor-advised funds for tax savings and giving",
       "translated": true,
+      "priority": 0,
       "uid": "ac3a267ed58a"
     },
     {
@@ -146,6 +157,7 @@
       "score": 15,
       "original_title": "Michigan confirms first two deaths in cyclospora outbreak",
       "translated": true,
+      "priority": 0,
       "uid": "c7ac7aadd051"
     },
     {
@@ -158,19 +170,8 @@
       "score": 15,
       "original_title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
       "translated": true,
+      "priority": 0,
       "uid": "203a8a9f6036"
-    },
-    {
-      "title": "余承东官宣华为首款 RGB-MiniLED 电视来了：RGB 三原色独立发光，8 月 5 日正式开售",
-      "link": "https://www.ithome.com/0/985/237.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-03T14:15:34+00:00",
-      "summary": "IT之家 8 月 3 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日宣布， 华为首款 RGB-MiniLED 电视来了 ！新品可通过 RGB 三原色独立发光，色彩更加准确，将在 8 月 5 日正式开售。 从余承东发布的产品预热图可以看到，这款新品的命名为华为 Vision 智慧屏 6 ...",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "uid": "4aab098621f9"
     },
     {
       "title": "冷钱包攻击导致比特币被盗近 8900 万美元",
@@ -182,6 +183,7 @@
       "score": 15,
       "original_title": "",
       "translated": false,
+      "priority": 0,
       "uid": "7f411fa27cbf"
     },
     {
@@ -194,10 +196,11 @@
       "score": 15,
       "original_title": "KotlinLLM is Going Open Source",
       "translated": true,
+      "priority": 0,
       "uid": "42d69760e7fd"
     },
     {
-      "title": "大型石油公司警告全球燃料库存正处于危险低位",
+      "title": "大型石油公司警告全球燃料库存正 dangerously 低",
       "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Warns-Global-Fuel-Stocks-Are-Running-Dangerously-Low.html",
       "source": "OilPrice",
       "category": "能源与电力",
@@ -206,6 +209,7 @@
       "score": 10,
       "original_title": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
       "translated": true,
+      "priority": 0,
       "uid": "fcc9a65f86ec"
     },
     {
@@ -214,17 +218,136 @@
       "source": "OilPrice",
       "category": "能源与电力",
       "published": "2026-08-03T21:00:00+00:00",
-      "summary": "中国正在赢得全球清洁能源主导权的竞争。多年来，北京的支出超过地球上任何其他国家，并且控制着全球关键的清洁能源供应链……",
+      "summary": "中国正在赢得全球清洁能源主导权的竞争。多年来，北京的支出超过地球上其他任何国家，并且控制着全球关键的清洁能源供应链……",
       "score": 10,
       "original_title": "How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race",
       "translated": true,
+      "priority": 0,
       "uid": "9f14bdbfe862"
     }
   ],
+  "market": {
+    "indices": [
+      {
+        "name": "上证指数",
+        "price": 3809.6629,
+        "change": -22.5995,
+        "pct": -0.59
+      },
+      {
+        "name": "深证成指",
+        "price": 13448.29,
+        "change": -130.641,
+        "pct": -0.96
+      },
+      {
+        "name": "创业板指",
+        "price": 3302.55,
+        "change": -41.411,
+        "pct": -1.24
+      },
+      {
+        "name": "沪深300",
+        "price": 4543.1781,
+        "change": -45.0187,
+        "pct": -0.98
+      }
+    ],
+    "holdings": [
+      {
+        "name": "中国神华",
+        "symbol": "601088",
+        "shares": 100,
+        "cost": 31.7264,
+        "price": 43.73,
+        "market_value": 4373.0,
+        "pnl": 1200.36,
+        "pnl_pct": 37.83,
+        "weight_hint": "42.3%",
+        "note": "",
+        "available": true
+      },
+      {
+        "name": "长江电力",
+        "symbol": "600900",
+        "shares": 100,
+        "cost": 26.9641,
+        "price": 29.05,
+        "market_value": 2905.0,
+        "pnl": 208.59,
+        "pnl_pct": 7.74,
+        "weight_hint": "28.1%",
+        "note": "",
+        "available": true
+      },
+      {
+        "name": "工商银行",
+        "symbol": "601398",
+        "shares": 300,
+        "cost": 6.2584,
+        "price": 7.96,
+        "market_value": 2388.0,
+        "pnl": 510.48,
+        "pnl_pct": 27.19,
+        "weight_hint": "23.1%",
+        "note": "",
+        "available": true
+      },
+      {
+        "name": "半导体ETF",
+        "symbol": "159995",
+        "shares": 200,
+        "cost": 1.59,
+        "price": 1.039,
+        "market_value": 207.8,
+        "pnl": -110.2,
+        "pnl_pct": -34.65,
+        "weight_hint": "2.0%",
+        "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
+        "available": true
+      },
+      {
+        "name": "300ETF",
+        "symbol": "510300",
+        "shares": 100,
+        "cost": 4.97,
+        "price": 4.599,
+        "market_value": 459.9,
+        "pnl": -37.1,
+        "pnl_pct": -7.46,
+        "weight_hint": "4.5%",
+        "note": "",
+        "available": true
+      },
+      {
+        "name": "新能源ETF博时",
+        "symbol": "516580",
+        "shares": 200,
+        "cost": 0.8,
+        "price": null,
+        "market_value": null,
+        "pnl": null,
+        "pnl_pct": null,
+        "weight_hint": "",
+        "note": "迷你基金，关注清盘风险；若接口无数据则只做新闻关键词跟踪",
+        "available": false
+      }
+    ],
+    "total_market_value": 10333.7,
+    "total_pnl": 1772.13,
+    "bias": "偏空",
+    "errors": []
+  },
+  "learning": {
+    "title": "PB（市净率）",
+    "body": "PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。",
+    "section": "📚 今日学习点"
+  },
   "humor": {
     "title": "😄【郭式一乐】",
     "topic": "视频监控方案",
     "text": "今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。"
   },
+  "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": []
 }

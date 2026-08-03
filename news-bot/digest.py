@@ -17,9 +17,19 @@ import feedparser
 import yaml
 
 from humor import pick_humor
+from learning import DISCLAIMER, pick_learning_tip
+from market import (
+    build_market_brief,
+    format_market_html,
+    format_market_markdown,
+    holdings_keywords,
+    load_portfolio,
+    news_priority,
+)
 from translate import localize_item_fields
 
 ROOT = Path(__file__).resolve().parent
+HOLDINGS_CATEGORY = "持仓相关"
 
 
 @dataclass
@@ -33,6 +43,7 @@ class NewsItem:
     score: int = 0
     original_title: str = ""
     translated: bool = False
+    priority: int = 0
 
     @property
     def uid(self) -> str:
@@ -57,6 +68,11 @@ class Digest:
     errors: list[str] = field(default_factory=list)
     humor: dict[str, str] | None = None
     category_order: list[str] = field(default_factory=list)
+    market_markdown: str = ""
+    market_html: str = ""
+    market_data: dict[str, Any] | None = None
+    learning: dict[str, str] | None = None
+    disclaimer: str = DISCLAIMER
 
     def by_category(self) -> dict[str, list[NewsItem]]:
         grouped: dict[str, list[NewsItem]] = {}
@@ -125,11 +141,14 @@ def _keyword_lists(config: dict[str, Any], feed_cfg: dict[str, Any]) -> tuple[li
 
 def _score_text(text: str, boost: list[str], exclude: list[str], require: list[str]) -> int | None:
     lowered = text.casefold()
-    for bad in exclude:
-        if bad and bad.casefold() in lowered:
+    boost_s = [str(k) for k in boost if k is not None and str(k)]
+    exclude_s = [str(k) for k in exclude if k is not None and str(k)]
+    require_s = [str(k) for k in require if k is not None and str(k)]
+    for bad in exclude_s:
+        if bad.casefold() in lowered:
             return None
-    hits = [k for k in boost if k and k.casefold() in lowered]
-    if require and not any(k.casefold() in lowered for k in require if k):
+    hits = [k for k in boost_s if k.casefold() in lowered]
+    if require_s and not any(k.casefold() in lowered for k in require_s):
         return None
     # 基础分 + 命中加分；无 require 的源即使零命中也保留
     return 10 + 5 * len(hits)
@@ -211,6 +230,17 @@ def build_digest(config: dict[str, Any] | None = None) -> Digest:
     max_age = int(config.get("max_age_hours") or 0)
     cutoff = now - timedelta(hours=max_age) if max_age > 0 else None
     category_order = list(config.get("category_order") or [])
+    if HOLDINGS_CATEGORY not in category_order:
+        category_order = [HOLDINGS_CATEGORY] + category_order
+
+    # 合并 stock-learning 持仓关键词到全局 boost
+    portfolio = load_portfolio()
+    kw = config.setdefault("keywords", {})
+    boost = list(kw.get("boost") or [])
+    for word in holdings_keywords(portfolio):
+        if word not in boost:
+            boost.append(word)
+    kw["boost"] = boost
 
     digest = Digest(
         title=config.get("title") or "每日新闻摘要",
@@ -218,6 +248,16 @@ def build_digest(config: dict[str, Any] | None = None) -> Digest:
         timezone=tz_name,
         category_order=category_order,
     )
+
+    # A股晨间雷达：指数 + 持仓盈亏
+    try:
+        brief = build_market_brief(portfolio)
+        digest.market_markdown = format_market_markdown(brief)
+        digest.market_html = format_market_html(brief)
+        digest.market_data = brief.to_dict()
+        digest.errors.extend(brief.errors)
+    except Exception as exc:  # noqa: BLE001
+        digest.errors.append(f"行情模块失败: {exc}")
 
     seen: set[str] = set()
     collected: list[NewsItem] = []
@@ -231,23 +271,31 @@ def build_digest(config: dict[str, Any] | None = None) -> Digest:
                 continue
             seen.add(item.uid)
             seen.add(item.link)
+            blob = f"{item.title} {item.summary}"
+            item.priority = news_priority(blob, portfolio)
+            hold_hit = any(k and k in blob for k in holdings_keywords(portfolio))
+            if hold_hit and item.category in {"A股与宏观", "能源与电力", "AI与科技"}:
+                item.category = HOLDINGS_CATEGORY
+            item.score = item.score + item.priority
             collected.append(item)
 
     collected.sort(
         key=lambda x: (
             x.score,
+            x.priority,
             x.published or datetime.min.replace(tzinfo=timezone.utc),
         ),
         reverse=True,
     )
 
-    # 按板块限额，避免某一类挤爆
+    # 按板块限额，避免某一类挤爆；持仓相关多留一点
     per_cat_cap = max(3, max_total // max(1, len(category_order) or 1))
     cat_counts: dict[str, int] = {}
     selected: list[NewsItem] = []
     for item in collected:
+        cap = per_cat_cap + 2 if item.category == HOLDINGS_CATEGORY else per_cat_cap
         n = cat_counts.get(item.category, 0)
-        if n >= per_cat_cap:
+        if n >= cap:
             continue
         cat_counts[item.category] = n + 1
         selected.append(item)
@@ -271,11 +319,16 @@ def build_digest(config: dict[str, Any] | None = None) -> Digest:
                     score=item.score,
                     original_title=item.title if did else item.original_title,
                     translated=did,
+                    priority=item.priority,
                 )
             )
         digest.items = localized
     else:
         digest.items = selected
+
+    tip = pick_learning_tip(digest.generated_at)
+    digest.learning = tip
+    digest.disclaimer = DISCLAIMER
 
     humor_cfg = config.get("humor") or {}
     if humor_cfg.get("enabled", True):
@@ -293,9 +346,13 @@ def format_markdown(digest: Digest) -> str:
         f"# {digest.title}",
         f"_生成时间：{digest.generated_at.strftime('%Y-%m-%d %H:%M')} ({digest.timezone})_",
         "",
-        "> 个性化源：通信安防 / A股能源 / AI·Android / 健康出行",
+        "> 个性化源：stock-learning 持仓雷达 / 通信安防 / AI·Android / 健康出行",
         "",
     ]
+    if digest.market_markdown:
+        lines.append(digest.market_markdown.rstrip())
+        lines.append("")
+
     if not digest.items:
         lines.append("今日暂无可用新闻。")
     else:
@@ -312,11 +369,22 @@ def format_markdown(digest: Digest) -> str:
                     lines.append(f"  {item.summary}")
             lines.append("")
 
+    if digest.learning:
+        lines.append(f"## {digest.learning['section']}")
+        lines.append("")
+        lines.append(f"**{digest.learning['title']}**：{digest.learning['body']}")
+        lines.append("")
+
     if digest.humor:
         lines.append(f"## {digest.humor['title']}")
         lines.append("")
         lines.append(digest.humor["text"])
         lines.append("")
+
+    lines.append("---")
+    lines.append("")
+    lines.append(digest.disclaimer)
+    lines.append("")
 
     if digest.errors:
         lines.append("## 抓取提醒")
@@ -333,6 +401,8 @@ def format_plain(digest: Digest) -> str:
         f"生成时间：{digest.generated_at.strftime('%Y-%m-%d %H:%M')} ({digest.timezone})",
         "",
     ]
+    if digest.market_markdown:
+        lines.append(digest.market_markdown)
     for category, items in digest.by_category().items():
         lines.append(f"【{category}】")
         for i, item in enumerate(items, 1):
@@ -340,10 +410,16 @@ def format_plain(digest: Digest) -> str:
             lines.append(f"   {item.link}")
             lines.append(f"   来源：{item.source}")
         lines.append("")
+    if digest.learning:
+        lines.append(f"【{digest.learning['section']}】")
+        lines.append(f"{digest.learning['title']}：{digest.learning['body']}")
+        lines.append("")
     if digest.humor:
         lines.append(f"【{digest.humor['title']}】")
         lines.append(digest.humor["text"])
         lines.append("")
+    lines.append(digest.disclaimer)
+    lines.append("")
     return "\n".join(lines).strip() + "\n"
 
 
@@ -375,12 +451,22 @@ def format_html(digest: Digest) -> str:
             f'<p class="sum">{html.escape(digest.humor["text"])}</p></section>'
         )
 
+    learning_html = ""
+    if digest.learning:
+        learning_html = (
+            f'<section class="cat learning"><h2>{html.escape(digest.learning["section"])}</h2>'
+            f'<p class="sum"><strong>{html.escape(digest.learning["title"])}</strong>：'
+            f'{html.escape(digest.learning["body"])}</p></section>'
+        )
+
+    market_html = digest.market_html or ""
     empty = "<p class='empty'>今日暂无可用新闻。</p>" if not digest.items else ""
     errors = ""
     if digest.errors:
         errors = "<section class='errors'><h2>抓取提醒</h2><ul>" + "".join(
             f"<li>{html.escape(e)}</li>" for e in digest.errors
         ) + "</ul></section>"
+    disclaimer_html = f'<p class="disclaimer">{html.escape(digest.disclaimer)}</p>'
 
     return f"""<!DOCTYPE html>
 <html lang="zh-CN">
@@ -438,7 +524,7 @@ def format_html(digest: Digest) -> str:
       margin-bottom: 18px;
       animation: rise 0.8s ease both;
     }}
-    .humor {{
+    .humor, .learning, .market {{
       border-color: rgba(14,124,102,0.25);
       background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
     }}
@@ -473,6 +559,12 @@ def format_html(digest: Digest) -> str:
       font-size: 0.92rem;
       line-height: 1.7;
     }}
+    .disclaimer {{
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }}
     .errors {{
       margin-top: 24px;
       color: #8a5a00;
@@ -497,13 +589,16 @@ def format_html(digest: Digest) -> str:
   <div class="wrap">
     <header>
       <p class="brand">{html.escape(digest.title)}</p>
-      <p class="sub">通信安防 · A股能源 · AI/Android · 健康出行 · {html.escape(digest.generated_at.strftime('%Y年%m月%d日 %H:%M'))} · 共 {len(digest.items)} 条</p>
+      <p class="sub">stock-learning 持仓雷达 · 通信安防 · AI/Android · 健康 · {html.escape(digest.generated_at.strftime('%Y年%m月%d日 %H:%M'))} · 共 {len(digest.items)} 条</p>
     </header>
+    {market_html}
     {empty}
     {''.join(rows)}
+    {learning_html}
     {humor_html}
+    {disclaimer_html}
     {errors}
-    <footer>按 Hunt 兴趣过滤 · news-bot 自动生成</footer>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
   </div>
 </body>
 </html>

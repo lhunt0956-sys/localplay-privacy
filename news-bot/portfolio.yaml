@@ -1,0 +1,72 @@
+# Hunt 持仓（来自 stock-learning skill，可随时改）
+# 现价由新浪行情接口盘中/收盘后自动拉取
+
+profile:
+  experience: 新手
+  risk: 偏保守，倾向高股息防御型
+  goal: 长期资产增值 + 通过实操学习投资逻辑
+  market: A股
+  cash: 12.53
+  note: 几乎满仓，现金机动空间极小
+
+holdings:
+  - name: 中国神华
+    code: sh601088
+    symbol: 601088
+    shares: 100
+    cost: 31.7264
+    keywords: ["神华", "中国神华", "601088", "煤炭", "高股息"]
+    watch: [PE, 股息率, 煤炭期货价格]
+  - name: 长江电力
+    code: sh600900
+    symbol: 600900
+    shares: 100
+    cost: 26.9641
+    keywords: ["长江电力", "长电", "600900", "水电", "三峡"]
+    watch: [股息率, 年度发电量, 长江来水量]
+  - name: 工商银行
+    code: sh601398
+    symbol: 601398
+    shares: 300
+    cost: 6.2584
+    keywords: ["工商银行", "工行", "601398", "银行股", "净息差"]
+    watch: [PB, 股息率, 不良贷款率, 净息差]
+  - name: 半导体ETF
+    code: sz159995
+    symbol: 159995
+    shares: 200
+    cost: 1.59
+    keywords: ["半导体", "芯片ETF", "159995", "国产替代", "大基金"]
+    watch: [费城半导体指数, 晶圆代工产能利用率, 大基金]
+    note: 代码按芯片ETF近似跟踪，可按实际持仓代码修改
+  - name: 300ETF
+    code: sh510300
+    symbol: 510300
+    shares: 100
+    cost: 4.97
+    keywords: ["沪深300", "300ETF", "510300", "大盘蓝筹"]
+    watch: [沪深300点位, GDP, PMI]
+  - name: 新能源ETF博时
+    code: sz516580
+    symbol: 516580
+    shares: 200
+    cost: 0.80
+    keywords: ["新能源", "516580", "光伏", "锂电", "中证新能源"]
+    watch: [基金规模, 光伏锂电价格, 中证新能源]
+    note: 迷你基金，关注清盘风险；若接口无数据则只做新闻关键词跟踪
+
+indices:
+  - name: 上证指数
+    code: s_sh000001
+  - name: 深证成指
+    code: s_sz399001
+  - name: 创业板指
+    code: s_sz399006
+  - name: 沪深300
+    code: s_sh000300
+
+# 新闻优先级（market-info.md）
+news_priority_keywords:
+  critical: [降息, 降准, 央行, 公开市场, 货币政策, LPR]
+  high: [证监会, 国资委, 发改委, 行业政策, 监管, 重要会议]
+  medium: [财报, 业绩预告, 年报, 中报, 分红]
