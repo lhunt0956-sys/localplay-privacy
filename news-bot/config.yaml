@@ -1,32 +1,208 @@
-# 自动化新闻推送配置
-# 修改 feeds 即可增删新闻源；推送渠道通过 GitHub Secrets / 环境变量配置
+# Hunt 个性化每日简报
+# 依据个人记忆：通信工程 / A股学习 / AI·Android 开发 / 健康 / 摩托
 
 timezone: Asia/Shanghai
-title: 每日新闻摘要
-max_items_per_feed: 8
-max_total_items: 30
-# 只保留最近 N 小时内的新闻（0 = 不限制）
-max_age_hours: 36
+title: Hunt 每日简报
+max_items_per_feed: 10
+max_total_items: 28
+max_age_hours: 72
+message_format: markdown
+
+# 板块展示顺序（对齐日常资讯六大板块）
+category_order:
+  - A股与宏观
+  - 能源与电力
+  - 通信与安防
+  - AI与科技
+  - Android开发
+  - 健康生活
+
+keywords:
+  exclude:
+    - 明星绯闻
+    - 娱乐八卦
+    - 选秀
+  boost:
+    - 神华
+    - 长江电力
+    - 工商银行
+    - 国电南瑞
+    - 福耀
+    - 隆基
+    - 紫金
+    - A股
+    - 沪深
+    - ETF
+    - 红利
+    - 高股息
+    - 能源
+    - 电力
+    - 煤炭
+    - 油气
+    - 碳中和
+    - 新能源
+    - 央行
+    - 宏观
+    - 通胀
+    - GDP
+    - 通信
+    - 5G
+    - 6G
+    - 铁塔
+    - 基站
+    - 光纤
+    - 光缆
+    - 视频监控
+    - 安防
+    - 智慧城市
+    - 信息化
+    - 专线
+    - 带宽
+    - 无线网桥
+    - 森林防火
+    - 运营商
+    - AI
+    - 大模型
+    - Android
+    - Kotlin
+    - Compose
+    - Media3
+    - 开源
+    - 血压
+    - 睡眠
+    - 饮食
+    - 内脏脂肪
+    - 摩托
+    - 电动车
+    - 机油
 
 feeds:
-  - name: BBC 中文
-    url: https://feeds.bbci.co.uk/zhongwen/simp/rss.xml
-    category: 国际
-  - name: NPR News
-    url: https://feeds.npr.org/1001/rss.xml
-    category: 国际
-  - name: Hacker News
-    url: https://news.ycombinator.com/rss
-    category: 科技
+  - name: FT 中文网
+    url: https://www.ftchinese.com/rss/news
+    category: A股与宏观
+    require_keywords: true
+    max_items: 8
+
+  - name: CNBC
+    url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147
+    category: A股与宏观
+    require_keywords: true
+    max_items: 6
+
+  - name: OilPrice
+    url: https://oilprice.com/rss/main
+    category: 能源与电力
+    require_keywords: false
+    max_items: 6
+
+  - name: IT之家·通信安防
+    url: https://www.ithome.com/rss/
+    category: 通信与安防
+    require_keywords: true
+    max_items: 8
+    extra_keywords:
+      - 华为
+      - 中兴
+      - 运营商
+      - 铁塔
+      - 5G
+      - 6G
+      - 安防
+      - 监控
+      - 海康
+      - 大华
+      - 光纤
+      - 基站
+      - 通信
+      - 专线
+      - 中国移动
+      - 中国电信
+      - 中国联通
+
+  - name: Solidot·通信
+    url: https://www.solidot.org/index.rss
+    category: 通信与安防
+    require_keywords: true
+    max_items: 4
+    extra_keywords:
+      - 5G
+      - 通信
+      - 网络
+      - 运营商
+      - 光纤
+      - 安全
+
   - name: 36氪
     url: https://36kr.com/feed
-    category: 科技
-  - name: The Verge
-    url: https://www.theverge.com/rss/index.xml
-    category: 科技
+    category: AI与科技
+    require_keywords: true
+    max_items: 8
+    extra_keywords:
+      - AI
+      - 大模型
+      - 智能体
+      - Agent
+      - 芯片
+      - 半导体
+
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    category: AI与科技
+    require_keywords: false
+    max_items: 5
+
+  - name: InfoQ 中文
+    url: https://www.infoq.cn/feed
+    category: AI与科技
+    require_keywords: true
+    max_items: 5
+
+  - name: Android Developers
+    url: https://android-developers.googleblog.com/feeds/posts/default?alt=rss
+    category: Android开发
+    require_keywords: false
+    max_items: 5
+    max_age_hours: 240
+
+  - name: Kotlin Blog
+    url: https://blog.jetbrains.com/kotlin/feed/
+    category: Android开发
+    require_keywords: false
+    max_items: 4
+    max_age_hours: 240
+
   - name: 少数派
     url: https://sspai.com/feed
-    category: 数码
+    category: 健康生活
+    require_keywords: true
+    max_items: 5
+    max_age_hours: 168
+    extra_keywords:
+      - 健康
+      - 饮食
+      - 运动
+      - 睡眠
+      - 效率
+      - 咖啡
+      - 减压
+      - 坐姿
+      - 颈椎
 
-# 推送正文格式：markdown | plain | html
-message_format: markdown
+  - name: IT之家·出行
+    url: https://www.ithome.com/rss/
+    category: 健康生活
+    require_keywords: true
+    max_items: 3
+    extra_keywords:
+      - 血压
+      - 健康
+      - 睡眠
+      - 摩托
+      - 电动车
+      - 两轮
+      - 九号
+      - 本田
+
+humor:
+  enabled: true
+  title: "😄【郭式一乐】"

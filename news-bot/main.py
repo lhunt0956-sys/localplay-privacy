@@ -65,6 +65,7 @@ def main() -> int:
                 "timezone": digest.timezone,
                 "count": len(digest.items),
                 "items": [item.to_dict() for item in digest.items],
+                "humor": digest.humor,
                 "errors": digest.errors,
             },
             ensure_ascii=False,

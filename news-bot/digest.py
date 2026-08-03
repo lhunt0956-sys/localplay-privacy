@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch RSS feeds and build a news digest."""
+"""Fetch RSS feeds and build a personalized news digest."""
 
 from __future__ import annotations
 
@@ -16,6 +16,8 @@ from zoneinfo import ZoneInfo
 import feedparser
 import yaml
 
+from humor import pick_humor
+
 ROOT = Path(__file__).resolve().parent
 
 
@@ -27,6 +29,7 @@ class NewsItem:
     category: str
     published: datetime | None
     summary: str = ""
+    score: int = 0
 
     @property
     def uid(self) -> str:
@@ -47,12 +50,24 @@ class Digest:
     timezone: str
     items: list[NewsItem] = field(default_factory=list)
     errors: list[str] = field(default_factory=list)
+    humor: dict[str, str] | None = None
+    category_order: list[str] = field(default_factory=list)
 
     def by_category(self) -> dict[str, list[NewsItem]]:
         grouped: dict[str, list[NewsItem]] = {}
         for item in self.items:
             grouped.setdefault(item.category, []).append(item)
-        return grouped
+
+        if not self.category_order:
+            return grouped
+
+        ordered: dict[str, list[NewsItem]] = {}
+        for cat in self.category_order:
+            if cat in grouped:
+                ordered[cat] = grouped.pop(cat)
+        for cat, items in grouped.items():
+            ordered[cat] = items
+        return ordered
 
 
 def load_config(path: Path | None = None) -> dict[str, Any]:
@@ -89,10 +104,49 @@ def _parse_time(entry: Any) -> datetime | None:
     return None
 
 
-def fetch_feed(feed_cfg: dict[str, Any], max_items: int) -> tuple[list[NewsItem], str | None]:
+def _keyword_lists(config: dict[str, Any], feed_cfg: dict[str, Any]) -> tuple[list[str], list[str], list[str]]:
+    kw = config.get("keywords") or {}
+    boost = list(kw.get("boost") or [])
+    exclude = list(kw.get("exclude") or [])
+    extra = list(feed_cfg.get("extra_keywords") or [])
+    boost = boost + [k for k in extra if k not in boost]
+    # 有专属词时只按专属词过滤；否则宽源用全局兴趣词
+    if feed_cfg.get("require_keywords"):
+        require = extra or boost
+    else:
+        require = []
+    return boost, exclude, require
+
+
+def _score_text(text: str, boost: list[str], exclude: list[str], require: list[str]) -> int | None:
+    lowered = text.casefold()
+    for bad in exclude:
+        if bad and bad.casefold() in lowered:
+            return None
+    hits = [k for k in boost if k and k.casefold() in lowered]
+    if require and not any(k.casefold() in lowered for k in require if k):
+        return None
+    # 基础分 + 命中加分；无 require 的源即使零命中也保留
+    return 10 + 5 * len(hits)
+
+
+def fetch_feed(
+    feed_cfg: dict[str, Any],
+    config: dict[str, Any],
+    default_max: int,
+    cutoff: datetime | None = None,
+) -> tuple[list[NewsItem], str | None]:
     url = feed_cfg["url"]
     name = feed_cfg.get("name") or url
     category = feed_cfg.get("category") or "综合"
+    max_items = int(feed_cfg.get("max_items") or default_max)
+    boost, exclude, require = _keyword_lists(config, feed_cfg)
+
+    feed_max_age = feed_cfg.get("max_age_hours")
+    feed_cutoff = cutoff
+    if feed_max_age is not None:
+        feed_cutoff = datetime.now(tz=timezone.utc) - timedelta(hours=int(feed_max_age))
+
     try:
         parsed = feedparser.parse(url, request_headers={"User-Agent": "NewsBot/1.0 (+github-actions)"})
     except Exception as exc:  # noqa: BLE001
@@ -103,7 +157,7 @@ def fetch_feed(feed_cfg: dict[str, Any], max_items: int) -> tuple[list[NewsItem]
         return [], f"{name}: 解析失败 ({detail})"
 
     items: list[NewsItem] = []
-    for entry in parsed.entries[: max_items * 2]:
+    for entry in parsed.entries[: max_items * 4]:
         title = _strip_html(getattr(entry, "title", "") or "无标题")
         link = getattr(entry, "link", "") or ""
         if not link:
@@ -113,14 +167,28 @@ def fetch_feed(feed_cfg: dict[str, Any], max_items: int) -> tuple[list[NewsItem]
             summary = ""
         if len(summary) > 160:
             summary = summary[:157] + "..."
+
+        published = _parse_time(entry)
+        if feed_cutoff:
+            if not published:
+                continue
+            if published < feed_cutoff:
+                continue
+
+        blob = f"{title} {summary}"
+        score = _score_text(blob, boost, exclude, require)
+        if score is None:
+            continue
+
         items.append(
             NewsItem(
                 title=title,
                 link=link,
                 source=name,
                 category=category,
-                published=_parse_time(entry),
+                published=published,
                 summary=summary,
+                score=score,
             )
         )
         if len(items) >= max_items:
@@ -137,31 +205,60 @@ def build_digest(config: dict[str, Any] | None = None) -> Digest:
     max_total = int(config.get("max_total_items") or 30)
     max_age = int(config.get("max_age_hours") or 0)
     cutoff = now - timedelta(hours=max_age) if max_age > 0 else None
+    category_order = list(config.get("category_order") or [])
 
     digest = Digest(
         title=config.get("title") or "每日新闻摘要",
         generated_at=now.astimezone(tz),
         timezone=tz_name,
+        category_order=category_order,
     )
 
     seen: set[str] = set()
     collected: list[NewsItem] = []
 
     for feed_cfg in config.get("feeds") or []:
-        items, err = fetch_feed(feed_cfg, max_per)
+        items, err = fetch_feed(feed_cfg, config, max_per, cutoff)
         if err:
             digest.errors.append(err)
         for item in items:
-            if cutoff and item.published and item.published < cutoff:
-                continue
             if item.uid in seen or item.link in seen:
                 continue
             seen.add(item.uid)
             seen.add(item.link)
             collected.append(item)
 
-    collected.sort(key=lambda x: x.published or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
-    digest.items = collected[:max_total]
+    collected.sort(
+        key=lambda x: (
+            x.score,
+            x.published or datetime.min.replace(tzinfo=timezone.utc),
+        ),
+        reverse=True,
+    )
+
+    # 按板块限额，避免某一类挤爆
+    per_cat_cap = max(3, max_total // max(1, len(category_order) or 1))
+    cat_counts: dict[str, int] = {}
+    selected: list[NewsItem] = []
+    for item in collected:
+        n = cat_counts.get(item.category, 0)
+        if n >= per_cat_cap:
+            continue
+        cat_counts[item.category] = n + 1
+        selected.append(item)
+        if len(selected) >= max_total:
+            break
+
+    digest.items = selected
+
+    humor_cfg = config.get("humor") or {}
+    if humor_cfg.get("enabled", True):
+        bit = pick_humor(digest.generated_at)
+        digest.humor = {
+            "title": humor_cfg.get("title") or "😄【郭式一乐】",
+            "topic": bit["topic"],
+            "text": bit["text"],
+        }
     return digest
 
 
@@ -169,6 +266,8 @@ def format_markdown(digest: Digest) -> str:
     lines = [
         f"# {digest.title}",
         f"_生成时间：{digest.generated_at.strftime('%Y-%m-%d %H:%M')} ({digest.timezone})_",
+        "",
+        "> 个性化源：通信安防 / A股能源 / AI·Android / 健康出行",
         "",
     ]
     if not digest.items:
@@ -186,6 +285,12 @@ def format_markdown(digest: Digest) -> str:
                 if item.summary:
                     lines.append(f"  {item.summary}")
             lines.append("")
+
+    if digest.humor:
+        lines.append(f"## {digest.humor['title']}")
+        lines.append("")
+        lines.append(digest.humor["text"])
+        lines.append("")
 
     if digest.errors:
         lines.append("## 抓取提醒")
@@ -208,6 +313,10 @@ def format_plain(digest: Digest) -> str:
             lines.append(f"{i}. {item.title}")
             lines.append(f"   {item.link}")
             lines.append(f"   来源：{item.source}")
+        lines.append("")
+    if digest.humor:
+        lines.append(f"【{digest.humor['title']}】")
+        lines.append(digest.humor["text"])
         lines.append("")
     return "\n".join(lines).strip() + "\n"
 
@@ -232,6 +341,13 @@ def format_html(digest: Digest) -> str:
                 "</li>"
             )
         rows.append("</ul></section>")
+
+    humor_html = ""
+    if digest.humor:
+        humor_html = (
+            f'<section class="cat humor"><h2>{html.escape(digest.humor["title"])}</h2>'
+            f'<p class="sum">{html.escape(digest.humor["text"])}</p></section>'
+        )
 
     empty = "<p class='empty'>今日暂无可用新闻。</p>" if not digest.items else ""
     errors = ""
@@ -285,7 +401,7 @@ def format_html(digest: Digest) -> str:
     .sub {{
       color: var(--muted);
       font-size: 1rem;
-      max-width: 34em;
+      max-width: 36em;
     }}
     .cat {{
       background: var(--panel);
@@ -296,14 +412,14 @@ def format_html(digest: Digest) -> str:
       margin-bottom: 18px;
       animation: rise 0.8s ease both;
     }}
-    .cat:nth-child(2) {{ animation-delay: 0.05s; }}
-    .cat:nth-child(3) {{ animation-delay: 0.1s; }}
-    .cat:nth-child(4) {{ animation-delay: 0.15s; }}
+    .humor {{
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }}
     h2 {{
       margin: 0 0 14px;
       font-size: 0.85rem;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
+      letter-spacing: 0.08em;
       color: var(--accent);
     }}
     ul {{ list-style: none; padding: 0; margin: 0; }}
@@ -329,7 +445,7 @@ def format_html(digest: Digest) -> str:
       margin: 8px 0 0;
       color: #3d4556;
       font-size: 0.92rem;
-      line-height: 1.55;
+      line-height: 1.7;
     }}
     .errors {{
       margin-top: 24px;
@@ -341,7 +457,6 @@ def format_html(digest: Digest) -> str:
       margin-top: 28px;
       color: var(--muted);
       font-size: 0.8rem;
-      animation: rise 1s ease both;
     }}
     @keyframes rise {{
       from {{ opacity: 0; transform: translateY(12px); }}
@@ -356,12 +471,13 @@ def format_html(digest: Digest) -> str:
   <div class="wrap">
     <header>
       <p class="brand">{html.escape(digest.title)}</p>
-      <p class="sub">自动聚合 · {html.escape(digest.generated_at.strftime('%Y年%m月%d日 %H:%M'))} ({html.escape(digest.timezone)}) · 共 {len(digest.items)} 条</p>
+      <p class="sub">通信安防 · A股能源 · AI/Android · 健康出行 · {html.escape(digest.generated_at.strftime('%Y年%m月%d日 %H:%M'))} · 共 {len(digest.items)} 条</p>
     </header>
     {empty}
     {''.join(rows)}
+    {humor_html}
     {errors}
-    <footer>由 news-bot 自动生成 · 可配合 GitHub Actions 定时推送</footer>
+    <footer>按 Hunt 兴趣过滤 · news-bot 自动生成</footer>
   </div>
 </body>
 </html>
