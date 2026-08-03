@@ -1,0 +1,32 @@
+# 自动化新闻推送配置
+# 修改 feeds 即可增删新闻源；推送渠道通过 GitHub Secrets / 环境变量配置
+
+timezone: Asia/Shanghai
+title: 每日新闻摘要
+max_items_per_feed: 8
+max_total_items: 30
+# 只保留最近 N 小时内的新闻（0 = 不限制）
+max_age_hours: 36
+
+feeds:
+  - name: BBC 中文
+    url: https://feeds.bbci.co.uk/zhongwen/simp/rss.xml
+    category: 国际
+  - name: NPR News
+    url: https://feeds.npr.org/1001/rss.xml
+    category: 国际
+  - name: Hacker News
+    url: https://news.ycombinator.com/rss
+    category: 科技
+  - name: 36氪
+    url: https://36kr.com/feed
+    category: 科技
+  - name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    category: 科技
+  - name: 少数派
+    url: https://sspai.com/feed
+    category: 数码
+
+# 推送正文格式：markdown | plain | html
+message_format: markdown
