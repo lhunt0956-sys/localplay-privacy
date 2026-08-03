@@ -1,8 +1,8 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-04T07:29:13.275384+08:00",
+  "generated_at": "2026-08-04T07:38:38.817944+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 17,
+  "count": 22,
   "items": [
     {
       "title": "欧盟《人工智能法案》透明度规则正式生效",
@@ -11,11 +11,63 @@
       "category": "AI与科技",
       "published": "2026-08-03T23:08:53+00:00",
       "summary": "欧盟《人工智能法案》的核心透明度条款正式生效，标志着全球首部全面监管人工智能的法律进入实质执行阶段。根据新规，聊天机器人等交互式系统必须明确告知用户其正在与人工智能而非人类互动；利用AI生成或修改的图像、视频、音频及文本内容，须进行清晰标识并附带机器可读的数字标记。（新浪财经）",
-      "score": 35,
+      "score": 50,
       "original_title": "",
       "translated": false,
-      "priority": 20,
+      "priority": 35,
       "uid": "e1ea44183d7e"
+    },
+    {
+      "title": "机构预测：AI芯片建设潮将掀起逾5000亿美元发债高峰",
+      "link": "https://36kr.com/newsflashes/3923960964938118?f=rss",
+      "source": "36氪",
+      "category": "持仓相关",
+      "published": "2026-08-03T23:29:15+00:00",
+      "summary": "8月3日，根据城堡证券的最新预测，到2028年，全球公开与私募信贷市场将再涌现超过5000亿美元的债务，以支持人工智能数据中心内部的芯片采购与设施建设。城堡证券分析师指出，到2028年，这一发债规模预计将相当于彭博美国投资级债券指数总额的5%以上。考虑到芯片的使用寿命，城堡证券预计大部分发行的债券将以3至5年期等...",
+      "score": 45,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "4912294e4264"
+    },
+    {
+      "title": "Visa斥资24亿美元收购网络安全公司BioCatch，应对AI驱动的诈骗激增",
+      "link": "https://36kr.com/newsflashes/3923960349129092?f=rss",
+      "source": "36氪",
+      "category": "持仓相关",
+      "published": "2026-08-03T23:27:44+00:00",
+      "summary": "Visa公司周一宣布，将以24亿美元现金收购欺诈检测初创公司BioCatch。此举旨在扩大这家支付巨头在网络安全领域的布局，因为银行业正面临由人工智能驱动的诈骗和账户接管事件的激增。此次收购凸显了支付公司正竞相加强欺诈防御，因为生成式人工智能使得攻击成本更低、速度更快且更具迷惑性。Visa估计，诈骗和账户接管每年...",
+      "score": 45,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "d52843e06da0"
+    },
+    {
+      "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+      "link": "https://36kr.com/p/3923717502072969?f=rss",
+      "source": "36氪",
+      "category": "持仓相关",
+      "published": "2026-08-03T11:39:13+00:00",
+      "summary": "AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？ 内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化...",
+      "score": 45,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "f98cc9eb2896"
+    },
+    {
+      "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
+      "link": "https://36kr.com/p/3923374038265217?f=rss",
+      "source": "36氪",
+      "category": "持仓相关",
+      "published": "2026-08-03T05:43:36+00:00",
+      "summary": "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。 量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。 图源企业 公司创...",
+      "score": 40,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "e7644a7eef8e"
     },
     {
       "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
@@ -44,30 +96,17 @@
       "uid": "8ba0e2ad228e"
     },
     {
-      "title": "机构预测：AI芯片建设潮将掀起逾5000亿美元发债高峰",
-      "link": "https://36kr.com/newsflashes/3923960964938118?f=rss",
+      "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+      "link": "https://36kr.com/p/3919025939246727?f=rss",
       "source": "36氪",
       "category": "AI与科技",
-      "published": "2026-08-03T23:29:15+00:00",
-      "summary": "8月3日，根据城堡证券的最新预测，到2028年，全球公开与私募信贷市场将再涌现超过5000亿美元的债务，以支持人工智能数据中心内部的芯片采购与设施建设。城堡证券分析师指出，到2028年，这一发债规模预计将相当于彭博美国投资级债券指数总额的5%以上。考虑到芯片的使用寿命，城堡证券预计大部分发行的债券将以3至5年期等...",
+      "published": "2026-08-03T00:10:16+00:00",
+      "summary": "文 | 赵京娜 访谈 编辑 | 海若镜 36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。 奇点逃逸创始人兼CEO薛传奕，本科、博...",
       "score": 20,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "4912294e4264"
-    },
-    {
-      "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
-      "link": "https://36kr.com/p/3923717502072969?f=rss",
-      "source": "36氪",
-      "category": "AI与科技",
-      "published": "2026-08-03T11:39:13+00:00",
-      "summary": "AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？ 内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化...",
-      "score": 20,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "f98cc9eb2896"
+      "uid": "08a79ac32a9e"
     },
     {
       "title": "会 Kotlin 吗？将它运送到各处，并在 2026 Shipaton 获胜",
@@ -88,7 +127,7 @@
       "source": "Android Developers",
       "category": "Android开发",
       "published": "2026-07-27T13:00:00+00:00",
-      "summary": "由 Andrei Shikov，高级软件工程师，Android 工具包，以及 Jonathan Starup，软件工程师，R8 团队 发布 从 AGP 9.2.0 开始，R8 优化大多数...",
+      "summary": "由 Andrei Shikov，高级软件工程师，Android 工具包，以及 Jonathan Starup，软件工程师，R8 团队 发布 从 AGP 9.2.0 开始，R8 优化大部分...",
       "score": 20,
       "original_title": "How R8 made Kotlin Coroutines on Android 2x faster",
       "translated": true,
@@ -96,12 +135,38 @@
       "uid": "b6675ae1feae"
     },
     {
+      "title": "时隔 12 年，iOS 版谷歌健康补齐和苹果健康双向数据同步兼容性缺口",
+      "link": "https://www.ithome.com/0/985/283.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-08-03T23:34:20+00:00",
+      "summary": "IT之家 8 月 4 日消息，科技媒体 9to5Mac 昨日（8 月 3 日）发布博文，报道称 iOS 版谷歌健康（Google Health）更新至 5.05 版本， 补齐与苹果健康（Apple Health）的双向数据同步能力。 IT之家此前报道，谷歌公司于 2026 年 5 月更名 Fitbit 应用，并重...",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "455c5f01aeb6"
+    },
+    {
+      "title": "上半年3000亿元涌入中国AI创业公司，创投资金加速涌向AI和硬科技",
+      "link": "https://36kr.com/newsflashes/3923952584734854?f=rss",
+      "source": "36氪",
+      "category": "AI与科技",
+      "published": "2026-08-03T23:11:47+00:00",
+      "summary": "从全球经验来看，很多科技领军企业的崛起，都少不了创业投资的支持。今年上半年，高技术产业投资同比增长4.6%，这一数据背后，是创业投资的活跃度在持续回升。业内人士普遍认为，AI技术的发展，是这一轮创投市场回暖的核心驱动力，资金正加快涌向AI、量子科技、算力等领域。数据显示，2026年上半年中国AI创业公司融资总额突...",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "46e3e8e780ec"
+    },
+    {
       "title": "哈罗德·哈姆在阿根廷瓦卡穆埃尔塔页岩热潮上下注更大",
       "link": "https://oilprice.com/Energy/Energy-General/Harold-Hamm-Bets-Bigger-on-Argentinas-Vaca-Muerta-Shale-Boom.html",
       "source": "OilPrice",
       "category": "能源与电力",
       "published": "2026-08-03T22:00:00+00:00",
-      "summary": "大陆资源公司，由页岩亿万富翁哈罗德·哈姆创立，正在寻求在瓦卡穆埃尔塔扩张，因为国际公司争相开发阿根廷的能源资源…",
+      "summary": "大陆资源公司，由页岩亿万富翁哈罗德·哈姆创立，正在寻求在瓦卡穆埃尔塔扩展业务，同时国际公司争相开发阿根廷的资源…",
       "score": 15,
       "original_title": "Harold Hamm Bets Bigger on Argentina’s Vaca Muerta Shale Boom",
       "translated": true,
@@ -127,7 +192,7 @@
       "source": "OilPrice",
       "category": "能源与电力",
       "published": "2026-08-03T19:30:00+00:00",
-      "summary": "由于乌克兰将无人机行动从炼油厂扩大到油轮、管道等，俄罗斯原油加工在七月份降至二十多年来的最低水平。",
+      "summary": "由于乌克兰将无人机行动从炼油厂扩大到油轮、管道等领域，俄罗斯原油加工在七月份降至二十多年来的最低水平。",
       "score": 15,
       "original_title": "Ukraine’s Drone Campaign Drives Russian Oil Refining to 24-Year Low",
       "translated": true,
@@ -140,7 +205,7 @@
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-08-03T18:56:51+00:00",
-      "summary": "随着像 Anthropic 和 OpenAI 这样的私人公司价值飞涨，以及更多公司更长时间保持私有化，捐赠者指导基金（DAFs）越来越受欢迎。",
+      "summary": "随着像 Anthropic 和 OpenAI 这样的私人公司价值飙升，以及更多公司长期保持私有化，捐赠建议基金（DAFs）正在越来越受欢迎。",
       "score": 15,
       "original_title": "More tech millionaires are using donor-advised funds for tax savings and giving",
       "translated": true,
@@ -148,7 +213,7 @@
       "uid": "ac3a267ed58a"
     },
     {
-      "title": "密歇根州确认弓形菌疫情中的首两例死亡",
+      "title": "密歇根州确认弓形菌病暴发中的首例两起死亡",
       "link": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
       "source": "CNBC",
       "category": "A股与宏观",
@@ -218,7 +283,7 @@
       "source": "OilPrice",
       "category": "能源与电力",
       "published": "2026-08-03T21:00:00+00:00",
-      "summary": "中国正在赢得全球清洁能源主导权的竞争。多年来，北京的支出超过地球上其他任何国家，并且控制着全球关键的清洁能源供应链……",
+      "summary": "中国正在赢得全球清洁能源主导权的竞争。多年来，北京的支出超过地球上任何其他国家，并且控制着全球关键的清洁能源供应链……",
       "score": 10,
       "original_title": "How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race",
       "translated": true,
@@ -232,25 +297,29 @@
         "name": "上证指数",
         "price": 3809.6629,
         "change": -22.5995,
-        "pct": -0.59
+        "pct": -0.59,
+        "amount_yi": 9522.57
       },
       {
         "name": "深证成指",
         "price": 13448.29,
         "change": -130.641,
-        "pct": -0.96
+        "pct": -0.96,
+        "amount_yi": 10451.29
       },
       {
         "name": "创业板指",
         "price": 3302.55,
         "change": -41.411,
-        "pct": -1.24
+        "pct": -1.24,
+        "amount_yi": 2340.54
       },
       {
         "name": "沪深300",
         "price": 4543.1781,
         "change": -45.0187,
-        "pct": -0.98
+        "pct": -0.98,
+        "amount_yi": 6157.51
       }
     ],
     "holdings": [
@@ -333,9 +402,101 @@
         "available": false
       }
     ],
+    "sectors": [
+      {
+        "name": "新能源/光伏 · 光伏主材",
+        "pct": 6.12,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 4.3,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 风电整机",
+        "pct": 4.32,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 2.9,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 综合电力设备商",
+        "pct": 4.22,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": 2.11,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 电力设备",
+        "pct": 2.47,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": 23.99,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 金融行业",
+        "pct": 0.25969887676253,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "石油 · 石油行业",
+        "pct": 0.057633196721311,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "煤炭 · 煤炭行业",
+        "pct": -1.5025711777248,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "半导体/电子 · 电子器件",
+        "pct": -2.2984186453464,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      }
+    ],
+    "policy_news": [
+      {
+        "title": "证监会主席吴清：将进一步推出深化双向务实合作、支持香港资本市场发展的政策举措",
+        "link": "https://finance.sina.com.cn/stock/roll/2026-08-04/doc-inimcatv5465802.shtml",
+        "level": "高",
+        "tag": "政策"
+      }
+    ],
+    "industry_news": [
+      {
+        "title": "存储芯片超级周期走到十字路口？",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-04/doc-inimcatr5744788.shtml",
+        "level": "中",
+        "tag": "行业"
+      }
+    ],
+    "market_news": [
+      {
+        "title": "股海导航_2026年8月4日_沪深股市公告与交易提示",
+        "link": "https://finance.sina.com.cn/stock/s/2026-08-04/doc-inimawmr4268944.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "操盘必读：影响股市利好或利空消息_2026年8月4日_财经新闻",
+        "link": "https://finance.sina.com.cn/stock/cpbd/2026-08-04/doc-inimcatv5459047.shtml",
+        "level": "中",
+        "tag": "股市"
+      }
+    ],
     "total_market_value": 10333.7,
     "total_pnl": 1772.13,
+    "total_amount_yi": 19973.86,
     "bias": "偏空",
+    "volume_note": "量能：两市合计约 19974 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 光伏主材、风电整机、综合电力设备商；偏弱 煤炭行业、电子器件",
+    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
     "errors": []
   },
   "learning": {
