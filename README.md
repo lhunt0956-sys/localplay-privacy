@@ -1,6 +1,7 @@
 # localplay-privacy
 
-LocalPlay 隐私政策页面，以及自动化新闻推送（见 [`news-bot/`](news-bot/README.md)）。
+LocalPlay 隐私政策，以及 Hunt 个性化每日新闻简报。
 
 - 隐私政策：[`index.html`](index.html)
-- 最新新闻摘要：[`news/latest.html`](news/latest.html)
+- 今日简报：[`news/latest.html`](news/latest.html)
+- 推送说明：[`news-bot/README.md`](news-bot/README.md)
