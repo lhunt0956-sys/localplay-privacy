@@ -203,6 +203,10 @@ feeds:
       - 九号
       - 本田
 
+# 英文自动译为简体中文；繁体也会转简体
+translate:
+  enabled: true
+
 humor:
   enabled: true
   title: "😄【郭式一乐】"

@@ -17,6 +17,7 @@ import feedparser
 import yaml
 
 from humor import pick_humor
+from translate import localize_item_fields
 
 ROOT = Path(__file__).resolve().parent
 
@@ -30,10 +31,14 @@ class NewsItem:
     published: datetime | None
     summary: str = ""
     score: int = 0
+    original_title: str = ""
+    translated: bool = False
 
     @property
     def uid(self) -> str:
-        raw = f"{self.link}|{self.title}".encode("utf-8")
+        # 用原文链接+原标题稳定去重，避免翻译后 uid 漂移
+        base = self.original_title or self.title
+        raw = f"{self.link}|{base}".encode("utf-8")
         return hashlib.sha1(raw).hexdigest()[:12]
 
     def to_dict(self) -> dict[str, Any]:
@@ -249,7 +254,28 @@ def build_digest(config: dict[str, Any] | None = None) -> Digest:
         if len(selected) >= max_total:
             break
 
-    digest.items = selected
+    # 英文译成简体中文；繁体也统一转简体
+    translate_enabled = bool((config.get("translate") or {}).get("enabled", True))
+    if translate_enabled:
+        localized: list[NewsItem] = []
+        for item in selected:
+            title_zh, summary_zh, did = localize_item_fields(item.title, item.summary)
+            localized.append(
+                NewsItem(
+                    title=title_zh,
+                    link=item.link,
+                    source=item.source,
+                    category=item.category,
+                    published=item.published,
+                    summary=summary_zh,
+                    score=item.score,
+                    original_title=item.title if did else item.original_title,
+                    translated=did,
+                )
+            )
+        digest.items = localized
+    else:
+        digest.items = selected
 
     humor_cfg = config.get("humor") or {}
     if humor_cfg.get("enabled", True):

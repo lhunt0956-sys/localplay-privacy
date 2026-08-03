@@ -1,27 +1,19 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-03T23:39:41.566235+08:00",
+  "generated_at": "2026-08-04T07:10:22.447645+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 20,
+  "count": 18,
   "items": [
     {
-      "title": "微信今起不再支持非电信运营商主体从事号卡办理、售卡引流、代办开卡等经营行为",
-      "link": "https://www.ithome.com/0/985/229.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-03T13:28:25+00:00",
-      "summary": "IT之家 8 月 3 日消息，微信官方今天发布《关于规范互联网渠道售卡类服务内容的公告》，宣布即日起不再支持非电信运营商主体从事号卡办理、售卡引流、代办开卡等相关经营行为。 IT之家从“微信公众平台运营中心”公众号了解到， 微信本次还取消了小程序类目“电话卡销售（中国联通 / 中国电信 / 中国移动）” ， 同时...",
-      "score": 30,
-      "uid": "0175f505867d"
-    },
-    {
-      "title": "Celebrating 5 years of Jetpack Compose",
+      "title": "庆祝 Jetpack Compose 五周年",
       "link": "https://android-developers.googleblog.com/2026/07/five-years-of-jetpack-compose.html",
       "source": "Android Developers",
       "category": "Android开发",
       "published": "2026-07-28T16:00:00+00:00",
-      "summary": "Posted by Rebecca Franks, Developer Relations Engineer, Nick Butcher, Product Manager, Loryn Hairston, Product Marketing Manager, Android Today, we officiall...",
+      "summary": "由开发者关系工程师 Rebecca Franks、产品经理 Nick Butcher、产品市场经理 Loryn Hairston 发布，Android 今日，我们正式...",
       "score": 25,
+      "original_title": "Celebrating 5 years of Jetpack Compose",
+      "translated": true,
       "uid": "8ba0e2ad228e"
     },
     {
@@ -32,17 +24,9 @@
       "published": "2026-08-03T12:53:37+00:00",
       "summary": "韩国AI芯片设计企业DeepX Co.近日完成新一轮融资，估值较上一轮暴涨约四倍，反映出市场对人工智能产业链相关公司的投资热情依旧高涨。据知情人士透露，这家总部位于京畿道板桥的初创公司在最新一轮交易中的估值约为3.14万亿韩元（合22亿美元）。DeepX已签署D轮融资的首批协议，从现有投资方BNW Investm...",
       "score": 20,
+      "original_title": "",
+      "translated": false,
       "uid": "c20ec5e3e458"
-    },
-    {
-      "title": "高盛：人工智能板块或将迎来盘整阶段",
-      "link": "https://36kr.com/newsflashes/3923727678503299?f=rss",
-      "source": "36氪",
-      "category": "AI与科技",
-      "published": "2026-08-03T11:53:10+00:00",
-      "summary": "高盛策略师表示，经历近期一轮震荡行情后，人工智能板块前景有所好转。策略师预计，强劲的盈利表现以及投资者持仓回落，将缓解市场剧烈波动。斯奈德写道，AI板块波动走势与以往趋势性上涨行情规律一致，大涨之后通常会迎来盘整。随着对冲基金与ETF投资者削减相关持仓，板块波动率有望回落。（新浪财经）",
-      "score": 20,
-      "uid": "4d006817467d"
     },
     {
       "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
@@ -52,6 +36,8 @@
       "published": "2026-08-03T11:39:13+00:00",
       "summary": "AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？ 内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化...",
       "score": 20,
+      "original_title": "",
+      "translated": false,
       "uid": "f98cc9eb2896"
     },
     {
@@ -62,47 +48,117 @@
       "published": "2026-08-03T00:10:16+00:00",
       "summary": "文 | 赵京娜 访谈 编辑 | 海若镜 36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。 奇点逃逸创始人兼CEO薛传奕，本科、博...",
       "score": 20,
+      "original_title": "",
+      "translated": false,
       "uid": "08a79ac32a9e"
     },
     {
-      "title": "Know Kotlin? Ship It Everywhere and Win at Shipaton 2026",
+      "title": "会 Kotlin 吗？将它运送到各处，并在 2026 Shipaton 获胜",
       "link": "https://blog.jetbrains.com/kotlin/2026/07/know-kotlin-ship-it-everywhere-and-win-at-shipaton-2026/",
       "source": "Kotlin Blog",
       "category": "Android开发",
       "published": "2026-07-31T13:49:33+00:00",
-      "summary": "Somewhere in your notes there’s an app idea waiting for a free weekend that never comes. Consider this its official deadline: RevenueCat Shipaton 2026, the w...",
+      "summary": "在你的笔记的某个地方，有一个应用程序的想法正在等待一个永远不会到来的闲暇周末。把这个时间点看作它的官方截止日期：RevenueCat Shipaton 2026，...",
       "score": 20,
+      "original_title": "Know Kotlin? Ship It Everywhere and Win at Shipaton 2026",
+      "translated": true,
       "uid": "43d67ec24104"
     },
     {
-      "title": "How R8 made Kotlin Coroutines on Android 2x faster",
+      "title": "R8 是如何使 Android 上的 Kotlin 协程运行速度提高 2 倍的",
       "link": "https://android-developers.googleblog.com/2026/07/how-r8-made-kotlin-coroutines-2x-faster.html",
       "source": "Android Developers",
       "category": "Android开发",
       "published": "2026-07-27T13:00:00+00:00",
-      "summary": "Posted by Andrei Shikov, Senior Software Engineer, Android Toolkit and Jonathan Starup, Software Engineer, R8 Team Starting from AGP 9.2.0, R8 optimizes most...",
+      "summary": "由 Andrei Shikov，高级软件工程师，Android 工具包，以及 Jonathan Starup，软件工程师，R8 团队 发布 从 AGP 9.2.0 开始，R8 优化大部分...",
       "score": 20,
+      "original_title": "How R8 made Kotlin Coroutines on Android 2x faster",
+      "translated": true,
       "uid": "b6675ae1feae"
     },
     {
-      "title": "Trump's Iran Reversal Sends European Gas Prices Tumbling",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-Iran-Reversal-Sends-European-Gas-Prices-Tumbling.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-08-03T15:30:00+00:00",
-      "summary": "European natural gas prices plunged at opening on Monday after U.S. President Donald Trump said he had called off a planned attack on Iranian energy sites an...",
+      "title": "欧盟《人工智能法案》透明度规则正式生效",
+      "link": "https://36kr.com/newsflashes/3923951789176960?f=rss",
+      "source": "36氪",
+      "category": "AI与科技",
+      "published": "2026-08-03T23:08:53+00:00",
+      "summary": "欧盟《人工智能法案》的核心透明度条款正式生效，标志着全球首部全面监管人工智能的法律进入实质执行阶段。根据新规，聊天机器人等交互式系统必须明确告知用户其正在与人工智能而非人类互动；利用AI生成或修改的图像、视频、音频及文本内容，须进行清晰标识并附带机器可读的数字标记。（新浪财经）",
       "score": 15,
-      "uid": "d47bd0a90e10"
+      "original_title": "",
+      "translated": false,
+      "uid": "e1ea44183d7e"
     },
     {
-      "title": "Seven Months After Maduro's Fall, Big Oil Still Won't Commit To Venezuela",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Seven-Months-After-Maduros-Fall-Big-Oil-Still-Wont-Commit-To-Venezuela.html",
+      "title": "哈罗德·哈姆在阿根廷瓦卡穆埃尔塔页岩热潮上下注更大",
+      "link": "https://oilprice.com/Energy/Energy-General/Harold-Hamm-Bets-Bigger-on-Argentinas-Vaca-Muerta-Shale-Boom.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-03T15:00:00+00:00",
-      "summary": "Venezuela's long-awaited oil revival has been slower than many in Washington anticipated, according to the Wall Street Journal. Seven months after Nicolás Ma...",
+      "published": "2026-08-03T22:00:00+00:00",
+      "summary": "大陆资源公司，由页岩亿万富翁哈罗德·哈姆创立，正在寻求在瓦卡穆埃尔塔扩张，因为国际公司争相开发阿根廷...",
       "score": 15,
-      "uid": "3b491c7af4ed"
+      "original_title": "Harold Hamm Bets Bigger on Argentina’s Vaca Muerta Shale Boom",
+      "translated": true,
+      "uid": "951db252d2f8"
+    },
+    {
+      "title": "美国联邦航空管理局批准最小的波音737 Max在多年延误后飞行",
+      "link": "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-03T20:09:19+00:00",
+      "summary": "飞机一旦获得认证，航空公司就可以很快开始载客航班，但将它们纳入航班计划可能需要数月时间。",
+      "score": 15,
+      "original_title": "FAA clears smallest Boeing 737 Max to fly after years of delays",
+      "translated": true,
+      "uid": "03b1a03f69cd"
+    },
+    {
+      "title": "乌克兰的无人机行动使俄罗斯石油炼制降至24年低点",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraines-Drone-Campaign-Drives-Russian-Oil-Refining-to-24-Year-Low.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-08-03T19:30:00+00:00",
+      "summary": "由于乌克兰将无人机行动从炼油厂扩大到油轮、管道等，俄罗斯原油加工在七月份降至二十多年来的最低水平。",
+      "score": 15,
+      "original_title": "Ukraine’s Drone Campaign Drives Russian Oil Refining to 24-Year Low",
+      "translated": true,
+      "uid": "735d95dc86b1"
+    },
+    {
+      "title": "越来越多的科技百万富翁正在使用捐赠者指定基金来节税和捐赠",
+      "link": "https://www.cnbc.com/2026/08/03/tech-millionaires-donor-advised-funds-tax-savings-giving.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-03T18:56:51+00:00",
+      "summary": "随着像 Anthropic 和 OpenAI 这样的私人公司价值飙升，以及更多公司长期保持私有化，捐赠建议基金（DAFs）正在越来越受欢迎。",
+      "score": 15,
+      "original_title": "More tech millionaires are using donor-advised funds for tax savings and giving",
+      "translated": true,
+      "uid": "ac3a267ed58a"
+    },
+    {
+      "title": "密歇根州确认弓形菌疫情中的首两例死亡",
+      "link": "https://www.cnbc.com/2026/08/03/cyclospora-outbreak-first-two-deaths-reported-in-michigan.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-03T18:32:42+00:00",
+      "summary": "密歇根州卫生部门表示，这两个人都有潜在的健康问题。",
+      "score": 15,
+      "original_title": "Michigan confirms first two deaths in cyclospora outbreak",
+      "translated": true,
+      "uid": "c7ac7aadd051"
+    },
+    {
+      "title": "Visa以24亿美元收购网络安全公司BioCatch，以应对人工智能驱动的诈骗激增",
+      "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-03T16:44:25+00:00",
+      "summary": "这也是Visa扩展其增值服务业务的最新举措，该业务已成为公司增长最快的部门之一。",
+      "score": 15,
+      "original_title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
+      "translated": true,
+      "uid": "203a8a9f6036"
     },
     {
       "title": "余承东官宣华为首款 RGB-MiniLED 电视来了：RGB 三原色独立发光，8 月 5 日正式开售",
@@ -112,103 +168,63 @@
       "published": "2026-08-03T14:15:34+00:00",
       "summary": "IT之家 8 月 3 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日宣布， 华为首款 RGB-MiniLED 电视来了 ！新品可通过 RGB 三原色独立发光，色彩更加准确，将在 8 月 5 日正式开售。 从余承东发布的产品预热图可以看到，这款新品的命名为华为 Vision 智慧屏 6 ...",
       "score": 15,
+      "original_title": "",
+      "translated": false,
       "uid": "4aab098621f9"
     },
     {
-      "title": "Visa to buy cybersecurity firm BioCatch for $2.4 billion amid surge in AI-powered scams",
-      "link": "https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-03T14:11:17+00:00",
-      "summary": "It is also the latest move by Visa to expand its value-added services business, which has become one of the company's fastest-growing divisions.",
-      "score": 15,
-      "uid": "203a8a9f6036"
-    },
-    {
-      "title": "How the Iran War Will Determine Britain's Economic Growth",
-      "link": "https://oilprice.com/Energy/Energy-General/How-the-Iran-War-Will-Determine-Britains-Economic-Growth.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-08-03T14:00:00+00:00",
-      "summary": "The Iran war could “halt growth” in the UK economy as the success of Andy Burnham and John Healey’s economic management largely hinges on President Trump’s d...",
-      "score": 15,
-      "uid": "573821772cdc"
-    },
-    {
-      "title": "Indian Oil Subsidiary CPCL Plans 280,000 Bpd Manali Refinery",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Oil-Subsidiary-CPCL-Plans-280000-Bpd-Manali-Refinery.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-08-03T13:30:00+00:00",
-      "summary": "Indian refiner Chennai Petroleum Corporation Limited plans to boost the crude oil refining capacity at its Manali refinery by a third to 280,000 barrels per ...",
-      "score": 15,
-      "uid": "37d6033a8adc"
-    },
-    {
-      "title": "中国信通院：2025 年我国人工智能产业规模超 1.2 万亿元，同比增长 40%",
-      "link": "https://www.ithome.com/0/985/224.htm",
-      "source": "IT之家·通信安防",
+      "title": "冷钱包攻击导致比特币被盗近 8900 万美元",
+      "link": "https://www.solidot.org/story?sid=84990",
+      "source": "Solidot·通信",
       "category": "通信与安防",
-      "published": "2026-08-03T13:18:57+00:00",
-      "summary": "IT之家 8 月 3 日消息，中国信息通信研究院今日发文，经测算，2025 年我国人工智能产业规模超 1.2 万亿元， 同比增长 40% 。 IT之家获悉，截至 2026 年 6 月，人工智能企业数量超 6600 家， 全球占比达到 15% ，已形成覆盖基础底座、模型框架、行业应用的完整产业体系。 人工智能产业链...",
+      "published": "2026-08-03T08:34:11+00:00",
+      "summary": "硬件钱包本应是保存比特币最安全的地方：不联网、密钥不离设备，攻击者需物理接触才能盗取加密货币。Coinkite 制造的比特币硬件钱包 Coldcard 使用硬件随机数生成器产生 128 位熵值，这个数字是如此之大现有的计算能力无法破解。然而 2021 年 3 月的一次更新引入了严重 bug，默认的硬件随机数生成器...",
       "score": 15,
-      "uid": "75446ea076b0"
+      "original_title": "",
+      "translated": false,
+      "uid": "7f411fa27cbf"
     },
     {
-      "title": "比亚迪腾势 Z9S 轿车官宣全球首搭苹果 Apple CarPlay 小窗模式",
-      "link": "https://www.ithome.com/0/985/221.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-03T12:36:15+00:00",
-      "summary": "IT之家 8 月 3 日消息，在比亚迪今晚的腾势 Z9S 预售发布会上，腾势汽车总经理李慧宣布，腾势 Z9S 轿车全球唯一兼容全部主流手机品牌的手车互联， 包括华为、苹果、小米、OPPO、vivo、荣耀和三星 。 另外， 腾势 Z9S 还全球首搭苹果 Apple CarPlay 小窗模式 ，可实现与 iPhone...",
-      "score": 15,
-      "uid": "49019c8e2f0d"
-    },
-    {
-      "title": "亚马逊完成对OpenAI的500亿美元投资",
-      "link": "https://www.ftchinese.com/story/001110501",
-      "source": "FT 中文网",
-      "category": "A股与宏观",
-      "published": "2026-08-02T16:00:00+00:00",
-      "summary": "这家电商和云计算巨头在预计将于明年上市的ChatGPT开发商持股约5%。它还投资于Claude模型的开发商Anthropic。",
-      "score": 15,
-      "uid": "25d510b4f7a2"
-    },
-    {
-      "title": "城堡投资出手稳定全球市场",
-      "link": "https://www.ftchinese.com/story/001110500",
-      "source": "FT 中文网",
-      "category": "A股与宏观",
-      "published": "2026-08-02T16:00:00+00:00",
-      "summary": "肯•格里芬执掌的对冲基金上周接手陷入困境的“态势感知”所持大部分公开上市股票，从而化解大量AI股票被迫抛售的风险。",
-      "score": 15,
-      "uid": "3f0b5118bc42"
-    },
-    {
-      "title": "Why flights are so expensive and will likely stay that way",
-      "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-02T12:00:01+00:00",
-      "summary": "Airlines are paying billions of dollars more in fuel costs this year",
-      "score": 15,
-      "uid": "c03d6e19272e"
-    },
-    {
-      "title": "KotlinLLM is Going Open Source",
+      "title": "KotlinLLM 正在开源",
       "link": "https://blog.jetbrains.com/research/2026/07/kotlinllm-open-source/",
       "source": "Kotlin Blog",
       "category": "Android开发",
       "published": "2026-07-28T07:50:41+00:00",
-      "summary": "TL;DR KotlinLLM is now public. It’s a research prototype for delegating runtime logic to an LLM from Kotlin code. Instead of calling an LLM on every request ...",
+      "summary": "TL;DR KotlinLLM 现在已公开。它是一个研究原型，用于将运行时逻辑从 Kotlin 代码委托给 LLM。它不是在每个请求上调用 LLM...",
       "score": 15,
+      "original_title": "KotlinLLM is Going Open Source",
+      "translated": true,
       "uid": "42d69760e7fd"
+    },
+    {
+      "title": "大型石油公司警告全球燃料库存正处于危险低位",
+      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Warns-Global-Fuel-Stocks-Are-Running-Dangerously-Low.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-08-03T23:00:00+00:00",
+      "summary": "世界上的燃料正在短缺——最初发出这一警告的是一些关注实物市场而非期货图表的分析师。现在，大型...",
+      "score": 10,
+      "original_title": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
+      "translated": true,
+      "uid": "fcc9a65f86ec"
+    },
+    {
+      "title": "地热和核能如何帮助美国在能源竞赛中赶上中国",
+      "link": "https://oilprice.com/Energy/Energy-General/How-Geothermal-and-Nuclear-Could-Help-the-US-Catch-China-in-the-Energy-Race.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-08-03T21:00:00+00:00",
+      "summary": "中国正在赢得全球清洁能源主导权的竞争。多年来，北京的支出超过地球上任何其他国家，并且控制着全球关键的清洁能源供应链……",
+      "score": 10,
+      "original_title": "How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race",
+      "translated": true,
+      "uid": "9f14bdbfe862"
     }
   ],
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "A股开盘",
-    "text": "今儿聊【A股开盘】。早盘像相亲：看着挺热闹，真心没几个。神华长江电力坐那儿跟老干部似的，不吵不闹，偶尔点个头；主题炒作跟广场舞大妈似的，音箱一响全场跟。社会经验：能吃息的先吃息，能睡觉的别盯盘——盯盘不涨，只涨血压。"
+    "topic": "视频监控方案",
+    "text": "今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。"
   },
   "errors": []
 }
