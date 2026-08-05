@@ -1,5 +1,5 @@
 # Hunt 每日简报
-_生成时间：2026-08-05 09:07 (Asia/Shanghai)_
+_生成时间：2026-08-05 09:10 (Asia/Shanghai)_
 
 > 个性化源：stock-learning 持仓雷达 / 通信安防 / 头部AI（ChatGPT·Claude） / 健康出行
 
@@ -40,7 +40,7 @@ _生成时间：2026-08-05 09:07 (Asia/Shanghai)_
 
 ### 行业面 · 相关资讯
 
-- 【中】[白金卡成为银行“包袱”？信用卡行业加速处置不良资产，年内挂牌转让项目合计超550亿元](https://finance.sina.com.cn/money/bank/bank_hydt/2026-08-05/doc-inimfmyp5206623.shtml)
+- 【中】[华宝基金红利风向标 | 三大指数集体反弹，红利板块全线回调](https://finance.sina.com.cn/money/fund/etf/2026-08-05/doc-inimfmyt4750254.shtml)
 
 ### 股市面 · 市场资讯
 
@@ -65,17 +65,17 @@ _生成时间：2026-08-05 09:07 (Asia/Shanghai)_
 
 - **[亚马逊完成对OpenAI的500亿美元投资](https://www.ftchinese.com/story/001110501)** （FT 中文网 · 08-03 00:00）
   这家电商和云计算巨头在预计将于明年上市的ChatGPT开发商持股约5%。它还投资于Claude模型的开发商Anthropic。
-- **[派拉蒙Skydance上调全年利润指引，对WBD合并仍然“充满信心”](https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html)** （CNBC · 08-05 05:15）
-  派拉蒙Skydance周二提高了全年业绩指引，并公布了第二季度的业绩，显示出流媒体的持续强劲和线性电视的疲软。虽然派拉蒙的收入超过了华尔街的预期，并报告了其流媒体部门（以Paramount+流媒体服务为主）的增长，但其有线电视网络的组合仍然拖累了整个公司的表现。
+- **[派拉蒙 Skydance 上调全年利润指引，对 WBD 合并仍“充满信心”](https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html)** （CNBC · 08-05 05:15）
+  派拉蒙 Skydance 周二上调了全年指引，并公布了第二季度业绩，展示了流媒体的持续优势和线性电视的弱点。 尽管派拉蒙的收入超出了华尔街的预期，并在派拉蒙+流媒体服务的带动下，其流媒体部门实现了增长，但其有线电视网络组合继续给整个公司带来压力。
 
 ## 能源与电力
 
-- **[中东战争引发新的全球炼油热潮](https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html)** （OilPrice · 08-05 08:00）
-  在本十年的第二次战争中，全球石油市场遭到扰乱，油价和炼油利润率飙升至多年高点，惠及世界上最大的石油公司和顶级炼油厂。伊朗的战争紧缩了燃料供应，因为原油在通过霍尔木兹海峡时受阻，导致亚洲炼油产量下降，并引发了中国对出口的暂时禁令。
-- **[中国与土耳其关系因电动车投资风波而紧张](https://oilprice.com/Energy/Energy-General/China-Turkey-Relations-Strained-After-EV-Investment-Fallout.html)** （OilPrice · 08-05 07:00）
-  中国和土耳其花了多年时间加强以贸易、投资和进入欧洲市场为基础的战略伙伴关系。一项10亿美元的中国旗舰投资的突然崩溃，如今威胁到放缓北京在该地区最重要的一段经济关系。多年来，中国和土耳其一直保持着友好和战略关系，土耳其对欧盟关税同盟的准入使得它...
-- **[美国在关键矿产安全路线上的障碍增加](https://oilprice.com/Energy/Energy-General/US-Hits-New-Obstacle-on-Critical-Mineral-Security-Course.html)** （OilPrice · 08-05 06:00）
-  自特朗普总统上任以来，争夺关键金属和矿物的竞赛一直在加剧，使美国与许多国际盟友产生对立。然而，尽管联邦政府投入数十亿美元以在关键矿物方面建立地位并挑战中国的主导地位，但仍然遇到了一些挫折——甚至在国内也是如此。本周早些时候，《金融时报》报道，一家公司取得了迄今最大规模的钨矿发现...
+- **[中东战争引发全球炼油新热潮](https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html)** （OilPrice · 08-05 08:00）
+  这是十年来第二次战争颠覆了全球石油市场，并将油价和炼油利润推至多年高点，使全球最大的石油公司和顶级炼油厂受益。 由于原油难以通过霍尔木兹海峡，伊朗战争导致燃料供应紧张，引发亚洲炼油产量下降以及中国暂时禁止出口。
+- **[电动汽车投资影响导致中国和土耳其关系紧张](https://oilprice.com/Energy/Energy-General/China-Turkey-Relations-Strained-After-EV-Investment-Fallout.html)** （OilPrice · 08-05 07:00）
+  中国和土耳其多年来加强了建立在贸易、投资和欧洲市场准入基础上的战略伙伴关系。 中国一项10亿美元旗舰投资的突然崩溃现在可能会减缓北京在该地区最重要的经济关系之一的发展。 多年来，中国和土耳其一直保持着友好的战略关系，土耳其加入欧盟关税同盟使我...
+- **[美国在关键矿产安全进程中遇到新障碍](https://oilprice.com/Energy/Energy-General/US-Hits-New-Obstacle-on-Critical-Mineral-Security-Course.html)** （OilPrice · 08-05 06:00）
+  自特朗普总统上任以来，对关键金属和矿物的争夺一直在升温，使美国与其许多国际盟友展开竞争。 然而，尽管联邦政府花费数十亿美元在关键矿产领域建立地位并挑战中国的主导地位，但也遇到了挫折——甚至在国内也是如此。 本周早些时候，英国《金融时报》报道称，一家公司发现了最大的钨矿...
 
 ## 通信与安防
 
@@ -88,16 +88,16 @@ _生成时间：2026-08-05 09:07 (Asia/Shanghai)_
 
 ## 头部AI动态
 
-- **[Anthropic / Claude：推出 Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)** （Anthropic / Claude · 08-05 09:08）
-  介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格只有一半。在编码和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 已成为新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 旨在用于日常应用：它工作效率更高...
+- **[Anthropic / 克劳德：介绍克劳德作品 5](https://www.anthropic.com/news/claude-opus-5)** （Anthropic / Claude · 08-05 09:10）
+  隆重推出 Claude Opus 5 Claude Opus 5 现已上市。 这是一个深思熟虑且积极主动的模型，以一半的价格接近《克劳德寓言 5》的前沿智能。 在 Frontier-Bench 和 GDPval-AA 等编码和知识工作评估中，Opus 5 是最先进的，尽管它在网络安全任务上仍落后于 Mythos 5。 Opus 5 专为日常使用而设计：它的工作效率更高......
 - **[涉及 OpenAI 模型的第三方网络评估](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models)** （OpenAI / ChatGPT · 08-05 03:00）
-  OpenAI 解释了近期第三方网络安全评估事件，并概述了加强 AI 模型测试和评估的新保障措施。
-- **[双子座机器人 ER 2：通过视频理解、任务协调和多机器人协作为机器人提供动力](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/)** （Google DeepMind · 07-30 23:00）
-  推出 Gemini Robotics ER 2 对于帮助人类在日常环境中工作的机器人来说，仅仅具备准确的空间推理能力是不够的。机器人还必须快速思考，能够以物理世界的实时速度进行决策和推理。这就是为什么今天我们推出 Gemini Robotics ER 2，我们最强大的机器人“具身推理”模型。把 Gemini Robotics ER 2 想象成机器人的高级大脑。
-- **[Anthropic / Claude：提出尖锐问题](https://www.anthropic.com/news/hard-questions)** （Anthropic / Claude · 08-05 09:08）
-  提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作就是去解决这些问题。许多人对人工智能持积极态度。
-- **[苹果做错了](https://openai.com/index/apple-is-getting-this-wrong)** （OpenAI / ChatGPT · 08-04 06:00）
-  OpenAI回应苹果毫无根据的诉讼，纠正关于其员工的说法，并分享记录事件经过的消息。
+  OpenAI 解释了最近发生的第三方网络安全评估事件，并概述了加强人工智能模型测试和评估的新保障措施。
+- **[Gemini Robotics ER 2：通过视频理解、任务编排和多机器人协作为机器人技术提供动力](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/)** （Google DeepMind · 07-30 23:00）
+  Gemini Robotics ER 2 简介 对于在日常环境中协助人类的机器人来说，准确的空间推理是不够的。 机器人还必须快速思考，根据物理世界的实时速度进行决策和推理。 这就是为什么今天我们推出 Gemini Robotics ER 2，这是我们最强大的机器人“具身推理”模型。 将 Gemini Robotics ER 2 视为机器人的高级大脑。
+- **[人择/克劳德：提出尖锐的问题](https://www.anthropic.com/news/hard-questions)** （Anthropic / Claude · 08-05 09:10）
+  提出难题 谁决定人工智能的规则？ 人工智能能给我的孩子一个更好的未来吗？ 人工智能会让世界变得更加危险吗？ AI能帮助科学家治愈疾病吗？ 人们对人工智能有很多棘手的问题。 我们的工作就是解决这些问题。 许多人对人工智能持积极态度。
+- **[苹果在这个问题上犯了错误](https://openai.com/index/apple-is-getting-this-wrong)** （OpenAI / ChatGPT · 08-04 06:00）
+  OpenAI 解决了苹果公司毫无根据的诉讼，纠正了对其员工的指控，并分享了记录所发生事件的信息。
 
 ## AI与科技
 
