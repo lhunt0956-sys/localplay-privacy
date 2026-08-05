@@ -1,6 +1,6 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-05T09:07:51.761880+08:00",
+  "generated_at": "2026-08-05T09:10:04.377744+08:00",
   "timezone": "Asia/Shanghai",
   "count": 20,
   "items": [
@@ -9,8 +9,8 @@
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-05T01:08:05+00:00",
-      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格只有一半。在编码和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 已成为新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 旨在用于日常应用：它工作效率更高...",
+      "published": "2026-08-05T01:10:22+00:00",
+      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格仅为一半。在编程和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 是新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 的设计用于日常使用：它工作效率更高...",
       "score": 60,
       "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
       "translated": true,
@@ -36,7 +36,7 @@
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-07-30T15:00:59+00:00",
-      "summary": "推出 Gemini Robotics ER 2 对于帮助人类在日常环境中工作的机器人来说，仅仅具备准确的空间推理能力是不够的。机器人还必须快速思考，能够以物理世界的实时速度进行决策和推理。这就是为什么今天我们推出 Gemini Robotics ER 2，我们最强大的机器人“具身推理”模型。把 Gemini Robotics ER 2 想象成机器人的高级大脑。",
+      "summary": "推出 Gemini Robotics ER 2 对于在日常环境中协助人类的机器人来说，仅仅具备准确的空间推理能力是不够的。机器人还必须快速思考，随着物理世界的实时速度进行决策和推理。这就是为什么今天我们推出 Gemini Robotics ER 2，我们最强大的机器人“具身推理”模型。把 Gemini Robotics ER 2 想象成机器人的高级大脑。",
       "score": 45,
       "original_title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
       "translated": true,
@@ -113,7 +113,7 @@
       "link": "https://www.anthropic.com/news/hard-questions",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-05T01:08:05+00:00",
+      "published": "2026-08-05T01:10:22+00:00",
       "summary": "提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作就是去解决这些问题。许多人对人工智能持积极态度。",
       "score": 60,
       "original_title": "Anthropic / Claude：Inviting hard questions",
@@ -122,12 +122,12 @@
       "uid": "b897b46b0e9b"
     },
     {
-      "title": "苹果做错了",
+      "title": "苹果做错了这件事",
       "link": "https://openai.com/index/apple-is-getting-this-wrong",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-08-03T22:00:00+00:00",
-      "summary": "OpenAI回应苹果毫无根据的诉讼，纠正关于其员工的说法，并分享记录事件经过的消息。",
+      "summary": "OpenAI回应苹果毫无根据的诉讼，纠正关于其员工的说法，并分享记录事件经过的信息。",
       "score": 60,
       "original_title": "Apple is getting this wrong",
       "translated": true,
@@ -218,7 +218,7 @@
       "source": "OilPrice",
       "category": "能源与电力",
       "published": "2026-08-05T00:00:00+00:00",
-      "summary": "在本十年的第二次战争中，全球石油市场遭到扰乱，油价和炼油利润率飙升至多年高点，惠及世界上最大的石油公司和顶级炼油厂。伊朗的战争紧缩了燃料供应，因为原油在通过霍尔木兹海峡时受阻，导致亚洲炼油产量下降，并引发了中国对出口的暂时禁令。",
+      "summary": "在本十年的第二次战争中，全球石油市场遭到扰乱，油价和炼油利润率飙升至多年高点，惠及世界上最大的石油公司和顶级炼油厂。伊朗的战争紧缩了燃料供应，因为原油在通过霍尔木兹海峡时受阻，导致亚洲炼油产量下降，并导致中国暂时禁止出口。",
       "score": 15,
       "original_title": "Middle East War Triggers New Global Refining Boom",
       "translated": true,
@@ -231,7 +231,7 @@
       "source": "OilPrice",
       "category": "能源与电力",
       "published": "2026-08-04T23:00:00+00:00",
-      "summary": "中国和土耳其花了多年时间加强以贸易、投资和进入欧洲市场为基础的战略伙伴关系。一项10亿美元的中国旗舰投资的突然崩溃，如今威胁到放缓北京在该地区最重要的一段经济关系。多年来，中国和土耳其一直保持着友好和战略关系，土耳其对欧盟关税同盟的准入使得它...",
+      "summary": "中国和土耳其花了多年时间加强基于贸易、投资以及进入欧洲市场的战略伙伴关系。如今，一个10亿美元的中国旗舰投资项目突然崩溃，威胁到削弱北京在该地区最重要的经济关系之一。多年来，中国和土耳其一直保持着友好和战略性的关系，土耳其对欧盟关税同盟的准入使得它...",
       "score": 15,
       "original_title": "China, Turkey Relations Strained After EV Investment Fallout",
       "translated": true,
@@ -244,7 +244,7 @@
       "source": "OilPrice",
       "category": "能源与电力",
       "published": "2026-08-04T22:00:00+00:00",
-      "summary": "自特朗普总统上任以来，争夺关键金属和矿物的竞赛一直在加剧，使美国与许多国际盟友产生对立。然而，尽管联邦政府投入数十亿美元以在关键矿物方面建立地位并挑战中国的主导地位，但仍然遇到了一些挫折——甚至在国内也是如此。本周早些时候，《金融时报》报道，一家公司取得了迄今最大规模的钨矿发现...",
+      "summary": "自特朗普总统上任以来，争夺关键金属和矿物的竞赛一直在加剧，使美国与许多国际盟友产生对立。然而，尽管联邦政府投入数十亿美元以在关键矿物方面建立地位并挑战中国的主导地位，但也出现了挫折——即使在国内。本周早些时候，《金融时报》报道称，一家公司发现了最大的钨矿藏……",
       "score": 15,
       "original_title": "U.S. Hits New Obstacle on Critical Mineral Security Course",
       "translated": true,
@@ -257,7 +257,7 @@
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-08-04T21:15:03+00:00",
-      "summary": "派拉蒙Skydance周二提高了全年业绩指引，并公布了第二季度的业绩，显示出流媒体的持续强劲和线性电视的疲软。虽然派拉蒙的收入超过了华尔街的预期，并报告了其流媒体部门（以Paramount+流媒体服务为主）的增长，但其有线电视网络的组合仍然拖累了整个公司的表现。",
+      "summary": "派拉蒙Skydance周二提高了全年业绩指引，并公布了第二季度的业绩，显示出流媒体的持续强劲和线性电视的疲软。虽然派拉蒙的收入超过了华尔街的预期，并报告了其流媒体部门（以Paramount+流媒体服务为主）的增长，但其有线电视网络的组合仍然拖累了整个公司。",
       "score": 15,
       "original_title": "Paramount Skydance raises full-year profit guidance, remains 'confident' about WBD merger",
       "translated": true,
@@ -423,8 +423,8 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "白金卡成为银行“包袱”？信用卡行业加速处置不良资产，年内挂牌转让项目合计超550亿元",
-        "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-08-05/doc-inimfmyp5206623.shtml",
+        "title": "华宝基金红利风向标 | 三大指数集体反弹，红利板块全线回调",
+        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-05/doc-inimfmyt4750254.shtml",
         "level": "中",
         "tag": "行业"
       }
@@ -436,7 +436,7 @@
     "bias": "震荡",
     "volume_note": "量能：两市合计约 0 亿元（接口口径），成交偏清淡",
     "sector_note": "行业分化：偏强 电力行业、电子器件、金融行业；偏弱 暂无",
-    "tip": "板块轮动是常态，不要追高换仓",
+    "tip": "一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向",
     "errors": []
   },
   "learning": {
