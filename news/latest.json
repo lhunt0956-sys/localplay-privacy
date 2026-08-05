@@ -1,6 +1,6 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-05T09:10:22.446230+08:00",
+  "generated_at": "2026-08-05T10:56:10.531455+08:00",
   "timezone": "Asia/Shanghai",
   "count": 20,
   "items": [
@@ -9,7 +9,7 @@
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-05T01:10:37+00:00",
+      "published": "2026-08-05T02:56:26+00:00",
       "summary": "隆重推出 Claude Opus 5 Claude Opus 5 现已上市。 这是一个深思熟虑且积极主动的模型，以一半的价格接近《克劳德寓言 5》的前沿智能。 在 Frontier-Bench 和 GDPval-AA 等编码和知识工作评估中，Opus 5 是最先进的，尽管它在网络安全任务上仍落后于 Mythos 5。 Opus 5 专为日常使用而设计：它的工作效率更高......",
       "score": 60,
       "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
@@ -83,19 +83,6 @@
       "uid": "ae3bb7f3752e"
     },
     {
-      "title": "IT早报 0805：鸿蒙智行回应“竹知了”事件；格力朱磊、小米单联瑜谈“为什么冰箱能一直开但空调不能”；首部 L3/L4 自动驾驶强制国标发布...",
-      "link": "https://www.ithome.com/0/985/748.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-04T23:27:53+00:00",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 5 日星期三，今天的重要科技资讯有： 1、鸿蒙智行发言人发布关于近期“竹知了”相关网络信息的情况说明 8 月 4 日晚，鸿蒙智行发言人发布关于近期“竹知了”相关网络信息的情况说明。>> 查看详情 2、格力朱磊谈“为什么冰箱能一直开但空调不能”：只要质量没问题，空调完全可以一直开 “为什么冰箱能一直开但空调不能”冲上热搜。珠海格力电器股份有限公司市场总监朱磊发文谈及该话题。他表示，日常家庭里空调很少全天候运行，本质是冰箱时刻需要保鲜储存食物，而房间并非时时刻刻都有人。>> 查看详情 3、小米单联瑜谈“为什么冰箱能一直开但空调不能”：常年高温地区，空调长时间运行是很常见的使用场景 话题“为什么冰箱能一直开但空调不能”8 月 4 日冲上热搜。小米集团大家电部总经理单联瑜 8 月 4 日也发文谈及了该话题。",
-      "score": 75,
-      "original_title": "",
-      "translated": false,
-      "priority": 35,
-      "uid": "3ac31cf2dd29"
-    },
-    {
       "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
       "link": "https://36kr.com/p/3924913931679877?f=rss",
       "source": "36氪",
@@ -113,7 +100,7 @@
       "link": "https://www.anthropic.com/news/hard-questions",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-05T01:10:37+00:00",
+      "published": "2026-08-05T02:56:26+00:00",
       "summary": "提出难题 谁决定人工智能的规则？ 人工智能能给我的孩子一个更好的未来吗？ 人工智能会让世界变得更加危险吗？ AI能帮助科学家治愈疾病吗？ 人们对人工智能有很多棘手的问题。 我们的工作就是解决这些问题。 许多人对人工智能持积极态度。",
       "score": 60,
       "original_title": "Anthropic / Claude：Inviting hard questions",
@@ -148,19 +135,6 @@
       "uid": "1c293c0386c2"
     },
     {
-      "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
-      "link": "https://36kr.com/p/3924826666301831?f=rss",
-      "source": "36氪",
-      "category": "AI与科技",
-      "published": "2026-08-04T06:32:05+00:00",
-      "summary": "文 | 李炤锋 编辑 | 张雨忻 “长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。” 过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现商业价值的场景之一。与此同时，随着Agent开始接管更多长链任务，越来越多的通用大模型开始匹配原生多模态能力。今年1月，OpenAI发布的一份企业使用报告显示，在研发岗位最常使用的三类ChatGPT工具中，图片上传排在搜索和数据分析之后，位列第三。随着Agent开始生成网页、操作软件并检查运行结果，视觉的作用正在逐步进化：它不再只是用户交给模型的一张图片，也开始成为模型检查工作、发现错误和调整行动的反馈。刚刚过去的7月，月之暗面发布Kimi K3。",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "73ec3519d289"
-    },
-    {
       "title": "世行：AI对发展中经济体利大于弊",
       "link": "https://www.ftchinese.com/story/001110526",
       "source": "FT 中文网",
@@ -172,19 +146,6 @@
       "translated": false,
       "priority": 25,
       "uid": "3f9f470824cf"
-    },
-    {
-      "title": "美国运营商 T-Mobile 在当地推出“Nothing”购机计划，允许消费者以“0 首付”36 个月分期购买手机",
-      "link": "https://www.ithome.com/0/985/752.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-04T23:36:09+00:00",
-      "summary": "IT之家 8 月 5 日消息，据外媒 phonearena 报道，美国运营商 T-Mobile 今起推出一项名为“Nothing”的购机方案，允许用户以 36 个月分期实现“0 首付购买新手机”。与此同时，T-Mobile 标准 24 个月设备分期计划更名为“EIP Standard 36”，该方案依旧采用 0% APR（年利率）的形式，但分期期限从 24 个月延长至 36 个月，因此用户每月支付金额会进一步降低。例如，一部售价 1,200 美元 （IT之家注：现汇率约合 8,119 元人民币） 的手机，如果分 24 个月付款，每月需要支付 50 美元 （现汇率约合 338.3 元人民币） ；如果延长至 36 个月，每月付款则降低至 33.33 美元 （现汇率约合 225.5 元人民币） 。作为参考，过去美国运营商通常通过“合约补贴机”吸引用户，消费者购买低价手机后，需要签订两年合约。",
-      "score": 35,
-      "original_title": "",
-      "translated": false,
-      "priority": 15,
-      "uid": "b284148ec7c6"
     },
     {
       "title": "亚马逊完成对OpenAI的500亿美元投资",
@@ -200,17 +161,69 @@
       "uid": "25d510b4f7a2"
     },
     {
-      "title": "36氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
-      "link": "https://36kr.com/p/3924634192673153?f=rss",
+      "title": "早期项目 | 从智能喂养切入，一家创业公司想搭建母婴AI生态",
+      "link": "https://36kr.com/p/3926013599086727?f=rss",
       "source": "36氪",
       "category": "AI与科技",
-      "published": "2026-08-04T03:05:05+00:00",
-      "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，空间态势感知公司“清博空天”近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空间目标监测网络建设、空间态势感知算法平台迭代、核心技术团队扩充及重点客户开拓。随着低轨卫星和空间碎片数量快速增长，近地轨道正在变得更加拥挤，卫星碰撞风险随之提升，空间态势感知（Space Situational Awareness，SSA）逐渐成为卫星运营的重要基础能力。此前，国内空间目标监测、轨道预警等任务主要由国家级科研与工程体系承担。但随着商业航天进入规模化发展阶段，大量商业卫星进入轨道运行，卫星运营方对于碰撞预警、轨道安全管理等服务的需求不断增加，市场亟需商业化空间态势感知解决方案。",
-      "score": 30,
+      "published": "2026-08-05T02:53:47+00:00",
+      "summary": "作者 | 张子怡 编辑 | 袁斯来 母婴市场在全球拥有万亿级规模。中国的母婴消费市场规模已突破5万亿元，年均增速保持12%的稳健水平；全球母婴市场总量更是达到约2万亿美元。庞大的母婴市场背后，其智能化渗透率较低，尚不足1%。全球母婴家庭普遍面临养育压力大、成本高、信息繁杂等核心痛点，而传统母婴产品仍停留在基础功能阶段，智能化程度不足、生态割裂，无法满足新一代家庭需求。以喂奶为例，不少家庭依然采用着极为原始的“手背测奶温”、手工记录喂养数据等方式。在全球超万亿美元规模的母婴市场中，虽然母婴智能设备市场发展快速，智能喂养、发育监测和孕产科技也已成为全球增速较快的核心品类，但整体智能化渗透率较低，尚不足1%。成立于2026年（团队2022年起于硅谷研发母婴产品）的奇世智能，选择切入母婴赛道中最痛的“科学喂养”环节。",
+      "score": 20,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "4a39a025d15e"
+      "uid": "00b59182aa5f"
+    },
+    {
+      "title": "NVM Express 发布 11 项规范集更新，NVMe 基本规范来到 2.4 版本",
+      "link": "https://www.ithome.com/0/985/790.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-05T01:29:47+00:00",
+      "summary": "IT之家 8 月 5 日消息，非营利组织 NVM Express 当地时间 4 日在 FMS 2026 上发布全部 11 项年度规范集更新。 NVMe 基本规范来到 2.4 版本 ，一系列命令集规范、传输规范、管理接口规范、启动规范均得到更新。 NVM Express 总裁 Amber Huffman 表示： 最新的 NVMe 规范引入了基础性技术，既能在后量子时代保障安全性，又能简化设备管理并提升可持续性，从而使 NVMe 存储在企业、云、AI 和客户端环境中具备面向未来的适应性。 随着安全要求和运营效率需求的不断演变，NVM Express 将继续致力于推出能够提升数据保护和存储效率的创新技术。 IT之家了解到，本次更新增强了 NVMe 技术栈的后量子密码学安全性，通过虚拟化简化了虚拟机迁移，支持主控端的速率控制，提供电压遥测监控，新增恢复出厂默认设置功能。",
+      "score": 20,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "1b9424ffeba8"
+    },
+    {
+      "title": "三星电子公布 CXL 3.2 内存模组 MD310，256GB 容量",
+      "link": "https://www.ithome.com/0/985/786.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-05T01:15:47+00:00",
+      "summary": "IT之家 8 月 5 日消息，作为三星电子 FMS 2026 峰会活动的一部分，该企业在官网上公布了其新一代可扩展内存解决方案 CMM-D MD310。 MD310 是一款 采用 PCIe 6.0 界面和 CXL 3.2 协议 的 DRAM 基 CXL 内存模组。其采用 EDSFF E3.S 2T 外形规格，基于 DDR5，容量 256GB，速率可达 7.2Gbps。 三星电子表示，该内存模组 可为系统注入额外 72GB/s 内存带宽， 用于加速人工智能、数据分析等数据密集型工作负载。其开放的 PCIe / CXL 架构使得多个系统能够动态共享和分配池化内存，提升 DRAM 资源利用率，这在内存供应受限的当下相当重要。 三星电子还简要介绍了 BM1773，这是 世界首款 EDSFF E3.S 外形规格的 256TB QLC 固态硬盘 。 相关阅读： 《 超 400 层：三星展示业界首款 V10 BV-NAND，存储密度提高约 58% 》",
+      "score": 20,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "abb68e458caf"
+    },
+    {
+      "title": "尽管与美国地缘政治紧张，通用汽车与中国汽车制造商仍将合资企业延长20年",
+      "link": "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-05T02:30:01+00:00",
+      "summary": "底特律——美国汽车制造商通用汽车周二晚间表示，通用汽车和中国上汽集团已延长了长达数十年的中国合资企业，该合资企业原定于明年结束。 此次延期正值中国汽车业格局迅速变化之际，其中包括国内汽车制造商的迅速崛起以及传统西方品牌和传统合资企业的转变。",
+      "score": 15,
+      "original_title": "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
+      "translated": true,
+      "priority": 0,
+      "uid": "1fc9bc6333b1"
+    },
+    {
+      "title": "36氪首发 | 大疆前高管押注个人出行机器人，累计融资近亿美元",
+      "link": "https://36kr.com/p/3926003098843272?f=rss",
+      "source": "36氪",
+      "category": "AI与科技",
+      "published": "2026-08-05T02:17:16+00:00",
+      "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，AI智能硬件与机器人企业“若创科技”（英文名：Strutt）近日完成Pre-A+轮融资，累计融资金额近亿美元。本轮融资获得全球领先出行科技企业、国内头部互联网企业旗下投资基金及大湾区代表性产业基金共同加码。本轮融资资金将主要用于个人物理AI技术研发、全球营销与销售渠道建设，以及首款个人智能出行机器人EV1的规模化生产和交付。同时，公司正式启用中文品牌“昂首”，首款个人出行机器人在中国市场的官方命名为“昂首EV1”，计划于2026年下半年启动中国市场业务，目前已开放首批试驾报名。若创科技成立于2023年，总部位于新加坡，研发与供应链基地位于中国大湾区。昂首首款个人出行机器人EV1面向家庭、社区、商超及户外等场景。产品搭载由多模态传感器组成的伴行智驾系统，并采用四电机、主动转向和四轮独立悬挂组成的底盘系统，能够在室内及城市公共空间行驶，也可通过草地、石子路和部分轻度非铺装路面。",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "48bb8ed45140"
     },
     {
       "title": "中东战争引发全球炼油新热潮",
@@ -250,50 +263,37 @@
       "translated": true,
       "priority": 0,
       "uid": "7628b59a698a"
-    },
-    {
-      "title": "派拉蒙 Skydance 上调全年利润指引，对 WBD 合并仍“充满信心”",
-      "link": "https://www.cnbc.com/2026/08/04/paramount-skydance-psky-earnings-q2-2026.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-04T21:15:03+00:00",
-      "summary": "派拉蒙 Skydance 周二上调了全年指引，并公布了第二季度业绩，展示了流媒体的持续优势和线性电视的弱点。 尽管派拉蒙的收入超出了华尔街的预期，并在派拉蒙+流媒体服务的带动下，其流媒体部门实现了增长，但其有线电视网络组合继续给整个公司带来压力。",
-      "score": 15,
-      "original_title": "Paramount Skydance raises full-year profit guidance, remains 'confident' about WBD merger",
-      "translated": true,
-      "priority": 0,
-      "uid": "26b35d292585"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3822.2518,
-        "change": -0.0328,
-        "pct": -0.0,
-        "amount_yi": 0.0
+        "price": 3858.5405,
+        "change": 36.2559,
+        "pct": 0.95,
+        "amount_yi": 6585.67
       },
       {
         "name": "深证成指",
-        "price": 0.0,
-        "change": 0.0,
-        "pct": 0.0,
-        "amount_yi": 0.0
+        "price": 14007.49,
+        "change": 121.779,
+        "pct": 0.88,
+        "amount_yi": 8032.29
       },
       {
         "name": "创业板指",
-        "price": 0.0,
-        "change": 0.0,
-        "pct": 0.0,
-        "amount_yi": 0.0
+        "price": 3493.09,
+        "change": 4.123,
+        "pct": 0.12,
+        "amount_yi": 2200.43
       },
       {
         "name": "沪深300",
-        "price": 4600.9304,
-        "change": 0.0,
-        "pct": 0.0,
-        "amount_yi": 0.0
+        "price": 4625.7369,
+        "change": 24.8065,
+        "pct": 0.54,
+        "amount_yi": 4886.82
       }
     ],
     "holdings": [
@@ -302,65 +302,65 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": null,
-        "market_value": null,
-        "pnl": null,
-        "pnl_pct": null,
-        "weight_hint": "",
-        "note": "暂无实时价",
-        "available": false
+        "price": 42.7,
+        "market_value": 4270.0,
+        "pnl": 1097.36,
+        "pnl_pct": 34.59,
+        "weight_hint": "42.7%",
+        "note": "",
+        "available": true
       },
       {
         "name": "长江电力",
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": null,
-        "market_value": null,
-        "pnl": null,
-        "pnl_pct": null,
-        "weight_hint": "",
-        "note": "暂无实时价",
-        "available": false
+        "price": 27.73,
+        "market_value": 2773.0,
+        "pnl": 76.59,
+        "pnl_pct": 2.84,
+        "weight_hint": "27.7%",
+        "note": "",
+        "available": true
       },
       {
         "name": "工商银行",
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": null,
-        "market_value": null,
-        "pnl": null,
-        "pnl_pct": null,
-        "weight_hint": "",
-        "note": "暂无实时价",
-        "available": false
+        "price": 7.53,
+        "market_value": 2259.0,
+        "pnl": 381.48,
+        "pnl_pct": 20.32,
+        "weight_hint": "22.6%",
+        "note": "",
+        "available": true
       },
       {
         "name": "半导体ETF",
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": null,
-        "market_value": null,
-        "pnl": null,
-        "pnl_pct": null,
-        "weight_hint": "",
+        "price": 1.144,
+        "market_value": 228.8,
+        "pnl": -89.2,
+        "pnl_pct": -28.05,
+        "weight_hint": "2.3%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
-        "available": false
+        "available": true
       },
       {
         "name": "300ETF",
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": null,
-        "market_value": null,
-        "pnl": null,
-        "pnl_pct": null,
-        "weight_hint": "",
-        "note": "暂无实时价",
-        "available": false
+        "price": 4.682,
+        "market_value": 468.2,
+        "pnl": -28.8,
+        "pnl_pct": -5.79,
+        "weight_hint": "4.7%",
+        "note": "",
+        "available": true
       },
       {
         "name": "新能源ETF博时",
@@ -378,43 +378,57 @@
     ],
     "sectors": [
       {
-        "name": "电力/公用 · 电力行业",
-        "pct": 0.0,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "半导体/电子 · 电子器件",
-        "pct": 0.0,
+        "name": "半导体/电子 · 半导体设备",
+        "pct": 6.53,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": null,
-        "source": "新浪行业"
+        "main_flow_yi": 16.34,
+        "source": "东财行业"
       },
       {
-        "name": "金融/银行 · 金融行业",
-        "pct": 0.0,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": null,
-        "source": "新浪行业"
+        "name": "半导体/电子 · 半导体材料",
+        "pct": 6.0,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 13.8,
+        "source": "东财行业"
       },
       {
-        "name": "金融/银行 · 国有大型银行Ⅲ",
-        "pct": 0.0,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": null,
+        "name": "新能源/光伏 · 锂电池",
+        "pct": 2.22,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 4.63,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 光伏加工设备",
+        "pct": 2.09,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.91,
         "source": "东财行业"
       },
       {
         "name": "煤炭 · 煤炭行业",
-        "pct": 0.0,
+        "pct": 0.91101801847272,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
+        "name": "电力/公用 · 供水供气",
+        "pct": 0.70719067156122,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "金融/银行 · 金融行业",
+        "pct": 0.1307168447213,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
         "name": "石油 · 石油行业",
-        "pct": 0.0,
+        "pct": -0.89041531514342,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
@@ -423,19 +437,68 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "华宝基金红利风向标 | 三大指数集体反弹，红利板块全线回调",
-        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-05/doc-inimfmyt4750254.shtml",
+        "title": "银行试点午休1.5小时被吐槽：你上班时我也上班，我休息时你也休息 一线员工：实际工作时长普遍超十小时",
+        "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-08-05/doc-inimfsht1478661.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "“芯”主线回归，全链走强，费率较低的科创芯片ETF华宝（589190）上探逾4%再收重要均线",
+        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-05/doc-inimfshm5201886.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "徐亚琴获批担任绍兴银行副行长",
+        "link": "https://finance.sina.com.cn/jryx/hm/2026-08-05/doc-inimfshr4694813.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "基本半导体盘中涨超4% 公司已与汉磊科技达成战略合作",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-05/doc-inimfmyt4817002.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
-    "market_news": [],
-    "total_market_value": null,
-    "total_pnl": null,
-    "total_amount_yi": 0.0,
-    "bias": "震荡",
-    "volume_note": "量能：两市合计约 0 亿元（接口口径），成交偏清淡",
-    "sector_note": "行业分化：偏强 电力行业、电子器件、金融行业；偏弱 暂无",
+    "market_news": [
+      {
+        "title": "光模块传闻施压，创业板人工智能ETF为何比通信ETF更能抗跌？大票权重+AI应用成关键“减震器”！",
+        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-05/doc-inimfsht1485059.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "16只机器人ETF图鉴：华夏易方达吸金超180亿 大成万家不足两亿 年内普跌难挡资金涌入",
+        "link": "https://finance.sina.com.cn/stock/observe/2026-08-05/doc-inimfshr4706027.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "政策定调“扩内需”，化工板块大涨！华宝基金化工ETF（516020）上探1.79%！击球区已至？",
+        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-05/doc-inimfshm5203239.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "CXO巨头爆量上涨！开盘45分钟成交120亿元，超上日全天！规模最大医疗ETF（512170）创本轮反弹新高",
+        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-05/doc-inimfshm5200987.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "斥资100亿美元！Anthropic抢占数据中心资源！“紫色的光”登顶A股吸金榜，大数据ETF华宝（516700）上探3.5%",
+        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-05/doc-inimfshi3596728.shtml",
+        "level": "中",
+        "tag": "股市"
+      }
+    ],
+    "total_market_value": 9999.0,
+    "total_pnl": 1437.43,
+    "total_amount_yi": 14617.96,
+    "bias": "偏多",
+    "volume_note": "量能：两市合计约 14618 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 半导体设备、半导体材料、锂电池；偏弱 石油行业",
     "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
