@@ -4,7 +4,7 @@
 timezone: Asia/Shanghai
 title: Hunt 每日简报
 max_items_per_feed: 8
-max_total_items: 16
+max_total_items: 20
 max_age_hours: 72
 message_format: markdown
 
@@ -155,12 +155,14 @@ feeds:
     require_keywords: false
     max_items: 4
     max_age_hours: 240
+    score_boost: 40
 
   - name: Anthropic / Claude
     url: anthropic://news
     category: 头部AI动态
     require_keywords: false
     max_items: 4
+    score_boost: 40
 
   - name: Google DeepMind
     url: https://deepmind.google/blog/rss.xml
@@ -168,6 +170,7 @@ feeds:
     require_keywords: false
     max_items: 3
     max_age_hours: 240
+    score_boost: 30
 
   - name: The Verge AI
     url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
@@ -272,7 +275,7 @@ translate:
 
 summarize:
   enabled: true
-  max_chars: 420
+  max_chars: 480
 
 humor:
   enabled: true

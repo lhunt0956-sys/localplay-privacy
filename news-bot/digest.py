@@ -209,6 +209,7 @@ def fetch_feed(
         score = _score_text(blob, boost, exclude, require)
         if score is None:
             continue
+        score += int(feed_cfg.get("score_boost") or 0)
 
         items.append(
             NewsItem(
@@ -294,17 +295,50 @@ def build_digest(config: dict[str, Any] | None = None) -> Digest:
         reverse=True,
     )
 
-    # 按板块限额，避免某一类挤爆；持仓相关多留一点
+    # 按板块限额，避免某一类挤爆；持仓 / 头部AI 多留一点
     per_cat_cap = max(3, max_total // max(1, len(category_order) or 1))
-    cat_counts: dict[str, int] = {}
+    cat_extra = {
+        HOLDINGS_CATEGORY: 2,
+        "头部AI动态": 2,
+    }
+    # 头部AI：先保证官方源（ChatGPT / Claude / Gemini）有席位
+    official_ai = {"OpenAI / ChatGPT", "Anthropic / Claude", "Google DeepMind"}
     selected: list[NewsItem] = []
+    cat_counts: dict[str, int] = {}
+    reserved_ai = [i for i in collected if i.category == "头部AI动态" and i.source in official_ai]
+    reserved_ai.sort(
+        key=lambda x: (x.score, x.published or datetime.min.replace(tzinfo=timezone.utc)),
+        reverse=True,
+    )
+    # 每个官方源最多留 1 条，合计最多 3 条
+    seen_official: set[str] = set()
+    for item in reserved_ai:
+        if item.source in seen_official:
+            continue
+        seen_official.add(item.source)
+        selected.append(item)
+        cat_counts[item.category] = cat_counts.get(item.category, 0) + 1
+        if len(seen_official) >= 3:
+            break
+
+    selected_uids = {i.uid for i in selected}
+    source_counts: dict[str, int] = {}
+    for item in selected:
+        source_counts[item.source] = source_counts.get(item.source, 0) + 1
     for item in collected:
-        cap = per_cat_cap + 2 if item.category == HOLDINGS_CATEGORY else per_cat_cap
+        if item.uid in selected_uids:
+            continue
+        cap = per_cat_cap + cat_extra.get(item.category, 0)
         n = cat_counts.get(item.category, 0)
         if n >= cap:
             continue
+        # 同一官方 AI 源最多 2 条，留给媒体侧动态
+        if item.source in official_ai and source_counts.get(item.source, 0) >= 2:
+            continue
         cat_counts[item.category] = n + 1
+        source_counts[item.source] = source_counts.get(item.source, 0) + 1
         selected.append(item)
+        selected_uids.add(item.uid)
         if len(selected) >= max_total:
             break
 

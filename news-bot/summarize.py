@@ -74,16 +74,22 @@ def summarize_text(text: str, max_chars: int = 420) -> str:
     return summary
 
 
+def _looks_truncated(text: str) -> bool:
+    t = (text or "").rstrip()
+    return bool(re.search(r"(\[\…\]|\[\.\.\.\]|\…|\.\.\.)$", t))
+
+
 def summarize_url(url: str, fallback: str = "", max_chars: int = 420) -> str:
     """Return extractive summary; keep original language (caller may translate)."""
     host = urlparse(url).netloc.lower()
     fallback = _clean(fallback)
-
-    # RSS 摘要已经够长时，优先用它，避免慢速抓页
-    if len(fallback) >= 220:
-        return summarize_text(fallback, max_chars=max_chars)
+    fallback = re.sub(r"\s*(\[\…\]|\[\.\.\.\])\s*$", "", fallback).strip()
 
     if any(x in host for x in ("twitter.com", "x.com")):
+        return summarize_text(fallback, max_chars=max_chars)
+
+    # RSS 摘要够长且不像截断时，优先用它；否则抓正文补全
+    if len(fallback) >= 220 and not _looks_truncated(fallback):
         return summarize_text(fallback, max_chars=max_chars)
 
     body = _fetch_text(url)
