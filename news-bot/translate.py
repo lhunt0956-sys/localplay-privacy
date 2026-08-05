@@ -4,16 +4,13 @@
 from __future__ import annotations
 
 import re
-import time
-from functools import lru_cache
 
 import zhconv
 
 _HAN = re.compile(r"[\u4e00-\u9fff]")
 _LATIN = re.compile(r"[A-Za-z]")
-
-# 引擎按稳定性排序；失败自动换下一个
-_ENGINES = ("bing", "google", "alibaba", "sogou")
+_ENGINES = ("bing", "google", "alibaba")
+_CACHE: dict[str, str] = {}
 
 
 def is_mostly_english(text: str) -> bool:
@@ -23,7 +20,6 @@ def is_mostly_english(text: str) -> bool:
     han = len(_HAN.findall(text))
     if latin < 8:
         return False
-    # 拉丁字母明显多于汉字，视为英文
     return latin >= max(12, han * 2)
 
 
@@ -33,11 +29,9 @@ def to_simplified(text: str) -> str:
     return zhconv.convert(text, "zh-cn")
 
 
-@lru_cache(maxsize=512)
-def _translate_cached(text: str) -> str:
+def _translate_once(text: str) -> str:
     import translators as ts
 
-    last_err: Exception | None = None
     for engine in _ENGINES:
         try:
             out = ts.translate_text(
@@ -45,31 +39,41 @@ def _translate_cached(text: str) -> str:
                 translator=engine,
                 from_language="en",
                 to_language="zh",
+                timeout=7,
             )
             if out and out.strip() and out.strip() != text.strip():
                 return to_simplified(out.strip())
-        except Exception as exc:  # noqa: BLE001
-            last_err = exc
+        except TypeError:
+            # older translators without timeout kw
+            try:
+                out = ts.translate_text(
+                    text,
+                    translator=engine,
+                    from_language="en",
+                    to_language="zh",
+                )
+                if out and out.strip() and out.strip() != text.strip():
+                    return to_simplified(out.strip())
+            except Exception:
+                continue
+        except Exception:
             continue
-    if last_err:
-        raise last_err
     return text
 
 
 def localize_text(text: str) -> tuple[str, bool]:
-    """Return (localized_text, translated_from_english)."""
     if not text:
         return text, False
     text = text.strip()
-    if is_mostly_english(text):
-        # 翻译接口对过长文本不稳，摘要截断后再译
-        chunk = text if len(text) <= 450 else text[:447] + "..."
-        try:
-            translated = _translate_cached(chunk)
-            time.sleep(0.15)  # 轻微限速，降低被拒概率
-            return translated, True
-        except Exception:
-            return to_simplified(text), False
+    if not is_mostly_english(text):
+        return to_simplified(text), False
+    chunk = text if len(text) <= 420 else text[:417] + "..."
+    if chunk in _CACHE:
+        return _CACHE[chunk], True
+    translated = _translate_once(chunk)
+    if translated and translated != chunk:
+        _CACHE[chunk] = translated
+        return translated, True
     return to_simplified(text), False
 
 

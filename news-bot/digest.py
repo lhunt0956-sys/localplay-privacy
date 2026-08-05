@@ -16,6 +16,7 @@ from zoneinfo import ZoneInfo
 import feedparser
 import yaml
 
+from ai_companies import parse_anthropic_feed
 from humor import pick_humor
 from learning import DISCLAIMER, pick_learning_tip
 from market import (
@@ -26,6 +27,7 @@ from market import (
     load_portfolio,
     news_priority,
 )
+from summarize import summarize_url
 from translate import localize_item_fields
 
 ROOT = Path(__file__).resolve().parent
@@ -172,7 +174,12 @@ def fetch_feed(
         feed_cutoff = datetime.now(tz=timezone.utc) - timedelta(hours=int(feed_max_age))
 
     try:
-        parsed = feedparser.parse(url, request_headers={"User-Agent": "NewsBot/1.0 (+github-actions)"})
+        if url.startswith("anthropic://"):
+            parsed = parse_anthropic_feed(max_items=max_items)
+        else:
+            parsed = feedparser.parse(
+                url, request_headers={"User-Agent": "NewsBot/1.0 (+github-actions)"}
+            )
     except Exception as exc:  # noqa: BLE001
         return [], f"{name}: 请求失败 ({exc})"
 
@@ -181,7 +188,7 @@ def fetch_feed(
         return [], f"{name}: 解析失败 ({detail})"
 
     items: list[NewsItem] = []
-    for entry in parsed.entries[: max_items * 4]:
+    for entry in parsed.entries[: max_items * 6]:
         title = _strip_html(getattr(entry, "title", "") or "无标题")
         link = getattr(entry, "link", "") or ""
         if not link:
@@ -189,14 +196,13 @@ def fetch_feed(
         summary = _strip_html(getattr(entry, "summary", "") or getattr(entry, "description", "") or "")
         if summary.lower() in {"comments", "comment"}:
             summary = ""
-        if len(summary) > 160:
-            summary = summary[:157] + "..."
 
         published = _parse_time(entry)
         if feed_cutoff:
-            if not published:
+            # anthropic 合成源无历史时间，允许通过
+            if not published and not url.startswith("anthropic://"):
                 continue
-            if published < feed_cutoff:
+            if published and published < feed_cutoff:
                 continue
 
         blob = f"{title} {summary}"
@@ -302,7 +308,22 @@ def build_digest(config: dict[str, Any] | None = None) -> Digest:
         if len(selected) >= max_total:
             break
 
-    # 英文译成简体中文；繁体也统一转简体
+    # 先抓正文做摘要，再统一译成简体（避免重复翻译卡住）
+    summarize_enabled = bool((config.get("summarize") or {}).get("enabled", True))
+    max_summary_chars = int((config.get("summarize") or {}).get("max_chars") or 420)
+    if summarize_enabled:
+        for item in selected:
+            try:
+                full_sum = summarize_url(
+                    item.link,
+                    fallback=item.summary,
+                    max_chars=max_summary_chars,
+                )
+                if full_sum:
+                    item.summary = full_sum
+            except Exception as exc:  # noqa: BLE001
+                digest.errors.append(f"摘要失败 {item.source}: {exc}")
+
     translate_enabled = bool((config.get("translate") or {}).get("enabled", True))
     if translate_enabled:
         localized: list[NewsItem] = []
@@ -346,7 +367,7 @@ def format_markdown(digest: Digest) -> str:
         f"# {digest.title}",
         f"_生成时间：{digest.generated_at.strftime('%Y-%m-%d %H:%M')} ({digest.timezone})_",
         "",
-        "> 个性化源：stock-learning 持仓雷达 / 通信安防 / AI·Android / 健康出行",
+        "> 个性化源：stock-learning 持仓雷达 / 通信安防 / 头部AI（ChatGPT·Claude） / 健康出行",
         "",
     ]
     if digest.market_markdown:
@@ -554,10 +575,11 @@ def format_html(digest: Digest) -> str:
       font-size: 0.82rem;
     }}
     .sum {{
-      margin: 8px 0 0;
+      margin: 10px 0 0;
       color: #3d4556;
-      font-size: 0.92rem;
-      line-height: 1.7;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
     }}
     .disclaimer {{
       margin-top: 8px;
@@ -589,7 +611,7 @@ def format_html(digest: Digest) -> str:
   <div class="wrap">
     <header>
       <p class="brand">{html.escape(digest.title)}</p>
-      <p class="sub">stock-learning 持仓雷达 · 通信安防 · AI/Android · 健康 · {html.escape(digest.generated_at.strftime('%Y年%m月%d日 %H:%M'))} · 共 {len(digest.items)} 条</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · {html.escape(digest.generated_at.strftime('%Y年%m月%d日 %H:%M'))} · 共 {len(digest.items)} 条</p>
     </header>
     {market_html}
     {empty}

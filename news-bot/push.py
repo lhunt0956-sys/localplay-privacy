@@ -103,10 +103,15 @@ def push_email(text: str, title: str, html_body: str | None = None) -> str:
     password = os.environ.get("SMTP_PASS", "").strip()
     mail_to = os.environ.get("MAIL_TO", "").strip() or user
     mail_from = os.environ.get("MAIL_FROM", "").strip() or user
-    port = int(os.environ.get("SMTP_PORT", "465"))
 
     if not host or not user or not password or not mail_to:
         return "skip:email (missing SMTP_HOST / SMTP_USER / SMTP_PASS / MAIL_TO)"
+
+    port_raw = os.environ.get("SMTP_PORT", "").strip() or "465"
+    try:
+        port = int(port_raw)
+    except ValueError:
+        return f"skip:email (invalid SMTP_PORT={port_raw!r})"
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = title

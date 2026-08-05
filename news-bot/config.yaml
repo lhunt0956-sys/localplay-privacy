@@ -1,21 +1,20 @@
 # Hunt 个性化每日简报
-# 依据个人记忆：通信工程 / A股学习 / AI·Android 开发 / 健康 / 摩托
+# 通信工程 / A股学习 / AI公司动态 / 健康
 
 timezone: Asia/Shanghai
 title: Hunt 每日简报
-max_items_per_feed: 10
-max_total_items: 28
+max_items_per_feed: 8
+max_total_items: 16
 max_age_hours: 72
 message_format: markdown
 
-# 板块展示顺序（stock-learning 持仓相关优先）
 category_order:
   - 持仓相关
   - A股与宏观
   - 能源与电力
   - 通信与安防
+  - 头部AI动态
   - AI与科技
-  - Android开发
   - 健康生活
 
 keywords:
@@ -24,7 +23,6 @@ keywords:
     - 娱乐八卦
     - 选秀
   boost:
-    # stock-learning 持仓与观察
     - 神华
     - 中国神华
     - "601088"
@@ -80,10 +78,12 @@ keywords:
     - 运营商
     - AI
     - 大模型
-    - Android
-    - Kotlin
-    - Compose
-    - Media3
+    - ChatGPT
+    - OpenAI
+    - Claude
+    - Anthropic
+    - Gemini
+    - DeepMind
     - 开源
     - 血压
     - 睡眠
@@ -98,25 +98,25 @@ feeds:
     url: https://www.ftchinese.com/rss/news
     category: A股与宏观
     require_keywords: true
-    max_items: 8
+    max_items: 6
 
   - name: CNBC
     url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147
     category: A股与宏观
     require_keywords: true
-    max_items: 6
+    max_items: 5
 
   - name: OilPrice
     url: https://oilprice.com/rss/main
     category: 能源与电力
     require_keywords: false
-    max_items: 6
+    max_items: 5
 
   - name: IT之家·通信安防
     url: https://www.ithome.com/rss/
     category: 通信与安防
     require_keywords: true
-    max_items: 8
+    max_items: 6
     extra_keywords:
       - 华为
       - 中兴
@@ -149,11 +149,67 @@ feeds:
       - 光纤
       - 安全
 
+  - name: OpenAI / ChatGPT
+    url: https://openai.com/blog/rss.xml
+    category: 头部AI动态
+    require_keywords: false
+    max_items: 4
+    max_age_hours: 240
+
+  - name: Anthropic / Claude
+    url: anthropic://news
+    category: 头部AI动态
+    require_keywords: false
+    max_items: 4
+
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    category: 头部AI动态
+    require_keywords: false
+    max_items: 3
+    max_age_hours: 240
+
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    category: 头部AI动态
+    require_keywords: true
+    max_items: 4
+    extra_keywords:
+      - OpenAI
+      - ChatGPT
+      - Anthropic
+      - Claude
+      - Google
+      - Gemini
+      - DeepMind
+      - Meta
+      - xAI
+      - Grok
+      - Microsoft
+      - Copilot
+
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: 头部AI动态
+    require_keywords: true
+    max_items: 4
+    extra_keywords:
+      - OpenAI
+      - ChatGPT
+      - Anthropic
+      - Claude
+      - Google
+      - Gemini
+      - DeepMind
+      - Meta
+      - xAI
+      - Grok
+
   - name: 36氪
     url: https://36kr.com/feed
     category: AI与科技
     require_keywords: true
-    max_items: 8
+    max_items: 6
     extra_keywords:
       - AI
       - 大模型
@@ -161,38 +217,29 @@ feeds:
       - Agent
       - 芯片
       - 半导体
+      - ChatGPT
+      - Claude
+      - OpenAI
+      - Anthropic
 
   - name: Google AI Blog
     url: https://blog.google/technology/ai/rss/
     category: AI与科技
     require_keywords: false
-    max_items: 5
+    max_items: 3
+    max_age_hours: 240
 
   - name: InfoQ 中文
     url: https://www.infoq.cn/feed
     category: AI与科技
     require_keywords: true
-    max_items: 5
-
-  - name: Android Developers
-    url: https://android-developers.googleblog.com/feeds/posts/default?alt=rss
-    category: Android开发
-    require_keywords: false
-    max_items: 5
-    max_age_hours: 240
-
-  - name: Kotlin Blog
-    url: https://blog.jetbrains.com/kotlin/feed/
-    category: Android开发
-    require_keywords: false
     max_items: 4
-    max_age_hours: 240
 
   - name: 少数派
     url: https://sspai.com/feed
     category: 健康生活
     require_keywords: true
-    max_items: 5
+    max_items: 4
     max_age_hours: 168
     extra_keywords:
       - 健康
@@ -220,9 +267,12 @@ feeds:
       - 九号
       - 本田
 
-# 英文自动译为简体中文；繁体也会转简体
 translate:
   enabled: true
+
+summarize:
+  enabled: true
+  max_chars: 420
 
 humor:
   enabled: true

@@ -336,16 +336,20 @@ def _pick_watched_sectors(portfolio: dict[str, Any], errors: list[str]) -> list[
 
 
 def _is_cn_policy(title: str) -> bool:
+    # 排除明显海外央行/政策
+    if any(x in title for x in ("美联储", "日本央行", "欧洲央行", "英央行", "澳联储", "韩央行")):
+        return False
     strong = (
-        "央行", "中国人民银行", "降息", "降准", "LPR", "MLF", "逆回购",
+        "中国人民银行", "降息", "降准", "LPR", "MLF", "逆回购",
         "证监会", "国资委", "发改委", "工信部", "财政部", "国务院", "政治局",
         "金融监管总局", "银保监", "窗口指导",
     )
     if any(k in title for k in strong):
         return True
-    # 弱词需搭配国内资本市场语境，避免把海外“政策”误收
-    weak = ("政策", "监管", "货币政策", "流动性", "利率")
-    cn_ctx = ("A股", "沪深", "资本市场", "证监会", "央行", "国务院", "中国", "国内")
+    if "央行" in title and any(k in title for k in ("中国", "国内", "A股", "人民币", "公开市场")):
+        return True
+    weak = ("政策", "监管", "货币政策", "流动性")
+    cn_ctx = ("A股", "沪深", "资本市场", "证监会", "国务院", "中国", "国内")
     return any(k in title for k in weak) and any(k in title for k in cn_ctx)
 
 

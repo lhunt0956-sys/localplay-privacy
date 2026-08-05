@@ -31,6 +31,7 @@ jobs:
         run: pip install -r news-bot/requirements.txt
 
       - name: Fetch news & push
+        id: digest
         env:
           PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -44,9 +45,19 @@ jobs:
           MAIL_TO: ${{ secrets.MAIL_TO }}
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
         run: |
+          # 推送失败不阻断摘要落盘；真正阻断只看抓取是否写出文件
+          set +e
           python news-bot/main.py --push
+          code=$?
+          set -e
+          if [ ! -f news/latest.html ]; then
+            echo "digest html missing"
+            exit 1
+          fi
+          exit 0
 
       - name: Commit digest pages
+        if: always() && hashFiles('news/latest.html') != ''
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
