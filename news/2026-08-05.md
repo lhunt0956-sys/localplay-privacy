@@ -1,5 +1,5 @@
 # Hunt 每日简报
-_生成时间：2026-08-05 09:02 (Asia/Shanghai)_
+_生成时间：2026-08-05 09:05 (Asia/Shanghai)_
 
 > 个性化源：stock-learning 持仓雷达 / 通信安防 / 头部AI（ChatGPT·Claude） / 健康出行
 
@@ -44,9 +44,9 @@ _生成时间：2026-08-05 09:02 (Asia/Shanghai)_
 
 ### 股市面 · 市场资讯
 
-- 【中】[澳大利亚股市创历史新高 受伊朗局势和经济前景提振](https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimfmyv1497993.shtml)
+- 今日暂无高相关条目（或源站暂不可用）
 
-> 新手提醒：成交量放大+上涨，比缩量上涨更有参考价值
+> 新手提醒：今天涨不代表明天涨，A股短期走势受情绪影响很大
 
 ## 持仓相关
 
@@ -69,7 +69,7 @@ _生成时间：2026-08-05 09:02 (Asia/Shanghai)_
 ## 能源与电力
 
 - **[中东战争引发新的全球炼油热潮](https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html)** （OilPrice · 08-05 08:00）
-  在本十年的第二次战争中，全球石油市场遭到扰乱，油价和炼油利润率飙升至多年高点，世界上最大的石油公司和顶级炼油厂因此受益。伊朗战争紧缩了燃料供应，因为原油在通过霍尔木兹海峡时受阻，导致亚洲炼油产量下降，并引发了中国对出口的暂时禁令。
+  在本十年的第二次战争中，全球石油市场遭到扰乱，油价和炼油利润率飙升至多年高位，世界上最大的石油公司和顶级炼油厂因此受益。伊朗战争紧缩了燃料供应，因为原油在通过霍尔木兹海峡时受阻，导致亚洲炼油产量下降，并引发了中国对出口的暂时禁令。
 - **[中国与土耳其关系因电动车投资风波而紧张](https://oilprice.com/Energy/Energy-General/China-Turkey-Relations-Strained-After-EV-Investment-Fallout.html)** （OilPrice · 08-05 07:00）
   中国和土耳其花了多年时间加强以贸易、投资和进入欧洲市场为基础的战略伙伴关系。一项价值10亿美元的中国旗舰投资的突然崩溃，如今威胁到放缓北京在该地区最重要的经济关系之一。
 
@@ -85,11 +85,11 @@ _生成时间：2026-08-05 09:02 (Asia/Shanghai)_
 ## 头部AI动态
 
 - **[OpenAI 将苹果的诉讼拖入舆论法庭](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages)** （The Verge AI · 08-04 19:27）
-  苹果对 OpenAI 的法律战现在变得更加混乱，因为这家 ChatGPT 制造商公开展示了证据以反驳苹果的事件版本。在一篇标题为《苹果搞错了》的博客文章中，OpenAI 表示，苹果指控其窃取商业机密的诉讼“草率、咄咄逼人且奇怪地具有个人色彩”，并分享了 iMessage 和电子邮件 […]
+  苹果对 OpenAI 的法律战现在变得更加混乱，因为这家 ChatGPT 制造商公开展示了证据，以反驳苹果对事件的描述。在一篇标题为《苹果弄错了》的博客文章中，OpenAI 表示，苹果指控其窃取商业机密的诉讼“粗心、咄咄逼人且奇怪地带有个人色彩”，并分享了 iMessage 和电子邮件 […]
 - **[国会最喜欢的人工智能工具？ChatGPT](https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/)** （TechCrunch AI · 08-04 00:40）
   根据CNBC的一份报告，OpenAI的ChatGPT是迄今为止国会在人工智能工具上支出最多的选择。根据众议院支出记录，截至3月31日的一年中，众议院办公室、委员会和机构账户在人工智能工具上的所有支出中，大约有90%流向了OpenAI。
 - **[中国的阿里巴巴再次攻击美国的人工智能霸权](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai)** （The Verge AI · 08-03 19:01）
-  中国科技巨头阿里巴巴发布了其所谓迄今为止最大且“最强大”的人工智能模型，并声称其性能可与美国前沿实验室Anthropic和OpenAI的最佳系统以及国内竞争对手如Moonshot AI的Kimi K3相媲美。阿里巴巴表示，正在向用户广泛提供该模型Qwen3.8-Max […]
+  中国科技巨头阿里巴巴发布了其所谓迄今为止最大、最强大的人工智能模型，声称其性能可与美国前沿实验室Anthropic和OpenAI的最佳系统以及国内竞争对手如Moonshot AI的Kimi K3相媲美。阿里巴巴表示，将向用户广泛提供该模型Qwen3.8-Max……
 
 ## AI与科技
 

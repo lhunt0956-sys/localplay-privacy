@@ -1,6 +1,6 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-05T09:02:35.502350+08:00",
+  "generated_at": "2026-08-05T09:05:20.900696+08:00",
   "timezone": "Asia/Shanghai",
   "count": 16,
   "items": [
@@ -153,7 +153,7 @@
       "source": "The Verge AI",
       "category": "头部AI动态",
       "published": "2026-08-04T11:27:55+00:00",
-      "summary": "苹果对 OpenAI 的法律战现在变得更加混乱，因为这家 ChatGPT 制造商公开展示了证据以反驳苹果的事件版本。在一篇标题为《苹果搞错了》的博客文章中，OpenAI 表示，苹果指控其窃取商业机密的诉讼“草率、咄咄逼人且奇怪地具有个人色彩”，并分享了 iMessage 和电子邮件 […]",
+      "summary": "苹果对 OpenAI 的法律战现在变得更加混乱，因为这家 ChatGPT 制造商公开展示了证据，以反驳苹果对事件的描述。在一篇标题为《苹果弄错了》的博客文章中，OpenAI 表示，苹果指控其窃取商业机密的诉讼“粗心、咄咄逼人且奇怪地带有个人色彩”，并分享了 iMessage 和电子邮件 […]",
       "score": 25,
       "original_title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
       "translated": true,
@@ -179,7 +179,7 @@
       "source": "The Verge AI",
       "category": "头部AI动态",
       "published": "2026-08-03T11:01:11+00:00",
-      "summary": "中国科技巨头阿里巴巴发布了其所谓迄今为止最大且“最强大”的人工智能模型，并声称其性能可与美国前沿实验室Anthropic和OpenAI的最佳系统以及国内竞争对手如Moonshot AI的Kimi K3相媲美。阿里巴巴表示，正在向用户广泛提供该模型Qwen3.8-Max […]",
+      "summary": "中国科技巨头阿里巴巴发布了其所谓迄今为止最大、最强大的人工智能模型，声称其性能可与美国前沿实验室Anthropic和OpenAI的最佳系统以及国内竞争对手如Moonshot AI的Kimi K3相媲美。阿里巴巴表示，将向用户广泛提供该模型Qwen3.8-Max……",
       "score": 25,
       "original_title": "China’s Alibaba takes another swipe at America’s AI supremacy",
       "translated": true,
@@ -192,7 +192,7 @@
       "source": "OilPrice",
       "category": "能源与电力",
       "published": "2026-08-05T00:00:00+00:00",
-      "summary": "在本十年的第二次战争中，全球石油市场遭到扰乱，油价和炼油利润率飙升至多年高点，世界上最大的石油公司和顶级炼油厂因此受益。伊朗战争紧缩了燃料供应，因为原油在通过霍尔木兹海峡时受阻，导致亚洲炼油产量下降，并引发了中国对出口的暂时禁令。",
+      "summary": "在本十年的第二次战争中，全球石油市场遭到扰乱，油价和炼油利润率飙升至多年高位，世界上最大的石油公司和顶级炼油厂因此受益。伊朗战争紧缩了燃料供应，因为原油在通过霍尔木兹海峡时受阻，导致亚洲炼油产量下降，并引发了中国对出口的暂时禁令。",
       "score": 15,
       "original_title": "Middle East War Triggers New Global Refining Boom",
       "translated": true,
@@ -377,21 +377,14 @@
         "tag": "行业"
       }
     ],
-    "market_news": [
-      {
-        "title": "澳大利亚股市创历史新高 受伊朗局势和经济前景提振",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimfmyv1497993.shtml",
-        "level": "中",
-        "tag": "股市"
-      }
-    ],
+    "market_news": [],
     "total_market_value": null,
     "total_pnl": null,
     "total_amount_yi": 0.0,
     "bias": "震荡",
     "volume_note": "量能：两市合计约 0 亿元（接口口径），成交偏清淡",
     "sector_note": "行业分化：偏强 电力行业、电子器件、金融行业；偏弱 暂无",
-    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
+    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
     "errors": []
   },
   "learning": {
