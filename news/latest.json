@@ -1,16 +1,29 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-06T11:13:59.632465+08:00",
+  "generated_at": "2026-08-07T10:54:55.319791+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 20,
+  "count": 18,
   "items": [
+    {
+      "title": "从提问到行动：世界如何让 ChatGPT 发挥作用",
+      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-08-06T00:00:00+00:00",
+      "summary": "新的 OpenAI Signals 数据显示了人们在全球范围内如何使用 ChatGPT，并提供了关于各国采用情况、使用趋势和行为演变的洞察。",
+      "score": 65,
+      "original_title": "From asking to doing: How the world is putting ChatGPT to work",
+      "translated": true,
+      "priority": 0,
+      "uid": "eab51c98e618"
+    },
     {
       "title": "Anthropic / Claude：推出 Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-06T03:14:19+00:00",
-      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格仅为一半。在编程和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 是新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 的设计用于日常使用：它工作效率更高...",
+      "published": "2026-08-07T02:55:14+00:00",
+      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格只有一半。在编码和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 已成为新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 旨在用于日常应用：它工作效率更高...",
       "score": 60,
       "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
       "translated": true,
@@ -18,43 +31,17 @@
       "uid": "b08c6994eb9f"
     },
     {
-      "title": "涉及 OpenAI 模型的第三方网络评估",
-      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-08-04T19:00:00+00:00",
-      "summary": "OpenAI 解释了近期第三方网络安全评估事件，并概述了加强 AI 模型测试和评估的新保障措施。",
-      "score": 60,
-      "original_title": "Third-party cyber evaluations involving OpenAI models",
-      "translated": true,
-      "priority": 0,
-      "uid": "ba49d2548dba"
-    },
-    {
-      "title": "双子座机器人 ER 2：通过视频理解、任务协调和多机器人协作为机器人提供动力",
-      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "title": "WeatherNext：人工智能模型在气旋预报方面取得突破",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
-      "published": "2026-07-30T15:00:59+00:00",
-      "summary": "推出 Gemini Robotics ER 2 对于在日常环境中协助人类的机器人来说，仅仅具备准确的空间推理能力是不够的。机器人还必须快速思考，随着物理世界的实时速度进行决策和推理。这就是为什么今天我们推出 Gemini Robotics ER 2，我们最强大的机器人“具身推理”模型。把 Gemini Robotics ER 2 想象成机器人的高级大脑。",
+      "published": "2026-08-06T15:06:15+00:00",
+      "summary": "WeatherNext：AI 模型在气旋预报方面取得突破 WeatherNext 能够提供准确的气旋预报，可以提前一天发出警告。现在我们正在开源该模型。预测危险气旋的发展是一个长期存在的挑战，每一小时都至关重要。热带气旋——也被称为飓风或台风——是地球上最具破坏性的天气现象之一，负责…",
       "score": 45,
-      "original_title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "original_title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "translated": true,
       "priority": 0,
-      "uid": "7dc8dd43874e"
-    },
-    {
-      "title": "受台风“白海豚”影响，奇瑞捷豹路虎神行者 8 预售发布会计划由 8 月 10 日调整至 14 日",
-      "link": "https://www.ithome.com/0/986/379.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-06T03:03:10+00:00",
-      "summary": "IT之家 8 月 6 日消息，今日，FREELANDER 神行者全球 CMO @周文-神行者 发文称，原定于 8 月 10 日的神行者 8 预售发布会，受台风“白海豚”天气过境影响，我们出于对全员出行及活动安全的综合考量，计划调整至 8 月 14 日正式开启。IT之家注意到，由奇瑞 × 捷豹路虎合作打造的 FREELANDER 神行者品牌 7 月 30 日宣布，旗下首车 —— 神行者 8 的首台量产车正式下线。新车原定于 8 月 10 日开启预售。神行者 8 整车设计语言延续 Concept 97 概念车风格，主打硬朗大气的造型、简洁有力的车身线条。该车尺寸为 5,118 (5,185)×2050×1898mm、 轴距 3040mm 。在智能座舱与智能驾驶领域，神行者 8 由 FREELANDER 神行者联合华为、宁德时代、高通三方深度协同开发，全系搭载高通骁龙 8,397 车规级芯片。",
-      "score": 80,
-      "original_title": "",
-      "translated": false,
-      "priority": 50,
-      "uid": "32521bf2bc1e"
+      "uid": "c83f5eea5a35"
     },
     {
       "title": "美国据报将豁免中国开放权重模型",
@@ -70,38 +57,12 @@
       "uid": "f8114c912654"
     },
     {
-      "title": "消息称英伟达急寻中国 AI 基站供应商，与“下一个中际旭创”合作开发 6G 基站",
-      "link": "https://www.ithome.com/0/986/317.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-06T01:37:47+00:00",
-      "summary": "IT之家 8 月 6 日消息，据界面《硬科技头条》今日报道，通信产业链核心人士透露，英伟达正在加速进入电信运营商市场， 并在中国寻找基站厂商合作方 ，开发符合海外市场要求的 6G 基站。该人士形容，英伟达在找端侧算力的“下一个中际旭创”，因为英伟达认为，算力接下来要从数据中心传输到海量的 AI 终端和用户，最终需要依赖基站的无线传输。上述人士称，英伟达推动这一项目的节奏“比较紧迫”， 希望在 2027 或 2028 年进入试验网 。报道还称，深圳佳贤通信是英伟达正在建立的基站合作方之一，其内部人士确认，英伟达从 2025 年就与公司接触，目前双方正基于英伟达 CUDA 生态合作开发 6G AI-RAN 基站，双方合作已持续半年多。值得一提的是，英伟达此前已在通信领域进行过投资，比如 2025 年 10 月，英伟达宣布以 10 亿美元 （IT之家注：现汇率约合 67.",
-      "score": 70,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "d77e0ae09013"
-    },
-    {
-      "title": "16 个月建成投产，特斯拉美国得州超级工厂开始量产 Megapack 3 储能电池",
-      "link": "https://www.ithome.com/0/986/362.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-08-06T02:44:15+00:00",
-      "summary": "IT之家 8 月 6 日消息，特斯拉 Megapack 部门当地时间周二晚间宣布，公司已正式开始在位于美国得克萨斯州布鲁克郡（Brookshire）的最新 Megafactory 超级工厂生产 Megapack 3 储能电池。这座工厂从破土动工到投入运营仅用了 16 个月，设计年产能达到 50GWh，全部用于生产第三代公用事业级储能产品 Megapack 3。该工厂被特斯拉能源业务寄予厚望，希望借此加速全球电网储能部署。布鲁克郡工厂成为特斯拉全球第三座投入运营的 Megafactory，也是美国境内第二座 Megafactory，加州拉斯罗普（Lathrop，40GWh）和上海工厂（20GWh）此前已投入运营。按照设计满负荷运行后，得州工厂的产能将超过现有两座工厂的总和。为何这对特斯拉能源业务意义重大 特斯拉能源业务近年来一直悄然成长为公司增长最快、利润率最高的业务之一，而 Megapack 正是推动这一增长的核心产品。",
-      "score": 65,
-      "original_title": "",
-      "translated": false,
-      "priority": 35,
-      "uid": "f39a70f8a605"
-    },
-    {
       "title": "Anthropic / Claude：邀请尖锐问题",
       "link": "https://www.anthropic.com/news/hard-questions",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-06T03:14:19+00:00",
-      "summary": "提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作就是去解决这些问题。许多人对人工智能持积极态度。",
+      "published": "2026-08-07T02:55:14+00:00",
+      "summary": "邀请困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作是去解决这些问题。许多人对人工智能持积极态度。",
       "score": 60,
       "original_title": "Anthropic / Claude：Inviting hard questions",
       "translated": true,
@@ -109,30 +70,43 @@
       "uid": "b897b46b0e9b"
     },
     {
-      "title": "苹果做错了这件事",
-      "link": "https://openai.com/index/apple-is-getting-this-wrong",
+      "title": "与美国心理学会合作研究青少年心理健康与人工智能",
+      "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-08-03T22:00:00+00:00",
-      "summary": "OpenAI回应苹果毫无根据的诉讼，纠正关于其员工的说法，并分享记录所发生事情的消息。",
+      "published": "2026-08-06T06:00:00+00:00",
+      "summary": "OpenAI 和美国心理学会推动基于证据的指导、资源和保障措施，以促进负责任的人工智能使用和青少年心理健康。",
       "score": 60,
-      "original_title": "Apple is getting this wrong",
+      "original_title": "Working with the American Psychological Association on youth mental health and AI",
       "translated": true,
       "priority": 0,
-      "uid": "799d21c6fbd5"
+      "uid": "b86f6bb93aca"
     },
     {
-      "title": "理想 i8 后驱长续航版上市：CLTC 续航 780km，售价 30.98 万元起",
-      "link": "https://www.ithome.com/0/986/351.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-08-06T02:19:37+00:00",
-      "summary": "IT之家 8 月 6 日消息，理想汽车今日推出理想 i8 后驱长续航版，全国统一零售价为 30.新车定位中大型纯电 SUV，以 780km 超长续航、豪华底盘配置及全面升级的舒适体验为核心卖点。同步推出的限时购车权益最高价值达 35,750 元，定购窗口期为 2026 年 8 月 6 日至 8 月 31 日。针对限时定购用户，理想汽车提供多重权益组合： 金融方案：首付 9.98 万元起，全系可享 3 年 0 息或 5 年超低息，最高节省利息 15,750 元；舒适配置赠送：免费升级主副驾全尺寸零重力座椅（含 16 点揉捏按摩），价值 20,000 元；车主复购福利：理想汽车全系首任车主复购可享 10,000 元现金减免，2,020 款理想 ONE 首任车主更可叠加原 10,000 元尾款减免权益。新车搭载 97.",
-      "score": 45,
+      "title": "6999 元，红魔 11S Pro+ 手机 16GB+512GB 氘锋透明银翼开售",
+      "link": "https://www.ithome.com/0/986/854.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-07T02:43:22+00:00",
+      "summary": "IT之家 8 月 7 日消息，红魔 11S Pro+ 手机 16GB+512GB 氘锋透明银翼近期开售，具体时间为 8 月 7 日 10:00 和 8 月 10 日 10:00，京东平台售价 6999 元。IT之家注意到，红魔 11S Pro 系列手机于今年 5 月发布，采用纯平背板设计。该系列新机配备 6.85 英寸 1.5K 悟空屏 2.0 真无孔，支持 144Hz 刷新率，屏占比达到 95.3%，内置 1600 万像素前摄。红魔联合京东方带来 X10 屏下发光材料，功耗降低 10%，寿命提升 30%，全系搭载 3D 超声波指纹解锁。性能方面，新机搭载 第五代骁龙 8 至尊领先版 移动平台，这颗芯片的 CPU 主频达到 4.此外，该机还搭载红魔自研电竞芯片红芯 R4，实现触控优化、光效控制、渲染提速、超分超帧。",
+      "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "55a6444fc264"
+      "uid": "68a54adaf55a"
+    },
+    {
+      "title": "谷歌 Pixel Watch 5 曝光：4 种颜色，升级 3GB 内存",
+      "link": "https://www.ithome.com/0/986/846.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-07T02:25:12+00:00",
+      "summary": "IT之家 8 月 7 日消息，消息源埃文 · 布拉斯（Evan Blass）昨日（8 月 6 日）在 substack 平台发布动态， 分享了谷歌 Pixel Watch 5 智能手表的相关宣传图片。 功能方面，宣传图显示 Pixel Watch 5 血氧饱和度（SpO2）监测和房颤检测功能，此外还支持追踪用户睡眠等。 同时，这款手表将有 41mm/45mm 两种版本，续航分别为 30 小时 / 40 小时。两款产品预计将搭载高通骁龙 W5 Gen 2 芯片，并 升级 3GB 内存和 64GB 存储空间。 此外，这款手表预计将配备 LTPO AMOLED 屏幕，峰值亮度可达 3000nits，支持 GPS、NFC 和超宽带等，SOS 卫星通信功能也将提供，用户购买后可免费使用两年。 颜色方面，Pixel Watch 5 预估推出哑光黑、抛光银、缎面黄铁矿色和香槟金四种颜色。IT之家附上相关图片如下：",
+      "score": 50,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "7285dc659aa6"
     },
     {
       "title": "世行：AI对发展中经济体利大于弊",
@@ -148,82 +122,82 @@
       "uid": "3f9f470824cf"
     },
     {
-      "title": "欧洲热浪冲击炼油厂和电力供应",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Hitting-Refineries-And-Power-Supplies.html",
+      "title": "油价下跌支持黄金行情上涨",
+      "link": "https://oilprice.com/Metals/Gold/Lower-Oil-Prices-Lend-Support-For-The-Gold-Rally.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-06T00:00:00+00:00",
-      "summary": "极端高温和干旱正开始损害欧洲的能源系统。炼油厂的冷却效率下降，河流水位迫使核电发电量减少，水力发电产量下降，内陆燃料运输成本增加，因为驳船运输的货物量减少。",
+      "published": "2026-08-07T00:00:00+00:00",
+      "summary": "由于对重新开启霍尔木兹海峡的美伊外交谈判持乐观态度，油价连续第二周下跌。唐纳德·特朗普总统周一宣布，美国与德黑兰之间的谈判将重新开始，并补充说，包括沙特阿拉伯在内的美国在该地区的盟友曾敦促他暂停攻击。",
       "score": 15,
-      "original_title": "Europe’s Heatwave Is Hitting Refineries And Power Supplies",
+      "original_title": "Lower Oil Prices Lend Support For The Gold Rally",
       "translated": true,
       "priority": 0,
-      "uid": "35b3066fb4a4"
+      "uid": "6a9e2e295d07"
     },
     {
-      "title": "大型科技公司转向燃料电池为人工智能繁荣提供动力",
-      "link": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
+      "title": "天然气短缺和高价使东南亚的电力建设脱轨",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Gas-Shortages-and-High-Prices-Derail-Southeast-Asias-Power-Buildout.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-05T22:00:00+00:00",
-      "summary": "科技巨头正在利用燃料电池开发商和供应商，为数据和人工智能计算中心提供动力，这项技术比传统的燃气发电电源更清洁且更易实施。燃料电池通过将化学能直接转化为电能来发电，无需燃烧。这项技术可以使用多种燃料运行，包括氢气、天然气和沼气。",
+      "published": "2026-08-06T23:00:00+00:00",
+      "summary": "伍德麦肯锡能源咨询公司表示，东南亚在推动燃气发电以满足日益增长的电力需求以及替代部分煤炭使用的雄心勃勃的项目上进展不足。燃料供应、价格波动和供应链瓶颈可能导致成本上升，并将项目延迟多年。",
       "score": 15,
-      "original_title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
+      "original_title": "Gas Shortages and High Prices Derail Southeast Asia’s Power Buildout",
       "translated": true,
       "priority": 0,
-      "uid": "7cce1c3f46a9"
+      "uid": "2a69d7c93398"
     },
     {
-      "title": "好莱坞又在制作数十亿美元的电影了。《蜘蛛侠》刚加入这一行列",
-      "link": "https://www.cnbc.com/2026/08/05/hollywood-2026-billion-dollar-movies.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-05T21:55:46+00:00",
-      "summary": "好莱坞的十亿美元电影卷土重来。本周，影院行业迎来了2026年的第四部十亿美元电影，因为索尼和漫威的《蜘蛛侠：全新的一天》突破了这一备受追捧的标杆。它与尤尼环球的《超级马里奥银河电影》、狮门影业的《迈克尔》以及迪士尼和皮克斯的《玩具总动员5》一起，加入了三个逗号的行列。",
-      "score": 15,
-      "original_title": "Hollywood is cranking out billion-dollar movies again. 'Spider-Man' just joined the ranks",
-      "translated": true,
-      "priority": 0,
-      "uid": "3439d6f98e84"
-    },
-    {
-      "title": "迪士尼的收益超过预期，因为乐园和流媒体带来提振",
-      "link": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-05T21:21:55+00:00",
-      "summary": "迪士尼周三公布了喜忧参半的季度财报，盈利远超华尔街预期，而收入略低于估计。公司季度业绩再次受到其乐园和流媒体部门的推动。迪士尼体验部门的收入，包括全球主题公园和邮轮，同比增长10%，达到9美元。",
-      "score": 15,
-      "original_title": "Disney tops earnings estimates as parks and streaming offer a boost",
-      "translated": true,
-      "priority": 0,
-      "uid": "824347c39d49"
-    },
-    {
-      "title": "尽管面临挑战，委内瑞拉的石油产量在关键时期增长",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Production-Grows-at-a-Crucial-Time-Despite-Challenges.html",
+      "title": "英国司机在战争引发的油价飙升中开始盗油",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Drivers-Take-To-Fuel-Theft-amid-War-Driven-Price-Surge.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-05T21:00:00+00:00",
-      "summary": "在关键时期，委内瑞拉的石油产量正在增长，中东的冲突扰乱了霍尔木兹海峡的交通，从而压缩了全球石油供应。自从美国在2026年1月初一次大胆的夜间突袭中捕获总统尼古拉斯·马杜罗以来，委内瑞拉的石油产量已飙升至多年高位。最近的监管改革以及美国的放松措施。",
+      "published": "2026-08-06T22:00:00+00:00",
+      "summary": "随着中东战争引发的燃料供应紧张导致驾车成本飙升，英国的司机已经开始在不支付燃料费用的情况下加油。这些犯罪行为包括加油后驾车离开而不付款，以及声称无法支付自己所加燃料费用的人。",
       "score": 15,
-      "original_title": "Venezuela’s Oil Production Grows at a Crucial Time Despite Challenges",
+      "original_title": "UK Drivers Take To Fuel Theft amid War-Driven Price Surge",
       "translated": true,
       "priority": 0,
-      "uid": "0f0d481b389c"
+      "uid": "b122a9450c5d"
     },
     {
-      "title": "在对环孢子虫的担忧加剧其挑战后，Salad and Go 提交第11章破产申请",
-      "link": "https://www.cnbc.com/2026/08/05/salad-and-go-files-chapter-11-bankruptcy-cyclospora.html",
+      "title": "Sweetgreen 调低全年展望，因为对环孢子虫的担忧影响了销售",
+      "link": "https://www.cnbc.com/2026/08/06/sweetgreen-cuts-full-year-outlook-as-cyclospora-fears-weigh-on-sales.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-08-05T17:05:49+00:00",
-      "summary": "Salad and Go 已申请第 11 章破产保护，并将于周三关闭所有现有门店。公司在向 CNBC 发布的声明中表示，由于之前的战略增长挑战、消费者需求疲软以及成本上升，它寻求破产保护。由于持续的隐孢子虫疫情，消费者对食用生菜的担忧只会加剧其问题。",
+      "published": "2026-08-06T21:24:38+00:00",
+      "summary": "Sweetgreen周四下调了全年展望，并预计由于食客担心在持续的环孢虫病爆发期间食用新鲜农产品，其同店销售额将出现更大幅度的下降。该沙拉连锁店的股价在延长交易时段下跌了超过15%。根据美国疾病控制与预防中心的数据，至少已有1万人感染，并导致两人死亡，但Sweetgreen尚未被卷入这一持续的爆发事件中。",
       "score": 15,
-      "original_title": "Salad and Go files for Chapter 11 bankruptcy after cyclospora fears worsened its challenges",
+      "original_title": "Sweetgreen cuts full-year outlook as cyclospora fears weigh on sales",
       "translated": true,
       "priority": 0,
-      "uid": "fceab4025770"
+      "uid": "34c989da3148"
+    },
+    {
+      "title": "美国航空将停止在长途国内航班上把精英乘客从经济舱升级到商务舱",
+      "link": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-06T20:30:05+00:00",
+      "summary": "美国航空的精英常旅客将不得不告别在多条长途国内航线上免费从经济舱升级到商务舱的待遇。美国航空表示，从8月25日起，将停止将具有精英身份的常旅客列入部分跨大陆和夏威夷航线的商务舱升级名单上。他们将被列入免费升级到高级经济舱的名单中。",
+      "score": 15,
+      "original_title": "American Airlines will stop upgrading elite flyers to business from coach on long domestic flights",
+      "translated": true,
+      "priority": 0,
+      "uid": "f03d3b00aa23"
+    },
+    {
+      "title": "节俭者价值村二手店推出新人工智能工具为物品定价",
+      "link": "https://www.cnbc.com/2026/08/06/savers-value-village-thrift-store-launches-new-ai-tool-to-price-items.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-06T20:06:56+00:00",
+      "summary": "Savers Value Village 正在推出一个利用人工智能的新平台，以帮助优化产品定价，公司向 CNBC 独家表示，随着全球市场对难以定价的旧货类商品需求的增加。这个名为 ThriftIQ 的新平台使用人工智能来减少对男女服装系列商品定价所需的工作量，并带来更一致的定价。",
+      "score": 15,
+      "original_title": "Savers Value Village thrift store launches new AI tool to price items",
+      "translated": true,
+      "priority": 0,
+      "uid": "9357102d4314"
     },
     {
       "title": "我们在2026年7月宣布的最新人工智能新闻",
@@ -239,7 +213,7 @@
       "uid": "a5ca65060960"
     },
     {
-      "title": "在我们35.3万人参与的氛围编程课程内部",
+      "title": "走进我们有35.3万人参与的氛围编码课程",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
       "source": "Google AI Blog",
       "category": "AI与科技",
@@ -257,7 +231,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-07-28T16:00:00+00:00",
-      "summary": "双子座 API 托管代理：3.6 闪存、钩子及更多 在 Gemini API 中的托管代理正在获得环境钩子、模型选择和免费层访问。这些功能建立在我们之前发布的背景任务和远程 MCP 服务器集成的基础上。通过 Gemini 交互 API 中的托管代理，单个 API 调用即可协调推理、代码执行、软件包安装、文件管理、一个...",
+      "summary": "双子座 API 托管代理：3.6 闪存、钩子及更多功能 双子座 API 中的托管代理正在获得环境钩子、模型选择和免费层访问。这些功能基于我们之前发布的背景任务和远程 MCP 服务器集成。在双子座交互 API 中的托管代理中，单个 API 调用即可协调推理、代码执行、软件包安装、文件管理，等等。",
       "score": 15,
       "original_title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "translated": true,
@@ -269,31 +243,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3884.6772,
-        "change": 6.2476,
-        "pct": 0.16,
-        "amount_yi": 7427.48
+        "price": 3913.0233,
+        "change": 12.671,
+        "pct": 0.32,
+        "amount_yi": 6522.45
       },
       {
         "name": "深证成指",
-        "price": 14131.92,
-        "change": -12.289,
-        "pct": -0.09,
-        "amount_yi": 8727.43
+        "price": 14263.44,
+        "change": 153.318,
+        "pct": 1.09,
+        "amount_yi": 7633.85
       },
       {
         "name": "创业板指",
-        "price": 3531.29,
-        "change": -3.851,
-        "pct": -0.11,
-        "amount_yi": 2141.05
+        "price": 3574.47,
+        "change": 58.91,
+        "pct": 1.68,
+        "amount_yi": 1771.51
       },
       {
         "name": "沪深300",
-        "price": 4649.3984,
-        "change": -8.7565,
-        "pct": -0.19,
-        "amount_yi": 4828.57
+        "price": 4687.5328,
+        "change": 36.223,
+        "pct": 0.78,
+        "amount_yi": 3950.44
       }
     ],
     "holdings": [
@@ -302,11 +276,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 43.21,
-        "market_value": 4321.0,
-        "pnl": 1148.36,
-        "pnl_pct": 36.2,
-        "weight_hint": "43.0%",
+        "price": 43.87,
+        "market_value": 4387.0,
+        "pnl": 1214.36,
+        "pnl_pct": 38.28,
+        "weight_hint": "43.3%",
         "note": "",
         "available": true
       },
@@ -315,11 +289,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 27.64,
-        "market_value": 2764.0,
-        "pnl": 67.59,
-        "pnl_pct": 2.51,
-        "weight_hint": "27.5%",
+        "price": 27.65,
+        "market_value": 2765.0,
+        "pnl": 68.59,
+        "pnl_pct": 2.54,
+        "weight_hint": "27.3%",
         "note": "",
         "available": true
       },
@@ -328,11 +302,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 7.49,
-        "market_value": 2247.0,
-        "pnl": 369.48,
-        "pnl_pct": 19.68,
-        "weight_hint": "22.4%",
+        "price": 7.52,
+        "market_value": 2256.0,
+        "pnl": 378.48,
+        "pnl_pct": 20.16,
+        "weight_hint": "22.3%",
         "note": "",
         "available": true
       },
@@ -341,11 +315,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.178,
-        "market_value": 235.6,
-        "pnl": -82.4,
-        "pnl_pct": -25.91,
-        "weight_hint": "2.3%",
+        "price": 1.201,
+        "market_value": 240.2,
+        "pnl": -77.8,
+        "pnl_pct": -24.47,
+        "weight_hint": "2.4%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -354,10 +328,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.706,
-        "market_value": 470.6,
-        "pnl": -26.4,
-        "pnl_pct": -5.31,
+        "price": 4.745,
+        "market_value": 474.5,
+        "pnl": -22.5,
+        "pnl_pct": -4.53,
         "weight_hint": "4.7%",
         "note": "",
         "available": true
@@ -378,96 +352,109 @@
     ],
     "sectors": [
       {
-        "name": "金融/银行 · 金融信息服务",
-        "pct": 3.93,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 0.31,
-        "source": "东财行业"
-      },
-      {
         "name": "半导体/电子 · 半导体材料",
-        "pct": 3.53,
+        "pct": 2.82,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 13.38,
+        "main_flow_yi": 9.11,
         "source": "东财行业"
       },
       {
-        "name": "煤炭 · 煤炭行业",
-        "pct": 2.509014049484,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "煤炭 · 煤炭开采",
-        "pct": 2.46,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 2.31,
+        "name": "新能源/光伏 · 光伏主材",
+        "pct": 2.67,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 1.57,
         "source": "东财行业"
       },
       {
         "name": "半导体/电子 · 半导体设备",
-        "pct": 2.08,
+        "pct": 2.48,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 1.96,
+        "main_flow_yi": 0.34,
         "source": "东财行业"
       },
       {
-        "name": "石油 · 石油行业",
-        "pct": 2.0155632095931,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "name": "新能源/光伏 · 锂电池",
+        "pct": 1.33,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 9.58,
+        "source": "东财行业"
+      },
+      {
+        "name": "煤炭 · 煤炭行业",
+        "pct": -0.49297451774232,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "金融/银行 · 金融行业",
-        "pct": -1.0153019356707,
+        "pct": -0.60151842759832,
         "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "电力/公用 · 电力行业",
-        "pct": -1.0221037174434,
+        "name": "石油 · 石油行业",
+        "pct": -0.62301414242103,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "电力/公用 · 供水供气",
+        "pct": -1.0144153764015,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
-    "policy_news": [
+    "policy_news": [],
+    "industry_news": [
       {
-        "title": "联创光电（600363）被证监会立案调查，受损股民可索赔",
-        "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-06/doc-inimivfm4727315.shtml",
-        "level": "高",
-        "tag": "政策"
+        "title": "混战再起？四大行“亮剑”后首家地方中小银行上架5年期大额存单，利率1.7%与股份行倒挂",
+        "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-08-07/doc-inimneni4139694.shtml",
+        "level": "中",
+        "tag": "行业"
       },
       {
-        "title": "佳缘科技（301117）被证监会立案调查，受损股民可索赔",
-        "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-06/doc-inimivft0813351.shtml",
-        "level": "高",
-        "tag": "政策"
+        "title": "诺比侃早盘涨超4% 与国内一家领先AI芯片企业订立约5080万元软件销售协议",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-07/doc-inimmyer3381845.shtml",
+        "level": "中",
+        "tag": "行业"
       }
     ],
-    "industry_news": [],
-    "market_news": [],
-    "total_market_value": 10038.2,
-    "total_pnl": 1476.63,
-    "total_amount_yi": 16154.91,
-    "bias": "震荡",
-    "volume_note": "量能：两市合计约 16155 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 金融信息服务、半导体材料、煤炭行业；偏弱 金融行业、电力行业",
+    "market_news": [
+      {
+        "title": "美的集团于8月6日斥资4002.3万元回购46.96万股A股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-07/doc-inimnenp3264509.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "兆易创新，涨超6%，成交额A股第一",
+        "link": "https://finance.sina.com.cn/stock/relnews/2026-08-07/doc-inimneni4121023.shtml",
+        "level": "中",
+        "tag": "股市"
+      }
+    ],
+    "total_market_value": 10122.7,
+    "total_pnl": 1561.13,
+    "total_amount_yi": 14156.3,
+    "bias": "偏多",
+    "volume_note": "量能：两市合计约 14156 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 半导体材料、光伏主材、半导体设备；偏弱 煤炭行业、金融行业、石油行业",
     "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
   "learning": {
-    "title": "ETF 适合新手的原因",
-    "body": "ETF（交易型开放式指数基金）一篮子持股，分散单家公司暴雷风险。半导体/新能源这种高波动行业，用 ETF 比赌单票更适合学习仓。",
+    "title": "T+1 是什么",
+    "body": "A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "Android 编译",
-    "text": "今儿聊【Android 编译】。Gradle一转，茶凉了；再转，饭糊了；还转，人傻了。你写驱动模式、均衡器、歌词翻译，它回你一个依赖冲突，态度比产品经理还硬。社会经验：能跑的别乱动，能动的别升级——升级这词在编程圈跟“改造”在装修圈一个味儿。"
+    "topic": "血压小计",
+    "text": "今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
