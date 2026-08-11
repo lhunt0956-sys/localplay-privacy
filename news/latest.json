@@ -1,16 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-10T10:12:19.854595+08:00",
+  "generated_at": "2026-08-11T10:06:51.224781+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 19,
   "items": [
     {
-      "title": "Anthropic / 克劳德：介绍克劳德作品 5",
+      "title": "Anthropic / Claude：推出 Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-10T02:12:37+00:00",
-      "summary": "隆重推出 Claude Opus 5 Claude Opus 5 现已上市。 这是一个深思熟虑且积极主动的模型，以一半的价格接近《克劳德寓言 5》的前沿智能。 在 Frontier-Bench 和 GDPval-AA 等编码和知识工作评估中，Opus 5 是最先进的，尽管它在网络安全任务上仍落后于 Mythos 5。 Opus 5 专为日常使用而设计：它的工作效率更高......",
+      "published": "2026-08-11T02:07:07+00:00",
+      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格仅为一半。在编程和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 是新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 的设计用于日常使用：它工作效率更高...",
       "score": 60,
       "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
       "translated": true,
@@ -18,25 +18,25 @@
       "uid": "b08c6994eb9f"
     },
     {
-      "title": "应对关键网络能力的下一个前沿",
-      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "title": "构建以人工智能为核心的财务职能教会了我什么",
+      "link": "https://openai.com/index/building-an-ai-native-finance-function",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-08-07T15:20:00+00:00",
-      "summary": "OpenAI 正在分享对 Astra 的初步网络安全评估以及我们为加强保障和安全控制而采取的步骤。",
+      "published": "2026-08-10T17:00:00+00:00",
+      "summary": "OpenAI 财务总监 Sarah Friar 分享了构建 AI 原生财务职能的五个经验教训，包括从自动化预测到更强的控制以及 AI 投资回报率。",
       "score": 60,
-      "original_title": "Responding to the next frontier of critical cyber capabilities",
+      "original_title": "What building an AI-native finance function taught me",
       "translated": true,
       "priority": 0,
-      "uid": "db0b7333333d"
+      "uid": "9bea87b9d577"
     },
     {
-      "title": "WeatherNext：人工智能模型在预测气旋方面取得突破",
+      "title": "WeatherNext：人工智能模型在气旋预报方面取得突破",
       "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-08-06T15:06:15+00:00",
-      "summary": "WeatherNext：人工智能模型在气旋预报方面取得突破 WeatherNext 可以实现准确的气旋预报，并可以额外提供一天的预警。 现在我们正在开源该模型。 预测气旋的危险程度是一项长期挑战，每一个小时都至关重要。 热带气旋 - 也称为飓风或台风 - 是地球上最具破坏性的天气现象之一，导致...",
+      "summary": "WeatherNext：AI 模型在气旋预报方面取得突破 WeatherNext 实现了准确的气旋预测，可以额外提供一天的预警。现在我们正在开源该模型。预测危险气旋的发展是一个长期存在的挑战，每一小时都至关重要。热带气旋——也被称为飓风或台风——是地球上最具破坏性的天气现象之一，负责…",
       "score": 45,
       "original_title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
       "translated": true,
@@ -57,12 +57,25 @@
       "uid": "68561f1ae562"
     },
     {
-      "title": "人择/克劳德：提出尖锐的问题",
+      "title": "日元回落 美日联合干预效果减弱",
+      "link": "https://www.ftchinese.com/story/001110579",
+      "source": "FT 中文网",
+      "category": "A股与宏观",
+      "published": "2026-08-10T16:00:00+00:00",
+      "summary": "投资者认为，除非日本央行后续采取加息行动，否则此次干预不太可能提供持久支撑。他们还指出，缺乏国际合作影响了干预效果。",
+      "score": 60,
+      "original_title": "",
+      "translated": false,
+      "priority": 45,
+      "uid": "a234cef55ae4"
+    },
+    {
+      "title": "Anthropic / Claude：邀请尖锐问题",
       "link": "https://www.anthropic.com/news/hard-questions",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-10T02:12:37+00:00",
-      "summary": "提出难题 谁决定人工智能的规则？ 人工智能能给我的孩子一个更好的未来吗？ 人工智能会让世界变得更加危险吗？ AI能帮助科学家治愈疾病吗？ 人们对人工智能有很多棘手的问题。 我们的工作就是解决这些问题。 许多人对人工智能持积极态度。",
+      "published": "2026-08-11T02:07:07+00:00",
+      "summary": "提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作是去解决这些问题。许多人对人工智能持积极态度。",
       "score": 60,
       "original_title": "Anthropic / Claude：Inviting hard questions",
       "translated": true,
@@ -70,43 +83,43 @@
       "uid": "b897b46b0e9b"
     },
     {
-      "title": "HSP GRUPPE 如何构建人工智能税务咨询能力",
-      "link": "https://openai.com/index/hsp-gruppe",
+      "title": "OpenAI致阿博特州长关于德克萨斯州负责任的人工智能基础设施的信",
+      "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-08-07T09:00:00+00:00",
-      "summary": "了解 HSP GRUPPE 如何使用 ChatGPT Enterprise 来提高生产力、提高工作质量并创造更多税务咨询和客户服务能力。",
+      "published": "2026-08-10T14:00:00+00:00",
+      "summary": "OpenAI向州长Greg Abbott发送了一封信，概述了其在德克萨斯州负责任人工智能基础设施方面的承诺。信中支持可靠、透明的发展，造福德克萨斯居民。",
       "score": 60,
-      "original_title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "original_title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
       "translated": true,
       "priority": 0,
-      "uid": "b7d2981f9d57"
+      "uid": "397625e84b21"
     },
     {
-      "title": "鸿蒙智行智界 RX 全新车色“闪蝶蓝”公布，8 月开启小订",
-      "link": "https://www.ithome.com/0/987/677.htm",
+      "title": "宁德时代全球 10 大宁家服务直营体验中心开业，推出首款电池维修服务车",
+      "link": "https://www.ithome.com/0/988/122.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-10T01:12:41+00:00",
-      "summary": "IT之家 8 月 10 日消息，智界汽车今日公布智界 RX 全新车色 —— 闪蝶蓝，据官方介绍，其采用创新纳米级仿生结构色车漆。 据此前官方公布消息，这款鸿蒙智行 SUV 将于 8 月开启小订 。官方还表示，这款新车“不卷价格卷价值”，将拥有全新一代华为巨鲸电池平台创新黑科技、四激光雷达矩阵、面向更高阶智驾的全链路冗余架构、行业首创电磁热控压铸技术等技术加持，并在造型、驾控等领域拥有“顶级资源的赋能”和“创新科技的突破”。 IT之家注意到， 智界 RX 搭载“创新 L 形”星眸大灯和贯穿式环形星钻尾灯 ，宣称具有“极致”轮高比和悬浮式车身架构，全车 10 处气动设计布局。新车还将提供 20-22 英寸多款不同样式轮毂，并可选红、灰、黄等颜色的刹车卡钳。 鸿蒙智行智界 RX 于今年 6 月出现在工信部申报目录中，可选 160+277kW 华为双电机四驱版本，极速 251 km/h。该车长宽高 5020mm*2007*1585mm， 轴距 3000mm 。 相关阅读： 《 鸿蒙智行智界 RX 官宣 8 月开启小订：为“精英中的前行者”打造 》",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 35,
-      "uid": "97f528ed7f82"
-    },
-    {
-      "title": "超越机遇号，NASA 毅力号即将创下火星行驶距离新纪录",
-      "link": "https://www.ithome.com/0/987/718.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-10T02:11:18+00:00",
-      "summary": "IT之家 8 月 10 日消息，本周某个时候，NASA 的火星探测车“毅力号”（Perseverance）将创造一项纪录，成为在另一个星球表面行驶距离最远的人造车辆。据IT之家了解，这辆汽车大小的火星车于 2021 年 2 月成功登陆火星，届时它将在火星表面累计行驶超过 45.16 公里（28.06 英里），从而打破此前由“机遇号”（Opportunity）火星车保持的纪录。机遇号于 2018 年与 NASA 失去通信联系。那么，为什么毅力号只用了三分之一左右的时间，就达到了这一创纪录的行驶距离呢？一辆能够自动驾驶的火星车 “真正实现这一目标的关键技术，是它的自动导航系统。”NASA 喷气推进实验室（JPL）毅力号项目经理史蒂文 · 李（Steven Lee）在接受采访时表示。与地球上的自动驾驶汽车类似，毅力号搭载了先进的车载摄像头，可以拍摄周围地形。",
+      "published": "2026-08-11T01:16:13+00:00",
+      "summary": "IT之家 8 月 11 日消息，宁德时代独立后市场品牌宁家服务 8 月 10 日在海南海口举办 2026 年度品牌日活动。活动现场， 海口、杭州、广州、香港及挪威、土耳其等全球 10 大直营体验中心同步开业 ，并完成百城签约。宁德时代还宣布，2026 年下半年， 宁家服务直营体验中心将逐步落地全球 100 座城市 ，全面迈入规模化服务新阶段。宁家服务将业务边界拓展至“海、陆、空、智、储”等场景，全面构建全场景售后服务能力： 陆行与换电 ：已累计为 1,505 座换电站提供运维支持。水上交通 ：2026 年 6 月，完成首代船舶动力电池售后服务交付。低空与智能装备 ：成为峰飞航空 eVTOL 销售代理，并与银河通用机器人达成战略合作，布局智能服务领域。储能全域运维 ：融合卫星遥感、无人机与具身机器人，构建“空、地、云”感知网络与主动预测性运维体系，实现运营风险降低 90%，运维成本降低 30%。",
       "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "15257e4936d0"
+      "uid": "135b04d3678f"
+    },
+    {
+      "title": "铭凡推出 Elite Mini M2 Air-304 迷你主机，配备 \"Wildcat Lake\" 处理器",
+      "link": "https://www.ithome.com/0/988/123.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-11T01:17:12+00:00",
+      "summary": "IT之家 8 月 11 日消息，MINISFORUM（铭凡）现已在其官网上架开售 Elite Mini M2 Air-304 迷你主机。这一型号基于英特尔酷睿 3 处理器 304 \"Wildcat Lake\"，拥有 1P + 0E +4LP-E 的 CPU 和 1X e -core GPU。铭凡 M2 Air-304 三维 112×112×37.15 (mm)，质量 0.44kg， 28W TDP 平衡模式下处理器满载温度 72~80℃、满载噪声 32.其 配备 1 个 DDR5-6400 CSO-DIMM 内存插槽 、1 个 M.2 2280 PCIe Gen4 ×4 SSD 盘位，通过英特尔 AX211 无线网卡提供 Wi-Fi 6E 与蓝牙 5.而在外部 I/O 方面，该迷你主机正面提供 2 个 USB-A 10Gbps、1 个 3.",
+      "score": 25,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "385ab7f7f295"
     },
     {
       "title": "甲骨文对 OpenJDK 项目禁止 AI 生成代码",
@@ -114,7 +127,7 @@
       "source": "Solidot·通信",
       "category": "通信与安防",
       "published": "2026-08-08T15:36:46+00:00",
-      "summary": "solidot新版网站常见问题，请点击这里查看。消息 本文已被查看 2943 次 甲骨文对 OpenJDK 项目禁止 AI 生成代码 甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成的代码提交到代码库、pull request 或其它项目渠道。https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851 https://www.",
+      "summary": "solidot新版网站常见问题，请点击这里查看。消息 本文已被查看 4255 次 甲骨文对 OpenJDK 项目禁止 AI 生成代码 甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成的代码提交到代码库、pull request 或其它项目渠道。https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851 https://www.",
       "score": 25,
       "original_title": "",
       "translated": false,
@@ -122,64 +135,64 @@
       "uid": "9db2a1c524c1"
     },
     {
-      "title": "小米米家净化加湿器 3 Pro 发售：8L 容量水箱、16 小时持续工作，1999 元",
-      "link": "https://www.ithome.com/0/987/715.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-08-10T02:07:16+00:00",
-      "summary": "IT之家 8 月 10 日消息，小米旗下米家净化加湿器 3 Pro 现已在京东发售， 定价为 1999 元 。 京东 小米米家净化加湿器 3 Pro 1999 元 直达链接 米家净化加湿器 3 Pro 的加湿量可达 2000mL/h，睡眠档噪音低至 28.1dB(A)；还有净化空气功能，颗粒物 CADR 实测可达 422m³/h，甲醛 CADR 实测可达 247m³/h。 产品采用单向喷淋水路设计，旧水不回流、水箱不发黄；顶部配备 LCD 屏幕显示五大数据；搭载 8L 容量水箱，可 16 小时持续加湿，支持单独净化，支持自清洁。 米家净化加湿器 3 Pro 支持小爱同学控制，还能在米家 App 查看加湿曲线。 此外，米家净化加湿器 3 Pro 支持直接从顶部加水，也可以提走水箱加水，还配有万向轮方便移动。 IT之家附参数表如下：",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "f782374b89cc"
-    },
-    {
-      "title": "为什么特朗普放弃琼斯法案不太可能降低天然气价格",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Why-Trumps-Waiver-of-the-Jones-Act-Is-Unlikely-To-Lower-Gas-Prices.html",
+      "title": "霍尔木兹冲击远未结束",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Hormuz-Shock-Is-Far-From-Over.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-09T23:00:00+00:00",
-      "summary": "由于每加仑 4 美元以上的汽油价格可能成为共和党进入中期选举的负担，唐纳德·特朗普总统正在考虑再次暂停《琼斯法案》。 此举将再次向悬挂外国国旗的廉价船只开放国内石油和燃料运输，延长特朗普在伊朗战争导致三月份原油价格大幅上涨后实施的紧急豁免。",
+      "published": "2026-08-11T00:00:00+00:00",
+      "summary": "最新的彭博数据显示，尽管据报道伊朗和阿曼接近达成协议，霍尔木兹海峡的航运周一早晨仍然大体上受到干扰。布伦特原油期货价格接近每桶85美元，因为市场预计重新开放这一海上瓶颈的协议可能即将达成。",
       "score": 15,
-      "original_title": "Why Trump’s Waiver of the Jones Act Is Unlikely To Lower Gas Prices",
+      "original_title": "The Hormuz Shock Is Far From Over",
       "translated": true,
       "priority": 0,
-      "uid": "087e05f022f3"
+      "uid": "0c79642fe38c"
     },
     {
-      "title": "重新开放核电站需要什么？",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/What-Does-It-Take-to-Reopen-a-Nuclear-Power-Plant.html",
+      "title": "全球柴油紧缺在冬季需求高峰前恶化",
+      "link": "https://oilprice.com/Energy/Energy-General/Global-Diesel-Crunch-Worsens-Ahead-of-Peak-Winter-Demand.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-09T19:00:00+00:00",
-      "summary": "在美国，特朗普总统的目标是通过开发新项目和修复旧反应堆来扩大该国的核电容量。 然而，重新启动废弃反应堆并不只是将其重新启动那么简单，因为必须考虑严格的安全标准。",
+      "published": "2026-08-10T22:00:00+00:00",
+      "summary": "随着波斯湾的和平仍然难以实现，乌克兰无人机持续袭击俄罗斯炼油厂，全球燃料危机日益严峻，预计未来几个月需求将增加，尤其是柴油。世界某些地区的短缺现已成为现实。路透社上周报道称，在东南亚，棕榈油农户正面临柴油供应短缺和价格飙升的问题。",
       "score": 15,
-      "original_title": "What Does It Take to Reopen a Nuclear Power Plant?",
+      "original_title": "Global Diesel Crunch Worsens Ahead of Peak Winter Demand",
       "translated": true,
       "priority": 0,
-      "uid": "1d64d8ed2eb7"
+      "uid": "d5fe966679bf"
     },
     {
-      "title": "欧洲的下一次能源危机不会是一场战争，而是石油峰值",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Next-Energy-Crisis-Wont-Be-a-War-Itll-Be-Peak-Oil.html",
+      "title": "伊拉克的石油生命线重新开放——但巴格达能信任土耳其哪怕一年吗？",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Iraqs-Oil-Lifeline-Reopens-But-Can-Baghdad-Trust-Turkey-for-Even-One-Year.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-09T17:00:00+00:00",
-      "summary": "在全球地缘政治摩擦和争吵几乎持续不断的背景下，欧洲目前正在应对四年来的第三次能源危机。 近几个月和几年来，随着欧盟在全球石油危机之间极短的时间内努力喘口气并稳定市场，非洲大陆对外国化石燃料进口的过度依赖得到了极大缓解。",
+      "published": "2026-08-10T21:00:00+00:00",
+      "summary": "伊拉克超过90%的年度预算仍来自石油出口，历史上约有95%的原油通过霍尔木兹海峡运输，在海峡实际上被封锁的情况下，确保另一条出口路线已成为巴格达的生存问题。",
       "score": 15,
-      "original_title": "Europe's Next Energy Crisis Won't Be a War, It'll Be Peak Oil",
+      "original_title": "Iraq’s Oil Lifeline Reopens — But Can Baghdad Trust Turkey for Even One Year?",
       "translated": true,
       "priority": 0,
-      "uid": "48567ab116c1"
+      "uid": "2139461475c0"
     },
     {
-      "title": "对环孢菌的恐惧导致消费者对沙拉失去胃口",
+      "title": "随着安全问题增加，美国卫生与公众服务部采取措施加强对食品成分的监管",
+      "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-10T18:46:43+00:00",
+      "summary": "卫生与公共服务部周一宣布了一项政策提案，旨在让联邦政府对国家食品供应有更大的可见性。HHS提议要求像百事可乐或雀巢这样的制造商在确定某种成分被“公认为安全”（GRAS）时，通知食品药品管理局。",
+      "score": 15,
+      "original_title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
+      "translated": true,
+      "priority": 0,
+      "uid": "255f95c392a6"
+    },
+    {
+      "title": "对环孢子虫的担忧导致消费者对沙拉失去食欲",
       "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-08-08T12:00:01+00:00",
-      "summary": "温暖的天气通常会推动沙拉销售，但由于受到持续的环孢子虫爆发的惊吓，今年夏天的消费者正在避免购买生菜。 Placer 称，7 月 18 日，就在美国食品和药物管理局宣布疫情爆发后，Chopt Creative Salad Co. 门店的客流量下降了 24%。 人工智能数据。 Sweetgreen 周四表示，消费者对疫情的担忧对同店销售产生了约 6 个百分点的影响。",
+      "published": "2026-08-10T17:23:17+00:00",
+      "summary": "温暖的天气通常会推动沙拉的销售，但由于持续的环孢子菌疫情令消费者感到恐慌，今年夏天人们都在避开生菜。根据Placer.ai的数据，在美国食品药品监督管理局宣布疫情后不久的7月18日，Chopt Creative Salad Co.各店的客流量比同周的平均水平下降了24%。",
       "score": 15,
       "original_title": "Cyclospora fears lead consumers to lose their appetite for salads",
       "translated": true,
@@ -187,38 +200,38 @@
       "uid": "2f23674e480f"
     },
     {
-      "title": "汉堡王取代温迪汉堡成为全美第二大汉堡连锁店",
-      "link": "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-07T18:19:39+00:00",
-      "summary": "按全系统销售额计算，汉堡王已超越温迪汉堡，成为美国第二大汉堡连锁店，在输给竞争对手连锁店六年后重新夺回桂冠。 此次排名变化是由于两家公司过去两年的业绩出现分歧。 温迪百货 (Wendy's) 报告称，美国同店销售额已连续六个季度萎缩。 该公司报告称，最近一个季度其国内同店销售额下滑 7%...",
+      "title": "用新的人工智能工具发展你的营销",
+      "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "Google AI Blog",
+      "category": "AI与科技",
+      "published": "2026-08-10T14:30:00+00:00",
+      "summary": "利用新的人工智能工具发展您的营销。优秀的营销一直需要深入的测量专业知识来揭示“为什么”，并需要战略敏捷性来执行“如何”。这就是为什么我们推出了 Ask Advisor 1 —— 我们在 Google 营销平台中的产品内人工智能代理——将这些答案和行动直接交到营销人员手中。",
       "score": 15,
-      "original_title": "Burger King overtakes Wendy's as the nation's second-largest burger chain",
+      "original_title": "Evolve your marketing with new AI tools",
       "translated": true,
       "priority": 0,
-      "uid": "c8454f885f4b"
+      "uid": "4a513ae35763"
     },
     {
-      "title": "公司对航空公司最便宜的商务舱机票嗤之以鼻。 “真正的价值是灵活性”",
-      "link": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-07T15:13:11+00:00",
-      "summary": "芝加哥——首席高管的商务舱机票不包含高级选座、休息室使用权或航班改签吗？ 一些公司表示，绝对不是。 达美航空上个月加入联合航空的行列，为某些航班推出了精简的商务舱票价，采取了与航空公司相同的方法，将经济舱划分为更昂贵的客舱，因为航空公司让客户支付更多的费用。",
+      "title": "写给“跑两步就喘”的你：调整跑步姿势，舒适开跑",
+      "link": "https://sspai.com/post/113115",
+      "source": "少数派",
+      "category": "健康生活",
+      "published": "2026-08-10T07:00:00+00:00",
+      "summary": "在“舒适跑”系列的上一篇文章中，我分享了跑前精准热身的方式，希望帮助大家缓解跑步时常见的小腿前侧疼。文章发布一个多月后，一位少数派读者回来留言： 时隔一个多月来反馈，确实有效果！为这位派友愿意亲自尝试并回来反馈的行动力点赞，这条留言也让我更有动力把“舒适跑”系列继续写下去。如果说上一篇解决的是“跑步前如何做好准备”，那么这一篇想聊的就是：跑起来之后如何更舒服？我们会从跑步姿势、呼吸节奏和运动强度入手，“舒适驾驭身体”，而不是一味靠自律和意志力硬撑。技巧一：跑步时借助重力而不是对抗重力 很多人跑步，没跑两步就很喘，随后就放弃了。我之前遇到这些人，就会劝他们：“不要着急，你现在是心肺能力不够强，慢慢练练，练多了就不喘了。”直到我遇到一个体校毕业的师妹，改变了我对这件事的看法。她身体素质很强，甚至会一天两练，每天都会在跑步机上爬坡 30 分钟。",
       "score": 15,
-      "original_title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
-      "translated": true,
+      "original_title": "",
+      "translated": false,
       "priority": 0,
-      "uid": "18a42198ca57"
+      "uid": "25f933075ab8"
     },
     {
-      "title": "我们于 2026 年 7 月公布的最新 AI 新闻",
+      "title": "我们在2026年7月公布的最新人工智能新闻",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-04T13:00:00+00:00",
-      "summary": "我们于 2026 年 7 月宣布的最新人工智能新闻 20 多年来，我们一直投资于机器学习和人工智能研究、工具和基础设施，以打造让更多人的日常生活变得更美好的产品。 Google 的团队正在研究如何释放人工智能在医疗保健、危机应对和教育等广泛领域的优势。 为了让您随时了解我们的进展，我们正在定期进行综述...",
+      "summary": "我们在2026年7月公布的最新人工智能新闻：二十多年来，我们一直在投资机器学习和人工智能的研究、工具以及基础设施，以构建让更多人日常生活更美好的产品。谷歌各团队正在探索在医疗、危机应对和教育等广泛领域释放人工智能的潜力。为了让您了解我们的进展，我们会定期进行汇总...",
       "score": 15,
       "original_title": "The latest AI news we announced in July 2026",
       "translated": true,
@@ -226,12 +239,12 @@
       "uid": "a5ca65060960"
     },
     {
-      "title": "深入了解我们 353,000 人的氛围编码课程",
+      "title": "走进我们有35.3万人参与的氛围编码课程",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-03T15:00:00+00:00",
-      "summary": "在我们 353,000 人的氛围编码课程中，人工智能的发展速度比传统的学习和教学方法跟得上。 随着新概念、技能、想法和工具几乎每天都会出现，我们需要一种新的方法来教授和学习这些新技术。 自 Google 和 Kaggle 于 2024 年推出首个“5 天强化”课程以来，已有超过 200 万学习者和开发者参加了多模式、无合作的课程。",
+      "summary": "在我们拥有 353,000 人参与的 Vibe 编码课程中，AI 的发展速度已经超过了传统学习和教学方法能够跟上的速度。随着新概念、技能、理念和工具几乎每天都在出现，我们需要一种新的方式来教授和学习这些新技术。自从谷歌和 Kaggle 在 2024 年推出首个“5 天密集”课程以来，已有超过 200 万学习者和开发者参与了这种多模态、无合作的课程...",
       "score": 15,
       "original_title": "Inside our 353,000-person vibe coding course",
       "translated": true,
@@ -243,31 +256,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3951.9371,
-        "change": 11.9,
-        "pct": 0.3,
-        "amount_yi": 5391.82
+        "price": 3950.2466,
+        "change": -16.3469,
+        "pct": -0.41,
+        "amount_yi": 3796.63
       },
       {
         "name": "深证成指",
-        "price": 14201.37,
-        "change": -109.639,
-        "pct": -0.77,
-        "amount_yi": 6327.81
+        "price": 14267.39,
+        "change": -49.57,
+        "pct": -0.35,
+        "amount_yi": 4547.06
       },
       {
         "name": "创业板指",
-        "price": 3501.48,
-        "change": -61.634,
-        "pct": -1.73,
-        "amount_yi": 1521.16
+        "price": 3531.2,
+        "change": -6.013,
+        "pct": -0.17,
+        "amount_yi": 975.32
       },
       {
         "name": "沪深300",
-        "price": 4679.8895,
-        "change": -14.547,
-        "pct": -0.31,
-        "amount_yi": 3346.26
+        "price": 4684.7161,
+        "change": -17.3086,
+        "pct": -0.37,
+        "amount_yi": 2146.46
       }
     ],
     "holdings": [
@@ -276,11 +289,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 44.59,
-        "market_value": 4459.0,
-        "pnl": 1286.36,
-        "pnl_pct": 40.55,
-        "weight_hint": "43.6%",
+        "price": 44.72,
+        "market_value": 4472.0,
+        "pnl": 1299.36,
+        "pnl_pct": 40.96,
+        "weight_hint": "43.5%",
         "note": "",
         "available": true
       },
@@ -289,11 +302,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 27.96,
-        "market_value": 2796.0,
-        "pnl": 99.59,
-        "pnl_pct": 3.69,
-        "weight_hint": "27.3%",
+        "price": 28.3,
+        "market_value": 2830.0,
+        "pnl": 133.59,
+        "pnl_pct": 4.95,
+        "weight_hint": "27.5%",
         "note": "",
         "available": true
       },
@@ -302,11 +315,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 7.53,
-        "market_value": 2259.0,
-        "pnl": 381.48,
-        "pnl_pct": 20.32,
-        "weight_hint": "22.1%",
+        "price": 7.55,
+        "market_value": 2265.0,
+        "pnl": 387.48,
+        "pnl_pct": 20.64,
+        "weight_hint": "22.0%",
         "note": "",
         "available": true
       },
@@ -315,10 +328,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.183,
-        "market_value": 236.6,
-        "pnl": -81.4,
-        "pnl_pct": -25.6,
+        "price": 1.182,
+        "market_value": 236.4,
+        "pnl": -81.6,
+        "pnl_pct": -25.66,
         "weight_hint": "2.3%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -328,10 +341,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.737,
-        "market_value": 473.7,
-        "pnl": -23.3,
-        "pnl_pct": -4.69,
+        "price": 4.747,
+        "market_value": 474.7,
+        "pnl": -22.3,
+        "pnl_pct": -4.49,
         "weight_hint": "4.6%",
         "note": "",
         "available": true
@@ -352,43 +365,57 @@
     ],
     "sectors": [
       {
-        "name": "金融/银行 · 金融信息服务",
-        "pct": 3.72,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 0.01,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭行业",
-        "pct": 1.1138819617623,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "电力/公用 · 供水供气",
-        "pct": 0.92671952003428,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
         "name": "石油 · 石油行业",
-        "pct": 0.58392346875388,
+        "pct": 1.4317452480869,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
+        "name": "石油 · 石油石化",
+        "pct": 0.84,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": 5.41,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 金融信息服务",
+        "pct": 0.82,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": 0.08,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 供水供气",
+        "pct": 0.71938668346986,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "电力/公用 · 电力",
+        "pct": 0.43,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": 3.8,
+        "source": "东财行业"
+      },
+      {
+        "name": "煤炭 · 煤炭行业",
+        "pct": 0.10046963714105,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
         "name": "金融/银行 · 金融行业",
-        "pct": 0.21333072776719,
+        "pct": -0.029320258669838,
         "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "半导体/电子 · 电子器件",
-        "pct": -1.6887542218856,
+        "pct": -0.87371127586809,
         "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
@@ -398,30 +425,42 @@
     "industry_news": [],
     "market_news": [
       {
-        "title": "茅台又提价！吃喝板块开盘猛拉，华宝基金食品饮料ETF（515710）涨超1%！机构坚定看好底部机会",
-        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-10/doc-inimuvrr1322951.shtml",
+        "title": "A股又见大肉签，中一签即赚逾21万元！",
+        "link": "https://finance.sina.com.cn/stock/2026-08-11/doc-inimxewu5883005.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "要告别“外卖指数”？恒生科技将迎来最大改革：扩容至50只，AI升独立主题，404亿美元资金将迎调仓",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimwyqt7686836.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "五粮液1618上涨2元 阶段性整理行情暂告结束",
+        "link": "https://finance.sina.com.cn/chanjing/jync/2026-08-11/doc-inimwyqw5986257.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10224.3,
-    "total_pnl": 1662.73,
-    "total_amount_yi": 11719.63,
-    "bias": "偏空",
-    "volume_note": "量能：两市合计约 11720 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 金融信息服务、煤炭行业、供水供气；偏弱 电子器件",
-    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
+    "total_market_value": 10278.1,
+    "total_pnl": 1716.53,
+    "total_amount_yi": 8343.69,
+    "bias": "震荡",
+    "volume_note": "量能：两市合计约 8344 亿元（接口口径），成交中等",
+    "sector_note": "行业分化：偏强 石油行业、石油石化、金融信息服务；偏弱 金融行业、电子器件",
+    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
     "errors": []
   },
   "learning": {
-    "title": "净息差（银行）",
-    "body": "净息差 = 贷款利率与存款利率的差距，是银行赚钱能力的核心之一。工行观察点：净息差是否继续收窄，以及不良贷款率。",
+    "title": "护城河（初识）",
+    "body": "护城河指公司难以被抢走的优势。长电的水电资产、神华的煤电一体，都是“不好复制”的例子——但护城河也会随产业政策变化。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "AI 工具",
-    "text": "今儿聊【AI 工具】。大模型像特别能干的实习生：秒出三千字，里头三分真七分顺嘴。你让它写可研，它写得比你快；你让它对定额，它比你敢。社会经验：AI能提效，不能替你背锅——锅永远有编制，编制在你工号上。"
+    "topic": "绿茶黑咖啡",
+    "text": "今儿聊【绿茶黑咖啡】。上午绿茶续命，下午咖啡续命，晚上想着早睡，躺下开始续念头。念头一续就到两点，两点一过，第二天的方案开始穿睡衣上班。社会经验：提神饮品解决不了睡眠债，只能把欠条写得更工整。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
