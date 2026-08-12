@@ -1,34 +1,34 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-11T10:06:51.224781+08:00",
+  "generated_at": "2026-08-12T10:24:42.299246+08:00",
   "timezone": "Asia/Shanghai",
   "count": 19,
   "items": [
+    {
+      "title": "在 ChatGPT 中测试广告",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-08-11T10:00:00+00:00",
+      "summary": "OpenAI开始在ChatGPT中测试广告以支持免费访问，同时明确标注、保持回答独立性、提供强隐私保护和用户控制。",
+      "score": 65,
+      "original_title": "Testing ads in ChatGPT",
+      "translated": true,
+      "priority": 0,
+      "uid": "e03d6d9dfc15"
+    },
     {
       "title": "Anthropic / Claude：推出 Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-11T02:07:07+00:00",
-      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格仅为一半。在编程和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 是新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 的设计用于日常使用：它工作效率更高...",
+      "published": "2026-08-12T02:25:03+00:00",
+      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格仅为一半。在编程和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 是新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 的设计用于日常使用：它工作更加高效...",
       "score": 60,
       "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
       "translated": true,
       "priority": 0,
       "uid": "b08c6994eb9f"
-    },
-    {
-      "title": "构建以人工智能为核心的财务职能教会了我什么",
-      "link": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-08-10T17:00:00+00:00",
-      "summary": "OpenAI 财务总监 Sarah Friar 分享了构建 AI 原生财务职能的五个经验教训，包括从自动化预测到更强的控制以及 AI 投资回报率。",
-      "score": 60,
-      "original_title": "What building an AI-native finance function taught me",
-      "translated": true,
-      "priority": 0,
-      "uid": "9bea87b9d577"
     },
     {
       "title": "WeatherNext：人工智能模型在气旋预报方面取得突破",
@@ -57,6 +57,19 @@
       "uid": "68561f1ae562"
     },
     {
+      "title": "AI 公司面壁智能启动 IPO",
+      "link": "https://www.ithome.com/0/988/581.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-12T00:53:43+00:00",
+      "summary": "IT之家 8 月 12 日消息，证监会网站披露，北京面壁智能科技股份有限公司于 2026 年 8 月 11 日在北京证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为中信证券。辅导备案报告显示，该公司无控股股东，公司第一大股东为北京清语启航科技中心（有限合伙），持股比例 16.IT之家注：面壁智能（ModelBest）2022 年孵化自清华大学 NLP 实验室，是一家 AI 大模型企业。该公司专注于高效端侧大模型和开源生态，标志性产品为 MiniCPM 端侧系列大模型。",
+      "score": 70,
+      "original_title": "",
+      "translated": false,
+      "priority": 35,
+      "uid": "33e6cb981170"
+    },
+    {
       "title": "日元回落 美日联合干预效果减弱",
       "link": "https://www.ftchinese.com/story/001110579",
       "source": "FT 中文网",
@@ -70,12 +83,12 @@
       "uid": "a234cef55ae4"
     },
     {
-      "title": "Anthropic / Claude：邀请尖锐问题",
+      "title": "Anthropic / Claude：提出尖锐问题",
       "link": "https://www.anthropic.com/news/hard-questions",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-11T02:07:07+00:00",
-      "summary": "提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作是去解决这些问题。许多人对人工智能持积极态度。",
+      "published": "2026-08-12T02:25:03+00:00",
+      "summary": "提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作就是去解决这些问题。许多人对人工智能持积极态度。",
       "score": 60,
       "original_title": "Anthropic / Claude：Inviting hard questions",
       "translated": true,
@@ -83,121 +96,121 @@
       "uid": "b897b46b0e9b"
     },
     {
-      "title": "OpenAI致阿博特州长关于德克萨斯州负责任的人工智能基础设施的信",
-      "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "title": "Daybreak 模型现已在 AWS 上可用",
+      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-08-10T14:00:00+00:00",
-      "summary": "OpenAI向州长Greg Abbott发送了一封信，概述了其在德克萨斯州负责任人工智能基础设施方面的承诺。信中支持可靠、透明的发展，造福德克萨斯居民。",
+      "published": "2026-08-11T10:00:00+00:00",
+      "summary": "OpenAI 和 AWS 正通过 Amazon Bedrock 提供 Daybreak 网络安全能力，以支持企业安全工作流程。",
       "score": 60,
-      "original_title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "original_title": "Daybreak models are now available on AWS",
       "translated": true,
       "priority": 0,
-      "uid": "397625e84b21"
+      "uid": "ec7546818357"
     },
     {
-      "title": "宁德时代全球 10 大宁家服务直营体验中心开业，推出首款电池维修服务车",
-      "link": "https://www.ithome.com/0/988/122.htm",
+      "title": "REDMI K100 Pro Max 上手体验：性能“超大杯”，续航也够猛",
+      "link": "https://www.ithome.com/0/988/618.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-11T01:16:13+00:00",
-      "summary": "IT之家 8 月 11 日消息，宁德时代独立后市场品牌宁家服务 8 月 10 日在海南海口举办 2026 年度品牌日活动。活动现场， 海口、杭州、广州、香港及挪威、土耳其等全球 10 大直营体验中心同步开业 ，并完成百城签约。宁德时代还宣布，2026 年下半年， 宁家服务直营体验中心将逐步落地全球 100 座城市 ，全面迈入规模化服务新阶段。宁家服务将业务边界拓展至“海、陆、空、智、储”等场景，全面构建全场景售后服务能力： 陆行与换电 ：已累计为 1,505 座换电站提供运维支持。水上交通 ：2026 年 6 月，完成首代船舶动力电池售后服务交付。低空与智能装备 ：成为峰飞航空 eVTOL 销售代理，并与银河通用机器人达成战略合作，布局智能服务领域。储能全域运维 ：融合卫星遥感、无人机与具身机器人，构建“空、地、云”感知网络与主动预测性运维体系，实现运营风险降低 90%，运维成本降低 30%。",
+      "published": "2026-08-12T02:01:35+00:00",
+      "summary": "8 月 11 日晚 19:00，全新一代 REDMI K100 Pro 系列手机新品正式发布，包括 REDMI K100 Pro 和 REDMI K100 Pro Max 两款型号可选。新机搭载第五代骁龙 8 至尊版处理器、6 英寸以上巨屏、9070mAh 金沙江电池等核心配置，主打大屏、长续航和游戏体验。IT之家第一时间拿到机器并进行了体验，本次我们重点来聊聊 REDMI K100 Pro Max 这款“超大杯”的体验究竟如何。一、设计篇 REDMI K100 Pro Max 依旧延续了 K 系列家族设计语言，后盖的视觉重心基本集中在镜头 Deco 部分。3 颗相同大小的后摄镜头 + 补光灯呈现标准的矩阵排列，这次的镜头不再突出于 Deco 表面，而是做成了纯平，右侧是印有 BOSE 标志的超大低音炮单元，扬声器封盖的下半部分是半圆形的精密 CNC 开孔，周围一圈凹陷部分还做了隐藏式悬浮单色灯环，支持音乐律动应用、通知应用、来电提醒和游戏灯效，玩法多样电竞氛围感十足。",
       "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "135b04d3678f"
+      "uid": "db7ae59516db"
     },
     {
-      "title": "铭凡推出 Elite Mini M2 Air-304 迷你主机，配备 \"Wildcat Lake\" 处理器",
-      "link": "https://www.ithome.com/0/988/123.htm",
+      "title": "小米卢伟冰：REDMI K100 Pro Max 手机首销日销量为上代同期 150%",
+      "link": "https://www.ithome.com/0/988/589.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-11T01:17:12+00:00",
-      "summary": "IT之家 8 月 11 日消息，MINISFORUM（铭凡）现已在其官网上架开售 Elite Mini M2 Air-304 迷你主机。这一型号基于英特尔酷睿 3 处理器 304 \"Wildcat Lake\"，拥有 1P + 0E +4LP-E 的 CPU 和 1X e -core GPU。铭凡 M2 Air-304 三维 112×112×37.15 (mm)，质量 0.44kg， 28W TDP 平衡模式下处理器满载温度 72~80℃、满载噪声 32.其 配备 1 个 DDR5-6400 CSO-DIMM 内存插槽 、1 个 M.2 2280 PCIe Gen4 ×4 SSD 盘位，通过英特尔 AX211 无线网卡提供 Wi-Fi 6E 与蓝牙 5.而在外部 I/O 方面，该迷你主机正面提供 2 个 USB-A 10Gbps、1 个 3.",
-      "score": 25,
+      "published": "2026-08-12T01:15:03+00:00",
+      "summary": "IT之家 8 月 12 日消息，小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰今日宣布， K100 Pro Max 首销日销量为上代同期 150% 。据IT之家此前报道，小米 REDMI K100 Pro Max 手机昨晚正式发布，首销价 4199 元起： 12GB+256GB：4499 元，首销价 4199 元，国补价 3699 元 16GB+256GB：4899 元，首销价 4599 元，国补价 4099 元 12GB+512GB：5099 元，首销价 4799 元，国补价 4299 元 16GB+512GB：5499 元，首销价 5199 元，国补价 4699 元 16GB+1TB：5999 元，国补价 5499 元（限量两万台） REDMI K100 Pro Max 搭载第五代骁龙 8 至尊版处理器和 AI 独显芯片 D2；",
+      "score": 50,
       "original_title": "",
       "translated": false,
-      "priority": 0,
-      "uid": "385ab7f7f295"
+      "priority": 25,
+      "uid": "caf8679f9cb6"
     },
     {
-      "title": "甲骨文对 OpenJDK 项目禁止 AI 生成代码",
-      "link": "https://www.solidot.org/story?sid=85041",
-      "source": "Solidot·通信",
-      "category": "通信与安防",
-      "published": "2026-08-08T15:36:46+00:00",
-      "summary": "solidot新版网站常见问题，请点击这里查看。消息 本文已被查看 4255 次 甲骨文对 OpenJDK 项目禁止 AI 生成代码 甲骨文今年在数据中心扩建上投入了 700 亿美元，内部也在鼓励员工使用 AI 工具生成代码，但对于 JDK 开源版本 OpenJDK 项目，甲骨文以存在安全、隐私和知识产权风险的理由禁止 AI 生成代码。甲骨文表示，开发者可以私底下使用 LLM 进行代码调试（debug）和审查，但不能将 AI 生成的代码提交到代码库、pull request 或其它项目渠道。https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851 https://www.",
-      "score": 25,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "9db2a1c524c1"
-    },
-    {
-      "title": "霍尔木兹冲击远未结束",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Hormuz-Shock-Is-Far-From-Over.html",
+      "title": "美以沙三方排除伊朗参与全球石油市场的计划内幕",
+      "link": "https://oilprice.com/Energy/Energy-General/Inside-the-Secret-USIsraelSaudi-Plan-to-Cut-Iran-Out-of-the-Global-Oil-Suppl.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-11T00:00:00+00:00",
-      "summary": "最新的彭博数据显示，尽管据报道伊朗和阿曼接近达成协议，霍尔木兹海峡的航运周一早晨仍然大体上受到干扰。布伦特原油期货价格接近每桶85美元，因为市场预计重新开放这一海上瓶颈的协议可能即将达成。",
+      "published": "2026-08-12T00:00:00+00:00",
+      "summary": "无论接下来在美国与伊朗之间断断续续的和平谈判中官方发生什么，德黑兰非官方地知道，它已经事实上控制了世界上两个关键的海上能源运输通道——霍尔木兹海峡和曼德海峡——至少在伊朗伊斯兰政权存在期间一直如此。",
       "score": 15,
-      "original_title": "The Hormuz Shock Is Far From Over",
+      "original_title": "Inside the U.S.–Israel–Saudi Plan to Cut Iran Out of Global Oil",
       "translated": true,
       "priority": 0,
-      "uid": "0c79642fe38c"
+      "uid": "789518527f06"
     },
     {
-      "title": "全球柴油紧缺在冬季需求高峰前恶化",
-      "link": "https://oilprice.com/Energy/Energy-General/Global-Diesel-Crunch-Worsens-Ahead-of-Peak-Winter-Demand.html",
+      "title": "阿拉斯加价值550亿美元的液化天然气大型项目在最终投资决定前与更多买家进行谈判",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Alaskas-55B-LNG-Mega-Project-In-Talks-With-More-Buyers-Ahead-Of-FID.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-10T22:00:00+00:00",
-      "summary": "随着波斯湾的和平仍然难以实现，乌克兰无人机持续袭击俄罗斯炼油厂，全球燃料危机日益严峻，预计未来几个月需求将增加，尤其是柴油。世界某些地区的短缺现已成为现实。路透社上周报道称，在东南亚，棕榈油农户正面临柴油供应短缺和价格飙升的问题。",
+      "published": "2026-08-11T23:00:00+00:00",
+      "summary": "两年前，阿拉斯加液化天然气项目在争取前进所需的私人融资方面遇到困难，高昂的北极建设成本、后勤复杂性以及巨额前期财产税负担使得贷款方和潜在的亚洲买家犹豫不决。然而，从那时起，这个价值550亿美元的巨型项目的前景已经大为改善。",
       "score": 15,
-      "original_title": "Global Diesel Crunch Worsens Ahead of Peak Winter Demand",
+      "original_title": "Alaska’s $55B LNG Mega-Project In Talks With More Buyers Ahead Of FID",
       "translated": true,
       "priority": 0,
-      "uid": "d5fe966679bf"
+      "uid": "24baa54e8e29"
     },
     {
-      "title": "伊拉克的石油生命线重新开放——但巴格达能信任土耳其哪怕一年吗？",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Iraqs-Oil-Lifeline-Reopens-But-Can-Baghdad-Trust-Turkey-for-Even-One-Year.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-08-10T21:00:00+00:00",
-      "summary": "伊拉克超过90%的年度预算仍来自石油出口，历史上约有95%的原油通过霍尔木兹海峡运输，在海峡实际上被封锁的情况下，确保另一条出口路线已成为巴格达的生存问题。",
-      "score": 15,
-      "original_title": "Iraq’s Oil Lifeline Reopens — But Can Baghdad Trust Turkey for Even One Year?",
-      "translated": true,
-      "priority": 0,
-      "uid": "2139461475c0"
-    },
-    {
-      "title": "随着安全问题增加，美国卫生与公众服务部采取措施加强对食品成分的监管",
-      "link": "https://www.cnbc.com/2026/08/10/hhs-makes-announcements-on-gras-ultraprocessed-food.html",
+      "title": "通用汽车达成高达45亿美元的零部件交易，旨在避免供应链问题",
+      "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-08-10T18:46:43+00:00",
-      "summary": "卫生与公共服务部周一宣布了一项政策提案，旨在让联邦政府对国家食品供应有更大的可见性。HHS提议要求像百事可乐或雀巢这样的制造商在确定某种成分被“公认为安全”（GRAS）时，通知食品药品管理局。",
+      "published": "2026-08-11T22:42:10+00:00",
+      "summary": "底特律 — 通用汽车已经达成了一项独特的数十亿美元零部件交易，旨在保留现金并防止供应链中断，这类中断在本十年已经影响了全球汽车行业。通用汽车在周二的一份公开文件中表示，这项高达45亿美元的采购设施包括一家名为Procura Auto Parts的公司，该公司专门从事稀有或关键零部件的采购。",
       "score": 15,
-      "original_title": "HHS moves to tighten oversight of food ingredients as safety concerns mount",
+      "original_title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
       "translated": true,
       "priority": 0,
-      "uid": "255f95c392a6"
+      "uid": "adbce84283ac"
     },
     {
-      "title": "对环孢子虫的担忧导致消费者对沙拉失去食欲",
-      "link": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-10T17:23:17+00:00",
-      "summary": "温暖的天气通常会推动沙拉的销售，但由于持续的环孢子菌疫情令消费者感到恐慌，今年夏天人们都在避开生菜。根据Placer.ai的数据，在美国食品药品监督管理局宣布疫情后不久的7月18日，Chopt Creative Salad Co.各店的客流量比同周的平均水平下降了24%。",
+      "title": "钠离子电池作为锂的替代品获得进展",
+      "link": "https://oilprice.com/Energy/Energy-General/Sodium-Ion-Batteries-Gain-Ground-as-Lithium-Alternative.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-08-11T22:00:00+00:00",
+      "summary": "在许多政府推进能源转型的浪潮中，多年来电池一直是热门话题，但如今，随着对传统能源替代方案的疯狂寻找，这一话题变得更加火热。虽然锂电池在电动汽车和储能领域仍然占主导地位，但竞争对手正在出现，其中之一，本质上就是食盐。本月早些时候，中国媒体报道称，首辆搭载钠离子电池的卡车...",
       "score": 15,
-      "original_title": "Cyclospora fears lead consumers to lose their appetite for salads",
+      "original_title": "Sodium-Ion Batteries Gain Ground as Lithium Alternative",
       "translated": true,
       "priority": 0,
-      "uid": "2f23674e480f"
+      "uid": "99c736a021d3"
+    },
+    {
+      "title": "黄仁勋5000亿美元人工智能融资计划为何面临来自中国的重大风险",
+      "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-11T21:01:13+00:00",
+      "summary": "黄仁勋通过开创推动人工智能繁荣的专业计算机芯片，建立了世界上最有价值的公司。为了让他对未来的愿景触手可及，这位英伟达创始人现在正在尝试另一种工程：说服华尔街投资者，将这些芯片视为类似于商业地产或收费公路的长期金融资产。",
+      "score": 15,
+      "original_title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+      "translated": true,
+      "priority": 0,
+      "uid": "baa78dbf47e2"
+    },
+    {
+      "title": "AMIE，我们的研究型医疗人工智能系统，在一项史无前例的研究中展示了实时临床视频咨询能力。",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "Google AI Blog",
+      "category": "AI与科技",
+      "published": "2026-08-11T17:00:00+00:00",
+      "summary": "AMIE，我们的研究型医疗人工智能系统，在一项前所未有的研究中展示了实时临床视频会诊能力。当你看医生时，会诊远不止语言交流——医生会注意咳嗽、观察步态，或察觉可见的不适迹象。",
+      "score": 15,
+      "original_title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "translated": true,
+      "priority": 0,
+      "uid": "343d58c33ec0"
     },
     {
       "title": "用新的人工智能工具发展你的营销",
@@ -226,7 +239,7 @@
       "uid": "25f933075ab8"
     },
     {
-      "title": "我们在2026年7月公布的最新人工智能新闻",
+      "title": "我们在2026年7月发布的最新人工智能新闻",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "source": "Google AI Blog",
       "category": "AI与科技",
@@ -237,50 +250,37 @@
       "translated": true,
       "priority": 0,
       "uid": "a5ca65060960"
-    },
-    {
-      "title": "走进我们有35.3万人参与的氛围编码课程",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-08-03T15:00:00+00:00",
-      "summary": "在我们拥有 353,000 人参与的 Vibe 编码课程中，AI 的发展速度已经超过了传统学习和教学方法能够跟上的速度。随着新概念、技能、理念和工具几乎每天都在出现，我们需要一种新的方式来教授和学习这些新技术。自从谷歌和 Kaggle 在 2024 年推出首个“5 天密集”课程以来，已有超过 200 万学习者和开发者参与了这种多模态、无合作的课程...",
-      "score": 15,
-      "original_title": "Inside our 353,000-person vibe coding course",
-      "translated": true,
-      "priority": 0,
-      "uid": "f76832163d5f"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3950.2466,
-        "change": -16.3469,
-        "pct": -0.41,
-        "amount_yi": 3796.63
+        "price": 3937.6162,
+        "change": 3.5233,
+        "pct": 0.09,
+        "amount_yi": 4255.15
       },
       {
         "name": "深证成指",
-        "price": 14267.39,
-        "change": -49.57,
-        "pct": -0.35,
-        "amount_yi": 4547.06
+        "price": 14372.63,
+        "change": 113.188,
+        "pct": 0.79,
+        "amount_yi": 5116.94
       },
       {
         "name": "创业板指",
-        "price": 3531.2,
-        "change": -6.013,
-        "pct": -0.17,
-        "amount_yi": 975.32
+        "price": 3588.62,
+        "change": 39.456,
+        "pct": 1.11,
+        "amount_yi": 1094.15
       },
       {
         "name": "沪深300",
-        "price": 4684.7161,
-        "change": -17.3086,
-        "pct": -0.37,
-        "amount_yi": 2146.46
+        "price": 4678.8422,
+        "change": 15.0535,
+        "pct": 0.32,
+        "amount_yi": 2272.07
       }
     ],
     "holdings": [
@@ -289,11 +289,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 44.72,
-        "market_value": 4472.0,
-        "pnl": 1299.36,
-        "pnl_pct": 40.96,
-        "weight_hint": "43.5%",
+        "price": 44.29,
+        "market_value": 4429.0,
+        "pnl": 1256.36,
+        "pnl_pct": 39.6,
+        "weight_hint": "43.4%",
         "note": "",
         "available": true
       },
@@ -302,10 +302,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.3,
-        "market_value": 2830.0,
-        "pnl": 133.59,
-        "pnl_pct": 4.95,
+        "price": 28.06,
+        "market_value": 2806.0,
+        "pnl": 109.59,
+        "pnl_pct": 4.06,
         "weight_hint": "27.5%",
         "note": "",
         "available": true
@@ -315,11 +315,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 7.55,
-        "market_value": 2265.0,
-        "pnl": 387.48,
-        "pnl_pct": 20.64,
-        "weight_hint": "22.0%",
+        "price": 7.53,
+        "market_value": 2259.0,
+        "pnl": 381.48,
+        "pnl_pct": 20.32,
+        "weight_hint": "22.1%",
         "note": "",
         "available": true
       },
@@ -328,11 +328,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.182,
-        "market_value": 236.4,
-        "pnl": -81.6,
-        "pnl_pct": -25.66,
-        "weight_hint": "2.3%",
+        "price": 1.203,
+        "market_value": 240.6,
+        "pnl": -77.4,
+        "pnl_pct": -24.34,
+        "weight_hint": "2.4%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -341,10 +341,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.747,
-        "market_value": 474.7,
-        "pnl": -22.3,
-        "pnl_pct": -4.49,
+        "price": 4.738,
+        "market_value": 473.8,
+        "pnl": -23.2,
+        "pnl_pct": -4.67,
         "weight_hint": "4.6%",
         "note": "",
         "available": true
@@ -365,102 +365,110 @@
     ],
     "sectors": [
       {
-        "name": "石油 · 石油行业",
-        "pct": 1.4317452480869,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "石油 · 石油石化",
-        "pct": 0.84,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": 5.41,
+        "name": "新能源/光伏 · 光伏加工设备",
+        "pct": 2.87,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.24,
         "source": "东财行业"
       },
       {
-        "name": "金融/银行 · 金融信息服务",
-        "pct": 0.82,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 0.08,
+        "name": "半导体/电子 · 半导体设备",
+        "pct": 2.73,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 8.7,
+        "source": "东财行业"
+      },
+      {
+        "name": "半导体/电子 · 半导体材料",
+        "pct": 2.59,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 4.0,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 光伏主材",
+        "pct": 2.57,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 1.76,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 电力设备",
+        "pct": 1.31,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": 8.59,
         "source": "东财行业"
       },
       {
         "name": "电力/公用 · 供水供气",
-        "pct": 0.71938668346986,
+        "pct": 1.2953230344535,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "电力/公用 · 电力",
-        "pct": 0.43,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": 3.8,
-        "source": "东财行业"
-      },
-      {
         "name": "煤炭 · 煤炭行业",
-        "pct": 0.10046963714105,
+        "pct": 0.20156092530527,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "金融/银行 · 金融行业",
-        "pct": -0.029320258669838,
+        "pct": -0.15934291581109,
         "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子器件",
-        "pct": -0.87371127586809,
-        "why": "对应半导体ETF，关注景气与政策",
+        "name": "石油 · 石油行业",
+        "pct": -1.4313677514069,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
     "policy_news": [],
-    "industry_news": [],
+    "industry_news": [
+      {
+        "title": "重磅！海力士重启大连NAND工厂，扩产潮验证高景气，费率较低的科创芯片ETF华宝（589190）早盘涨超2%！",
+        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-12/doc-inimzivt3757299.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "半导体行情进入下一程，如何高效布局？",
+        "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-12/doc-inimzivt3745260.shtml",
+        "level": "中",
+        "tag": "行业"
+      }
+    ],
     "market_news": [
       {
-        "title": "A股又见大肉签，中一签即赚逾21万元！",
-        "link": "https://finance.sina.com.cn/stock/2026-08-11/doc-inimxewu5883005.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "要告别“外卖指数”？恒生科技将迎来最大改革：扩容至50只，AI升独立主题，404亿美元资金将迎调仓",
-        "link": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimwyqt7686836.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "五粮液1618上涨2元 阶段性整理行情暂告结束",
-        "link": "https://finance.sina.com.cn/chanjing/jync/2026-08-11/doc-inimwyqw5986257.shtml",
+        "title": "分析师称美股即将迎来历史上表现强劲的行情窗口期",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimzivt3740525.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10278.1,
-    "total_pnl": 1716.53,
-    "total_amount_yi": 8343.69,
-    "bias": "震荡",
-    "volume_note": "量能：两市合计约 8344 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 石油行业、石油石化、金融信息服务；偏弱 金融行业、电子器件",
+    "total_market_value": 10208.4,
+    "total_pnl": 1646.83,
+    "total_amount_yi": 9372.09,
+    "bias": "偏多",
+    "volume_note": "量能：两市合计约 9372 亿元（接口口径），成交中等",
+    "sector_note": "行业分化：偏强 光伏加工设备、半导体设备、半导体材料；偏弱 金融行业、石油行业",
     "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
     "errors": []
   },
   "learning": {
-    "title": "护城河（初识）",
-    "body": "护城河指公司难以被抢走的优势。长电的水电资产、神华的煤电一体，都是“不好复制”的例子——但护城河也会随产业政策变化。",
+    "title": "什么是指数",
+    "body": "沪深300（Shanghai-Shenzhen 300 Index，沪深两市规模大、流动性好的300家公司）像“大盘平均分”。你买的300ETF，本质上就是在跟踪这个平均分。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "绿茶黑咖啡",
-    "text": "今儿聊【绿茶黑咖啡】。上午绿茶续命，下午咖啡续命，晚上想着早睡，躺下开始续念头。念头一续就到两点，两点一过，第二天的方案开始穿睡衣上班。社会经验：提神饮品解决不了睡眠债，只能把欠条写得更工整。"
+    "topic": "通信铁塔",
+    "text": "今儿聊【通信铁塔】。这铁塔往山上一立，跟个钢筋仙鹤似的，鹤不飞，人得爬。领导说“顺便看看点位”，这顺便俩字一出，你就知道中午泡面泡不上了。缆没拉上先拉上脸色，链路没通先把汇报通了。社会经验：凡写着“现场简单勘察”的，背包里都得备双袜子。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
