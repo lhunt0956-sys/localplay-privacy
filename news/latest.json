@@ -1,9 +1,48 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-12T10:24:42.299246+08:00",
+  "generated_at": "2026-08-13T10:26:28.276579+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 19,
+  "count": 17,
   "items": [
+    {
+      "title": "从辅助到执行：企业如何将人工智能投入使用",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-08-12T06:00:00+00:00",
+      "summary": "OpenAI 的研究揭示了企业如何采用能动 AI，使用 ChatGPT 和 Codex，以及前沿公司在 AI 采用方面如何领先。",
+      "score": 65,
+      "original_title": "From assistance to execution: How enterprises put AI to work",
+      "translated": true,
+      "priority": 0,
+      "uid": "410a1eefd110"
+    },
+    {
+      "title": "Anthropic / Claude：推出 Claude Opus 5",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic / Claude",
+      "category": "头部AI动态",
+      "published": "2026-08-13T02:26:42+00:00",
+      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格只有一半。在编码和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 已成为新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 旨在用于日常使用：它工作效率更高...",
+      "score": 60,
+      "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
+      "translated": true,
+      "priority": 0,
+      "uid": "b08c6994eb9f"
+    },
+    {
+      "title": "将手语人工智能交到用户手中",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind",
+      "category": "头部AI动态",
+      "published": "2026-08-12T14:01:59+00:00",
+      "summary": "将手语人工智能交到用户手中 介绍手语转文本（SL2T），这是我们的突破性模型，为聋人和听力障碍用户提供新的手语功能。人工智能处理口语语言的能力在过去几十年中迅速发展，实现了自动翻译、听写和让听力用户感觉轻松的对话接口。",
+      "score": 45,
+      "original_title": "Putting sign language AI into users’ hands",
+      "translated": true,
+      "priority": 0,
+      "uid": "cd9b72e43a78"
+    },
     {
       "title": "在 ChatGPT 中测试广告",
       "link": "https://openai.com/index/testing-ads-in-chatgpt",
@@ -16,58 +55,6 @@
       "translated": true,
       "priority": 0,
       "uid": "e03d6d9dfc15"
-    },
-    {
-      "title": "Anthropic / Claude：推出 Claude Opus 5",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "source": "Anthropic / Claude",
-      "category": "头部AI动态",
-      "published": "2026-08-12T02:25:03+00:00",
-      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格仅为一半。在编程和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 是新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 的设计用于日常使用：它工作更加高效...",
-      "score": 60,
-      "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
-      "translated": true,
-      "priority": 0,
-      "uid": "b08c6994eb9f"
-    },
-    {
-      "title": "WeatherNext：人工智能模型在气旋预报方面取得突破",
-      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "source": "Google DeepMind",
-      "category": "头部AI动态",
-      "published": "2026-08-06T15:06:15+00:00",
-      "summary": "WeatherNext：AI 模型在气旋预报方面取得突破 WeatherNext 实现了准确的气旋预测，可以额外提供一天的预警。现在我们正在开源该模型。预测危险气旋的发展是一个长期存在的挑战，每一小时都至关重要。热带气旋——也被称为飓风或台风——是地球上最具破坏性的天气现象之一，负责…",
-      "score": 45,
-      "original_title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "translated": true,
-      "priority": 0,
-      "uid": "c83f5eea5a35"
-    },
-    {
-      "title": "印尼今夏经历频繁停电",
-      "link": "https://www.ftchinese.com/story/001110566",
-      "source": "FT 中文网",
-      "category": "持仓相关",
-      "published": "2026-08-09T16:00:00+00:00",
-      "summary": "电力短缺凸显印尼依赖煤炭，且对可再生能源基础设施投资不足——尽管该国承诺在未来15年内逐步淘汰燃煤电厂。",
-      "score": 75,
-      "original_title": "",
-      "translated": false,
-      "priority": 50,
-      "uid": "68561f1ae562"
-    },
-    {
-      "title": "AI 公司面壁智能启动 IPO",
-      "link": "https://www.ithome.com/0/988/581.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-12T00:53:43+00:00",
-      "summary": "IT之家 8 月 12 日消息，证监会网站披露，北京面壁智能科技股份有限公司于 2026 年 8 月 11 日在北京证监局办理辅导备案登记，拟首次公开发行股票并上市，辅导券商为中信证券。辅导备案报告显示，该公司无控股股东，公司第一大股东为北京清语启航科技中心（有限合伙），持股比例 16.IT之家注：面壁智能（ModelBest）2022 年孵化自清华大学 NLP 实验室，是一家 AI 大模型企业。该公司专注于高效端侧大模型和开源生态，标志性产品为 MiniCPM 端侧系列大模型。",
-      "score": 70,
-      "original_title": "",
-      "translated": false,
-      "priority": 35,
-      "uid": "33e6cb981170"
     },
     {
       "title": "日元回落 美日联合干预效果减弱",
@@ -87,8 +74,8 @@
       "link": "https://www.anthropic.com/news/hard-questions",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-12T02:25:03+00:00",
-      "summary": "提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作就是去解决这些问题。许多人对人工智能持积极态度。",
+      "published": "2026-08-13T02:26:42+00:00",
+      "summary": "邀请困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作是去解决这些问题。许多人对人工智能持积极态度。",
       "score": 60,
       "original_title": "Anthropic / Claude：Inviting hard questions",
       "translated": true,
@@ -96,111 +83,111 @@
       "uid": "b897b46b0e9b"
     },
     {
-      "title": "Daybreak 模型现已在 AWS 上可用",
-      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-08-11T10:00:00+00:00",
-      "summary": "OpenAI 和 AWS 正通过 Amazon Bedrock 提供 Daybreak 网络安全能力，以支持企业安全工作流程。",
-      "score": 60,
-      "original_title": "Daybreak models are now available on AWS",
-      "translated": true,
-      "priority": 0,
-      "uid": "ec7546818357"
-    },
-    {
-      "title": "REDMI K100 Pro Max 上手体验：性能“超大杯”，续航也够猛",
-      "link": "https://www.ithome.com/0/988/618.htm",
+      "title": "联想来酷 Air 14 2026 笔记本新增酷睿 3-304/5-320 处理器版本，3999 元起",
+      "link": "https://www.ithome.com/0/989/026.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-12T02:01:35+00:00",
-      "summary": "8 月 11 日晚 19:00，全新一代 REDMI K100 Pro 系列手机新品正式发布，包括 REDMI K100 Pro 和 REDMI K100 Pro Max 两款型号可选。新机搭载第五代骁龙 8 至尊版处理器、6 英寸以上巨屏、9070mAh 金沙江电池等核心配置，主打大屏、长续航和游戏体验。IT之家第一时间拿到机器并进行了体验，本次我们重点来聊聊 REDMI K100 Pro Max 这款“超大杯”的体验究竟如何。一、设计篇 REDMI K100 Pro Max 依旧延续了 K 系列家族设计语言，后盖的视觉重心基本集中在镜头 Deco 部分。3 颗相同大小的后摄镜头 + 补光灯呈现标准的矩阵排列，这次的镜头不再突出于 Deco 表面，而是做成了纯平，右侧是印有 BOSE 标志的超大低音炮单元，扬声器封盖的下半部分是半圆形的精密 CNC 开孔，周围一圈凹陷部分还做了隐藏式悬浮单色灯环，支持音乐律动应用、通知应用、来电提醒和游戏灯效，玩法多样电竞氛围感十足。",
-      "score": 50,
+      "published": "2026-08-13T00:26:19+00:00",
+      "summary": "IT之家 8 月 13 日消息， 联想来酷 Air 14 2026 笔记本于今年 5 月正式开售 ，搭载英特尔酷睿 5 315 处理器，建议零售价 4499 元。IT之家注意到，联想现已为这款机型增加了酷睿 3 304 和酷睿 5 320 处理器版本可选，新品将于 8 月 18 日开售， 售价 3999 元起 ： 酷睿 3 304、12GB+512GB：3999 元，国补价 3399.15 元 酷睿 5 320、12GB+1TB：5199 元，国补价 4419.15 元 该机采用一体式全金属机身，厚 12.95mm，重 990g；配备一块 14 英寸 1920×1200 分辨率 60Hz LCD 面板，300 尼特亮度，100% sRGB 色域，支持 DC 调光；配备三档背光可调 1.2mm 键程键盘。",
+      "score": 20,
       "original_title": "",
       "translated": false,
-      "priority": 25,
-      "uid": "db7ae59516db"
+      "priority": 0,
+      "uid": "6ae2110d4391"
     },
     {
-      "title": "小米卢伟冰：REDMI K100 Pro Max 手机首销日销量为上代同期 150%",
-      "link": "https://www.ithome.com/0/988/589.htm",
-      "source": "IT之家·通信安防",
+      "title": "农民因听从 AI 建议而导致 150 亩芝麻几乎全毁",
+      "link": "https://www.solidot.org/story?sid=85077",
+      "source": "Solidot·通信",
       "category": "通信与安防",
-      "published": "2026-08-12T01:15:03+00:00",
-      "summary": "IT之家 8 月 12 日消息，小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰今日宣布， K100 Pro Max 首销日销量为上代同期 150% 。据IT之家此前报道，小米 REDMI K100 Pro Max 手机昨晚正式发布，首销价 4199 元起： 12GB+256GB：4499 元，首销价 4199 元，国补价 3699 元 16GB+256GB：4899 元，首销价 4599 元，国补价 4099 元 12GB+512GB：5099 元，首销价 4799 元，国补价 4299 元 16GB+512GB：5499 元，首销价 5199 元，国补价 4699 元 16GB+1TB：5999 元，国补价 5499 元（限量两万台） REDMI K100 Pro Max 搭载第五代骁龙 8 至尊版处理器和 AI 独显芯片 D2；",
-      "score": 50,
+      "published": "2026-08-12T11:03:17+00:00",
+      "summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方案直接付诸实行。吴大伯 7 月 10 日向 AI 询问芝麻如何除草、除虫，AI 随即生成一套“百亩芝麻飞防除草＋除虫全套方案”，其中推荐使用“高效氟吡甲禾灵”及“氟磺胺草醚”除草，另搭配“噻虫嗪”及“甲维盐”等药剂。吴大伯未进一步向农技人员确认，便依照方案喷药。没想到隔天田里便出现严重异常，芝麻苗与杂草大面积枯死。事后他再次询问 AI，AI 才指出配方中的“氟磺胺草醚”可能是造成芝麻死亡的主要原因。当地农技人员表示，氟磺胺草醚主要用于大豆田防除阔叶杂草，并不适用于芝麻田；",
+      "score": 20,
       "original_title": "",
       "translated": false,
-      "priority": 25,
-      "uid": "caf8679f9cb6"
+      "priority": 0,
+      "uid": "c715b071526e"
     },
     {
-      "title": "美以沙三方排除伊朗参与全球石油市场的计划内幕",
-      "link": "https://oilprice.com/Energy/Energy-General/Inside-the-Secret-USIsraelSaudi-Plan-to-Cut-Iran-Out-of-the-Global-Oil-Suppl.html",
+      "title": "微软八月例行更新修复 421 个 bug，包括正被朝鲜黑客利用的 0day",
+      "link": "https://www.solidot.org/story?sid=85071",
+      "source": "Solidot·通信",
+      "category": "通信与安防",
+      "published": "2026-08-12T08:12:16+00:00",
+      "summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary Function Driver for WinSock 的一个释放后使用 bug，攻击者能利用该 bug 以 SYSTEM 权限执行代码且无需用户交互。发现该 bug 的安全公司 Check Point 称，Lazarus Group 正通过钓鱼攻击利用该 bug，当受害者打开特制 PDF 文件后攻击者会安装名为 Troy 的后门。",
+      "score": 20,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "a750017de938"
+    },
+    {
+      "title": "乌克兰攻击导致俄罗斯黑海重要粮食终端的运营中断",
+      "link": "https://oilprice.com/Geopolitics/Europe/Ukrainian-Attack-Halts-Operations-at-Key-Russian-Black-Sea-Grain-Terminals.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-12T00:00:00+00:00",
-      "summary": "无论接下来在美国与伊朗之间断断续续的和平谈判中官方发生什么，德黑兰非官方地知道，它已经事实上控制了世界上两个关键的海上能源运输通道——霍尔木兹海峡和曼德海峡——至少在伊朗伊斯兰政权存在期间一直如此。",
+      "published": "2026-08-12T23:00:00+00:00",
+      "summary": "泽连斯基总统和乌克兰武装部队到底没有听从美国副总统JD·范斯的警告和请求吗？周三，对俄罗斯港口城市新罗西斯克发动了一次“巨大”的乌克兰无人机和导弹攻击，这次袭击严重损坏了谷物出口码头，而该地也是黑海上最后一个主要的俄罗斯海军基地。",
       "score": 15,
-      "original_title": "Inside the U.S.–Israel–Saudi Plan to Cut Iran Out of Global Oil",
+      "original_title": "Ukrainian Attack Halts Operations at Key Russian Black Sea Grain Terminals",
       "translated": true,
       "priority": 0,
-      "uid": "789518527f06"
+      "uid": "9c0bab623fad"
     },
     {
-      "title": "阿拉斯加价值550亿美元的液化天然气大型项目在最终投资决定前与更多买家进行谈判",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Alaskas-55B-LNG-Mega-Project-In-Talks-With-More-Buyers-Ahead-Of-FID.html",
+      "title": "EIA 预计到2027年底，中东石油仍将有60万桶/天处于离线状态",
+      "link": "https://oilprice.com/Energy/Crude-Oil/EIA-Sees-600000-Bpd-of-Middle-East-Oil-Still-Offline-by-End-2027.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-11T23:00:00+00:00",
-      "summary": "两年前，阿拉斯加液化天然气项目在争取前进所需的私人融资方面遇到困难，高昂的北极建设成本、后勤复杂性以及巨额前期财产税负担使得贷款方和潜在的亚洲买家犹豫不决。然而，从那时起，这个价值550亿美元的巨型项目的前景已经大为改善。",
+      "published": "2026-08-12T22:00:00+00:00",
+      "summary": "美国能源信息署（EIA）本周在最新的《短期能源展望（STEO）》中表示，霍尔木兹海峡关闭时间超出预期，这意味着中东部分地区的石油产量将持续关闭直到明年年底。",
       "score": 15,
-      "original_title": "Alaska’s $55B LNG Mega-Project In Talks With More Buyers Ahead Of FID",
+      "original_title": "EIA Sees 600,000 Bpd of Middle East Oil Still Offline by End-2027",
       "translated": true,
       "priority": 0,
-      "uid": "24baa54e8e29"
+      "uid": "12d4e1bd5eca"
     },
     {
-      "title": "通用汽车达成高达45亿美元的零部件交易，旨在避免供应链问题",
-      "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
+      "title": "由于有报道称可能被纳尔逊·佩尔茨的特里安基金管理公司收购，温迪的股价上涨",
+      "link": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-08-11T22:42:10+00:00",
-      "summary": "底特律 — 通用汽车已经达成了一项独特的数十亿美元零部件交易，旨在保留现金并防止供应链中断，这类中断在本十年已经影响了全球汽车行业。通用汽车在周二的一份公开文件中表示，这项高达45亿美元的采购设施包括一家名为Procura Auto Parts的公司，该公司专门从事稀有或关键零部件的采购。",
+      "published": "2026-08-12T21:13:11+00:00",
+      "summary": "周三，温迪股份上涨超过14%，此前《金融时报》报道，纳尔逊·佩尔茨的特瑞安基金管理公司正在准备对这家陷入困境的汉堡连锁店进行收购投标。截至周三收盘，该股票今年迄今已上涨约4%，但由于波动性交易一度被暂停。",
       "score": 15,
-      "original_title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
+      "original_title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
       "translated": true,
       "priority": 0,
-      "uid": "adbce84283ac"
+      "uid": "ed4be6c2d3f9"
     },
     {
-      "title": "钠离子电池作为锂的替代品获得进展",
-      "link": "https://oilprice.com/Energy/Energy-General/Sodium-Ion-Batteries-Gain-Ground-as-Lithium-Alternative.html",
+      "title": "麻省理工学院的新框架旨在解决核聚变的资金问题",
+      "link": "https://oilprice.com/Energy/Energy-General/MITs-New-Framework-Aims-to-Tackle-Nuclear-Fusions-Money-Problem.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-11T22:00:00+00:00",
-      "summary": "在许多政府推进能源转型的浪潮中，多年来电池一直是热门话题，但如今，随着对传统能源替代方案的疯狂寻找，这一话题变得更加火热。虽然锂电池在电动汽车和储能领域仍然占主导地位，但竞争对手正在出现，其中之一，本质上就是食盐。本月早些时候，中国媒体报道称，首辆搭载钠离子电池的卡车...",
+      "published": "2026-08-12T21:00:00+00:00",
+      "summary": "几十年来，大家一直开玩笑说核聚变总是会在30年后实现。但在过去五年里，一系列快速的突破，在私有化以及人工智能热潮带来的压力和支持的推动下，改变了这种计算方式，并突然让这项技术进入了一个真正可实现的时间表。",
       "score": 15,
-      "original_title": "Sodium-Ion Batteries Gain Ground as Lithium Alternative",
+      "original_title": "MIT's New Framework Aims to Tackle Nuclear Fusion's Money Problem",
       "translated": true,
       "priority": 0,
-      "uid": "99c736a021d3"
+      "uid": "70fba1f04df0"
     },
     {
-      "title": "黄仁勋5000亿美元人工智能融资计划为何面临来自中国的重大风险",
-      "link": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+      "title": "家得宝首席执行官暂时请病假，两位高管将接管零售商运营",
+      "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-08-11T21:01:13+00:00",
-      "summary": "黄仁勋通过开创推动人工智能繁荣的专业计算机芯片，建立了世界上最有价值的公司。为了让他对未来的愿景触手可及，这位英伟达创始人现在正在尝试另一种工程：说服华尔街投资者，将这些芯片视为类似于商业地产或收费公路的长期金融资产。",
+      "published": "2026-08-12T16:48:53+00:00",
+      "summary": "家得宝首席执行官特德·德克尔将在接下来的几个月内“暂时休病假”，公司已任命两位高级副手在他返回之前负责领导，该零售商周三宣布。家得宝高级执行副总裁安-玛丽·坎贝尔将负责日常运营，而首席财务官理查德·麦克费尔将负责财务管理和专业业务...",
       "score": 15,
-      "original_title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China",
+      "original_title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
       "translated": true,
       "priority": 0,
-      "uid": "baa78dbf47e2"
+      "uid": "b5995e9b52dc"
     },
     {
-      "title": "AMIE，我们的研究型医疗人工智能系统，在一项史无前例的研究中展示了实时临床视频咨询能力。",
+      "title": "AMIE，我们的研究医疗人工智能系统，在一项前所未有的研究中展示了实时临床视频咨询能力。",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
       "source": "Google AI Blog",
       "category": "AI与科技",
@@ -226,25 +213,12 @@
       "uid": "4a513ae35763"
     },
     {
-      "title": "写给“跑两步就喘”的你：调整跑步姿势，舒适开跑",
-      "link": "https://sspai.com/post/113115",
-      "source": "少数派",
-      "category": "健康生活",
-      "published": "2026-08-10T07:00:00+00:00",
-      "summary": "在“舒适跑”系列的上一篇文章中，我分享了跑前精准热身的方式，希望帮助大家缓解跑步时常见的小腿前侧疼。文章发布一个多月后，一位少数派读者回来留言： 时隔一个多月来反馈，确实有效果！为这位派友愿意亲自尝试并回来反馈的行动力点赞，这条留言也让我更有动力把“舒适跑”系列继续写下去。如果说上一篇解决的是“跑步前如何做好准备”，那么这一篇想聊的就是：跑起来之后如何更舒服？我们会从跑步姿势、呼吸节奏和运动强度入手，“舒适驾驭身体”，而不是一味靠自律和意志力硬撑。技巧一：跑步时借助重力而不是对抗重力 很多人跑步，没跑两步就很喘，随后就放弃了。我之前遇到这些人，就会劝他们：“不要着急，你现在是心肺能力不够强，慢慢练练，练多了就不喘了。”直到我遇到一个体校毕业的师妹，改变了我对这件事的看法。她身体素质很强，甚至会一天两练，每天都会在跑步机上爬坡 30 分钟。",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "25f933075ab8"
-    },
-    {
       "title": "我们在2026年7月发布的最新人工智能新闻",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-04T13:00:00+00:00",
-      "summary": "我们在2026年7月公布的最新人工智能新闻：二十多年来，我们一直在投资机器学习和人工智能的研究、工具以及基础设施，以构建让更多人日常生活更美好的产品。谷歌各团队正在探索在医疗、危机应对和教育等广泛领域释放人工智能的潜力。为了让您了解我们的进展，我们会定期进行汇总...",
+      "summary": "我们在2026年7月宣布的最新人工智能新闻：二十多年来，我们一直在投资机器学习和人工智能的研究、工具以及基础设施，以构建让更多人日常生活更美好的产品。谷歌各团队正在探索在医疗、危机应对和教育等广泛领域释放人工智能的潜力。为了让您了解我们的进展，我们会定期进行汇总...",
       "score": 15,
       "original_title": "The latest AI news we announced in July 2026",
       "translated": true,
@@ -256,31 +230,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3937.6162,
-        "change": 3.5233,
-        "pct": 0.09,
-        "amount_yi": 4255.15
+        "price": 3962.6757,
+        "change": 16.0005,
+        "pct": 0.41,
+        "amount_yi": 5190.63
       },
       {
         "name": "深证成指",
-        "price": 14372.63,
-        "change": 113.188,
-        "pct": 0.79,
-        "amount_yi": 5116.94
+        "price": 14557.91,
+        "change": 143.482,
+        "pct": 1.0,
+        "amount_yi": 6218.46
       },
       {
         "name": "创业板指",
-        "price": 3588.62,
-        "change": 39.456,
-        "pct": 1.11,
-        "amount_yi": 1094.15
+        "price": 3672.22,
+        "change": 70.14,
+        "pct": 1.95,
+        "amount_yi": 1400.7
       },
       {
         "name": "沪深300",
-        "price": 4678.8422,
-        "change": 15.0535,
-        "pct": 0.32,
-        "amount_yi": 2272.07
+        "price": 4718.8774,
+        "change": 27.9609,
+        "pct": 0.6,
+        "amount_yi": 2937.52
       }
     ],
     "holdings": [
@@ -289,11 +263,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 44.29,
-        "market_value": 4429.0,
-        "pnl": 1256.36,
-        "pnl_pct": 39.6,
-        "weight_hint": "43.4%",
+        "price": 44.1,
+        "market_value": 4410.0,
+        "pnl": 1237.36,
+        "pnl_pct": 39.0,
+        "weight_hint": "43.3%",
         "note": "",
         "available": true
       },
@@ -302,10 +276,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.06,
-        "market_value": 2806.0,
-        "pnl": 109.59,
-        "pnl_pct": 4.06,
+        "price": 28.05,
+        "market_value": 2805.0,
+        "pnl": 108.59,
+        "pnl_pct": 4.03,
         "weight_hint": "27.5%",
         "note": "",
         "available": true
@@ -315,10 +289,10 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 7.53,
-        "market_value": 2259.0,
-        "pnl": 381.48,
-        "pnl_pct": 20.32,
+        "price": 7.52,
+        "market_value": 2256.0,
+        "pnl": 378.48,
+        "pnl_pct": 20.16,
         "weight_hint": "22.1%",
         "note": "",
         "available": true
@@ -328,10 +302,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.203,
-        "market_value": 240.6,
-        "pnl": -77.4,
-        "pnl_pct": -24.34,
+        "price": 1.238,
+        "market_value": 247.6,
+        "pnl": -70.4,
+        "pnl_pct": -22.14,
         "weight_hint": "2.4%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -341,11 +315,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.738,
-        "market_value": 473.8,
-        "pnl": -23.2,
-        "pnl_pct": -4.67,
-        "weight_hint": "4.6%",
+        "price": 4.778,
+        "market_value": 477.8,
+        "pnl": -19.2,
+        "pnl_pct": -3.86,
+        "weight_hint": "4.7%",
         "note": "",
         "available": true
       },
@@ -365,64 +339,57 @@
     ],
     "sectors": [
       {
-        "name": "新能源/光伏 · 光伏加工设备",
-        "pct": 2.87,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.24,
-        "source": "东财行业"
-      },
-      {
-        "name": "半导体/电子 · 半导体设备",
-        "pct": 2.73,
+        "name": "半导体/电子 · 电子信息",
+        "pct": 2.2239883096407,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 8.7,
-        "source": "东财行业"
-      },
-      {
-        "name": "半导体/电子 · 半导体材料",
-        "pct": 2.59,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 4.0,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 光伏主材",
-        "pct": 2.57,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 1.76,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 电力设备",
-        "pct": 1.31,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": 8.59,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 供水供气",
-        "pct": 1.2953230344535,
-        "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "煤炭 · 煤炭行业",
-        "pct": 0.20156092530527,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "name": "半导体/电子 · 模拟芯片设计",
+        "pct": 1.97,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 1.6,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 燃料电池",
+        "pct": 1.67,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.02,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 风电整机",
+        "pct": 0.82,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 1.75,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 供水供气",
+        "pct": 0.75113452610714,
+        "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "金融/银行 · 金融行业",
-        "pct": -0.15934291581109,
+        "pct": 0.11140053406727,
         "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
+        "name": "煤炭 · 煤炭行业",
+        "pct": -1.2059760209816,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
         "name": "石油 · 石油行业",
-        "pct": -1.4313677514069,
+        "pct": -2.2852884555673,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
@@ -431,44 +398,44 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "重磅！海力士重启大连NAND工厂，扩产潮验证高景气，费率较低的科创芯片ETF华宝（589190）早盘涨超2%！",
-        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-12/doc-inimzivt3757299.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "半导体行情进入下一程，如何高效布局？",
-        "link": "https://finance.sina.com.cn/money/fund/jjh/2026-08-12/doc-inimzivt3745260.shtml",
+        "title": "上海：推动在沪银行对民企加大贷款投放力度",
+        "link": "https://finance.sina.com.cn/jryx/bank/2026-08-13/doc-ininctaw3369537.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "分析师称美股即将迎来历史上表现强劲的行情窗口期",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimzivt3740525.shtml",
+        "title": "科技板块快速“挤水分”后机会在哪里？高盛、瑞银、野村东方集体发声",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininctas4758296.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "港股光通信板块延续强势 中际旭创涨超6%",
+        "link": "https://finance.sina.com.cn/stock/hkstock/2026-08-13/doc-ininctas4749578.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10208.4,
-    "total_pnl": 1646.83,
-    "total_amount_yi": 9372.09,
+    "total_market_value": 10196.4,
+    "total_pnl": 1634.83,
+    "total_amount_yi": 11409.09,
     "bias": "偏多",
-    "volume_note": "量能：两市合计约 9372 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 光伏加工设备、半导体设备、半导体材料；偏弱 金融行业、石油行业",
+    "volume_note": "量能：两市合计约 11409 亿元（接口口径），成交中等",
+    "sector_note": "行业分化：偏强 电子信息、模拟芯片设计、燃料电池；偏弱 煤炭行业、石油行业",
     "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
     "errors": []
   },
   "learning": {
-    "title": "什么是指数",
-    "body": "沪深300（Shanghai-Shenzhen 300 Index，沪深两市规模大、流动性好的300家公司）像“大盘平均分”。你买的300ETF，本质上就是在跟踪这个平均分。",
+    "title": "PE（市盈率）",
+    "body": "PE = 股价 ÷ 每股收益，粗看股票贵不贵。银行/能源股常见区间更低；神华这类更常结合股息率一起看，别只看PE。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "通信铁塔",
-    "text": "今儿聊【通信铁塔】。这铁塔往山上一立，跟个钢筋仙鹤似的，鹤不飞，人得爬。领导说“顺便看看点位”，这顺便俩字一出，你就知道中午泡面泡不上了。缆没拉上先拉上脸色，链路没通先把汇报通了。社会经验：凡写着“现场简单勘察”的，背包里都得备双袜子。"
+    "topic": "A股开盘",
+    "text": "今儿聊【A股开盘】。早盘像相亲：看着挺热闹，真心没几个。神华长江电力坐那儿跟老干部似的，不吵不闹，偶尔点个头；主题炒作跟广场舞大妈似的，音箱一响全场跟。社会经验：能吃息的先吃息，能睡觉的别盯盘——盯盘不涨，只涨血压。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
