@@ -1,11 +1,11 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-13T10:26:28.276579+08:00",
+  "generated_at": "2026-08-14T10:24:31.594611+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 17,
+  "count": 19,
   "items": [
     {
-      "title": "从辅助到执行：企业如何将人工智能投入使用",
+      "title": "从辅助到执行：企业如何应用人工智能",
       "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
@@ -22,8 +22,8 @@
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-13T02:26:42+00:00",
-      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格只有一半。在编码和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 已成为新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 旨在用于日常使用：它工作效率更高...",
+      "published": "2026-08-14T02:24:48+00:00",
+      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格只有一半。在编码和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 已成为新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 旨在用于日常应用：它工作效率更高...",
       "score": 60,
       "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
       "translated": true,
@@ -31,51 +31,25 @@
       "uid": "b08c6994eb9f"
     },
     {
-      "title": "将手语人工智能交到用户手中",
-      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "title": "推出 Gemini 3.7 Flash",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
-      "published": "2026-08-12T14:01:59+00:00",
-      "summary": "将手语人工智能交到用户手中 介绍手语转文本（SL2T），这是我们的突破性模型，为聋人和听力障碍用户提供新的手语功能。人工智能处理口语语言的能力在过去几十年中迅速发展，实现了自动翻译、听写和让听力用户感觉轻松的对话接口。",
+      "published": "2026-08-13T17:04:18+00:00",
+      "summary": "推出 Gemini 3.7 Flash。今天，我们在广泛使用的 Flash 系列取得的进展基础上，推出了 Gemini 3.7 Flash，这是我们迄今为止最智能的用于编码和智能代理的高效模型。此次发布距离 Gemini 3.6 Flash 仅三周时间，是开发者反馈和算法创新的直接成果，我们期待将这些成果应用到未来的模型中。",
       "score": 45,
-      "original_title": "Putting sign language AI into users’ hands",
+      "original_title": "Introducing Gemini 3.7 Flash",
       "translated": true,
       "priority": 0,
-      "uid": "cd9b72e43a78"
-    },
-    {
-      "title": "在 ChatGPT 中测试广告",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-08-11T10:00:00+00:00",
-      "summary": "OpenAI开始在ChatGPT中测试广告以支持免费访问，同时明确标注、保持回答独立性、提供强隐私保护和用户控制。",
-      "score": 65,
-      "original_title": "Testing ads in ChatGPT",
-      "translated": true,
-      "priority": 0,
-      "uid": "e03d6d9dfc15"
-    },
-    {
-      "title": "日元回落 美日联合干预效果减弱",
-      "link": "https://www.ftchinese.com/story/001110579",
-      "source": "FT 中文网",
-      "category": "A股与宏观",
-      "published": "2026-08-10T16:00:00+00:00",
-      "summary": "投资者认为，除非日本央行后续采取加息行动，否则此次干预不太可能提供持久支撑。他们还指出，缺乏国际合作影响了干预效果。",
-      "score": 60,
-      "original_title": "",
-      "translated": false,
-      "priority": 45,
-      "uid": "a234cef55ae4"
+      "uid": "a37d11d58954"
     },
     {
       "title": "Anthropic / Claude：提出尖锐问题",
       "link": "https://www.anthropic.com/news/hard-questions",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-13T02:26:42+00:00",
-      "summary": "邀请困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作是去解决这些问题。许多人对人工智能持积极态度。",
+      "published": "2026-08-14T02:24:48+00:00",
+      "summary": "提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作就是去解决这些问题。许多人对人工智能持积极态度。",
       "score": 60,
       "original_title": "Anthropic / Claude：Inviting hard questions",
       "translated": true,
@@ -83,77 +57,129 @@
       "uid": "b897b46b0e9b"
     },
     {
-      "title": "联想来酷 Air 14 2026 笔记本新增酷睿 3-304/5-320 处理器版本，3999 元起",
-      "link": "https://www.ithome.com/0/989/026.htm",
+      "title": "预览超快模式：GPT-5.6 Sol，速度最高可达14倍",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-08-13T10:00:00+00:00",
+      "summary": "预览 Ultrafast，这是一个新的 OpenAI API 服务等级，可让 GPT-5.6 Sol 提速高达 14 倍。由 Cerebras 提供支持，它每秒可输出最多 750 个令牌。",
+      "score": 60,
+      "original_title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "translated": true,
+      "priority": 0,
+      "uid": "426cb10acfd8"
+    },
+    {
+      "title": "798g 华为最轻鸿蒙电脑 MateBook Pro S 首销：麒麟 XE90，售价 7999 元起",
+      "link": "https://www.ithome.com/0/989/514.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-13T00:26:19+00:00",
-      "summary": "IT之家 8 月 13 日消息， 联想来酷 Air 14 2026 笔记本于今年 5 月正式开售 ，搭载英特尔酷睿 5 315 处理器，建议零售价 4499 元。IT之家注意到，联想现已为这款机型增加了酷睿 3 304 和酷睿 5 320 处理器版本可选，新品将于 8 月 18 日开售， 售价 3999 元起 ： 酷睿 3 304、12GB+512GB：3999 元，国补价 3399.15 元 酷睿 5 320、12GB+1TB：5199 元，国补价 4419.15 元 该机采用一体式全金属机身，厚 12.95mm，重 990g；配备一块 14 英寸 1920×1200 分辨率 60Hz LCD 面板，300 尼特亮度，100% sRGB 色域，支持 DC 调光；配备三档背光可调 1.2mm 键程键盘。",
-      "score": 20,
+      "published": "2026-08-14T00:45:40+00:00",
+      "summary": "IT之家 8 月 14 日消息，华为鸿蒙电脑 MateBook Pro S 今日 10:08 首销， 新品整机重量仅 798 克 ，厚度为 11.9 毫米，号称“全球最轻 14 英寸全金属笔记本”。MateBook Pro S 基础版： 16GB+512GB 版本：7999 元 24GB+512GB 版本：8999 元 24GB+1TB 版本：10499 元 MateBook Pro S 柔光版： 24GB+512GB 版本：9999 元 MateBook Pro S 防窥版（8 月 28 日首销）： 24GB+512GB 版本：10299 元 24GB+1TB 版本：11799 元 MateBook Pro S 典藏版（8 月 28 日首销）： 32GB+1TB 版本：14999 元 MateBook Pro S 采用镁锂合金材质，不同版本重量略有差异，标准版与防窥版为 798g，柔光版为 805g，典藏版为 825g。",
+      "score": 55,
       "original_title": "",
       "translated": false,
-      "priority": 0,
-      "uid": "6ae2110d4391"
+      "priority": 25,
+      "uid": "d48d535f7477"
     },
     {
-      "title": "农民因听从 AI 建议而导致 150 亩芝麻几乎全毁",
-      "link": "https://www.solidot.org/story?sid=85077",
-      "source": "Solidot·通信",
+      "title": "Win11 新攻击曝光：不物理接触，利用内存缺陷绕过安全防护",
+      "link": "https://www.ithome.com/0/989/528.htm",
+      "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-12T11:03:17+00:00",
-      "summary": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方案直接付诸实行。吴大伯 7 月 10 日向 AI 询问芝麻如何除草、除虫，AI 随即生成一套“百亩芝麻飞防除草＋除虫全套方案”，其中推荐使用“高效氟吡甲禾灵”及“氟磺胺草醚”除草，另搭配“噻虫嗪”及“甲维盐”等药剂。吴大伯未进一步向农技人员确认，便依照方案喷药。没想到隔天田里便出现严重异常，芝麻苗与杂草大面积枯死。事后他再次询问 AI，AI 才指出配方中的“氟磺胺草醚”可能是造成芝麻死亡的主要原因。当地农技人员表示，氟磺胺草醚主要用于大豆田防除阔叶杂草，并不适用于芝麻田；",
-      "score": 20,
+      "published": "2026-08-14T01:32:00+00:00",
+      "summary": "IT之家 8 月 14 日消息，科技媒体 NeoWin 昨日（8 月 13 日）发布博文，报道称本周在巴尔的摩（Baltimore）举办的 2026 年 USENIX 安全研讨会上， 安全专家披露 Download More RAM 攻击，可以在不接触设备的情况下入侵 Windows 11 系统。该攻击由来自英国伯明翰大学与杜伦大学的安全研究团队发现，攻击者无需物理接触目标设备，利用软件触发的内存缺陷，绕过 Windows 11 安全防护。在技术原理方面，该问题出现在部分 DDR4 和 DDR5 DIMM（双列直插式内存模块）配置内存芯片上，由于缺少写保护，软件因此可以改写芯片内保存的信息，并让 Windows 误判系统内存容量为实际容量的 2 倍。安全风险方面，错误报告内存容量表面来看风险有限，不过研究人员利用额外出现的内存地址，设置真实内存位置别名，从而借此读取或修改本应由 Windows 与处理器保护的内存区域。",
+      "score": 50,
       "original_title": "",
       "translated": false,
-      "priority": 0,
-      "uid": "c715b071526e"
+      "priority": 25,
+      "uid": "8024ce1e29bc"
     },
     {
-      "title": "微软八月例行更新修复 421 个 bug，包括正被朝鲜黑客利用的 0day",
-      "link": "https://www.solidot.org/story?sid=85071",
-      "source": "Solidot·通信",
+      "title": "OPPO Watch X3 Mini 智能手表“粉黛海”配色开售，国补价 2124.15 元",
+      "link": "https://www.ithome.com/0/989/548.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-08-14T02:08:57+00:00",
+      "summary": "IT之家 8 月 14 日消息，OPPO Watch X3 Mini 智能手表“粉黛海”配色今日开售，官方标价 2499 元，国补价 2124.15 元，京东券后 2349 元。IT之家注意到，OPPO Watch X3 Mini 于今年 4 月发布， 首发推出高光金、星光银、摩卡棕三种配色 ，具备 18K 金精钢表壳，支持多种运动模式。据介绍，这款手表搭载全新高精度腕温传感器，精度 ±0.1°C，可根据手腕温度变化捕捉女性生理期，帮助用户更早、更准地掌握生理周期。首发生理周期运动指导功能，综合睡眠、HRV 及心率等多维体征数据，智能评估每日运动准备度，并针对不同周期阶段提供科学训练建议。功能方面，这款手表具备 独立 eSIM 版本 ，支持微信手表版，具备点一点快速找手机、预览手机拍照、碰一碰更换表盘等功能，还可当作电子车钥匙使用，可安装支付宝、QQ、百度地图、QQ 音乐、喜马拉雅 FM 等第三方应用。",
+      "score": 45,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "88ed25f07d11"
+    },
+    {
+      "title": "京东 CEO 许冉：今年二季度外卖总投入实现同比减亏超 50%，单均补贴在明显下降",
+      "link": "https://www.ithome.com/0/989/534.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-08-14T01:51:45+00:00",
+      "summary": "IT之家 8 月 14 日消息，京东集团昨日发布 2026 年二季度及半年业绩。2026 上半年营业总收入 6,620.95 亿元，同比增长 0.毛利润 1,123.34 亿元，同比增长 7.归母净利润 122.31 亿元，同比下降 28.财报发布后，京东集团 CEO 许冉出席了分析师电话会议，对财报进行了解读，并回答了分析师提问。据新浪科技报道，许冉表示，京东的外卖业务目前取得了不错的进展，在二季度，外卖业务的单量规模保持了健康上涨的态势；同时， 总投入也实现了同比减亏超 50% 的显著改善。京东的外卖业务自上线一年以来，单均损益的 UE（IT之家注：Unit Economics，单体经济模型）取得了明显的优化，这也主要得益于精细化业务的运营和补贴效率的提升， 单均补贴在明显下降 。此外，随着规模的增长，我们的配送效率也会持续提升。",
+      "score": 45,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "94353024edd6"
+    },
+    {
+      "title": "华为鸿蒙电脑全新 MateBook Pro 首销：升级麒麟 X90 Plus 处理器，9999 元起",
+      "link": "https://www.ithome.com/0/989/522.htm",
+      "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-12T08:12:16+00:00",
-      "summary": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary Function Driver for WinSock 的一个释放后使用 bug，攻击者能利用该 bug 以 SYSTEM 权限执行代码且无需用户交互。发现该 bug 的安全公司 Check Point 称，Lazarus Group 正通过钓鱼攻击利用该 bug，当受害者打开特制 PDF 文件后攻击者会安装名为 Troy 的后门。",
-      "score": 20,
+      "published": "2026-08-14T01:05:21+00:00",
+      "summary": "IT之家 8 月 14 日消息，华为鸿蒙电脑全新 MateBook Pro 今日 10:08 开启首销，升级麒麟 X90 Plus 处理器， 可提供 40W 性能释放 ，售价 9999 元起。IT之家整理价格如下： 24GB + 512GB 版本：9999 元 24GB + 1TB 版本：11499 元 24GB + 1TB 柔光版：12499 元 32GB + 1TB 柔光版：13999 元 华为 MateBook Pro 重量仅 970g，厚度为 13.5mm， 是全球首款 1.8mm 高键程键盘轻薄本 ；采用全新一代华为“云隼”架构，包含低晶铝键盘底板、元器件减重工艺和主板线路镂空设计。‏ ‏‏MateBook Pro 搭载一块 14.1K 柔性 OLED ，屏幕比例 3:2，刷新率 120Hz，峰值亮度 1000nits。",
+      "score": 25,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "a750017de938"
+      "uid": "47479bb22bfe"
     },
     {
-      "title": "乌克兰攻击导致俄罗斯黑海重要粮食终端的运营中断",
-      "link": "https://oilprice.com/Geopolitics/Europe/Ukrainian-Attack-Halts-Operations-at-Key-Russian-Black-Sea-Grain-Terminals.html",
+      "title": "特朗普正在花费数十亿美元购买为电动汽车提供动力的矿物",
+      "link": "https://oilprice.com/Energy/Energy-General/Trump-Is-Spending-Billions-On-The-Minerals-That-Power-EVs.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-12T23:00:00+00:00",
-      "summary": "泽连斯基总统和乌克兰武装部队到底没有听从美国副总统JD·范斯的警告和请求吗？周三，对俄罗斯港口城市新罗西斯克发动了一次“巨大”的乌克兰无人机和导弹攻击，这次袭击严重损坏了谷物出口码头，而该地也是黑海上最后一个主要的俄罗斯海军基地。",
+      "published": "2026-08-14T00:00:00+00:00",
+      "summary": "多年来，美国总统唐纳德·特朗普公开表现出他对清洁能源和电动车行业的蔑视。在他第二个任期初期，特朗普在推动化石燃料的同时，阻碍了电动车充电基础设施的资金投入。",
       "score": 15,
-      "original_title": "Ukrainian Attack Halts Operations at Key Russian Black Sea Grain Terminals",
+      "original_title": "Trump Is Spending Billions On The Minerals That Power EVs",
       "translated": true,
       "priority": 0,
-      "uid": "9c0bab623fad"
+      "uid": "30595f8521ce"
     },
     {
-      "title": "EIA 预计到2027年底，中东石油仍将有60万桶/天处于离线状态",
-      "link": "https://oilprice.com/Energy/Crude-Oil/EIA-Sees-600000-Bpd-of-Middle-East-Oil-Still-Offline-by-End-2027.html",
+      "title": "美国电网在创纪录的用电需求下承压",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Power-Grid-Strains-Under-Record-Electricity-Demand.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-12T22:00:00+00:00",
-      "summary": "美国能源信息署（EIA）本周在最新的《短期能源展望（STEO）》中表示，霍尔木兹海峡关闭时间超出预期，这意味着中东部分地区的石油产量将持续关闭直到明年年底。",
+      "published": "2026-08-13T22:00:00+00:00",
+      "summary": "预计今年和明年对电力的需求将达到历史最高水平，这主要受到大型科技公司数据中心建设的推动。这是能源信息署一系列创纪录需求预测中的最新一个。不过，有一个问题。这个问题就是电网。美国的电力消耗已经连续两年创下纪录：2024 年和 2025 年。",
       "score": 15,
-      "original_title": "EIA Sees 600,000 Bpd of Middle East Oil Still Offline by End-2027",
+      "original_title": "U.S. Power Grid Strains Under Record Electricity Demand",
       "translated": true,
       "priority": 0,
-      "uid": "12d4e1bd5eca"
+      "uid": "331ea3db5c99"
     },
     {
-      "title": "由于有报道称可能被纳尔逊·佩尔茨的特里安基金管理公司收购，温迪的股价上涨",
+      "title": "中国竞相完成熔盐太阳能发电厂建设，同时股市波动剧烈",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Races-to-Finish-Molten-Salt-Solar-Plant-as-Stocks-Whipsaw.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-08-13T21:00:00+00:00",
+      "summary": "中国推动了全球太阳能的发展，以如此惊人的速度增加产能，以至于该国现有和计划中的风能及太阳能发电几乎是世界其他地区总和的两倍。然而，中国为所有这些新太阳能部署的配套基础设施建设并未跟上，导致高峰时段发电受限以及清洁能源浪费量增加。",
+      "score": 15,
+      "original_title": "China Races to Finish Molten-Salt Solar Plant as Stocks Whipsaw",
+      "translated": true,
+      "priority": 0,
+      "uid": "56f90660896a"
+    },
+    {
+      "title": "由于有报道称可能被纳尔逊·佩尔茨的特里安基金管理公司收购，温迪的股价大幅上涨",
       "link": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-08-12T21:13:11+00:00",
-      "summary": "周三，温迪股份上涨超过14%，此前《金融时报》报道，纳尔逊·佩尔茨的特瑞安基金管理公司正在准备对这家陷入困境的汉堡连锁店进行收购投标。截至周三收盘，该股票今年迄今已上涨约4%，但由于波动性交易一度被暂停。",
+      "summary": "周三，温迪股份上涨超过14%，此前《金融时报》报道，纳尔逊·佩尔茨的特瑞安基金管理公司正在准备对这家陷入困境的汉堡连锁店进行收购投标。截至周三收盘，该股今年迄今已上涨约4%，但由于波动性，股票交易曾一度被暂停。",
       "score": 15,
       "original_title": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
       "translated": true,
@@ -161,30 +187,30 @@
       "uid": "ed4be6c2d3f9"
     },
     {
-      "title": "麻省理工学院的新框架旨在解决核聚变的资金问题",
-      "link": "https://oilprice.com/Energy/Energy-General/MITs-New-Framework-Aims-to-Tackle-Nuclear-Fusions-Money-Problem.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-08-12T21:00:00+00:00",
-      "summary": "几十年来，大家一直开玩笑说核聚变总是会在30年后实现。但在过去五年里，一系列快速的突破，在私有化以及人工智能热潮带来的压力和支持的推动下，改变了这种计算方式，并突然让这项技术进入了一个真正可实现的时间表。",
-      "score": 15,
-      "original_title": "MIT's New Framework Aims to Tackle Nuclear Fusion's Money Problem",
-      "translated": true,
-      "priority": 0,
-      "uid": "70fba1f04df0"
-    },
-    {
-      "title": "家得宝首席执行官暂时请病假，两位高管将接管零售商运营",
+      "title": "家得宝首席执行官暂时休假，两位高管接管零售商运营",
       "link": "https://www.cnbc.com/2026/08/12/home-depot-ceo-ted-decker-medical-leave.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-08-12T16:48:53+00:00",
-      "summary": "家得宝首席执行官特德·德克尔将在接下来的几个月内“暂时休病假”，公司已任命两位高级副手在他返回之前负责领导，该零售商周三宣布。家得宝高级执行副总裁安-玛丽·坎贝尔将负责日常运营，而首席财务官理查德·麦克费尔将负责财务管理和专业业务...",
+      "summary": "家得宝首席执行官特德·德克预计将在接下来的几个月内“暂时休息医疗假”，公司周三宣布，公司已任命两位高级副手在他回归之前接管领导工作。家得宝高级执行副总裁、美国门店及运营负责人安妮-玛丽·坎贝尔将负责日常运营，而财务主管理查德·麦克费尔将负责财务管理和专业业务部门的运营。",
       "score": 15,
       "original_title": "Home Depot CEO taking temporary medical leave, two top execs to run the retailer",
       "translated": true,
       "priority": 0,
       "uid": "b5995e9b52dc"
+    },
+    {
+      "title": "3.4%：美国7月通胀率小幅回落",
+      "link": "https://www.ftchinese.com/story/001110598",
+      "source": "FT 中文网",
+      "category": "A股与宏观",
+      "published": "2026-08-12T16:00:00+00:00",
+      "summary": "低于6月的3.5%，且符合经济学家预期。但市场人士指出，数据表明美国的通胀仍“具有粘性”。",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "4a8236bd0be9"
     },
     {
       "title": "AMIE，我们的研究医疗人工智能系统，在一项前所未有的研究中展示了实时临床视频咨询能力。",
@@ -213,48 +239,48 @@
       "uid": "4a513ae35763"
     },
     {
-      "title": "我们在2026年7月发布的最新人工智能新闻",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "title": "让你的电子表格数据通过 Sheets 画布生动呈现",
+      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "source": "Google AI Blog",
       "category": "AI与科技",
-      "published": "2026-08-04T13:00:00+00:00",
-      "summary": "我们在2026年7月宣布的最新人工智能新闻：二十多年来，我们一直在投资机器学习和人工智能的研究、工具以及基础设施，以构建让更多人日常生活更美好的产品。谷歌各团队正在探索在医疗、危机应对和教育等广泛领域释放人工智能的潜力。为了让您了解我们的进展，我们会定期进行汇总...",
-      "score": 15,
-      "original_title": "The latest AI news we announced in July 2026",
+      "published": "2026-08-13T16:45:00+00:00",
+      "summary": "使用 Sheets 画布让您的电子表格数据栩栩如生 电子表格是组织和理解数据的强大工具，但盯着数百行数百列有时会让人感到有些不知所措。无论您是在筹划婚礼、追踪学校作业、管理梦幻足球阵容，还是比较副业收入，您都希望能够快速从数据中看到所需的信息。",
+      "score": 10,
+      "original_title": "Bring your spreadsheet data to life with Sheets canvas",
       "translated": true,
       "priority": 0,
-      "uid": "a5ca65060960"
+      "uid": "94ea973fb6b3"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3962.6757,
-        "change": 16.0005,
-        "pct": 0.41,
-        "amount_yi": 5190.63
+        "price": 3919.0287,
+        "change": -7.9361,
+        "pct": -0.2,
+        "amount_yi": 4466.1
       },
       {
         "name": "深证成指",
-        "price": 14557.91,
-        "change": 143.482,
-        "pct": 1.0,
-        "amount_yi": 6218.46
+        "price": 14283.99,
+        "change": -5.454,
+        "pct": -0.04,
+        "amount_yi": 5294.97
       },
       {
         "name": "创业板指",
-        "price": 3672.22,
-        "change": 70.14,
-        "pct": 1.95,
-        "amount_yi": 1400.7
+        "price": 3603.24,
+        "change": 17.196,
+        "pct": 0.48,
+        "amount_yi": 1035.22
       },
       {
         "name": "沪深300",
-        "price": 4718.8774,
-        "change": 27.9609,
-        "pct": 0.6,
-        "amount_yi": 2937.52
+        "price": 4657.0773,
+        "change": -6.874,
+        "pct": -0.15,
+        "amount_yi": 2346.6
       }
     ],
     "holdings": [
@@ -263,11 +289,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 44.1,
-        "market_value": 4410.0,
-        "pnl": 1237.36,
-        "pnl_pct": 39.0,
-        "weight_hint": "43.3%",
+        "price": 44.46,
+        "market_value": 4446.0,
+        "pnl": 1273.36,
+        "pnl_pct": 40.14,
+        "weight_hint": "43.4%",
         "note": "",
         "available": true
       },
@@ -276,10 +302,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.05,
-        "market_value": 2805.0,
-        "pnl": 108.59,
-        "pnl_pct": 4.03,
+        "price": 28.14,
+        "market_value": 2814.0,
+        "pnl": 117.59,
+        "pnl_pct": 4.36,
         "weight_hint": "27.5%",
         "note": "",
         "available": true
@@ -289,11 +315,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 7.52,
-        "market_value": 2256.0,
-        "pnl": 378.48,
-        "pnl_pct": 20.16,
-        "weight_hint": "22.1%",
+        "price": 7.59,
+        "market_value": 2277.0,
+        "pnl": 399.48,
+        "pnl_pct": 21.28,
+        "weight_hint": "22.2%",
         "note": "",
         "available": true
       },
@@ -302,11 +328,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.238,
-        "market_value": 247.6,
-        "pnl": -70.4,
-        "pnl_pct": -22.14,
-        "weight_hint": "2.4%",
+        "price": 1.198,
+        "market_value": 239.6,
+        "pnl": -78.4,
+        "pnl_pct": -24.65,
+        "weight_hint": "2.3%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -315,11 +341,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.778,
-        "market_value": 477.8,
-        "pnl": -19.2,
-        "pnl_pct": -3.86,
-        "weight_hint": "4.7%",
+        "price": 4.721,
+        "market_value": 472.1,
+        "pnl": -24.9,
+        "pnl_pct": -5.01,
+        "weight_hint": "4.6%",
         "note": "",
         "available": true
       },
@@ -339,103 +365,116 @@
     ],
     "sectors": [
       {
-        "name": "半导体/电子 · 电子信息",
-        "pct": 2.2239883096407,
+        "name": "半导体/电子 · 半导体材料",
+        "pct": 1.49,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": null,
-        "source": "新浪行业"
+        "main_flow_yi": -2.82,
+        "source": "东财行业"
       },
       {
         "name": "半导体/电子 · 模拟芯片设计",
-        "pct": 1.97,
+        "pct": 1.42,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 1.6,
+        "main_flow_yi": -0.68,
         "source": "东财行业"
       },
       {
-        "name": "新能源/光伏 · 燃料电池",
-        "pct": 1.67,
+        "name": "新能源/光伏 · 电池化学品",
+        "pct": 0.91,
         "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.02,
+        "main_flow_yi": 5.79,
         "source": "东财行业"
       },
       {
-        "name": "新能源/光伏 · 风电整机",
-        "pct": 0.82,
+        "name": "新能源/光伏 · 电池",
+        "pct": 0.5,
         "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 1.75,
+        "main_flow_yi": 6.23,
         "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 供水供气",
-        "pct": 0.75113452610714,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "金融/银行 · 金融行业",
-        "pct": 0.11140053406727,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": null,
-        "source": "新浪行业"
       },
       {
         "name": "煤炭 · 煤炭行业",
-        "pct": -1.2059760209816,
+        "pct": -0.28522532800913,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
+        "name": "金融/银行 · 金融行业",
+        "pct": -0.78602477367062,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
         "name": "石油 · 石油行业",
-        "pct": -2.2852884555673,
+        "pct": -1.143583227446,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "电力/公用 · 电力行业",
+        "pct": -2.5759729532445,
+        "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
-    "policy_news": [],
+    "policy_news": [
+      {
+        "title": "韩国财政部上调经济评估，称复苏趋势增强",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininfvzw2702675.shtml",
+        "level": "高",
+        "tag": "政策"
+      }
+    ],
     "industry_news": [
       {
-        "title": "上海：推动在沪银行对民企加大贷款投放力度",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-08-13/doc-ininctaw3369537.shtml",
+        "title": "快讯：恒指低开0.7% 科指跌0.6% 科网股、黄金股低迷 芯片股高开 京东跌超6%",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-14/doc-ininfvzx9480004.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "科技板块快速“挤水分”后机会在哪里？高盛、瑞银、野村东方集体发声",
-        "link": "https://finance.sina.com.cn/jjxw/2026-08-13/doc-ininctas4758296.shtml",
+        "title": "信宇人的“多事之秋”：实控人占用资金、协助客户“虚假回款” 董秘闪电辞职、多重风险尚未出清",
+        "link": "https://finance.sina.com.cn/stock/observe/2026-08-14/doc-ininfvzv2987322.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "港股光通信板块延续强势 中际旭创涨超6%",
-        "link": "https://finance.sina.com.cn/stock/hkstock/2026-08-13/doc-ininctas4749578.shtml",
+        "title": "A股首例！荣盛石化因职工董事未签劳动合同被责令改正",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininfvzv2980147.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "五粮液普五八代下跌4元 前期连涨行情暂告结束",
+        "link": "https://finance.sina.com.cn/chanjing/jync/2026-08-14/doc-ininfvzw2726552.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10196.4,
-    "total_pnl": 1634.83,
-    "total_amount_yi": 11409.09,
-    "bias": "偏多",
-    "volume_note": "量能：两市合计约 11409 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 电子信息、模拟芯片设计、燃料电池；偏弱 煤炭行业、石油行业",
-    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
+    "total_market_value": 10248.7,
+    "total_pnl": 1687.13,
+    "total_amount_yi": 9761.07,
+    "bias": "震荡",
+    "volume_note": "量能：两市合计约 9761 亿元（接口口径），成交中等",
+    "sector_note": "行业分化：偏强 半导体材料、模拟芯片设计、电池化学品；偏弱 煤炭行业、金融行业、石油行业",
+    "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
   "learning": {
-    "title": "PE（市盈率）",
-    "body": "PE = 股价 ÷ 每股收益，粗看股票贵不贵。银行/能源股常见区间更低；神华这类更常结合股息率一起看，别只看PE。",
+    "title": "PB（市净率）",
+    "body": "PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "A股开盘",
-    "text": "今儿聊【A股开盘】。早盘像相亲：看着挺热闹，真心没几个。神华长江电力坐那儿跟老干部似的，不吵不闹，偶尔点个头；主题炒作跟广场舞大妈似的，音箱一响全场跟。社会经验：能吃息的先吃息，能睡觉的别盯盘——盯盘不涨，只涨血压。"
+    "topic": "视频监控方案",
+    "text": "今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
