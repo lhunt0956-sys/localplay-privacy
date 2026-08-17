@@ -1,8 +1,8 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-16T09:42:38.044459+08:00",
+  "generated_at": "2026-08-17T09:40:52.629775+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 17,
+  "count": 19,
   "items": [
     {
       "title": "从辅助到执行：企业如何应用人工智能",
@@ -22,7 +22,7 @@
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-16T01:43:01+00:00",
+      "published": "2026-08-17T01:41:09+00:00",
       "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格仅为一半。在编程和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 是新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 的设计用于日常使用：它工作效率更高...",
       "score": 60,
       "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
@@ -44,25 +44,12 @@
       "uid": "a37d11d58954"
     },
     {
-      "title": "IT早报 0816：DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网；番茄小说作者“去世”三年后“复活”；曝小米 18 手机标准版延至明年初发布...",
-      "link": "https://www.ithome.com/0/990/211.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-15T23:44:32+00:00",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 16 日星期日，今天的重要科技资讯有： 1.DeepSeek V4 Pro 正式版、Harness 上线国家超算互联网，可一站式完成部署开发 国家超算互联网正式上线 DeepSeek V4 Pro 正式版及智能体框架 Harness，为科研与企业提供从训练到部署的国产算力支撑。该版本增强 Agent 能力，性能媲美 Claude Fable 5 等国外模型。>> 查看详情 2.番茄小说作者“去世”三年后“复活”：读者斥其消费感情，平台介入调查 假死三年后网文作者突然复活致歉，此前靠去世消息涨粉涨打赏，网友推测假死复活和平台提现规则改变有关，目前平台已介入调查 >> 查看详情 3.小米 18 系列手机爆料：标准版延至 2027 年初发布，“妙享背屏”为 Pro 机型专属 科技媒体 ximitime 8 月 14 日发布博文，报道称基于设备型号等诸多线索，推测小米公司会分成 2 个阶段发布小米 18 系列。",
-      "score": 65,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "5ccbd9c676ff"
-    },
-    {
       "title": "Anthropic / Claude：提出尖锐问题",
       "link": "https://www.anthropic.com/news/hard-questions",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-16T01:43:01+00:00",
-      "summary": "提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作就是去解决这些问题。许多人对人工智能持积极态度。",
+      "published": "2026-08-17T01:41:09+00:00",
+      "summary": "邀请困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作就是去解决这些问题。许多人对人工智能持积极态度。",
       "score": 60,
       "original_title": "Anthropic / Claude：Inviting hard questions",
       "translated": true,
@@ -75,7 +62,7 @@
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-08-13T10:00:00+00:00",
-      "summary": "预览 Ultrafast，这是一个新的 OpenAI API 服务等级，可让 GPT-5.6 Sol 提速高达 14 倍。由 Cerebras 提供支持，它每秒输出高达 750 个令牌。",
+      "summary": "预览 Ultrafast，这是一个新的 OpenAI API 服务等级，可让 GPT-5.6 Sol 提速高达 14 倍。由 Cerebras 提供支持，它每秒输出最多 750 个令牌。",
       "score": 60,
       "original_title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
       "translated": true,
@@ -83,85 +70,124 @@
       "uid": "426cb10acfd8"
     },
     {
-      "title": "Anthropic 发布 AI 风险报告：旗下智能体会攻击同类并隐藏自身违规痕迹",
-      "link": "https://www.ithome.com/0/990/201.htm",
+      "title": "鸿蒙智行尚界 Z7/Z7T 暑期 OTA 推送：升级漫游巡航、调光天幕自动调节等功能",
+      "link": "https://www.ithome.com/0/990/449.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-15T23:09:18+00:00",
-      "summary": "IT之家 8 月 16 日消息，Claude 系列智能体正在“消灭”同类竞争对手智能体、钻系统漏洞掩盖自身痕迹，甚至还会表达道德层面的顾虑。这一结论来自 Anthropic 最新发布的风险报告，该报告汇总了公司研发并向公众开放的产品所潜藏的各类风险。报告中，Anthropic 表示已将对齐偏差风险评估（即 AI 模型产生与工程师设定规则相悖行为的可能性）等级从“极低”上调至“较低”。IT之家注意到，对于此次等级调整，公司给出的理由是，网络安全场景下模型行为的“整体不确定性有所上升”—— 这一表述大概率暗指上月发生的 Claude 模型未授权入侵三家企业的事件。“我们已观测到模型出现对齐偏差行为的案例，比如为了完成高难度任务，模型会主动做出不符合规则的操作。”Anthropic 在报告中写道。以下是报告中最值得关注的几项披露内容。",
-      "score": 30,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "dfed04c7ce25"
-    },
-    {
-      "title": "中国AI公司步步紧逼 OpenAI和Anthropic打降价牌",
-      "link": "https://www.ftchinese.com/story/001110616",
-      "source": "FT 中文网",
-      "category": "A股与宏观",
-      "published": "2026-08-13T16:00:00+00:00",
-      "summary": "美国顶尖人工智能实验室正通过发布更便宜的模型或者降价，以力争留住客户，不过最优秀模型的价格仍“保持平稳或上涨”。",
-      "score": 25,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "b3322d3ffbbd"
-    },
-    {
-      "title": "一镜到底打破质疑：岚图追光 S 汽车 360° 隧道穿越多角度实录视频放映",
-      "link": "https://www.ithome.com/0/990/228.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-16T00:56:19+00:00",
-      "summary": "IT之家 8 月 16 日消息，岚图汽车官方在 8 月 13 日宣布， 追光 S 车型 360° 隧道大回环穿越成功 （在隧道中完成 360 度旋转穿越，轮胎贴着墙面飞驰，最终平稳回到地面）。然而有网友对此次挑战提出质疑，认为追光 S 大回环挑战视频采用了 AI 技术。IT之家注意到，岚图汽车官方在昨晚放出次 360° 隧道穿越挑战 多角度实录 + 一镜到底 视频，回应网友质疑。视频片长约 44 秒， 全面覆盖了正面拍摄视角、后方拍摄视角以及车内第一人称视角 ，同时还给出了正常速度、0.5 倍速的画面。岚图追光 S 已于昨晚正式上市， 新车全系标配华为干昆智驾四激光雷达方案 ，22.99 万元起售，限时免费赠送主副驾双零重力座椅、电动遮阳帘、移动多功能氛围灯。四激光后驱 Max 版：22.99 万元，限时权益价 22.",
+      "published": "2026-08-17T01:16:38+00:00",
+      "summary": "IT之家 8 月 17 日消息，鸿蒙智行尚界 Z7/Z7T 今日开启暑期 OTA 推送，带来 3 大维度升级，超 20 项体验进化。IT之家整理主要内容如下： WEWA2.0 领航体验全面升级 优化领航辅助 (NCA) 激活体验 新增城区漫游巡航功能，支持在非导航状态下，红绿灯识别、路口连续通行、自主变道等。",
       "score": 20,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "1f21a13d09c0"
+      "uid": "726a800bc6aa"
     },
     {
-      "title": "电动航空不会消灭喷气燃料——但它可能先占领最佳航线",
-      "link": "https://oilprice.com/Energy/Energy-General/Electric-Aviation-Wont-Kill-Jet-Fuel-But-It-Could-Take-the-Best-Routes-First.html",
+      "title": "HMD 102 4G Pro 功能机曝光：升级 30 万像素摄像头、支持双卡双待 LTE 通信",
+      "link": "https://www.ithome.com/0/990/478.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-17T01:40:14+00:00",
+      "summary": "IT之家 8 月 17 日消息，博主 smashx_60 现已曝光了 HMD 102 4G Pro 功能机，该机主要基于 HMD 102 4G 标准版机型在内部硬件方面进行升级，使之支持双卡双待 LTE 通信。 该机提供 IP52 认证，正面配备一块 2 英寸 160x120 分辨率 LCD 面板，后置摄像头相对于标准版机型（10 万像素）升级为 30 万像素。 该机搭载紫光展锐 8910FF-S 处理器，RAM 从标准版 16MB 升级为 24MB，存储空间从标准版 24MB 升级至 48MB，手机电池从标准版 1100mAh 升级为 1200mAh。",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "60b9393d09ca"
+    },
+    {
+      "title": "AOC 带来圆偏光版 AG276UZ 显示器：27\" UHD 240Hz 双模 Fast IPS",
+      "link": "https://www.ithome.com/0/990/477.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-17T01:39:42+00:00",
+      "summary": "IT之家 8 月 17 日消息，AOC 曾在 2025 年 5 月推出了常规版本的 AG276UZ 显示器，其采用 27\" Fast IPS 面板，支持 UHD 240Hz / FHD 480Hz 双模切换。而在本月 13 日，AOC 又带来了 AG276UZ (圆偏光版)。这一新品在原版的基础上 新增了圆偏振光护眼技术 ， 可通过模拟自然光偏振属性带来舒适健康的视觉体验 。此产品其它规格与原版一致，因此仍支持硬件低蓝光和不闪屏护眼。AG276UZ (圆偏光版) 亮度可达 450nits，静态对比度 1100:1， 获得 VESA DisplayHDR 400 认证 ；GtG 响应时间 1ms、MPRT 响应时间 0.3ms，支持 MBR / MBR Sync 低运动模糊技术；色域覆盖 100% sRGB / 99% DCI-P3，sRGB 下色差 ΔE＜1。",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "08a9bf555bb4"
+    },
+    {
+      "title": "一年跑 4 万公里后，特斯拉 Model Y 电池容量剩下约 91%",
+      "link": "https://www.ithome.com/0/990/453.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-08-17T01:27:14+00:00",
+      "summary": "IT之家 8 月 17 日消息，据 Insideevs 报道，电池测试似乎表明，电动汽车电池的容量衰减主要发生在使用初期，随后衰减速度会逐渐放缓。YouTuber Andy Slye 在驾驶自己的 2026 款特斯拉 Model Y Premium 后驱版一年、行驶约 2.5 万英里（约 4 万公里）后，对车辆的电池健康状况进行了检查。结果显示，这块电池预计还剩约 91% 的原始容量，不过 Slye 认为没有必要对此感到担忧。Slye 并没有进行特斯拉完整的过夜电池健康测试。按照要求，车辆需要连接交流充电器超过 16 个小时，在此期间先将电池放电至接近耗尽，再将其充满。Slye 采用的是特斯拉 App 内置的诊断功能，但该功能最终只给出了“健康”的笼统结论。91% 这一数据来自第三方服务 Recurrent。",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "0dd4b1d0041e"
+    },
+    {
+      "title": "国产单机动作游戏《湮灭之潮》放出实机演示，女主面部重做引发玩家争议",
+      "link": "https://www.ithome.com/0/990/443.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-08-17T00:52:56+00:00",
+      "summary": "IT之家 8 月 17 日消息，国产单机动作游戏《湮灭之潮》昨日公布了一段长达 40 分钟的新实机演示，但相比游戏中炫目的战斗场面，一个意料之外的变化反而吸引了更多关注。玩家发现，主角 Gwendolyn 的脸似乎与此前亮相时有了明显不同，而部分玩家对这次重新设计并不满意。在游戏的 Steam 社区页面上，有一篇近期讨论帖直接以“face model”（脸部模型）为标题。发帖玩家认为，Gwendolyn 此前的脸“好看太多了”，并质疑开发团队为什么要进行修改。另一篇讨论帖则将新版形象称为“颜值削弱”，认为这个角色已经不像此前公布的演示和预告片中那样了。新面部模型（上方）与旧面部模型（下方）对比 反应最强烈的似乎是那些已经习惯并喜欢 Gwendolyn 原版形象的玩家。自《湮灭之潮》首次公开以来，她的脸一直是这个角色最具辨识度的特征之一。",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "ba3ee6ce7f14"
+    },
+    {
+      "title": "中东石油流量是否已如美国所称回升至每天1500万桶？",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Have-Middle-East-Oil-Flows-Rebounded-to-15-Million-Bpd-as-US-Claims.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-15T23:00:00+00:00",
-      "summary": "航空业通常被视为石油剩余市场中最安全的之一。到2026年，这仍然是一个合理的假设。预计今年航空公司将消耗约1040亿加仑燃料，可持续航空燃料的使用仍低于总量的1%，几乎所有在役的商业客机仍依赖液体碳氢化合物。",
+      "published": "2026-08-16T23:00:00+00:00",
+      "summary": "本周，能源部长克里斯·赖特表示，中东的石油出口已回升至每日1500万桶（bpd），甚至在周日超过了战前每日2000万桶的平均水平。船舶跟踪服务公司和商品分析师对此感到困惑，并且难以将这些数据与他们对该地区油轮装载和交通的观察相协调。",
       "score": 15,
-      "original_title": "Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First",
+      "original_title": "Have Middle East Oil Flows Rebounded to 15 Million Bpd as U.S. Claims?",
       "translated": true,
       "priority": 0,
-      "uid": "ed5a5958e6ea"
+      "uid": "e43b8101386b"
     },
     {
-      "title": "美国只有7%的核燃料来自本土",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Just-7-of-Americas-Nuclear-Fuel-Comes-From-Home.html",
+      "title": "欧洲天然气储存紧张在供暖季来临前加剧",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Storage-Crunch-Deepens-Ahead-of-Heating-Season.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-15T21:00:00+00:00",
-      "summary": "特朗普政府正在推动本土核能复兴。美国仍然是世界上最大的核能生产国，但如果在州和联邦层面的能源政策及投资不进行重大改变，这一地位将不会持续很久。美国的核能设施队伍虽大，但正在老化，退役的核电站远多于新建的核电站。",
+      "published": "2026-08-16T21:00:00+00:00",
+      "summary": "随着距离欧洲大部分地区供暖季开始不到三个月的时间，天然气库存问题变得越来越紧迫。目前的库存水平是17年来最低，可购买的供应比2022年还紧张。然而，欧洲现在必须开始购买天然气——否则将面临短缺的风险。大部分欧洲国家对能源进口的依赖一直备受关注...",
       "score": 15,
-      "original_title": "Just 7% of America’s Nuclear Fuel Comes From Home",
+      "original_title": "Europe’s Gas Storage Crunch Deepens Ahead of Heating Season",
       "translated": true,
       "priority": 0,
-      "uid": "8fadf2db51f2"
+      "uid": "df2696b9bce7"
     },
     {
-      "title": "在英国新任首相领导下，北海石油之争正愈演愈烈",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
+      "title": "大型石油公司从伊朗战争中获得930亿美元的意外之财",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Reap-93-Billion-Windfall-From-the-Iran-War.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-15T19:00:00+00:00",
-      "summary": "随着新首相上任，英国是否会继续加速其绿色转型，或为了支持化石燃料开发而倒退其气候承诺尚不确定。许多人猜测，新任工党首相安迪·伯纳姆将支持北海油气项目。",
+      "published": "2026-08-16T19:00:00+00:00",
+      "summary": "由于连接亚洲和欧洲的关键贸易通道霍尔木兹海峡几乎完全关闭，最近几个月油价飙升。高昂的化石燃料价格推动了全球石油和天然气公司的利润增长，尤其是在美国和欧洲。",
       "score": 15,
-      "original_title": "The Battle Over North Sea Oil Is Heating Up Under Britain’s New PM",
+      "original_title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
       "translated": true,
       "priority": 0,
-      "uid": "7d03345d7576"
+      "uid": "3f999e824a56"
     },
     {
-      "title": "我驾驶了特斯拉FSD和Rivian Autonomy+“免手”驾驶系统。以下是它们的对比",
+      "title": "莫迪承诺为印度青年提供免费辅导和AI培训",
+      "link": "https://www.ftchinese.com/story/001110627",
+      "source": "FT 中文网",
+      "category": "A股与宏观",
+      "published": "2026-08-16T16:00:00+00:00",
+      "summary": "几周前，在“蟑螂人民党”的带领下，Z世代的印度年轻人走上街头，抗议试卷泄露和缺乏稳定高薪的工作机会。",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "b9d1e557473e"
+    },
+    {
+      "title": "我驾驶了特斯拉 FSD 和 Rivian Autonomy+ “免手”驾驶系统。以下是它们的对比",
       "link": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
       "source": "CNBC",
       "category": "A股与宏观",
@@ -179,7 +205,7 @@
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-08-14T16:27:45+00:00",
-      "summary": "迪士尼首席执行官乔什·达马罗周五在接受CNBC记者茱莉亚·布尔斯廷采访时表示，公司公园部门上个季度是一个“巨大惊喜”，他对自己在这家媒体巨头担任高层的最初几个月公司的发展轨迹感到自信。达马罗说：“我们正在实现我们所说的所有目标。我认为公司内部对于我们需要去做的事情方向是清晰的……”",
+      "summary": "迪士尼首席执行官乔什·达马罗（Josh D'Amaro）周五告诉CNBC的朱莉娅·布尔斯廷（Julia Boorstin），公司公园部门在上个季度是一个“重大惊喜”，他对自己作为媒体巨头新任首席执行官的前几个月里公司的发展轨迹感到充满信心。达马罗表示：“我们正在兑现我们所承诺的所有事项。我认为在组织内部，关于我们需要去做的事情已经有了清晰的认识……",
       "score": 15,
       "original_title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
       "translated": true,
@@ -205,7 +231,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-10T14:30:00+00:00",
-      "summary": "利用新的人工智能工具发展您的营销。优秀的营销一直需要深入的测量专业知识来揭示“原因”，并需要战略敏捷性来执行“方法”。这就是为什么我们推出了 Ask Advisor 1 —— 我们在 Google 营销平台中的产品内人工智能代理——将这些答案和行动直接交到营销人员手中。",
+      "summary": "利用新的人工智能工具发展您的营销。优秀的营销一直需要深入的测量专业知识来揭示“为什么”，并需要战略敏捷性来执行“如何”。这就是为什么我们推出了 Ask Advisor 1 —— 我们在 Google 营销平台中的产品内人工智能代理——将这些答案和行动直接交到营销人员手中。",
       "score": 15,
       "original_title": "Evolve your marketing with new AI tools",
       "translated": true,
@@ -213,12 +239,12 @@
       "uid": "4a513ae35763"
     },
     {
-      "title": "让你的电子表格数据在 Sheets 画布上栩栩如生",
+      "title": "让你的电子表格数据通过 Sheets 画布生动呈现",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-13T16:45:00+00:00",
-      "summary": "使用 Sheets 画布让您的电子表格数据栩栩如生 电子表格是组织和理解数据的强大工具，但盯着数百行数百列有时会让人感到有些不知所措。无论您是在筹划婚礼、追踪学校作业、管理梦幻足球阵容，还是比较兼职收入，您都希望能够快速从数据中看到您需要了解的信息。",
+      "summary": "使用 Sheets 画布让您的电子表格数据栩栩如生 电子表格是组织和理解数据的强大工具，但盯着数百行数百列有时会让人感到有些不知所措。无论您是在筹划婚礼、追踪学校作业、管理梦幻足球阵容，还是比较副业收入，您都希望能够快速从数据中看到所需的信息。",
       "score": 10,
       "original_title": "Bring your spreadsheet data to life with Sheets canvas",
       "translated": true,
@@ -230,31 +256,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3927.1764,
-        "change": 0.2116,
-        "pct": 0.01,
-        "amount_yi": 9903.72
+        "price": 3928.6193,
+        "change": 1.4429,
+        "pct": 0.04,
+        "amount_yi": 2014.94
       },
       {
         "name": "深证成指",
-        "price": 14354.31,
-        "change": 64.863,
-        "pct": 0.45,
-        "amount_yi": 11524.71
+        "price": 14370.76,
+        "change": 16.452,
+        "pct": 0.11,
+        "amount_yi": 2234.09
       },
       {
         "name": "创业板指",
-        "price": 3626.3,
-        "change": 40.254,
-        "pct": 1.12,
-        "amount_yi": 2380.35
+        "price": 3633.3,
+        "change": 7.005,
+        "pct": 0.19,
+        "amount_yi": 462.93
       },
       {
         "name": "沪深300",
-        "price": 4665.8812,
-        "change": 1.9299,
-        "pct": 0.04,
-        "amount_yi": 5497.7
+        "price": 4670.744,
+        "change": 4.8628,
+        "pct": 0.1,
+        "amount_yi": 1047.6
       }
     ],
     "holdings": [
@@ -263,11 +289,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 44.72,
-        "market_value": 4472.0,
-        "pnl": 1299.36,
-        "pnl_pct": 40.96,
-        "weight_hint": "43.6%",
+        "price": 44.99,
+        "market_value": 4499.0,
+        "pnl": 1326.36,
+        "pnl_pct": 41.81,
+        "weight_hint": "43.7%",
         "note": "",
         "available": true
       },
@@ -276,11 +302,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.1,
-        "market_value": 2810.0,
-        "pnl": 113.59,
-        "pnl_pct": 4.21,
-        "weight_hint": "27.4%",
+        "price": 28.12,
+        "market_value": 2812.0,
+        "pnl": 115.59,
+        "pnl_pct": 4.29,
+        "weight_hint": "27.3%",
         "note": "",
         "available": true
       },
@@ -289,10 +315,10 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 7.56,
-        "market_value": 2268.0,
-        "pnl": 390.48,
-        "pnl_pct": 20.8,
+        "price": 7.58,
+        "market_value": 2274.0,
+        "pnl": 396.48,
+        "pnl_pct": 21.12,
         "weight_hint": "22.1%",
         "note": "",
         "available": true
@@ -302,11 +328,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.203,
-        "market_value": 240.6,
-        "pnl": -77.4,
-        "pnl_pct": -24.34,
-        "weight_hint": "2.3%",
+        "price": 1.22,
+        "market_value": 244.0,
+        "pnl": -74.0,
+        "pnl_pct": -23.27,
+        "weight_hint": "2.4%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -315,10 +341,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.726,
-        "market_value": 472.6,
-        "pnl": -24.4,
-        "pnl_pct": -4.91,
+        "price": 4.733,
+        "market_value": 473.3,
+        "pnl": -23.7,
+        "pnl_pct": -4.77,
         "weight_hint": "4.6%",
         "note": "",
         "available": true
@@ -339,64 +365,64 @@
     ],
     "sectors": [
       {
-        "name": "半导体/电子 · 模拟芯片设计",
-        "pct": 2.84,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 2.24,
+        "name": "新能源/光伏 · 光伏主材",
+        "pct": 1.68,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.16,
         "source": "东财行业"
       },
       {
         "name": "半导体/电子 · 半导体材料",
-        "pct": 2.3,
+        "pct": 1.33,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": -9.98,
+        "main_flow_yi": 1.77,
         "source": "东财行业"
       },
       {
-        "name": "煤炭 · 煤炭开采",
-        "pct": 1.41,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 5.81,
+        "name": "半导体/电子 · 数字芯片设计",
+        "pct": 1.23,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 22.36,
         "source": "东财行业"
       },
       {
-        "name": "煤炭 · 煤炭",
-        "pct": 1.07,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 6.23,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 电池化学品",
-        "pct": 1.07,
+        "name": "新能源/光伏 · 光伏加工设备",
+        "pct": 0.8,
         "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 6.32,
+        "main_flow_yi": 0.38,
         "source": "东财行业"
       },
       {
-        "name": "新能源/光伏 · 锂电池",
-        "pct": 0.81,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 2.12,
+        "name": "金融/银行 · 国有大型银行Ⅲ",
+        "pct": 0.23,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": -0.19,
         "source": "东财行业"
-      },
-      {
-        "name": "石油 · 石油行业",
-        "pct": 0.13977128335451,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": null,
-        "source": "新浪行业"
       },
       {
         "name": "金融/银行 · 金融行业",
-        "pct": -1.2174396182632,
+        "pct": -0.13896011513838,
         "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "电力/公用 · 电力行业",
-        "pct": -2.3627492412309,
+        "name": "石油 · 石油行业",
+        "pct": -0.33625174470245,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "煤炭 · 煤炭行业",
+        "pct": -0.36482606034929,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "电力/公用 · 供水供气",
+        "pct": -1.1515912897822,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
@@ -405,38 +431,56 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "韩国股市回暖卖空规模却不降反升 投资者疑虑芯片行业是否见顶",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfu1216181.shtml",
+        "title": "华宝基金红利风向标：资源股活跃，现金流策略表现强势",
+        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-17/doc-ininqtnu9101581.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "快讯：恒指高开0.74% 科指涨1.14% 科网股、黄金股普涨 芯片股高开",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-17/doc-ininqtns0276703.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "摩根大通CEO警告英国财政大臣：对银行业加税恐造成岗位外流",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininqtnx7818389.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "信号持续增强！人民币创三年半新高，A股吸引力抬升！“股汇双强”行情可期",
-        "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-16/doc-ininncxv1679135.shtml",
+        "title": "《牛来》爆火背后的荒诞现实：画质虽糙“牛运”亨通，意外带火A股“牛字辈”",
+        "link": "https://finance.sina.com.cn/stock/relnews/2026-08-17/doc-ininqtnt7058438.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "心玮医疗-B拟发行A股及在上交所科创板上市",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-17/doc-ininqpez7931608.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10263.2,
-    "total_pnl": 1701.63,
-    "total_amount_yi": 21428.43,
+    "total_market_value": 10302.3,
+    "total_pnl": 1740.73,
+    "total_amount_yi": 4249.03,
     "bias": "震荡",
-    "volume_note": "量能：两市合计约 21428 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 模拟芯片设计、半导体材料、煤炭开采；偏弱 金融行业、电力行业",
-    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
+    "volume_note": "量能：两市合计约 4249 亿元（接口口径），成交偏清淡",
+    "sector_note": "行业分化：偏强 光伏主材、半导体材料、数字芯片设计；偏弱 金融行业、石油行业、煤炭行业",
+    "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
   "learning": {
-    "title": "ETF 适合新手的原因",
-    "body": "ETF（交易型开放式指数基金）一篮子持股，分散单家公司暴雷风险。半导体/新能源这种高波动行业，用 ETF 比赌单票更适合学习仓。",
+    "title": "T+1 是什么",
+    "body": "A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "Android 编译",
-    "text": "今儿聊【Android 编译】。Gradle一转，茶凉了；再转，饭糊了；还转，人傻了。你写驱动模式、均衡器、歌词翻译，它回你一个依赖冲突，态度比产品经理还硬。社会经验：能跑的别乱动，能动的别升级——升级这词在编程圈跟“改造”在装修圈一个味儿。"
+    "topic": "血压小计",
+    "text": "今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
