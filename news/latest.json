@@ -1,16 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-19T09:37:51.981643+08:00",
+  "generated_at": "2026-08-20T09:36:45.733611+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 19,
   "items": [
     {
-      "title": "Anthropic / 克劳德：介绍克劳德作品 5",
+      "title": "Anthropic / Claude：推出 Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-19T01:38:10+00:00",
-      "summary": "隆重推出 Claude Opus 5 Claude Opus 5 现已上市。 这是一个深思熟虑且积极主动的模型，以一半的价格接近《克劳德寓言 5》的前沿智能。 在 Frontier-Bench 和 GDPval-AA 等编码和知识工作评估中，Opus 5 是最先进的，尽管它在网络安全任务上仍落后于 Mythos 5。 Opus 5 专为日常使用而设计：它的工作效率更高......",
+      "published": "2026-08-20T01:37:03+00:00",
+      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格仅为一半。在编程和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 是新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 的设计用于日常使用：它工作效率更高...",
       "score": 60,
       "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
       "translated": true,
@@ -18,25 +18,25 @@
       "uid": "b08c6994eb9f"
     },
     {
-      "title": "加强国家安全民主监督",
-      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "title": "为前沿模型提供零数据保留",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-08-18T19:00:00+00:00",
-      "summary": "OpenAI 发起了一项倡议，加强对国家安全领域人工智能的民主监督，为政府机构提供工具、培训和专业知识。",
+      "published": "2026-08-19T19:00:00+00:00",
+      "summary": "OpenAI 重申对符合条件的 API 客户实行零数据保留，并预览用于高级 AI 安全的私人安全处理，而不会影响数据隐私。",
       "score": 60,
-      "original_title": "Strengthening democratic oversight in national security",
+      "original_title": "Offering Zero Data Retention for frontier models",
       "translated": true,
       "priority": 0,
-      "uid": "3e1b7153aba1"
+      "uid": "1c268af12aeb"
     },
     {
-      "title": "Gemini 3.7 闪存简介",
+      "title": "推出 Gemini 3.7 Flash",
       "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-08-13T17:04:18+00:00",
-      "summary": "隆重推出 Gemini 3. 7 Flash 今天，我们在广泛使用的 Flash 系列的基础上推出了 Gemini 3. 7 Flash，这是我们迄今为止最智能的编码和代理模型。 该版本是在 Gemini 3.6 Flash 发布三周后发布的，是开发人员反馈和算法创新的直接结果，我们期待为未来的模型带来这些创新。",
+      "summary": "推出 Gemini 3.7 Flash。今天，我们在广泛使用的 Flash 系列取得的进展基础上，推出了 Gemini 3.7 Flash，这是我们迄今为止最智能的用于编码和智能代理的高效模型。此次发布距离 Gemini 3.6 Flash 仅三周时间，是开发者反馈和算法创新的直接成果，我们期待将这些成果带到未来的模型中。",
       "score": 45,
       "original_title": "Introducing Gemini 3.7 Flash",
       "translated": true,
@@ -44,25 +44,38 @@
       "uid": "a37d11d58954"
     },
     {
-      "title": "IT早报 0819：雷军官宣小米新一代玄戒芯片将至；魏建军称长城 36 年来没造过速成车；多人因编造 AI 车祸假视频被罚；入职奖 8800 元，富士康备战 iPhone 18...",
-      "link": "https://www.ithome.com/0/991/398.htm",
+      "title": "我国牵头制定，全球首个算电协同领域国际标准成功立项",
+      "link": "https://www.ithome.com/0/991/895.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-19T00:01:10+00:00",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 19 日星期三，今天的重要科技资讯有： 1.雷军正式官宣：小米新一代玄戒芯片即将发布，微博小尾巴已更换为神秘新机 小米创办人、董事长兼 CEO 雷军 8 月 18 日发文，回顾了小米集团 2026 年 Q2 业绩，并强调研发费用同比增长 18.9%，Q2 已达 92 亿。雷军还顺势宣布，小米新一代玄戒芯片即将发布。另外，雷军的微博小尾巴已更换为型号未知的神秘新机。>> 查看详情 2.魏建军：长城汽车 36 年来，没有造过一辆“速成车” 长城汽车董事长魏建军 8 月 18 日晒出视频，展示了最新改造升级的长城汽车智能驾驶试验场，并表示：“别的我不敢说，我敢说长城汽车 36 年来，没有造过一辆‘速成车’。”>> 查看详情 3.编造智驾事故、AI 生成假车祸视频，多人因编造涉企谣言被罚 公安部公布 14 起典型案例，涉编造智驾事故、AI 生成车祸视频等恶意诋毁车企谣言。",
-      "score": 200,
+      "published": "2026-08-20T00:47:57+00:00",
+      "summary": "IT之家 8 月 20 日消息，市场监管总局 8 月 19 日发文称，近日，由我国向国际电工委员会（IEC）提出的《数据中心微电网监控与能量管理系统技术规范》提案获批立项。该标准是 全球首个 聚焦数据中心算电协同领域的 IEC 国际标准，由我国专家担任项目负责人，联合 法国、德国、西班牙 等多国专家共同制定。当前，全球数字经济与人工智能产业蓬勃发展，数据中心作为承载算力服务的核心基础设施，用电规模持续快速增长。统筹保障算力稳定供应、提升能源利用效率、推进绿色低碳转型，已成为全球算力产业与能源领域共同面临的重要发展课题。在此背景下，“数据中心 + 微电网”融合发展模式成为主流，通过为数据中心构建可自主调控的局域供电网络，整合光伏发电、储能系统等电源形态，实现算力任务调度与电力供应的动态联动， 可有效提升绿电消纳比例、降低综合用能成本 。",
+      "score": 115,
       "original_title": "",
       "translated": false,
-      "priority": 140,
-      "uid": "17c4ea3a2483"
+      "priority": 85,
+      "uid": "cbcc1c5a346d"
     },
     {
-      "title": "人择/克劳德：提出尖锐的问题",
+      "title": "消息称英伟达在北欧充当 AI 算力“牵线人”，当地数据中心交易热度攀升",
+      "link": "https://www.ithome.com/0/991/900.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-20T01:03:56+00:00",
+      "summary": "IT之家 8 月 20 日消息，据 CNBC 报道，知情人士透露，英伟达正在扮演“牵线人”的角色，试图将拥有其 GPU 的企业与北欧地区具备部署这些 GPU 能力的数据中心运营商联系起来。尽管英伟达已经在最强大的 AI 芯片市场建立了近乎垄断的地位，但随着全球 AI 基础设施建设竞赛不断加速，该公司也在努力扩大自己在整个 AI 生态系统中的影响力。这种影响力不仅体现在软件技术栈上，也延伸至与各国政府的关系以及对其他企业的直接投资。与此同时，这家芯片巨头也试图在 AI 基础设施交易中扮演更重要的角色。两名知情人士称，英伟达已经提出，可以帮助那些在北欧拥有数据中心的企业，与正在寻找算力容量、并拥有英伟达 GPU 的公司建立联系。北欧地区如今正成为越来越受追捧的 AI 基础设施建设热点地区。英伟达如何为 AI 基础设施“牵线搭桥” 上述消息人士的说法，也进一步解释了英伟达首席财务官科莱特 · 克雷斯（Colette Kress）今年 6 月发表的一番言论。",
+      "score": 80,
+      "original_title": "",
+      "translated": false,
+      "priority": 50,
+      "uid": "13e2003c5e56"
+    },
+    {
+      "title": "Anthropic / Claude：邀请尖锐问题",
       "link": "https://www.anthropic.com/news/hard-questions",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-19T01:38:10+00:00",
-      "summary": "提出难题 谁决定人工智能的规则？ 人工智能能给我的孩子一个更好的未来吗？ 人工智能会让世界变得更加危险吗？ AI能帮助科学家治愈疾病吗？ 人们对人工智能有很多棘手的问题。 我们的工作就是解决这些问题。 许多人对人工智能持积极态度。",
+      "published": "2026-08-20T01:37:03+00:00",
+      "summary": "邀请困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作就是去解决这些问题。许多人对人工智能持积极态度。",
       "score": 60,
       "original_title": "Anthropic / Claude：Inviting hard questions",
       "translated": true,
@@ -70,64 +83,64 @@
       "uid": "b897b46b0e9b"
     },
     {
-      "title": "与 CodeAI 合作，准备第一代 AI",
-      "link": "https://openai.com/index/partnering-with-codeai",
+      "title": "加强国家安全领域的民主监督",
+      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI 和 CodeAI 正在合作，帮助学生培养人工智能素养，批判性地思考人工智能，并培养负责任地使用和塑造人工智能的技能。",
+      "published": "2026-08-18T19:00:00+00:00",
+      "summary": "OpenAI发起一项倡议，以加强对国家安全中人工智能的民主监督，为政府机构提供工具、培训和专业知识支持。",
       "score": 60,
-      "original_title": "Partnering with CodeAI to prepare the first AI generation",
+      "original_title": "Strengthening democratic oversight in national security",
       "translated": true,
       "priority": 0,
-      "uid": "6ffc4aab7b18"
+      "uid": "3e1b7153aba1"
     },
     {
-      "title": "过去一年内 RAM 内存条套装涨幅惊人，部分 DDR5 产品涨幅超 800%",
-      "link": "https://www.ithome.com/0/991/396.htm",
+      "title": "高通调整骁龙 C 处理器幻灯片，移除 2 项测试结果",
+      "link": "https://www.ithome.com/0/991/908.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-18T23:52:16+00:00",
-      "summary": "IT之家 8 月 19 日消息，据外媒 Tom's Hardware 内存价格追踪报告，过去一年内，RAM 内存条套装的价格出现惊人涨幅，部分高容量 DDR5 产品甚至上涨近 500%，让原本准备组装游戏 PC 的消费者面临越来越高的成本压力。外媒表示，以某厂商 96GB DDR5-6000 内存套装为例，其美国最低售价曾一度降至 189 美元 （IT之家注：现汇率约合 1,276 元人民币） ，如今已经涨至 1,799 美元 （现汇率约合 12,149 元人民币）， 涨幅约 851.另一款 128GB DDR5-6400 套装去年最低售价仅为 329 美元 （现汇率约合 2,222 元人民币） ，目前售价则达到 3,399 美元 （现汇率约合 22,954 元人民币） ， 涨幅约 933.13% ，单根内存的价格甚至超过不少消费者在 2025 年组装整机的预算。",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "44a6d1a4743c"
-    },
-    {
-      "title": "OpenAI 举报了一名在与 ChatGPT 聊天中透露奸杀前女友计划的佛罗里达男子",
-      "link": "https://www.solidot.org/story?sid=85117",
-      "source": "Solidot·通信",
-      "category": "通信与安防",
-      "published": "2026-08-17T13:59:16+00:00",
-      "summary": "OpenAI 举报了一名在与 ChatGPT 聊天中透露奸杀前女友计划的佛罗里达男子。Darren Zhou 告诉 AI 机器人，“我打算在这个月底之前杀了她，如果我得不到她，谁也别想得到她。”Zhou 是一名被高盛解雇的分析师，他在 3 月开始与 ChatGPT 谈论分手的女友，描述了女友的爱好、常去的地方、对女友身边其他男人的嫉妒以及想复合的愿望。OpenAI 的政策规定，当公司检测到用户计划伤害他人时，一个小型团队会审查互动记录。严重的情况下可能会举报给执法部门。Zhou 的聊天提及了强奸、谋杀和谋杀后自杀。联邦探员于 5 月将其两个月的聊天记录转交给当地警方。警方检查了 Zhou 前女友的安全状况。他的前女友 21 岁，因 Zhou“反复无常、嫉妒心强且控制欲强”而与他分手，因为害怕而通过电话分手。警方于 5 月将其逮捕。他在县监狱待了两天后缴纳 10 万美元保释金后获释。他与检方达成认罪协议，于 8 月 13 日对三项指控认罪，被判处 8 年缓刑，缓刑期间须遵守一系列限制。",
+      "published": "2026-08-20T01:16:15+00:00",
+      "summary": "IT之家 8 月 20 日消息，科技媒体 Tom's Hardware 昨日（8 月 19 日）发布博文，报道称高通已联系多家媒体，要求改用新版骁龙 C 处理器（Snapdragon C）幻灯片， 主要删除了“空闲应用”和“网页浏览”2 项基准测试结果。IT之家曾于 8 月 13 日报道， 高通披露首次披露骁龙 C 处理器规格 ，主要面向约 300 美元价位 （IT之家注：现汇率约合 2,027 元人民币） 笔记本。规格方面，骁龙 C 芯片搭载 8 核 Kryo CPU，单核最高频率为 3.0 GHz，多核最高频率为 2.在官方幻灯脚注中，高通表示该芯片可以实现 4 核 2.0 GHz，3 核 2.6 GHz 并行运行，但并未说明 8 个核心同时运行时的频率。图形方面，骁龙 C 芯片集成高通 Adreno 图形处理器，最高频率为 900 MHz；",
       "score": 45,
       "original_title": "",
       "translated": false,
-      "priority": 15,
-      "uid": "ff2b3d2f88ae"
+      "priority": 25,
+      "uid": "384c87127387"
     },
     {
-      "title": "信用卡发行商 Synchrony 宣布与 OpenAI 合作",
-      "link": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-18T02:48:33+00:00",
-      "summary": "编者注：这篇报道的前一个版本基于 Synchrony Financial 高管提供的信息，错误地描述了 Synchrony 和 OpenAI 之间的合作。 Synchrony 和高管的详细信息、引述和描述已被删除。 更正后的版本如下。",
+      "title": "中国开始放行英伟达H200芯片",
+      "link": "https://www.ftchinese.com/story/001110654",
+      "source": "FT 中文网",
+      "category": "持仓相关",
+      "published": "2026-08-18T16:00:00+00:00",
+      "summary": "知情人士称，字节跳动和腾讯近几周已收到小批量H200芯片，这一进展将为力争追赶美国竞争对手的中国AI企业添加助力。",
+      "score": 45,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "79469e45c71f"
+    },
+    {
+      "title": "前理想总裁沈亚楠二次创业，智能住宅企业“栖息地”再获 7 亿元融资",
+      "link": "https://www.ithome.com/0/991/903.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-08-20T01:09:39+00:00",
+      "summary": "IT之家 8 月 20 日消息，据新浪科技今日报道，智能住宅企业栖息地已完成 A 轮融资，本轮融资资金规模 7 亿元人民币，由常州新北区科创基金领投。▲ 图源沈亚楠官方微博 公开资料显示，栖息地品牌由前理想汽车联合创始人、总裁沈亚楠创立，定位生活智能科技公司。沈亚楠曾任联想集团全球供应链副总裁、摩托罗拉（中国）董事长，之后作为联合创始人出任理想汽车总裁，深度参与汽车企业的供应链、产品体系搭建， 2024 年前后开启二次创业 ，切入居住科技赛道。近期，栖息地总投资 10 亿元的 AI 智能住宅全球总部项目签约落户常州。据知情人士透露，本轮融资资金将主要用于该总部及研发中心、具身智能实验室，同时公司还将研发生产级 AI 设计与交付系统，加速相关生态化平台增长战略落地。据知情人士透露，目前，栖息地已在 北京、上海、杭州、深圳、广州、成都、武汉 七城建立直营网络，年度签约规模超 10 亿元。",
       "score": 20,
-      "original_title": "Credit card issuer Synchrony announces partnership with OpenAI",
-      "translated": true,
+      "original_title": "",
+      "translated": false,
       "priority": 0,
-      "uid": "3c2798ef2ec7"
+      "uid": "a7f304bca1a7"
     },
     {
-      "title": "与 Gemini 和 Pixel 一起近距离接触游戏",
+      "title": "通过 Gemini 和 Pixel 更接近游戏",
       "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-17T08:00:00+00:00",
-      "summary": "与 Gemini 和 Pixel 更接近比赛我们将与世界上最具标志性的五个足球俱乐部建立新的长期合作伙伴关系：阿森纳足球俱乐部、巴塞罗那足球俱乐部、拜仁慕尼黑足球俱乐部、利物浦足球俱乐部和巴黎圣日耳曼足球俱乐部。 作为官方消费者人工智能和官方智能手机合作伙伴，Gemini 和 Pixel 携手合作，帮助粉丝成为行动的核心。",
+      "summary": "通过Gemini和Pixel更贴近比赛 我们正在与世界上五个最具标志性的足球俱乐部启动新的长期合作伙伴关系：阿森纳足球俱乐部、巴塞罗那足球俱乐部、拜仁慕尼黑足球俱乐部、利物浦足球俱乐部和巴黎圣日耳曼足球俱乐部。作为他们的官方消费者 AI 和官方智能手机合作伙伴，Gemini 和 Pixel 将携手帮助球迷置身于比赛的中心。",
       "score": 20,
       "original_title": "Get closer to the game with Gemini and Pixel",
       "translated": true,
@@ -135,64 +148,77 @@
       "uid": "7bb26bb70fc7"
     },
     {
-      "title": "美国 29 州起诉 Meta 案开庭，后者否认刻意诱导儿童沉迷社交平台",
-      "link": "https://www.ithome.com/0/991/419.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-08-19T01:18:15+00:00",
-      "summary": "IT之家 8 月 19 日消息，据路透社报道，Meta Platforms 在一场可能改变全球部分热门社交应用运营方式的审判开始之际，否认美国各州提出的指控，称公司并没有为了追求利润而故意让儿童沉迷 Facebook 和 Instagram。由美国 29 个州组成的两党联盟正在起诉 Meta，并要求公司支付可能高达数百亿美元甚至数千亿美元的罚款，同时改变公司的经营方式。加利福尼亚州、科罗拉多州、肯塔基州和新泽西州作为主要原告州，指控 Meta 刻意将 Facebook 和 Instagram 设计成能够吸引并留住年轻用户的产品，从而加剧焦虑、抑郁，甚至导致自杀，同时还误导消费者，让他们认为这些平台对儿童是安全的。29 个州则一致指控 Meta 违反联邦法律，非法收集和使用儿童个人数据。当地时间周二，这起案件在加利福尼亚州奥克兰联邦法院开庭并进入开庭陈述阶段。",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "27158a9f212c"
-    },
-    {
-      "title": "5只能源股在新能源危机中获利",
-      "link": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-Cashing-In-On-The-New-Energy-Crunch.html",
+      "title": "煤炭仍然是全球能源无可争议的王者",
+      "link": "https://oilprice.com/Energy/Coal/Coal-Remains-The-Undisputed-King-Of-Global-Power.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-19T00:00:00+00:00",
-      "summary": "伊朗战争为美国炼油商创造了非凡的盈利季节。 布伦特原油已从战时每桶 126 美元的峰值跌至 90 美元左右，但精炼燃料的短缺只会进一步加剧。 据路透社报道，由于中东炼油厂仍然受到限制，且乌克兰袭击导致俄罗斯炼油厂产量下降，7 月份全球炼油厂产量比去年同期水平低近 500 万桶。",
+      "published": "2026-08-20T00:00:00+00:00",
+      "summary": "世界正在以前所未有的速度安装风力涡轮机和太阳能板，但煤炭仍然比任何其他能源产生更多的电力，而且差距很大。国际能源署（IEA）预计，到2026年，燃煤电厂将发电10,974太瓦时（TWh），占全球33,313太瓦时电力总量的近三分之一。",
       "score": 15,
-      "original_title": "5 Energy Stocks Cashing In On The New Energy Crunch",
+      "original_title": "Coal Remains The Undisputed King Of Global Power",
       "translated": true,
       "priority": 0,
-      "uid": "b959e959bfba"
+      "uid": "dc661a5065db"
     },
     {
-      "title": "美国正在伊拉克悄悄建立新能源据点",
-      "link": "https://oilprice.com/Energy/Natural-Gas/The-US-Is-Quietly-Building-a-New-Energy-Foothold-in-Iraq.html",
+      "title": "随着配给制的蔓延，俄罗斯的燃料危机冲击莫斯科",
+      "link": "https://oilprice.com/Energy/Energy-General/Russias-Fuel-Crisis-Hits-Moscow-as-Rationing-Spreads.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-18T23:00:00+00:00",
-      "summary": "自第二次世界大战结束以来，可能发生了一些事件从根本上重塑了世界石油市场，从而重塑了地缘政治，但当时基本上没有引起人们的注意。 美国总统富兰克林·D.",
+      "published": "2026-08-19T22:00:00+00:00",
+      "summary": "俄罗斯在过去几个月一直遭受来自乌克兰的加长距离无人机袭击，主要针对炼油厂以及工业基地——最近还扩展到网络零售公司和对私营企业的攻击。例如，本周二出现了战争中对莫斯科最大规模的无人机袭击之一，至少有600架无人机袭向首都地区，造成了广泛的破坏和…",
       "score": 15,
-      "original_title": "The U.S. Is Quietly Building a New Energy Foothold in Iraq",
+      "original_title": "Russia’s Fuel Crisis Hits Moscow as Rationing Spreads",
       "translated": true,
       "priority": 0,
-      "uid": "ca3519e76be8"
+      "uid": "2d257d9eac32"
     },
     {
-      "title": "Peter Thiel 对阿根廷 Vaca Muerta 页岩押注 7600 万美元",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Peter-Thiel-Bets-76-Million-on-Argentinas-Vaca-Muerta-Shale.html",
+      "title": "SLB 准备在委内瑞拉重启 15 座石油钻井平台",
+      "link": "https://oilprice.com/Energy/Energy-General/SLB-Prepares-to-Restart-15-Oil-Rigs-in-Venezuela.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-18T22:00:00+00:00",
-      "summary": "Palantir 董事长兼对冲基金所有者 Peter Thiel 购买了在阿根廷 Vaca Muerta 页岩地层运营的最大公司之一 1% 的股份，这是在全球紧缩的情况下该地区有望成为世界第二大页岩油气藏的最新证据。 根据...引用的一份安全文件显示，蒂尔以价值 7600 万美元的美国存托股票的形式购买了 Vista 的股份。",
+      "published": "2026-08-19T21:00:00+00:00",
+      "summary": "油田服务巨头SLB正准备在委内瑞拉重启多达15台钻机，这可能会消除提高该国原油产量的最大障碍之一。SLB和专注于能源的私募股权公司Formentera Partners正在进行各自的努力，以提高委内瑞拉的钻探能力，高管们在周三休斯顿的一次行业会议上表示。",
       "score": 15,
-      "original_title": "Peter Thiel Bets $76 Million on Argentina’s Vaca Muerta Shale",
+      "original_title": "SLB Prepares to Restart 15 Oil Rigs in Venezuela",
       "translated": true,
       "priority": 0,
-      "uid": "7c8c74af8222"
+      "uid": "8f1f1da7205c"
     },
     {
-      "title": "迪士尼旗下的美国广播公司 (ABC) 根据第一修正案对 FCC 提起诉讼",
+      "title": "洛氏住宅看到家居装修支出存在“压力”，因此给出温和前景",
+      "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-19T20:00:17+00:00",
+      "summary": "Lowe's周三公布了喜忧参半的季度业绩，这家家居装修零售商表示其项目支出面临“压力”。尽管公司没有下调全年指导，但它将前景调整到先前指导的下限。公司现在预计总销售额为920亿美元，而此前预期为920亿至940亿美元，可比销售额预计持平，而此前预期持平至增长2%。",
+      "score": 15,
+      "original_title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+      "translated": true,
+      "priority": 0,
+      "uid": "fcd4f1352165"
+    },
+    {
+      "title": "Target表示，其周转正在加快，部分得益于一笔大额关税退款",
+      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-19T20:00:13+00:00",
+      "summary": "Target 周三公布的季度收益因关税退款而增加，并提高了全年业绩指导，这表明这家零售商的转型正在取得进展。公司表示，净销售额较去年同期增长了 5.3%。同店销售额增长了 3.8%，超过了华尔街预期的 2.4%，根据 StreetAccount 的数据。Target 在声明中补充说，其各个类别都显示出“广泛”的增长势头。",
+      "score": 15,
+      "original_title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
+      "translated": true,
+      "priority": 0,
+      "uid": "8267506bb662"
+    },
+    {
+      "title": "迪士尼旗下的ABC对FCC提起第一修正案诉讼",
       "link": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-08-18T16:57:08+00:00",
-      "summary": "迪士尼旗下的美国广播公司 (ABC) 根据第一修正案对美国联邦通信委员会提起诉讼，称该政府机构最近对该公司的调查是一次“报复行动”，因为该公司节目的性质一直批评唐纳德·特朗普总统。 该广播网络周二向哥伦比亚特区美国地方法院提起诉讼。",
+      "summary": "迪士尼旗下的ABC已对联邦通信委员会提起第一修正案诉讼，称该政府机构最近对公司的调查是一场“报复性行动”，因为其节目性质批评了唐纳德·特朗普总统。该广播网络于周二在哥伦比亚特区美国地方法院提起了诉讼。",
       "score": 15,
       "original_title": "Disney-owned ABC files First Amendment lawsuit against FCC",
       "translated": true,
@@ -200,38 +226,25 @@
       "uid": "65c6a7156282"
     },
     {
-      "title": "迪士尼将特朗普政府告上法庭",
-      "link": "https://www.ftchinese.com/story/001110652",
-      "source": "FT 中文网",
-      "category": "A股与宏观",
-      "published": "2026-08-18T16:00:00+00:00",
-      "summary": "旗下拥有ABC的迪士尼在诉状中表示，特朗普政府通过联邦通信委员会“发起了一场针对ABC的报复行动，就因为它不认同ABC播出的内容”。",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "7236a8843fe2"
-    },
-    {
-      "title": "我们的研究型医疗人工智能系统 AMIE 在首次研究中展示了实时临床视频咨询功能。",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "title": "通过搜索提升学习的5种新方法",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "source": "Google AI Blog",
       "category": "AI与科技",
-      "published": "2026-08-11T17:00:00+00:00",
-      "summary": "我们的研究型医疗人工智能系统 AMIE 在首次研究中展示了实时临床视频咨询功能。 当你去看医生时，咨询的内容远远超出了言语的范围——医生会注意到咳嗽、观察步态或记录明显的不适迹象。",
-      "score": 15,
-      "original_title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "published": "2026-08-19T19:00:00+00:00",
+      "summary": "通过搜索提升学习的5种新方法 新学年是升级你的日常学习方式的绝佳机会——无论你是在应对新的难学科目、准备考试，还是尝试在各门课程中保持有序。拥有正确的工具能带来巨大的不同。为了帮助你自信地开始学期，我们正在通过搜索中的AI介绍提升学习的新方法，涉及教育...",
+      "score": 10,
+      "original_title": "5 new ways to level up your learning with Search",
       "translated": true,
       "priority": 0,
-      "uid": "343d58c33ec0"
+      "uid": "19638538246f"
     },
     {
-      "title": "使用表格画布让您的电子表格数据栩栩如生",
+      "title": "让你的电子表格数据通过 Sheets 画布生动呈现",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-13T16:45:00+00:00",
-      "summary": "使用表格画布让电子表格数据栩栩如生 电子表格是组织和理解数据的强大工具，但盯着数百行和列有时会感到有点不知所措。 无论您是在筹划婚礼、跟踪学校作业、管理梦幻足球花名册还是比较副业收入，您都希望快速从数据中了解需要了解的信息。",
+      "summary": "使用 Sheets 画布让您的电子表格数据栩栩如生 电子表格是组织和理解数据的强大工具，但盯着数百行数百列有时会让人感到有些不知所措。无论您是在筹划婚礼、追踪学校作业、管理梦幻足球阵容，还是比较兼职收入，您都希望能够快速从数据中看到您需要了解的信息。",
       "score": 10,
       "original_title": "Bring your spreadsheet data to life with Sheets canvas",
       "translated": true,
@@ -243,31 +256,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3954.4345,
-        "change": -35.8692,
-        "pct": -0.9,
-        "amount_yi": 1815.43
+        "price": 3909.8203,
+        "change": 15.3979,
+        "pct": 0.4,
+        "amount_yi": 1471.82
       },
       {
         "name": "深证成指",
-        "price": 14316.78,
-        "change": -305.713,
-        "pct": -2.09,
-        "amount_yi": 2071.19
+        "price": 13974.68,
+        "change": 84.524,
+        "pct": 0.61,
+        "amount_yi": 1646.79
       },
       {
         "name": "创业板指",
-        "price": 3605.22,
-        "change": -100.349,
-        "pct": -2.71,
-        "amount_yi": 425.9
+        "price": 3488.57,
+        "change": 15.075,
+        "pct": 0.43,
+        "amount_yi": 321.86
       },
       {
         "name": "沪深300",
-        "price": 4661.4447,
-        "change": -64.3687,
-        "pct": -1.36,
-        "amount_yi": 938.18
+        "price": 4611.103,
+        "change": 22.4075,
+        "pct": 0.49,
+        "amount_yi": 772.54
       }
     ],
     "holdings": [
@@ -276,11 +289,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 45.86,
-        "market_value": 4586.0,
-        "pnl": 1413.36,
-        "pnl_pct": 44.55,
-        "weight_hint": "43.9%",
+        "price": 46.54,
+        "market_value": 4654.0,
+        "pnl": 1481.36,
+        "pnl_pct": 46.69,
+        "weight_hint": "44.3%",
         "note": "",
         "available": true
       },
@@ -289,11 +302,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.18,
-        "market_value": 2818.0,
-        "pnl": 121.59,
-        "pnl_pct": 4.51,
-        "weight_hint": "27.0%",
+        "price": 28.27,
+        "market_value": 2827.0,
+        "pnl": 130.59,
+        "pnl_pct": 4.84,
+        "weight_hint": "26.9%",
         "note": "",
         "available": true
       },
@@ -302,11 +315,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 7.73,
-        "market_value": 2319.0,
-        "pnl": 441.48,
-        "pnl_pct": 23.51,
-        "weight_hint": "22.2%",
+        "price": 7.75,
+        "market_value": 2325.0,
+        "pnl": 447.48,
+        "pnl_pct": 23.83,
+        "weight_hint": "22.1%",
         "note": "",
         "available": true
       },
@@ -315,11 +328,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.225,
-        "market_value": 245.0,
-        "pnl": -73.0,
-        "pnl_pct": -22.96,
-        "weight_hint": "2.3%",
+        "price": 1.164,
+        "market_value": 232.8,
+        "pnl": -85.2,
+        "pnl_pct": -26.79,
+        "weight_hint": "2.2%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -328,11 +341,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.723,
-        "market_value": 472.3,
-        "pnl": -24.7,
-        "pnl_pct": -4.97,
-        "weight_hint": "4.5%",
+        "price": 4.67,
+        "market_value": 467.0,
+        "pnl": -30.0,
+        "pnl_pct": -6.04,
+        "weight_hint": "4.4%",
         "note": "",
         "available": true
       },
@@ -352,71 +365,50 @@
     ],
     "sectors": [
       {
-        "name": "煤炭 · 煤炭",
-        "pct": 1.26,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 3.11,
+        "name": "新能源/光伏 · 燃料电池",
+        "pct": 1.88,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.01,
         "source": "东财行业"
       },
       {
-        "name": "金融/银行 · 国有大型银行Ⅲ",
-        "pct": 0.69,
+        "name": "金融/银行 · 金融信息服务",
+        "pct": 1.63,
         "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -0.69,
+        "main_flow_yi": 0.04,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 多元金融",
+        "pct": 1.27,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": 0.1,
         "source": "东财行业"
       },
       {
         "name": "煤炭 · 煤炭行业",
-        "pct": 0.68491560446704,
+        "pct": 1.1997937854431,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "金融/银行 · 股份制银行Ⅲ",
-        "pct": 0.57,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -1.27,
-        "source": "东财行业"
-      },
-      {
-        "name": "石油 · 石油行业",
-        "pct": -0.030892801977139,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "新能源/光伏 · 电池化学品",
-        "pct": -0.16,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.35,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 风电整机",
-        "pct": -0.26,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.95,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 电力行业",
-        "pct": -0.31295804777562,
+        "name": "电力/公用 · 供水供气",
+        "pct": 1.0259378123849,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "石油 · 石油石化",
-        "pct": -0.42,
+        "name": "石油 · 石油行业",
+        "pct": 0.34000755572346,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": 0.05,
-        "source": "东财行业"
+        "main_flow_yi": null,
+        "source": "新浪行业"
       },
       {
         "name": "半导体/电子 · 电子器件",
-        "pct": -3.4277158814539,
+        "pct": 0.28964349777526,
         "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
@@ -424,46 +416,57 @@
     ],
     "policy_news": [
       {
-        "title": "央行今日开展3274亿元隔夜逆回购操作",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-08-19/doc-ininvfsv7038933.shtml",
+        "title": "8月LPR报价出炉：5年期和1年期利率均维持不变",
+        "link": "https://finance.sina.com.cn/jryx/bank/2026-08-20/doc-ininxkrs8051020.shtml",
+        "level": "高",
+        "tag": "政策"
+      },
+      {
+        "title": "特朗普淡化债券市场担忧，再次呼吁降息",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxkrs8005716.shtml",
         "level": "高",
         "tag": "政策"
       }
     ],
-    "industry_news": [
-      {
-        "title": "LG新能源北美第七家电池工厂投产",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininvfsy2715665.shtml",
-        "level": "中",
-        "tag": "行业"
-      }
-    ],
+    "industry_news": [],
     "market_news": [
       {
-        "title": "资金持续涌入！科技ETF近五日吸金超5500万，市场信心回升？",
-        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-19/doc-ininvfsy2724458.shtml",
+        "title": "精品茅台下跌4元 此前大涨行情终结",
+        "link": "https://finance.sina.com.cn/chanjing/jync/djbd/2026-08-20/doc-ininxkry2154744.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "恒瑞医药拟回购10亿至20亿元的A股股份用于A股员工持股计划",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-20/doc-ininxkrv6740954.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "10年期美债收益率距5%不再遥远 投资者担心亚洲债市重现资金外流潮",
+        "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininxkry2129003.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10440.3,
-    "total_pnl": 1878.73,
-    "total_amount_yi": 3886.62,
-    "bias": "偏空",
-    "volume_note": "量能：两市合计约 3887 亿元（接口口径），成交偏清淡",
-    "sector_note": "行业分化：偏强 煤炭、国有大型银行Ⅲ、煤炭行业；偏弱 石油行业、电池化学品、风电整机",
-    "tip": "板块轮动是常态，不要追高换仓",
+    "total_market_value": 10505.8,
+    "total_pnl": 1944.23,
+    "total_amount_yi": 3118.61,
+    "bias": "震荡",
+    "volume_note": "量能：两市合计约 3119 亿元（接口口径），成交偏清淡",
+    "sector_note": "行业分化：偏强 燃料电池、金融信息服务、多元金融；偏弱 暂无",
+    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
     "errors": []
   },
   "learning": {
-    "title": "板块轮动",
-    "body": "资金常在行业间切换，不是“好公司永远天天涨”。追昨天上涨板块，容易买在情绪高点；先看逻辑，再看价格。",
+    "title": "净息差（银行）",
+    "body": "净息差 = 贷款利率与存款利率的差距，是银行赚钱能力的核心之一。工行观察点：净息差是否继续收窄，以及不良贷款率。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "标书加班",
-    "text": "今儿聊【标书加班】。标书这东西，白天像散文，夜里像刑法。格式错一个空格，废一宿；价格错一个零，废一年。社会经验：投标不是写作文，是把自己活成附件——附件越全，人越空。"
+    "topic": "AI 工具",
+    "text": "今儿聊【AI 工具】。大模型像特别能干的实习生：秒出三千字，里头三分真七分顺嘴。你让它写可研，它写得比你快；你让它对定额，它比你敢。社会经验：AI能提效，不能替你背锅——锅永远有编制，编制在你工号上。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
