@@ -1,15 +1,15 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-21T09:41:39.969350+08:00",
+  "generated_at": "2026-08-22T09:35:31.931211+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 19,
+  "count": 17,
   "items": [
     {
       "title": "Anthropic / Claude：推出 Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-21T01:41:59+00:00",
+      "published": "2026-08-22T01:35:51+00:00",
       "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格仅为一半。在编程和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 是新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 的设计用于日常使用：它工作更加高效...",
       "score": 60,
       "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
@@ -31,51 +31,64 @@
       "uid": "eb43f0cc8a6e"
     },
     {
-      "title": "推出 Gemini 3.7 闪光",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "title": "从雅达利到《EVE Online》：基于15年的游戏人工智能研究",
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
-      "published": "2026-08-13T17:04:18+00:00",
-      "summary": "推出 Gemini 3.7 Flash。今天，我们在广受欢迎的 Flash 系列取得的进展基础上，推出了 Gemini 3.7 Flash，这是我们迄今为止最智能的用于编码和智能代理的高效模型。此次发布距离 Gemini 3.6 Flash 仅三周时间，是开发者反馈和算法创新的直接成果，我们期待将这些成果应用到未来的模型中。",
-      "score": 45,
-      "original_title": "Introducing Gemini 3.7 Flash",
+      "published": "2026-08-21T11:59:48+00:00",
+      "summary": "从雅达利到《EVE Online》：在15年的游戏人工智能研究基础上发展 从雅达利到围棋再到《星际争霸》，游戏推动了一些人工智能领域的重大突破。现在，我们正与游戏开发者合作，原型化新的游戏体验，推动游戏和人工智能的前沿发展。自2010年DeepMind成立以来，受限但丰富的游戏世界在理解智力方面发挥了关键作用...",
+      "score": 50,
+      "original_title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "translated": true,
       "priority": 0,
-      "uid": "a37d11d58954"
+      "uid": "3a26b92514ea"
     },
     {
-      "title": "国轩高科：配套问界 M6 纯电版相关项目正积极开展批量供货筹备工作，同时积极对接鸿蒙智行旗下其他车型",
-      "link": "https://www.ithome.com/0/992/440.htm",
+      "title": "美国硅谷大谈机器人未来，现场主角却来自中国",
+      "link": "https://www.ithome.com/0/992/883.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-21T01:00:03+00:00",
-      "summary": "IT之家 8 月 21 日消息，国轩高科今日在互动平台表示，公司配套问界 M6 纯电版相关项目正积极开展批量供货筹备工作。 同时， 我们与鸿蒙智行持续深化合作，积极对接旗下其他车型 ，相关进展，请关注公司公开披露信息。 36 氪汽车曾于今年 6 月报道，问界品牌将引入中创新航、国轩高科两家二线电池供应商（此前长期由宁德时代独供）， 问界 M6 已定点国轩高科的 81 度电池包 。知情人士透露，国轩高科去年就收到了鸿蒙智行定点信，中创新航也将进入问界供应体系。 ▲ 问界 M6 纯电版 IT之家查询获悉：鸿蒙智行六大核心技术矩阵具体包括华为干昆智驾、华为鸿蒙座舱、华为途灵平台、华为智擎、华为巨鲸电池平台和华为智能网联。 据介绍，华为巨鲸电池平台是华为推出的新能源汽车电池安全技术平台，属于华为的标准体系， 电池厂商通过了巨鲸电池的审核标准，才能进入鸿蒙智行的供应链 。 相关阅读： 《 鸿蒙智行问界 M6 纯电版新车申报：可选不带车顶激光雷达，采用磷酸铁锂电池 》",
+      "published": "2026-08-21T15:34:51+00:00",
+      "summary": "8 月 21 日，据《商业内幕》报道，旧金山机器人大会 Actuate 吸引了约 1500 名投资者、创业者和工程师参与，但现场展示的机器人数量却远少于预期。在人工智能从软件领域向现实世界延伸的背景下，机器人行业正迎来投资热潮，但硬件供应不足、训练数据短缺以及供应链限制，成为行业进一步发展的关键挑战。硅谷最热门的机器人技术大会上为数不多的机器人之一 报道称，Actuate 大会由机器人软件公司 Foxglove 主办，今年参会人数较 2025 年增长约 3 倍。Foxglove 联合创始人兼 CEO Adrian Macneil 表示，如果不受场地限制，大会门票销量可能超过 2000 张。资本市场正在加速押注机器人产业。根据 Crunchbase 数据，全球机器人初创企业 2025 年融资规模达到 150 亿美元，2026 年至今融资额进一步达到 188 亿美元。",
+      "score": 85,
+      "original_title": "",
+      "translated": false,
+      "priority": 65,
+      "uid": "4ae39623fc61"
+    },
+    {
+      "title": "IT早报 0822：特斯拉、零跑、吉利等 9 大厂商因门把手隐患召回车辆；曝高通骁龙新款芯片命名为至尊 / 超级至尊版；1.48 万元“问界 M0.9”儿童车预售...",
+      "link": "https://www.ithome.com/0/992/899.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-21T23:55:44+00:00",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 22 日星期六，今天的重要科技资讯有： 1.因车内应急机械拉手不易识别和操作，特斯拉、零跑、吉利等 9 大厂商宣布召回 IT之家从国家市场监督管理总局获悉，因车内应急机械拉手不易识别和操作，特斯拉、零跑、吉利等 9 大厂商宣布召回车辆。>> 查看详情 2.高通骁龙 2nm 芯片命名曝光：第六代骁龙 8 至尊版 / 超级至尊版 高通新一代旗舰芯片命名曝光，第六代骁龙 8 至尊版和超级至尊版将采用 2nm 工艺，预计明年搭载于多款安卓旗舰。骁龙峰会将于 9 月 22 日至 24 日在夏威夷举行，更多细节届时揭晓。>> 查看详情 3.鸿蒙智行问界儿童车预售：350W 电机、20km 续航、前后双 1080P 摄像头，到手价 1.48 万元 鸿蒙智行问界儿童车现已开启预售，将于 8 月 30 日正式上市，售价 15800 元。",
       "score": 80,
       "original_title": "",
       "translated": false,
       "priority": 50,
-      "uid": "1e4e53fcd8aa"
+      "uid": "62f26b55963b"
     },
     {
-      "title": "IT早报 0821：奕境汽车为“假 Labubu”礼品致歉；华为发布享界 G9 / 智界 RX 等四车、Pura X View 阔直板手机；《黑神话：钟馗》15 分钟实机演示公布...",
-      "link": "https://www.ithome.com/0/992/429.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-21T00:02:26+00:00",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 21 日星期五，今天的重要科技资讯有： 1.曝奕境汽车南昌门店活动送仿版 Labubu，品牌总经理曾清林发文回应 有网友反映奕境汽车南昌门店活动送出了仿版 Labubu。奕境汽车品牌总经理曾清林 8 月 20 日发文就此事进行了回应，称礼品管控、风险审核这套管理体系没有跟上业务增长的节奏，才造成这次失误，将向公司报告，申请采购一万件正版 Labubu，用于全国门店到店 / 试驾权益。>> 查看详情 2.享界 G9 及鸿蒙智行新品发布会一文汇总：华为首款阔直板惊喜亮相，余承东狂甩“四张车牌” 在 8 月 20 日的鸿蒙智行新品发布会上，余承东不仅带来了全新硬派 SUV 享界 G9，还预告了智界 RX、享界 V8，并发布了问界 M6 新版本。最令人惊喜的是，全球首款阔直板手机华为 Pura X View 也一同亮相，首发鸿蒙 HarmonyOS 7 系统。",
+      "title": "投资者缩减对美英加息的押注",
+      "link": "https://www.ftchinese.com/story/001110680",
+      "source": "FT 中文网",
+      "category": "A股与宏观",
+      "published": "2026-08-20T16:00:00+00:00",
+      "summary": "经济数据变弱压倒对油价上涨的担忧，使交易员预计美联储将在今年剩余时间维持利率不变，而英国央行不太可能在未来一年加息超过两次。",
       "score": 75,
       "original_title": "",
       "translated": false,
-      "priority": 35,
-      "uid": "aa508cdb3ddb"
+      "priority": 60,
+      "uid": "069e4d44c0c2"
     },
     {
-      "title": "Anthropic / Claude：邀请尖锐问题",
+      "title": "Anthropic / Claude：提出尖锐问题",
       "link": "https://www.anthropic.com/news/hard-questions",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-21T01:41:59+00:00",
-      "summary": "提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作就是去解决这些问题。许多人对人工智能持积极态度。",
+      "published": "2026-08-22T01:35:51+00:00",
+      "summary": "邀请困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作是去解决这些问题。许多人对人工智能持积极态度。",
       "score": 60,
       "original_title": "Anthropic / Claude：Inviting hard questions",
       "translated": true,
@@ -96,43 +109,30 @@
       "uid": "1c268af12aeb"
     },
     {
-      "title": "中国开始放行英伟达H200芯片",
-      "link": "https://www.ftchinese.com/story/001110654",
-      "source": "FT 中文网",
-      "category": "持仓相关",
-      "published": "2026-08-18T16:00:00+00:00",
-      "summary": "知情人士称，字节跳动和腾讯近几周已收到小批量H200芯片，这一进展将为力争追赶美国竞争对手的中国AI企业添加助力。",
-      "score": 45,
+      "title": "日产暴跌 58.7%，丰田、本田 2026 年 7 月在华新车销量均同比下降",
+      "link": "https://www.ithome.com/0/992/913.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-22T01:12:43+00:00",
+      "summary": "IT之家 8 月 22 日消息，据日本共同社报道，日本三大车商 2026 年 7 月在中国市场的新车销量全部出炉， 三家公司均较上年同期下降 。丰田 7 月销量 114,700 辆，同比下降 24.3% 日产 7 月销量 23,677 辆，同比下降 58.7%，连续 4 个月同比下降 本田 7 月销量 25,052 辆，同比下降 44.1%，连续 30 个月同比下降 ▲ 广汽丰田铂智 7 据IT之家此前报道， 丰田、日产、本田 2026 年上半年在华新车销量同样有不同程度的下滑 。延伸阅读 从 2026 年前 7 个月累计数据来看，整体下滑趋势更为明显：日产在华累计销量为 26.11 万辆，同比下降 22%；丰田累计销量 80.94 万辆，同比下降 18%；本田累计销量 23.87 万辆，同比跌幅达 36%，为三家之中降幅最大。",
+      "score": 55,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "79469e45c71f"
+      "uid": "c2609ec86bac"
     },
     {
-      "title": "Omdia：2026 年非洲智能手机市场预计下滑 26%，结束连续三年增长态势",
-      "link": "https://www.ithome.com/0/992/421.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-20T23:25:25+00:00",
-      "summary": "IT之家 8 月 21 日消息，根据 Omdia 最新研究，非洲智能手机市场正在进入调整期，Omdia 预计 2026 年市场将 下降 26% ，结束连续三年的增长态势。IT之家从报告获悉，2026 年第二季度，非洲智能手机市场三年来首次出现同比下滑， 出货量下降 7% 。随着设备价格持续上涨，整个非洲市场的消费者购买力承受更大的压力。其中，100 美元 （IT之家注：现汇率约合 674.6 元人民币） 以下的入门级市场尤为明显。长期以来，该价格区间一直是非洲新兴中产阶级实现数字连接的重要入口，但其出货量同比下降 34%， 减少近 300 万部 。不断上涨的存储器成本以及 AI 需求推动的供应链调整，进一步加剧了入门级智能手机的供应和价格压力。Omdia 首席分析师 Manish Pravinkumar 表示：“我们正在见证非洲智能手机市场被迫向更高价格区间转移。",
-      "score": 40,
-      "original_title": "",
-      "translated": false,
-      "priority": 15,
-      "uid": "42b157a2f11a"
-    },
-    {
-      "title": "美国销量差距扩大至 165.5%，报告称苹果 CarPlay 成汽车选购关键因素",
-      "link": "https://www.ithome.com/0/992/434.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-08-21T00:33:29+00:00",
-      "summary": "IT之家 8 月 21 日消息，汽车媒体 wholelottanothing 昨日（8 月 20 日）发布博文，报道称是否支持苹果 CarPlay 车联系统，成为美国消费者选购汽车的关键因素之一。界面设计师马修 · 豪伊（Matthew Haughey）以雪佛兰 Blazer EV 和本田 Prologue EV 的汽车销量作为样本对比， 认为 CarPlay 成为推动两款汽车在美国销量差异的关键因素。雪佛兰 Blazer EV 和本田 Prologue EV 均基于通用汽车的 Ultium 平台打造，尺寸和底盘架构相近，Prologue 本质上就是贴着本田标志的雪佛兰 Blazer 电动车。雪佛兰 Blazer EV 本田 Prologue 电动车 车机系统方面，雪佛兰 Blazer EV 科技感更强，配备巨大的 17.",
+      "title": "河水低流，利害攸关：欧洲的核能冷却危机",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Low-Rivers-High-Stakes-Europes-Nuclear-Cooling-Crisis.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-08-21T20:00:00+00:00",
+      "summary": "最近几周欧洲经历的极端高温已对核电站造成了广泛的破坏。整个地区的各国政府被迫采取非常措施以保持核设施的运行，但由于河流水位创下新低，一些核电站未能达到目标。这预计将对欧洲的国内生产总值产生重大影响，经济损失达数十亿。",
       "score": 20,
-      "original_title": "",
-      "translated": false,
+      "original_title": "Low Rivers, High Stakes: Europe's Nuclear Cooling Crisis",
+      "translated": true,
       "priority": 0,
-      "uid": "d08a4c8d3216"
+      "uid": "1f4309a79ad4"
     },
     {
       "title": "通过 Gemini 和 Pixel 更接近游戏",
@@ -140,7 +140,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-17T08:00:00+00:00",
-      "summary": "通过Gemini和Pixel更贴近比赛体验 我们正在与世界上五支最具标志性的足球俱乐部建立新的长期合作关系：阿森纳足球俱乐部、巴塞罗那足球俱乐部、拜仁慕尼黑足球俱乐部、利物浦足球俱乐部和巴黎圣日耳曼足球俱乐部。作为他们的官方消费者 AI 和官方智能手机合作伙伴，Gemini 和 Pixel 携手将带领球迷深入比赛中心体验精彩瞬间。",
+      "summary": "通过Gemini和Pixel更贴近比赛 我们正在与世界上五个最具标志性的足球俱乐部启动新的长期合作伙伴关系：阿森纳足球俱乐部、巴塞罗那足球俱乐部、拜仁慕尼黑足球俱乐部、利物浦足球俱乐部和巴黎圣日耳曼足球俱乐部。作为他们的官方消费者 AI 和官方智能手机合作伙伴，Gemini 和 Pixel 将携手帮助球迷置身于比赛的中心。",
       "score": 20,
       "original_title": "Get closer to the game with Gemini and Pixel",
       "translated": true,
@@ -148,82 +148,56 @@
       "uid": "7bb26bb70fc7"
     },
     {
-      "title": "巴西的新石油前沿可能使其繁荣持续数十年",
-      "link": "https://oilprice.com/Energy/Energy-General/Brazils-New-Oil-Frontier-Could-Keep-Its-Boom-Alive-For-Decades.html",
+      "title": "中国新的五年计划为国家迎接石油峰值做准备",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Chinas-New-Five-Year-Plan-Preps-the-Nation-for-Peak-Oil.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-21T00:00:00+00:00",
-      "summary": "巴西总统路易斯·伊纳西奥·卢拉·达·席尔瓦称巴西国家石油公司（Petrobras，NYSE: PBR）在亚马逊河口附近的新近海上石油发现为“国家未来的通行证”，并继续支持在亚马逊生态敏感地区进行有争议的石油和天然气钻探。",
+      "published": "2026-08-21T22:00:00+00:00",
+      "summary": "中国的能源战略在很大程度上使其免受伊朗战争及其导致的霍尔木兹海峡关闭的影响，该海峡是全球石油和天然气贸易的重要通道。然而，该国最新的石油和天然气五年计划显示出对地缘政治紧张局势、未来冲突、对能源进口的依赖以及国内原油供应日益减少的持续担忧。",
       "score": 15,
-      "original_title": "Brazil’s New Oil Frontier Could Keep Its Boom Alive For Decades",
+      "original_title": "China's New Five-Year Plan Preps the Nation for Peak Oil",
       "translated": true,
       "priority": 0,
-      "uid": "c14b8afe8d23"
+      "uid": "9a380779264e"
     },
     {
-      "title": "胡塞武装行动以完全控制关键的曼德海峡石油要冲",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/Houthis-Move-to-Gain-Complete-Control-Over-Crucial-Bab-el-Mandeb-Oil-Chokepoint.html",
+      "title": "大多数美国人并不反对疫苗。他们只是犹豫不决——而这正成为一个日益严重的公共卫生挑战",
+      "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-21T19:14:56+00:00",
+      "summary": "记录在案的麻疹病例和不断上升的儿童疫苗豁免率已经引发了人们的担忧，即美国人正越来越反对疫苗。但现实情况可能比这更复杂。对于试图遏制致命疾病的公共卫生官员来说，最大的挑战可能并不是广泛的反疫苗情绪，也不是传播这种情绪的意见领袖和政治人物。",
+      "score": 15,
+      "original_title": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
+      "translated": true,
+      "priority": 0,
+      "uid": "09687d9c8f96"
+    },
+    {
+      "title": "伊拉克希望将石油产量加倍——并且需要欧佩克让路",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Wants-to-Double-Oil-Outputand-Needs-OPEC-to-Get-Out-of-the-Way.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-20T23:00:00+00:00",
-      "summary": "也门胡塞武装计划夺取位于红海曼德海峡沿岸的土地，加强对这一海峡要道的控制。这一信息来自也门政府新闻部长，该政府正在与胡塞武装作战，并暗示这一行动可能进一步扰乱世界上最繁忙的贸易航线之一的海上交通。“胡塞民兵。”",
+      "published": "2026-08-21T18:30:00+00:00",
+      "summary": "预计英国的通货膨胀将……原油库存在……伊拉克希望在六年内将其石油产量翻倍。首先，它需要欧佩克批准。巴格达的目标是每日石油产量在800万到1000万桶之间，高于伊朗战争前的大约400万桶，首相阿里·扎伊迪周五表示。伊拉克当天派遣其石油和财政部长前往沙特阿拉伯进行会谈……",
       "score": 15,
-      "original_title": "Houthis Move to Gain Complete Control Over Crucial Bab el-Mandeb Oil Chokepoint",
+      "original_title": "Iraq Wants to Double Oil Output—and Needs OPEC to Get Out of the Way",
       "translated": true,
       "priority": 0,
-      "uid": "62b8aa7b8317"
+      "uid": "51cc3891a219"
     },
     {
-      "title": "霍尔木兹海峡石油危机加速全球电动车销售",
-      "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Oil-Crisis-Accelerates-Global-EV-Sales.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-08-20T22:00:00+00:00",
-      "summary": "由于中东地区的石油供应中断以及四年来第二次油价冲击，今年全球电动汽车销量激增。Wood Mackenzie 的分析师表示，今年早些时候油价和燃料价格的飙升引发的电动汽车采用加速趋势，将在全球市场持续，并可能使乘用车车队中电动汽车的比例超出此前的预期。",
-      "score": 15,
-      "original_title": "Hormuz Oil Crisis Accelerates Global EV Sales",
-      "translated": true,
-      "priority": 0,
-      "uid": "852bd21f813a"
-    },
-    {
-      "title": "现代的新旗舰车型是一款大型豪华Genesis电动车",
-      "link": "https://www.cnbc.com/2026/08/19/hyundai-luxury-genesis-ev.html",
+      "title": "特朗普政府聘请前摩根大通高管马特·扎梅斯为社会保障机构提供咨询",
+      "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-08-20T12:45:35+00:00",
-      "summary": "旧金山——现代汽车最新的豪华旗舰车型是一款全电动大型 SUV，名为 Genesis GV90。这款最多可容纳七人的电动汽车展示了 Genesis 的新设计方向，并将这一豪华品牌在美国市场的车型阵容扩展至七款，同时现代汽车继续在本土市场增长销量。Genesis GV90 是该品牌自进入美国以来提供的最大车型。",
+      "published": "2026-08-21T15:10:31+00:00",
+      "summary": "据 CNBC 了解，前摩根大通高管马特·扎梅斯将加入特朗普政府，担任社会保障局的顾问。据知情人士透露，扎梅斯将以无薪身份帮助他在摩根大通的前同事弗兰克·比西尼亚诺（去年成为社会保障局局长）推进该机构的现代化改造。知情人士因未获授权而不愿透露姓名。",
       "score": 15,
-      "original_title": "Hyundai's new flagship vehicle is a large luxury Genesis EV",
+      "original_title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
       "translated": true,
       "priority": 0,
-      "uid": "f5a4a844e7fa"
-    },
-    {
-      "title": "洛氏住宅看到家居装修支出存在“压力”，因此给出温和前景",
-      "link": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-19T20:00:17+00:00",
-      "summary": "Lowe's周三公布了喜忧参半的季度业绩，这家家居装修零售商表示其项目支出面临“压力”。尽管公司没有下调全年指导，但它将前景调整到先前指导的下限。公司现在预计总销售额为920亿美元，而此前预期为920亿至940亿美元，可比销售额预计持平，而此前预期持平至增长2%。",
-      "score": 15,
-      "original_title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
-      "translated": true,
-      "priority": 0,
-      "uid": "fcd4f1352165"
-    },
-    {
-      "title": "Target表示，其周转正在加快，部分得益于一笔大额关税退款",
-      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-19T20:00:13+00:00",
-      "summary": "Target 周三公布的季度收益因关税退款而增加，并提高了全年业绩指导，这表明这家零售商的转型正在取得进展。公司表示，净销售额较去年同期增长了 5.3%。同店销售额增长了 3.8%，超过了华尔街预期的 2.4%，根据 StreetAccount 的数据。Target 在声明中补充说，其各个类别都显示出“广泛”的增长势头。",
-      "score": 15,
-      "original_title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-      "translated": true,
-      "priority": 0,
-      "uid": "8267506bb662"
+      "uid": "f478e3e196a3"
     },
     {
       "title": "通过搜索提升学习的5种新方法",
@@ -231,7 +205,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-19T19:00:00+00:00",
-      "summary": "通过搜索提升学习的5种新方法 新学年是升级你日常学习的终极机会——无论你是在应对新的困难学科、备考，还是试图在各门课程中保持有序。拥有合适的工具会带来巨大的不同。为了帮助你充满信心地开始学期，我们推出了通过搜索中的人工智能提升学习的新方式，结合教育...",
+      "summary": "通过搜索提升学习的5种新方法 新学年是升级你日常学习方式的绝佳机会——无论你是在应对新的难学科目、准备考试，还是尝试在各门课程中保持有序。拥有正确的工具能带来巨大的不同。为了帮助你自信地开始学期，我们正在通过搜索中的AI介绍提升学习的新方法，涉及教育...",
       "score": 10,
       "original_title": "5 new ways to level up your learning with Search",
       "translated": true,
@@ -239,7 +213,7 @@
       "uid": "19638538246f"
     },
     {
-      "title": "让你的电子表格数据通过 Sheets 画布生动呈现",
+      "title": "让你的电子表格数据通过 Sheets 画布焕发生机",
       "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "source": "Google AI Blog",
       "category": "AI与科技",
@@ -256,31 +230,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3887.6436,
-        "change": -16.0774,
-        "pct": -0.41,
-        "amount_yi": 1743.64
+        "price": 3905.2026,
+        "change": 1.4816,
+        "pct": 0.04,
+        "amount_yi": 8834.23
       },
       {
         "name": "深证成指",
-        "price": 13898.11,
-        "change": -74.671,
-        "pct": -0.53,
-        "amount_yi": 1922.08
+        "price": 14094.17,
+        "change": 121.388,
+        "pct": 0.87,
+        "amount_yi": 9958.41
       },
       {
         "name": "创业板指",
-        "price": 3488.74,
-        "change": -6.849,
-        "pct": -0.2,
-        "amount_yi": 355.83
+        "price": 3545.58,
+        "change": 49.989,
+        "pct": 1.43,
+        "amount_yi": 2146.44
       },
       {
         "name": "沪深300",
-        "price": 4588.1905,
-        "change": -4.5599,
-        "pct": -0.1,
-        "amount_yi": 817.2
+        "price": 4618.8952,
+        "change": 26.1448,
+        "pct": 0.57,
+        "amount_yi": 5055.01
       }
     ],
     "holdings": [
@@ -289,11 +263,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 46.77,
-        "market_value": 4677.0,
-        "pnl": 1504.36,
-        "pnl_pct": 47.42,
-        "weight_hint": "44.4%",
+        "price": 46.41,
+        "market_value": 4641.0,
+        "pnl": 1468.36,
+        "pnl_pct": 46.28,
+        "weight_hint": "44.3%",
         "note": "",
         "available": true
       },
@@ -302,11 +276,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.22,
-        "market_value": 2822.0,
-        "pnl": 125.59,
-        "pnl_pct": 4.66,
-        "weight_hint": "26.8%",
+        "price": 27.96,
+        "market_value": 2796.0,
+        "pnl": 99.59,
+        "pnl_pct": 3.69,
+        "weight_hint": "26.7%",
         "note": "",
         "available": true
       },
@@ -315,10 +289,10 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 7.84,
-        "market_value": 2352.0,
-        "pnl": 474.48,
-        "pnl_pct": 25.27,
+        "price": 7.77,
+        "market_value": 2331.0,
+        "pnl": 453.48,
+        "pnl_pct": 24.15,
         "weight_hint": "22.3%",
         "note": "",
         "available": true
@@ -328,10 +302,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.148,
-        "market_value": 229.6,
-        "pnl": -88.4,
-        "pnl_pct": -27.8,
+        "price": 1.159,
+        "market_value": 231.8,
+        "pnl": -86.2,
+        "pnl_pct": -27.11,
         "weight_hint": "2.2%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -341,11 +315,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.649,
-        "market_value": 464.9,
-        "pnl": -32.1,
-        "pnl_pct": -6.46,
-        "weight_hint": "4.4%",
+        "price": 4.68,
+        "market_value": 468.0,
+        "pnl": -29.0,
+        "pnl_pct": -5.84,
+        "weight_hint": "4.5%",
         "note": "",
         "available": true
       },
@@ -366,124 +340,128 @@
     "sectors": [
       {
         "name": "金融/银行 · 金融信息服务",
-        "pct": 1.76,
+        "pct": 2.39,
         "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -0.18,
+        "main_flow_yi": 1.54,
+        "source": "东财行业"
+      },
+      {
+        "name": "半导体/电子 · 电子器件",
+        "pct": 1.9023742810795,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "新能源/光伏 · 电池化学品",
+        "pct": 1.62,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 5.72,
         "source": "东财行业"
       },
       {
         "name": "石油 · 石油石化",
-        "pct": 0.78,
+        "pct": 1.49,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": 1.08,
-        "source": "东财行业"
-      },
-      {
-        "name": "石油 · 石油行业",
-        "pct": -0.17550457565501,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "煤炭 · 煤炭行业",
-        "pct": -0.35822021116139,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "电力/公用 · 公用事业",
-        "pct": -0.49,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": -1.97,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭",
-        "pct": -0.62,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": -0.08,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 非银金融",
-        "pct": -0.65,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -2.26,
+        "main_flow_yi": 3.67,
         "source": "东财行业"
       },
       {
         "name": "新能源/光伏 · 锂电池",
-        "pct": -0.71,
+        "pct": 1.35,
         "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": -0.37,
+        "main_flow_yi": 12.62,
         "source": "东财行业"
       },
       {
-        "name": "新能源/光伏 · 电池化学品",
-        "pct": -0.75,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": -0.69,
+        "name": "电力/公用 · 综合电力设备商",
+        "pct": 1.15,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": 0.24,
         "source": "东财行业"
       },
       {
-        "name": "电力/公用 · 电力行业",
-        "pct": -1.1368011509858,
+        "name": "煤炭 · 煤炭行业",
+        "pct": 0.88141025641026,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "石油 · 石油行业",
+        "pct": 0.64560611758807,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "金融/银行 · 金融行业",
+        "pct": 0.39763071491033,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "电力/公用 · 供水供气",
+        "pct": -0.51084895723615,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
-      },
-      {
-        "name": "半导体/电子 · 电子信息",
-        "pct": -1.1703590284272,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": null,
-        "source": "新浪行业"
       }
     ],
-    "policy_news": [
-      {
-        "title": "央行今日开展950亿元7天期逆回购操作",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-08-21/doc-ininztwx8250401.shtml",
-        "level": "高",
-        "tag": "政策"
-      }
-    ],
+    "policy_news": [],
     "industry_news": [
       {
-        "title": "半导体提振韩国经济增长 央行副行长强调维护物价与金融稳定",
-        "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininztww1444806.shtml",
-        "level": "高",
+        "title": "Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备",
+        "link": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnhf1486624.shtml",
+        "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "韩国股市又熔断了",
-        "link": "https://finance.sina.com.cn/stock/roll/2026-08-21/doc-ininztwz1575619.shtml",
+        "title": "下半年以来千亿元级资金借道股票型ETF布局A股",
+        "link": "https://finance.sina.com.cn/money/fund/2026-08-22/doc-inipcwvx7644560.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "8月22日美股成交额前20：Moderna收高8.86% mRNA抗癌药疫苗突破提振医疗板块",
+        "link": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcspv6248872.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "1207家A股公司披露中期业绩 15家净利润跨过百亿元门槛",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipcsqc1401198.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "美国股市：纳斯达克100指数止步五连跌 企业活动强劲提振市场",
+        "link": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcspy0958982.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10545.5,
-    "total_pnl": 1983.93,
-    "total_amount_yi": 3665.72,
-    "bias": "震荡",
-    "volume_note": "量能：两市合计约 3666 亿元（接口口径），成交偏清淡",
-    "sector_note": "行业分化：偏强 金融信息服务、石油石化；偏弱 石油行业、煤炭行业、公用事业",
+    "total_market_value": 10467.8,
+    "total_pnl": 1906.23,
+    "total_amount_yi": 18792.64,
+    "bias": "偏多",
+    "volume_note": "量能：两市合计约 18793 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 金融信息服务、电子器件、电池化学品；偏弱 供水供气",
     "tip": "一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向",
     "errors": []
   },
   "learning": {
-    "title": "护城河（初识）",
-    "body": "护城河指公司难以被抢走的优势。长电的水电资产、神华的煤电一体，都是“不好复制”的例子——但护城河也会随产业政策变化。",
+    "title": "什么是指数",
+    "body": "沪深300（Shanghai-Shenzhen 300 Index，沪深两市规模大、流动性好的300家公司）像“大盘平均分”。你买的300ETF，本质上就是在跟踪这个平均分。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "绿茶黑咖啡",
-    "text": "今儿聊【绿茶黑咖啡】。上午绿茶续命，下午咖啡续命，晚上想着早睡，躺下开始续念头。念头一续就到两点，两点一过，第二天的方案开始穿睡衣上班。社会经验：提神饮品解决不了睡眠债，只能把欠条写得更工整。"
+    "topic": "通信铁塔",
+    "text": "今儿聊【通信铁塔】。这铁塔往山上一立，跟个钢筋仙鹤似的，鹤不飞，人得爬。领导说“顺便看看点位”，这顺便俩字一出，你就知道中午泡面泡不上了。缆没拉上先拉上脸色，链路没通先把汇报通了。社会经验：凡写着“现场简单勘察”的，背包里都得备双袜子。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
