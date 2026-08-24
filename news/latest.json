@@ -1,15 +1,15 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-23T09:44:43.310958+08:00",
+  "generated_at": "2026-08-24T09:42:36.774334+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 16,
   "items": [
     {
       "title": "Anthropic / Claude：推出 Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-23T01:45:06+00:00",
+      "published": "2026-08-24T01:42:53+00:00",
       "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格仅为一半。在编程和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 是新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 的设计用于日常使用：它工作更加高效...",
       "score": 60,
       "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
@@ -23,7 +23,7 @@
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-08-20T07:00:00+00:00",
-      "summary": "介绍 AI Futures，这是 OpenAI 的新博客，探讨变革性的人工智能如何可能重塑权力、治理、经济和个人自由。",
+      "summary": "介绍 AI Futures，这是 OpenAI 的新博客，探讨变革性人工智能如何可能重塑权力、治理、经济和个人自由。",
       "score": 60,
       "original_title": "Introducing AI Futures",
       "translated": true,
@@ -44,38 +44,12 @@
       "uid": "3a26b92514ea"
     },
     {
-      "title": "投资者缩减对美英加息的押注",
-      "link": "https://www.ftchinese.com/story/001110680",
-      "source": "FT 中文网",
-      "category": "A股与宏观",
-      "published": "2026-08-20T16:00:00+00:00",
-      "summary": "经济数据变弱压倒对油价上涨的担忧，使交易员预计美联储将在今年剩余时间维持利率不变，而英国央行不太可能在未来一年加息超过两次。",
-      "score": 75,
-      "original_title": "",
-      "translated": false,
-      "priority": 60,
-      "uid": "069e4d44c0c2"
-    },
-    {
-      "title": "OpenAI 一改此前立场，呼吁加州强化 AI 安全法案",
-      "link": "https://www.ithome.com/0/993/141.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-23T01:20:58+00:00",
-      "summary": "IT之家 8 月 23 日消息，OpenAI 呼吁加州进一步加强一项具有里程碑意义的 AI 安全法案。该法案已于去年获得通过。OpenAI 全球事务团队在 LinkedIn 上发表的一篇文章中表示，加州 SB 53 法案“应该进一步扩大安全保障措施”。例如，可以要求对正在训练或评估的前沿 AI 模型进行监控，以发现潜在的严重安全事件，同时“加强覆盖整个模型开发生命周期的网络安全保护”。OpenAI 表示：“随着加州继续在前沿 AI 安全领域发挥领导作用，我们致力于与加州立法机构以及州长合作，进一步加强 SB 53 法案。” IT之家注意到，OpenAI 还在文章中提到了“近期发生的事件”，称这些事件“凸显了加强相关保护措施的必要性，也说明随着新风险不断出现，有必要及时更新这些措施”。就在上个月，OpenAI 承认旗下一个 AI 模型曾经逃出测试环境，并入侵了 Hugging Face 的系统。",
-      "score": 75,
-      "original_title": "",
-      "translated": false,
-      "priority": 50,
-      "uid": "2991576ed6fb"
-    },
-    {
       "title": "Anthropic / Claude：提出尖锐问题",
       "link": "https://www.anthropic.com/news/hard-questions",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-23T01:45:06+00:00",
-      "summary": "提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作是去解决这些问题。许多人对人工智能持积极态度。",
+      "published": "2026-08-24T01:42:53+00:00",
+      "summary": "提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作就是去解决这些问题。许多人对人工智能持积极态度。",
       "score": 60,
       "original_title": "Anthropic / Claude：Inviting hard questions",
       "translated": true,
@@ -109,30 +83,30 @@
       "uid": "b61ed7ba5520"
     },
     {
-      "title": "内存成本飙升，消息称英伟达 AI 芯片服务器明年初起涨价最高超 15%",
-      "link": "https://www.ithome.com/0/993/136.htm",
+      "title": "澜起 PCIe 6.x / CXL 3.x 重定时器成功列入 PCI-SIG 供应商名录",
+      "link": "https://www.ithome.com/0/993/350.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-23T00:52:23+00:00",
-      "summary": "IT之家 8 月 23 日消息，据彭博社报道，由于内存芯片成本大幅上涨，英伟达一些最大客户已经被告知，搭载英伟达 AI 芯片的服务器价格在很多情况下将上涨超过 15%。 报道称，涨价将从明年年初出货的服务器开始生效，受影响的产品包括搭载旗舰级 Vera Rubin 和 Grace Blackwell 芯片的服务器。知情人士表示，具体涨幅将取决于英伟达采用的芯片世代以及服务器的内存配置。 报道称，近期，为微软、Alphabet 旗下谷歌以及甲骨文等大型数据中心运营商代工生产服务器的企业，已经陆续通知客户即将到来的涨价。 据IT之家了解，英伟达的芯片支撑着全球大量 AI 基础设施建设，公司计划于 8 月 26 日公布第二季度业绩。 随着 AI 数据中心建设快速扩张，英伟达已经成为观察整个 AI 产业生态的重要风向标。这个生态涵盖芯片制造商，以及为数据中心产能快速扩张提供资金支持的企业。",
+      "published": "2026-08-24T01:02:13+00:00",
+      "summary": "IT之家 8 月 24 日消息，澜起科技 (Montage) 今日宣布，其 PCIe 6.x / CXL 3.x 重定时器 (Retimer) 已成功通过国际 PCIe 互连标准组织 PCI-SIG 的系列严苛认证， 正式列入 PCI-SIG 官方供应商名录 。 Retimer 芯片 可保障跨服务器背板与转接卡间的稳定芯片间通信 。澜起的自适应均衡技术可有效补偿信道损耗，在保障数据保真度的同时为系统设计提供充分的灵活性。其还兼具业界领先的能效表现。 澜起科技总裁 Stephen Tai 先生表示： 正式列入 PCI-SIG 供应商名录，充分验证了澜起科技的 Retimer 在可靠性和信号调理能力方面的卓越表现。当前，数据中心行业正全面迈向 PAM4 信令与加速计算架构，我们的客户亟需零妥协的连接方案。这一关键里程碑，将为下一代 AI 平台快速、大规模部署我们的 Retimer 芯片提供坚实保障。",
       "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "e81ee08a1db6"
+      "uid": "42be5defe887"
     },
     {
-      "title": "IT早报 0823：特斯拉官网监督版 FSD 支持地区移除中国；DeepSeek 周末统一按低谷价计费；中国铁路成都局回应占座放零食；雷军携小米阔折叠新机现身...",
-      "link": "https://www.ithome.com/0/993/129.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-08-22T23:46:01+00:00",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 23 日星期日，今天的重要科技资讯有： 1.特斯拉官网更新：监督版 FSD 支持地区不再包含中国 今年 5 月，特斯拉官方在 X 发文，当时提到监督版 FSD 支持的国家与地区中包含中国。>> 查看详情 2.DeepSeek 调整 API 周末计费：周六日全天统一按低谷价收费 DeepSeek 于 8 月 23 日起调整 API 计费规则，周末全天不再区分峰谷时段，统一按低谷价收费，简化计费逻辑，开发者任何时段调用都可享受低价。>> 查看详情 3.中国铁路成都局回应“旅客买票占座放零食”：未检票上车旅客，视为放弃席位使用权，另 2 名旅客不能占用和处置该席位 成都铁路局回应“买票占座放零食”事件，明确表示旅客购票后未检票上车，视为放弃该席位使用权。",
-      "score": 30,
+      "title": "SK 海力士披露下一代 HBM 内存先进封装技术，引入英特尔 EMIB",
+      "link": "https://www.ithome.com/0/993/345.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-24T00:54:20+00:00",
+      "summary": "IT之家 8 月 24 日消息，SK 海力士正借助英特尔 EMIB 等先进封装技术打造其下一代 HBM 解决方案，未来将进入 3D 封装阶段。IT之家注意到，在 Hot Chips 2026 大会上，SK 海力士封装工程副总裁 Jaesik Lee 发表了题为“高带宽内存的先进封装”（Advanced Packaging for High-Bandwidth Memory）的简报，阐述了公司计划如何利用先进封装技术加速其 HBM 路线图。该公司首先介绍了 HBM 目前的制造方式。HBM 结构由 3D 堆叠结构组成，通过 TSV（硅通孔）将多个核心芯片（DRAM IC）连接到基底裸片（base die）。HBM 目前最高可达 16 层，即 16-Hi 堆叠。HBM 与 GPU 是独立的芯片，但通过 2.",
+      "score": 50,
       "original_title": "",
       "translated": false,
-      "priority": 0,
-      "uid": "71ae05665ef2"
+      "priority": 25,
+      "uid": "6b67e42f8c48"
     },
     {
       "title": "通过 Gemini 和 Pixel 更接近游戏",
@@ -148,51 +122,77 @@
       "uid": "7bb26bb70fc7"
     },
     {
-      "title": "欧洲因最糟糕的原因躲过了莱茵河危机",
-      "link": "https://oilprice.com/Energy/Energy-General/Europe-Dodges-a-Rhine-Crisis-for-the-Worst-Possible-Reason.html",
+      "title": "柴油危机可能持续时间超过中东战争",
+      "link": "https://oilprice.com/Energy/Energy-General/Diesel-Crisis-Threatens-to-Outlast-the-Middle-East-War.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-22T23:00:00+00:00",
-      "summary": "莱茵河自八月中旬创下的历史最低水位（当时卡乌布的水位计——位于河流的关键瓶颈——低于10厘米）略有回升，但这种缓解大多只是表面现象。驳船仍然无法正常装载通过，使从鹿特丹和安特卫普到德国南部、法国东部和瑞士的工业走廊运输能力不足。",
+      "published": "2026-08-23T23:00:00+00:00",
+      "summary": "中东战争的前景依然严峻，美国刚刚威胁要对伊朗实施“历史上最严厉的制裁”，而世界的储备燃料正在耗尽。更糟糕的是，炼油能力大幅下降，即使战争前景突然改变，美国和伊朗达成和平，燃料紧缩也将持续数月——对全球经济的不利影响同样会持续。",
       "score": 15,
-      "original_title": "Europe Dodges a Rhine Crisis for the Worst Possible Reason",
+      "original_title": "Diesel Crisis Threatens to Outlast the Middle East War",
       "translated": true,
       "priority": 0,
-      "uid": "8c9b0bfe642d"
+      "uid": "bc5770993328"
     },
     {
-      "title": "燃气轮机短缺刚刚成为人工智能最大的制约因素",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
+      "title": "超级厄尔尼诺威胁全球的食物、水和贸易",
+      "link": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-Threatens-Food-Water-and-Trade-Worldwide.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-22T21:00:00+00:00",
-      "summary": "今天从GE Vernova订购一台重型燃气涡轮机，它要到2031年才能交付。这是公司在7月22日的财报电话会议上确认的实际生产计划，也是过去两年宣布的每一个AI数据中心电力计划背后的事实。它出现的频率远低于相关公告的频率。高盛在五月份对需求方面给出了具体数字。",
+      "published": "2026-08-23T19:00:00+00:00",
+      "summary": "今年世界将经历一次极其强烈的厄尔尼诺天气事件，热带太平洋的海面温度高于正常水平。这可能会扰乱典型的天气模式，并导致某些地区出现强降雨，而其他地区则出现严重干旱。虽然尚不清楚厄尔尼诺的频繁发生是否直接与人为造成的气候变化有关，但它无疑会加剧...",
       "score": 15,
-      "original_title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
+      "original_title": "Super El Niño Threatens Food, Water and Trade Worldwide",
       "translated": true,
       "priority": 0,
-      "uid": "f200fe52dd86"
+      "uid": "f4aa351efd49"
     },
     {
-      "title": "除了霍尔木兹的每一个瓶颈点",
-      "link": "https://oilprice.com/Energy/Energy-General/Every-Chokepoint-That-Isnt-Hormuz.html",
+      "title": "随着人工智能重塑电网，私募股权正瞄准公用事业",
+      "link": "https://oilprice.com/Energy/Energy-General/Private-Equity-Is-Circling-Utilities-as-AI-Reshapes-the-Grid.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-22T17:00:00+00:00",
-      "summary": "在过去六个月里，关于石油物流的整个讨论都围绕着一个海峡进行，这几乎不能怪任何人。自二月下旬伊朗与美国及以色列开战以来，霍尔木兹海峡实际上已经关闭，美国能源信息署估计第二季度只有每天490万桶原油和液体通过。而在2025年最后一个季度，这个数字是2100万桶。",
+      "published": "2026-08-23T18:00:00+00:00",
+      "summary": "虽然看起来民主党人和共和党人如今几乎在任何事情上都无法达成共识，但至少有一个共同的敌人正在让双方走到一起：数据中心。",
       "score": 15,
-      "original_title": "Every Chokepoint That Isn't Hormuz",
+      "original_title": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
       "translated": true,
       "priority": 0,
-      "uid": "6a6fc2f0a046"
+      "uid": "521270a55cac"
     },
     {
-      "title": "大多数美国人并不反对疫苗。他们只是犹豫不决——而这正成为一个日益增长的公共健康挑战",
+      "title": "在联合航空工作十年后，首席执行官斯科特·柯比正在从JFK到人工智能对他的航空公司未来进行宏伟构想",
+      "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-23T12:00:01+00:00",
+      "summary": "新泽西州纽瓦克——斯科特·柯比说他不相信报复。“每个人都以为我会，但不，我不会，”这位美国联合航空公司的首席执行官说，他在十年前担任美国航空公司总裁时被美国航空解雇。“我会积极竞争。”联合航空宣布已于2016年8月29日聘请他为总裁，就在美国航空披露他离职的短暂时间之后。",
+      "score": 15,
+      "original_title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
+      "translated": true,
+      "priority": 0,
+      "uid": "85bd8b47b788"
+    },
+    {
+      "title": "联合航空的下一个决定：如何处理多年前订购的所有波音737 Max 10座位",
+      "link": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-23T12:00:01+00:00",
+      "summary": "2018年8月，当时的总统、现任联合航空公司首席执行官斯科特·柯比在丹佛的一次航空会议上向一屋子的记者介绍了航空公司对新款波音737 Max 10的宏伟计划：平躺的高级座椅以及一系列盈利的跨大陆航线。这架飞机原计划于2020年开始飞行。由于其认证——原本预计在2020年获得——未能如期完成，数百个座位一直处于储存状态……",
+      "score": 15,
+      "original_title": "United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago",
+      "translated": true,
+      "priority": 0,
+      "uid": "a5494c0f15f2"
+    },
+    {
+      "title": "大多数美国人并不反对疫苗。他们只是犹豫不决——而这正成为一个日益增长的公共卫生挑战",
       "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-08-21T19:14:56+00:00",
-      "summary": "美国麻疹病例的记录增加以及儿童疫苗豁免人数的上升，引发了人们对美国人越来越反对疫苗的担忧。但现实情况可能比这更为复杂。公共卫生官员在努力控制致命疾病时面临的最大挑战，可能并不是普遍存在的反疫苗情绪或传播这种情绪的网红和政治人物。",
+      "summary": "记录的麻疹病例和不断增加的儿童疫苗例外情况引发了人们对美国人越来越反对疫苗的担忧。但现实可能比这更复杂。公共卫生官员试图遏制致命疾病的最大挑战可能并不是普遍的反疫苗情绪或传播这种情绪的影响者和政治人物。",
       "score": 15,
       "original_title": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
       "translated": true,
@@ -200,74 +200,48 @@
       "uid": "09687d9c8f96"
     },
     {
-      "title": "特朗普政府聘请前摩根大通高管马特·扎梅斯为社会保障机构提供咨询",
-      "link": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-21T15:10:31+00:00",
-      "summary": "据 CNBC 了解，前摩根大通高管马特·扎梅斯将加入特朗普政府，担任社会保障局顾问。知情人士表示，扎梅斯将担任无薪职位，以帮助他在摩根大通的前同事弗兰克·比西尼亚诺应对该机构的现代化工作。比西尼亚诺去年成为社会保障局局长。知情人士不愿透露姓名，因为他们未被授权...",
-      "score": 15,
-      "original_title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
-      "translated": true,
-      "priority": 0,
-      "uid": "f478e3e196a3"
-    },
-    {
       "title": "通过搜索提升学习的5种新方法",
       "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-19T19:00:00+00:00",
-      "summary": "通过搜索提升学习的5种新方法 新学年是升级你日常学习方式的绝佳机会——无论你是在应对新的困难学科、准备考试，还是试图在各门课程之间保持有序。拥有合适的工具能带来巨大的不同。为了帮助你自信地开始学期，我们正在通过搜索中的AI介绍提升学习的新方法，涉及教育...",
+      "summary": "通过搜索提升学习的5种新方法 新学年是升级你的日常学习方式的绝佳机会——无论你是在应对新的难学科目、准备考试，还是尝试在各门课程中保持有序。拥有正确的工具能带来巨大的不同。为了帮助你自信地开始学期，我们正在通过搜索中的AI介绍提升学习的新方法，涉及教育...",
       "score": 10,
       "original_title": "5 new ways to level up your learning with Search",
       "translated": true,
       "priority": 0,
       "uid": "19638538246f"
-    },
-    {
-      "title": "让你的电子表格数据通过 Sheets 画布生动呈现",
-      "link": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-08-13T16:45:00+00:00",
-      "summary": "使用 Sheets 画布让您的电子表格数据栩栩如生 电子表格是组织和理解数据的强大工具，但盯着数百行数百列有时会让人感到有些不知所措。无论您是在筹划婚礼、追踪学校作业、管理梦幻足球阵容，还是比较副业收入，您都希望能够快速从数据中看到所需的信息。",
-      "score": 10,
-      "original_title": "Bring your spreadsheet data to life with Sheets canvas",
-      "translated": true,
-      "priority": 0,
-      "uid": "94ea973fb6b3"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3905.2026,
-        "change": 1.4816,
-        "pct": 0.04,
-        "amount_yi": 8834.23
+        "price": 3894.7477,
+        "change": -10.4549,
+        "pct": -0.27,
+        "amount_yi": 2009.25
       },
       {
         "name": "深证成指",
-        "price": 14094.17,
-        "change": 121.388,
-        "pct": 0.87,
-        "amount_yi": 9958.41
+        "price": 13970.43,
+        "change": -123.738,
+        "pct": -0.88,
+        "amount_yi": 2380.73
       },
       {
         "name": "创业板指",
-        "price": 3545.58,
-        "change": 49.989,
-        "pct": 1.43,
-        "amount_yi": 2146.44
+        "price": 3494.44,
+        "change": -51.133,
+        "pct": -1.44,
+        "amount_yi": 481.19
       },
       {
         "name": "沪深300",
-        "price": 4618.8952,
-        "change": 26.1448,
-        "pct": 0.57,
-        "amount_yi": 5055.01
+        "price": 4598.4319,
+        "change": -20.4633,
+        "pct": -0.44,
+        "amount_yi": 1139.9
       }
     ],
     "holdings": [
@@ -276,10 +250,10 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 46.41,
-        "market_value": 4641.0,
-        "pnl": 1468.36,
-        "pnl_pct": 46.28,
+        "price": 46.59,
+        "market_value": 4659.0,
+        "pnl": 1486.36,
+        "pnl_pct": 46.85,
         "weight_hint": "44.3%",
         "note": "",
         "available": true
@@ -289,10 +263,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 27.96,
-        "market_value": 2796.0,
-        "pnl": 99.59,
-        "pnl_pct": 3.69,
+        "price": 28.02,
+        "market_value": 2802.0,
+        "pnl": 105.59,
+        "pnl_pct": 3.92,
         "weight_hint": "26.7%",
         "note": "",
         "available": true
@@ -302,11 +276,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 7.77,
-        "market_value": 2331.0,
-        "pnl": 453.48,
-        "pnl_pct": 24.15,
-        "weight_hint": "22.3%",
+        "price": 7.84,
+        "market_value": 2352.0,
+        "pnl": 474.48,
+        "pnl_pct": 25.27,
+        "weight_hint": "22.4%",
         "note": "",
         "available": true
       },
@@ -315,10 +289,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.159,
-        "market_value": 231.8,
-        "pnl": -86.2,
-        "pnl_pct": -27.11,
+        "price": 1.137,
+        "market_value": 227.4,
+        "pnl": -90.6,
+        "pnl_pct": -28.49,
         "weight_hint": "2.2%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -328,11 +302,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.68,
-        "market_value": 468.0,
-        "pnl": -29.0,
-        "pnl_pct": -5.84,
-        "weight_hint": "4.5%",
+        "price": 4.661,
+        "market_value": 466.1,
+        "pnl": -30.9,
+        "pnl_pct": -6.22,
+        "weight_hint": "4.4%",
         "note": "",
         "available": true
       },
@@ -352,72 +326,72 @@
     ],
     "sectors": [
       {
-        "name": "金融/银行 · 金融信息服务",
-        "pct": 2.39,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 1.54,
+        "name": "新能源/光伏 · 电池化学品",
+        "pct": 2.29,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 2.37,
         "source": "东财行业"
       },
       {
+        "name": "新能源/光伏 · 电池",
+        "pct": 1.94,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 4.68,
+        "source": "东财行业"
+      },
+      {
+        "name": "煤炭 · 煤炭",
+        "pct": 1.53,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": 2.29,
+        "source": "东财行业"
+      },
+      {
+        "name": "煤炭 · 煤炭开采",
+        "pct": 1.01,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": 0.84,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 金融控股",
+        "pct": 0.98,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": 0.31,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 国有大型银行Ⅲ",
+        "pct": 0.83,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": 0.68,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 电力设备",
+        "pct": 0.59,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": 3.2,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 供水供气",
+        "pct": -0.69874543433381,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
         "name": "半导体/电子 · 电子器件",
-        "pct": 1.9023742810795,
+        "pct": -0.94802853733465,
         "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "新能源/光伏 · 电池化学品",
-        "pct": 1.62,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 5.72,
-        "source": "东财行业"
-      },
-      {
-        "name": "石油 · 石油石化",
-        "pct": 1.49,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": 3.67,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 锂电池",
-        "pct": 1.35,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 12.62,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 综合电力设备商",
-        "pct": 1.15,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": 0.24,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭行业",
-        "pct": 0.88141025641026,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
         "name": "石油 · 石油行业",
-        "pct": 0.64560611758807,
+        "pct": -1.2517904963567,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "金融/银行 · 金融行业",
-        "pct": 0.39763071491033,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "电力/公用 · 供水供气",
-        "pct": -0.51084895723615,
-        "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
@@ -425,68 +399,44 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "外媒：英伟达搭载人工智能芯片的服务器价格将上涨超15%",
-        "link": "https://finance.sina.com.cn/stock/t/2026-08-23/doc-iniphhay2609097.shtml",
+        "title": "锂电池板块早盘走强 赣锋锂业涨逾7%天齐锂业涨逾5%",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-24/doc-inipkriw1989473.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "半导体与AI算力成焦点！上周近200股迎机构调研，3股受追捧",
-        "link": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-inipfzva2728580.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "英伟达被曝已通知客户，AI芯片价格将普遍上涨超过15%",
-        "link": "https://finance.sina.com.cn/roll/2026-08-23/doc-inipfzvh3962688.shtml",
+        "title": "中国农业发展银行湖南省分行原党委书记、行长吴晓轮被开除党籍",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipkmae3066401.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "视频|公募基金业绩基准调整迎来第三波！已有近90家公募发布公告存量整改进入攻坚阶段",
-        "link": "https://finance.sina.com.cn/money/fund/2026-08-23/doc-iniphhax0684154.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "知名牛散，爆买近1700万股！成这家A股公司第二大股东",
-        "link": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphhax0682292.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "百家机构扎堆调研股曝光，2股市盈率低至个位数",
-        "link": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-inipfzvh3954196.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "下周4只新股申购，A股年内已有7只“大肉签”，单签盈利均超10万",
-        "link": "https://finance.sina.com.cn/roll/2026-08-23/doc-inipfzva2715189.shtml",
+        "title": "A股四大指数开盘表现分化，工业金属、黄金等板块涨幅居前",
+        "link": "https://finance.sina.com.cn/roll/2026-08-24/doc-inipkriy6186124.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10467.8,
-    "total_pnl": 1906.23,
-    "total_amount_yi": 18792.64,
-    "bias": "偏多",
-    "volume_note": "量能：两市合计约 18793 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 金融信息服务、电子器件、电池化学品；偏弱 供水供气",
+    "total_market_value": 10506.5,
+    "total_pnl": 1944.93,
+    "total_amount_yi": 4389.98,
+    "bias": "偏空",
+    "volume_note": "量能：两市合计约 4390 亿元（接口口径），成交偏清淡",
+    "sector_note": "行业分化：偏强 电池化学品、电池、煤炭；偏弱 供水供气、电子器件、石油行业",
     "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
   "learning": {
-    "title": "PE（市盈率）",
-    "body": "PE = 股价 ÷ 每股收益，粗看股票贵不贵。银行/能源股常见区间更低；神华这类更常结合股息率一起看，别只看PE。",
+    "title": "PB（市净率）",
+    "body": "PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "A股开盘",
-    "text": "今儿聊【A股开盘】。早盘像相亲：看着挺热闹，真心没几个。神华长江电力坐那儿跟老干部似的，不吵不闹，偶尔点个头；主题炒作跟广场舞大妈似的，音箱一响全场跟。社会经验：能吃息的先吃息，能睡觉的别盯盘——盯盘不涨，只涨血压。"
+    "topic": "视频监控方案",
+    "text": "今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
