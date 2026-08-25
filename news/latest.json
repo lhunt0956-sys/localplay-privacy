@@ -1,16 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-24T09:42:36.774334+08:00",
+  "generated_at": "2026-08-25T09:37:26.996018+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "title": "Anthropic / Claude：推出 Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-24T01:42:53+00:00",
-      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格仅为一半。在编程和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 是新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 的设计用于日常使用：它工作更加高效...",
+      "published": "2026-08-25T01:37:42+00:00",
+      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格只有一半。在编码和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 已成为新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 旨在用于日常应用：它工作效率更高...",
       "score": 60,
       "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
       "translated": true,
@@ -44,17 +44,43 @@
       "uid": "3a26b92514ea"
     },
     {
-      "title": "Anthropic / Claude：提出尖锐问题",
-      "link": "https://www.anthropic.com/news/hard-questions",
+      "title": "IT早报 0825：2026 胡润中国品牌榜发布；成都减灾所就预警偏差致歉；小米明确二手手机等产品不属三包范围；小米玄戒 O3、O100、D100 三款自研芯片发布...",
+      "link": "https://www.ithome.com/0/993/792.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-24T23:49:08+00:00",
+      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 25 日星期二，今天的重要科技资讯有： 1.2026 胡润中国品牌榜发布：苹果蝉联第一，抖音与微信并列，华为重返前十，AIGC 品牌首次入榜 胡润研究院发布《2026 胡润中国品牌榜》，苹果蝉联第一，AIGC 行业首次独立入榜，华为重返总榜前十，本文带来完整榜单信息。>> 查看详情 2.7 级，成都高新减灾研究所就宜宾长宁 4.7 级地震预警偏差致歉 成都高新减灾研究所 8 月 24 日发布致歉说明，对宜宾长宁 4.7 级地震的预警偏差表示歉意。首报震级为 7.7 级，偏差较大，系该所服务社会 15 年来偏差最大的一次。目前正查明原因，改进服务。>> 查看详情 3.小米手机售后规则调整，明确二手产品 / 商品不属于三包范围 据用户反馈，小米手机的服务价格及服务政策迎来调整。",
+      "score": 105,
+      "original_title": "",
+      "translated": false,
+      "priority": 65,
+      "uid": "567264a645f9"
+    },
+    {
+      "title": "马斯克：SpaceX 计划明年第四季度发射搭载英伟达芯片的 AI 卫星",
+      "link": "https://www.ithome.com/0/993/796.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-25T00:01:53+00:00",
+      "summary": "IT之家 8 月 25 日消息，当地时间 8 月 24 日，马斯克在社交平台表示，SpaceX 首批搭载英伟达芯片的 AI 卫星将于明年第四季度首次发射，并于 2028 年实现大规模部署。马斯克称，SpaceX 与英伟达合作，设计了一套针对太空环境优化的 Vera Rubin NVL72 系统。他表示，每个基于卫星的轨道数据中心都会比传统计算机机架更加简单、便宜、高密度且轻量化。IT之家注意到，这一加速后的时间表显示，SpaceX 正在以相当快的速度推动轨道数据中心项目从一个充满未来感的概念，逐渐变成公司的核心业务之一。如果项目取得成功，不仅可能为英伟达的处理器打开一个新的市场，也能让 SpaceX 在今年 6 月完成创纪录的 IPO 后，获得新的潜在增长来源。SpaceX 已经将太空计算作为向投资者宣传的重要业务方向。",
+      "score": 65,
+      "original_title": "",
+      "translated": false,
+      "priority": 35,
+      "uid": "8c484035fe77"
+    },
+    {
+      "title": "Anthropic / Claude：Claude的文本水印是如何工作的",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-24T01:42:53+00:00",
-      "summary": "提出困难的问题 谁来决定人工智能的规则？人工智能能为我的孩子提供更好的未来吗？人工智能会让世界变得更危险吗？人工智能能帮助科学家治愈疾病吗？人们对人工智能有很多困难的问题。我们的工作就是去解决这些问题。许多人对人工智能持积极态度。",
+      "published": "2026-08-25T01:37:42+00:00",
+      "summary": "Claude 的文本水印是如何工作的 未来的 Claude 模型将生成包含水印的文本。这是一种确定 Claude 是否参与撰写文本的可能性的方法，我们以及其他几家主要的人工智能提供商正在实施这一变化，以遵守欧盟人工智能法案。",
       "score": 60,
-      "original_title": "Anthropic / Claude：Inviting hard questions",
+      "original_title": "Anthropic / Claude：How Claude's text watermarking works",
       "translated": true,
       "priority": 0,
-      "uid": "b897b46b0e9b"
+      "uid": "36326c80d59a"
     },
     {
       "title": "为前沿模型提供零数据保留",
@@ -70,43 +96,30 @@
       "uid": "1c268af12aeb"
     },
     {
-      "title": "因门把手安全隐患特斯拉在华召回近 300 万辆车",
-      "link": "https://www.solidot.org/story?sid=85163",
+      "title": "国际计量大会将讨论用闰时取代闰秒",
+      "link": "https://www.solidot.org/story?sid=85179",
       "source": "Solidot·通信",
       "category": "通信与安防",
-      "published": "2026-08-22T13:32:18+00:00",
-      "summary": "特斯拉和另外 8 家汽车制造商 21 日宣布，将在中国召回总计约 430 万辆汽车，创下中国汽车召回规模纪录。此次召回的整改措施包括软件更新、加贴警示标签，以及改进门把手周围的标识等。大多数车企还将通过 OTA 远程升级软件。根据国家市场监督管理总局发布的公告，特斯拉将从 9 月 25 日起召回 298 万辆进口及中国制造的 Model 3、Model Y、Model S 和 Model X 汽车。特斯拉的召回规模最大，这也反映出该公司采用此类门把手设计的车型销量巨大。除特斯拉外，此次召回行动涉及车企包括中国一汽、北汽蓝谷、东风汽车、奇瑞、吉利、小鹏、零跑和小米。小米将召回约 39 万辆汽车，零跑约 37.1 万辆，小鹏约 26.4 万辆。零跑、小鹏和吉利此次召回的规模也均创下各自公司的历史纪录。监管机构表示，在发生严重碰撞并导致车辆电气系统失效后，机械式紧急车门解锁装置可能难以识别。车内人员可能难以打开车门逃生，救援人员也可能难以进入车内。",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 35,
-      "uid": "b61ed7ba5520"
-    },
-    {
-      "title": "澜起 PCIe 6.x / CXL 3.x 重定时器成功列入 PCI-SIG 供应商名录",
-      "link": "https://www.ithome.com/0/993/350.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-24T01:02:13+00:00",
-      "summary": "IT之家 8 月 24 日消息，澜起科技 (Montage) 今日宣布，其 PCIe 6.x / CXL 3.x 重定时器 (Retimer) 已成功通过国际 PCIe 互连标准组织 PCI-SIG 的系列严苛认证， 正式列入 PCI-SIG 官方供应商名录 。 Retimer 芯片 可保障跨服务器背板与转接卡间的稳定芯片间通信 。澜起的自适应均衡技术可有效补偿信道损耗，在保障数据保真度的同时为系统设计提供充分的灵活性。其还兼具业界领先的能效表现。 澜起科技总裁 Stephen Tai 先生表示： 正式列入 PCI-SIG 供应商名录，充分验证了澜起科技的 Retimer 在可靠性和信号调理能力方面的卓越表现。当前，数据中心行业正全面迈向 PAM4 信令与加速计算架构，我们的客户亟需零妥协的连接方案。这一关键里程碑，将为下一代 AI 平台快速、大规模部署我们的 Retimer 芯片提供坚实保障。",
+      "published": "2026-08-24T09:50:52+00:00",
+      "summary": "今年 10 月在法国举行的国际计量大会将讨论用闰时取代闰秒。闰秒需要经常性修改，会导致混乱，而引入闰时后数百年内无需修改。协调世界时（UTC）基于用原子振动实现的高精度原子钟来确定，成为 1 秒长度的标准。不过由地球自转时间决定的 1 天长度会发生不规则变化，因此会产生偏差。地球的自转速度根据潮汐涨落以及地球内部地核运动而波动。地球的一天即地球自转一圈，大约需要 86,400 秒。闰秒的作用就是调整与原子钟的偏差，当偏差累积即将超过 0.9 秒时，就会在一天中增加1秒。1972 年引入闰秒以来已修改了 27 次。然而对于需要同步时间进行自动控制的金融交易、交通、电力等高端通信系统而言，哪怕是微小的误差也可能导致整个网络陷入混乱。2012 年增加闰秒时大型网络服务等发生故障。因此美国 IT 巨头 Google 和微软等方面为避免影响而引入各自的调整方法。各公司采用的“时间系统”各不相同，导致闰秒作为标准时间基准的地位动摇。",
       "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "42be5defe887"
+      "uid": "38517a456aa5"
     },
     {
-      "title": "SK 海力士披露下一代 HBM 内存先进封装技术，引入英特尔 EMIB",
-      "link": "https://www.ithome.com/0/993/345.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-24T00:54:20+00:00",
-      "summary": "IT之家 8 月 24 日消息，SK 海力士正借助英特尔 EMIB 等先进封装技术打造其下一代 HBM 解决方案，未来将进入 3D 封装阶段。IT之家注意到，在 Hot Chips 2026 大会上，SK 海力士封装工程副总裁 Jaesik Lee 发表了题为“高带宽内存的先进封装”（Advanced Packaging for High-Bandwidth Memory）的简报，阐述了公司计划如何利用先进封装技术加速其 HBM 路线图。该公司首先介绍了 HBM 目前的制造方式。HBM 结构由 3D 堆叠结构组成，通过 TSV（硅通孔）将多个核心芯片（DRAM IC）连接到基底裸片（base die）。HBM 目前最高可达 16 层，即 16-Hi 堆叠。HBM 与 GPU 是独立的芯片，但通过 2.",
-      "score": 50,
+      "title": "拼多多赵佳臻谈自营业务最新进展：启动所需时间相较预期更长，但对前景有信心",
+      "link": "https://www.ithome.com/0/993/805.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-08-25T00:53:44+00:00",
+      "summary": "8 月 25 日上午消息，昨日，拼多多发布最新财报，在电话会上，拼多多集团联席董事长兼联席 CEO 赵佳臻透露，“今年的第二季度是我们新十年高质量发展从开局起步到纵深推进的新阶段。我们长期坚持的千亿扶持惠商战略，逐步从投入期进入收效期，平台及产业生态效用加速释放，供需两侧均实现质效升级。同时我们继续稳步地推进三年再造拼多多重大战略 。” 谈及品牌自营战略最近进展，赵佳臻表示，“品牌自营业务是我们在长期供应链投资方向上的一个重要延伸，我们也希望与有能力、同时有意愿的制造企业建立深度的产品共创关系，发挥平台在市场洞察、全球渠道方面的能力，提升产业链的品牌化发展和价值创造的确定性，并且把这些增量价值能实实在在地带给整个产业链。” 他谈到，在推进节奏上，在初期，我们会有选择地在平台和供应链具备独特优势的核心品类上进行生根、与制造业企业长期的合作，共同参与产品定义、研发、质量标准和市场验证。",
+      "score": 30,
       "original_title": "",
       "translated": false,
-      "priority": 25,
-      "uid": "6b67e42f8c48"
+      "priority": 10,
+      "uid": "4587dda1064f"
     },
     {
       "title": "通过 Gemini 和 Pixel 更接近游戏",
@@ -114,7 +127,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-17T08:00:00+00:00",
-      "summary": "通过Gemini和Pixel更贴近比赛体验 我们正在与世界上五支最具标志性的足球俱乐部建立新的长期合作关系：阿森纳足球俱乐部、巴塞罗那足球俱乐部、拜仁慕尼黑足球俱乐部、利物浦足球俱乐部和巴黎圣日耳曼足球俱乐部。作为他们的官方消费者 AI 和官方智能手机合作伙伴，Gemini 和 Pixel 携手将带领球迷深入比赛中心。",
+      "summary": "通过Gemini和Pixel更贴近比赛 我们正在与世界上五个最具标志性的足球俱乐部启动新的长期合作伙伴关系：阿森纳足球俱乐部、巴塞罗那足球俱乐部、拜仁慕尼黑足球俱乐部、利物浦足球俱乐部和巴黎圣日耳曼足球俱乐部。作为他们的官方消费者 AI 和官方智能手机合作伙伴，Gemini 和 Pixel 携手帮助球迷置身于比赛的中心。",
       "score": 20,
       "original_title": "Get closer to the game with Gemini and Pixel",
       "translated": true,
@@ -122,82 +135,82 @@
       "uid": "7bb26bb70fc7"
     },
     {
-      "title": "柴油危机可能持续时间超过中东战争",
-      "link": "https://oilprice.com/Energy/Energy-General/Diesel-Crisis-Threatens-to-Outlast-the-Middle-East-War.html",
+      "title": "特朗普对伊朗经济D日的最大受害者",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Biggest-Victims-Of-Trumps-Economic-D-Day-On-Iran.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-23T23:00:00+00:00",
-      "summary": "中东战争的前景依然严峻，美国刚刚威胁要对伊朗实施“历史上最严厉的制裁”，而世界的储备燃料正在耗尽。更糟糕的是，炼油能力大幅下降，即使战争前景突然改变，美国和伊朗达成和平，燃料紧缩也将持续数月——对全球经济的不利影响同样会持续。",
+      "published": "2026-08-25T00:00:00+00:00",
+      "summary": "特朗普针对伊朗的“经济D日”是围绕华盛顿最强大的武器之一构建的：访问美国金融系统。问题是，华盛顿对伊朗剩余贸易的打压力度越大，目标就越大。中国购买伊朗超过80%的海运原油。伊拉克依赖伊朗天然气提供多达40%的电力生产。",
       "score": 15,
-      "original_title": "Diesel Crisis Threatens to Outlast the Middle East War",
+      "original_title": "The Biggest Victims Of Trump’s Economic D-Day On Iran",
       "translated": true,
       "priority": 0,
-      "uid": "bc5770993328"
+      "uid": "593b44142108"
     },
     {
-      "title": "超级厄尔尼诺威胁全球的食物、水和贸易",
-      "link": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-Threatens-Food-Water-and-Trade-Worldwide.html",
+      "title": "Main Street Sports 起诉 Comcast 和 Charter 欠付的许可费",
+      "link": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-24T23:48:50+00:00",
+      "summary": "Main Street Sports，这家现已倒闭、拥有一系列地区体育网络的公司，正在针对有线电视公司康卡斯特和Charter Communications提起单独诉讼，指控其支付的许可费不足。这家公司今年早些时候开始停止运营，声称康卡斯特和Charter——美国两大付费电视供应商——存在上述问题。",
+      "score": 15,
+      "original_title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+      "translated": true,
+      "priority": 0,
+      "uid": "44714d5c81c6"
+    },
+    {
+      "title": "加州总检察长罗伯·邦塔取消了与派拉蒙的和解会议，理由是“缺乏诚信”",
+      "link": "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-24T22:16:18+00:00",
+      "summary": "加利福尼亚州总检察长罗伯·邦塔周一取消了与派拉蒙Skydance的会议，表示该公司在关于其计划与华纳兄弟探索公司合并的早期和解谈判中表现出“缺乏诚意”。“我的办公室周五与派拉蒙进行了会面。派拉蒙没有维护该会议的保密性。”",
+      "score": 15,
+      "original_title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
+      "translated": true,
+      "priority": 0,
+      "uid": "158ebe0bdb65"
+    },
+    {
+      "title": "欧洲的沼气厂可能会变成化肥工厂",
+      "link": "https://oilprice.com/Alternative-Energy/Biofuels/Europes-Biogas-Plants-Could-Become-Fertilizer-Factories.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-23T19:00:00+00:00",
-      "summary": "今年世界将经历一次极其强烈的厄尔尼诺天气事件，热带太平洋的海面温度高于正常水平。这可能会扰乱典型的天气模式，并导致某些地区出现强降雨，而其他地区则出现严重干旱。虽然尚不清楚厄尔尼诺的频繁发生是否直接与人为造成的气候变化有关，但它无疑会加剧...",
+      "published": "2026-08-24T21:00:00+00:00",
+      "summary": "肥料危机通常被描述为天然气问题。当天然气价格上涨时，氨的成本会上升，化肥厂减少生产，农民则面临他们无法控制的全球商品链。这个诊断是正确的，但不完整。在整个欧洲，成千上万的厌氧消化器已经在接近农场和食品工业的地方生产富含甲烷的气体，这些农场和食品工业消费化肥。",
       "score": 15,
-      "original_title": "Super El Niño Threatens Food, Water and Trade Worldwide",
+      "original_title": "Europe’s Biogas Plants Could Become Fertilizer Factories",
       "translated": true,
       "priority": 0,
-      "uid": "f4aa351efd49"
+      "uid": "b220569ff5e9"
     },
     {
-      "title": "随着人工智能重塑电网，私募股权正瞄准公用事业",
-      "link": "https://oilprice.com/Energy/Energy-General/Private-Equity-Is-Circling-Utilities-as-AI-Reshapes-the-Grid.html",
+      "title": "高盛合伙人警告称，让人工智能取代银行家的推理能力存在“巨大危险”",
+      "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-24T15:50:50+00:00",
+      "summary": "高盛一位负责银行旗舰人工智能项目的合伙人警告说，人工智能在华尔街的传播可能会削弱下一代金融家的思考能力。",
+      "score": 15,
+      "original_title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "translated": true,
+      "priority": 0,
+      "uid": "37c00a2f1946"
+    },
+    {
+      "title": "委内瑞拉的石油复苏比美国预期的要慢",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Revival-Is-Slower-Than-the-US-Hoped.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-23T18:00:00+00:00",
-      "summary": "虽然看起来民主党人和共和党人如今几乎在任何事情上都无法达成共识，但至少有一个共同的敌人正在让双方走到一起：数据中心。",
-      "score": 15,
-      "original_title": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
+      "published": "2026-08-24T23:00:00+00:00",
+      "summary": "在美国从委内瑞拉抓捕并带走尼古拉斯·马杜罗超过半年后，美国最大的石油公司尚未重返世界上最大的石油储备国的油田。雪佛龙在马杜罗执政期间一直在委内瑞拉运营，正在开采并向美国出口石油，但埃克森美孚和康菲石油都尚未回归，因为委内瑞拉国家石油公司主导的谈判仍在进行中...",
+      "score": 10,
+      "original_title": "Venezuela’s Oil Revival Is Slower Than the U.S. Hoped",
       "translated": true,
       "priority": 0,
-      "uid": "521270a55cac"
-    },
-    {
-      "title": "在联合航空工作十年后，首席执行官斯科特·柯比正在从JFK到人工智能对他的航空公司未来进行宏伟构想",
-      "link": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-23T12:00:01+00:00",
-      "summary": "新泽西州纽瓦克——斯科特·柯比说他不相信报复。“每个人都以为我会，但不，我不会，”这位美国联合航空公司的首席执行官说，他在十年前担任美国航空公司总裁时被美国航空解雇。“我会积极竞争。”联合航空宣布已于2016年8月29日聘请他为总裁，就在美国航空披露他离职的短暂时间之后。",
-      "score": 15,
-      "original_title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-      "translated": true,
-      "priority": 0,
-      "uid": "85bd8b47b788"
-    },
-    {
-      "title": "联合航空的下一个决定：如何处理多年前订购的所有波音737 Max 10座位",
-      "link": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-23T12:00:01+00:00",
-      "summary": "2018年8月，当时的总统、现任联合航空公司首席执行官斯科特·柯比在丹佛的一次航空会议上向一屋子的记者介绍了航空公司对新款波音737 Max 10的宏伟计划：平躺的高级座椅以及一系列盈利的跨大陆航线。这架飞机原计划于2020年开始飞行。由于其认证——原本预计在2020年获得——未能如期完成，数百个座位一直处于储存状态……",
-      "score": 15,
-      "original_title": "United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago",
-      "translated": true,
-      "priority": 0,
-      "uid": "a5494c0f15f2"
-    },
-    {
-      "title": "大多数美国人并不反对疫苗。他们只是犹豫不决——而这正成为一个日益增长的公共卫生挑战",
-      "link": "https://www.cnbc.com/2026/08/21/why-vaccination-rates-are-falling-in-the-us.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-21T19:14:56+00:00",
-      "summary": "记录的麻疹病例和不断增加的儿童疫苗例外情况引发了人们对美国人越来越反对疫苗的担忧。但现实可能比这更复杂。公共卫生官员试图遏制致命疾病的最大挑战可能并不是普遍的反疫苗情绪或传播这种情绪的影响者和政治人物。",
-      "score": 15,
-      "original_title": "Most Americans aren't anti-vaccine. They're uncertain — and that's a growing public health challenge",
-      "translated": true,
-      "priority": 0,
-      "uid": "09687d9c8f96"
+      "uid": "aeae57fbccfb"
     },
     {
       "title": "通过搜索提升学习的5种新方法",
@@ -205,7 +218,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-19T19:00:00+00:00",
-      "summary": "通过搜索提升学习的5种新方法 新学年是升级你的日常学习方式的绝佳机会——无论你是在应对新的难学科目、准备考试，还是尝试在各门课程中保持有序。拥有正确的工具能带来巨大的不同。为了帮助你自信地开始学期，我们正在通过搜索中的AI介绍提升学习的新方法，涉及教育...",
+      "summary": "通过搜索提升学习的5种新方法 新学年是升级你日常学习方式的绝佳机会——无论你是在应对新的困难学科、准备考试，还是试图在各门课程之间保持有序。拥有合适的工具能带来巨大的不同。为了帮助你自信地开始学期，我们正在通过搜索中的AI介绍提升学习的新方法，涉及教育...",
       "score": 10,
       "original_title": "5 new ways to level up your learning with Search",
       "translated": true,
@@ -217,31 +230,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3894.7477,
-        "change": -10.4549,
-        "pct": -0.27,
-        "amount_yi": 2009.25
+        "price": 3866.26,
+        "change": -15.7479,
+        "pct": -0.41,
+        "amount_yi": 1169.97
       },
       {
         "name": "深证成指",
-        "price": 13970.43,
-        "change": -123.738,
-        "pct": -0.88,
-        "amount_yi": 2380.73
+        "price": 13667.55,
+        "change": -126.742,
+        "pct": -0.92,
+        "amount_yi": 1318.77
       },
       {
         "name": "创业板指",
-        "price": 3494.44,
-        "change": -51.133,
-        "pct": -1.44,
-        "amount_yi": 481.19
+        "price": 3387.75,
+        "change": -44.131,
+        "pct": -1.29,
+        "amount_yi": 233.13
       },
       {
         "name": "沪深300",
-        "price": 4598.4319,
-        "change": -20.4633,
-        "pct": -0.44,
-        "amount_yi": 1139.9
+        "price": 4539.8576,
+        "change": -23.269,
+        "pct": -0.51,
+        "amount_yi": 575.77
       }
     ],
     "holdings": [
@@ -250,11 +263,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 46.59,
-        "market_value": 4659.0,
-        "pnl": 1486.36,
-        "pnl_pct": 46.85,
-        "weight_hint": "44.3%",
+        "price": 46.93,
+        "market_value": 4693.0,
+        "pnl": 1520.36,
+        "pnl_pct": 47.92,
+        "weight_hint": "44.4%",
         "note": "",
         "available": true
       },
@@ -263,10 +276,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.02,
-        "market_value": 2802.0,
-        "pnl": 105.59,
-        "pnl_pct": 3.92,
+        "price": 28.19,
+        "market_value": 2819.0,
+        "pnl": 122.59,
+        "pnl_pct": 4.55,
         "weight_hint": "26.7%",
         "note": "",
         "available": true
@@ -276,10 +289,10 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 7.84,
-        "market_value": 2352.0,
-        "pnl": 474.48,
-        "pnl_pct": 25.27,
+        "price": 7.89,
+        "market_value": 2367.0,
+        "pnl": 489.48,
+        "pnl_pct": 26.07,
         "weight_hint": "22.4%",
         "note": "",
         "available": true
@@ -289,11 +302,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.137,
-        "market_value": 227.4,
-        "pnl": -90.6,
-        "pnl_pct": -28.49,
-        "weight_hint": "2.2%",
+        "price": 1.098,
+        "market_value": 219.6,
+        "pnl": -98.4,
+        "pnl_pct": -30.94,
+        "weight_hint": "2.1%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -302,10 +315,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.661,
-        "market_value": 466.1,
-        "pnl": -30.9,
-        "pnl_pct": -6.22,
+        "price": 4.605,
+        "market_value": 460.5,
+        "pnl": -36.5,
+        "pnl_pct": -7.34,
         "weight_hint": "4.4%",
         "note": "",
         "available": true
@@ -326,117 +339,103 @@
     ],
     "sectors": [
       {
-        "name": "新能源/光伏 · 电池化学品",
-        "pct": 2.29,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 2.37,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 电池",
-        "pct": 1.94,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 4.68,
+        "name": "金融/银行 · 金融控股",
+        "pct": 1.23,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": 0.88,
         "source": "东财行业"
       },
       {
         "name": "煤炭 · 煤炭",
-        "pct": 1.53,
+        "pct": 1.04,
         "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 2.29,
+        "main_flow_yi": 0.36,
         "source": "东财行业"
       },
       {
         "name": "煤炭 · 煤炭开采",
-        "pct": 1.01,
+        "pct": 1.04,
         "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 0.84,
+        "main_flow_yi": 0.25,
         "source": "东财行业"
       },
       {
-        "name": "金融/银行 · 金融控股",
-        "pct": 0.98,
+        "name": "金融/银行 · 多元金融",
+        "pct": 0.9,
         "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 0.31,
+        "main_flow_yi": 1.17,
         "source": "东财行业"
       },
       {
-        "name": "金融/银行 · 国有大型银行Ⅲ",
-        "pct": 0.83,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 0.68,
-        "source": "东财行业"
+        "name": "石油 · 石油行业",
+        "pct": 0.47007207771858,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
       },
       {
-        "name": "电力/公用 · 电力设备",
-        "pct": 0.59,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": 3.2,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 供水供气",
-        "pct": -0.69874543433381,
+        "name": "电力/公用 · 电力行业",
+        "pct": -0.46673972157961,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "半导体/电子 · 电子器件",
-        "pct": -0.94802853733465,
+        "pct": -1.5379156872618,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "石油 · 石油行业",
-        "pct": -1.2517904963567,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
-    "policy_news": [],
+    "policy_news": [
+      {
+        "title": "央行8月25日开展3860亿元7天期逆回购操作",
+        "link": "https://finance.sina.com.cn/jryx/bank/2026-08-25/doc-inipnuhy5594498.shtml",
+        "level": "高",
+        "tag": "政策"
+      }
+    ],
     "industry_news": [
       {
-        "title": "锂电池板块早盘走强 赣锋锂业涨逾7%天齐锂业涨逾5%",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-24/doc-inipkriw1989473.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "中国农业发展银行湖南省分行原党委书记、行长吴晓轮被开除党籍",
-        "link": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipkmae3066401.shtml",
+        "title": "特斯拉十年“太阳能屋顶瓦片梦”正式终结：因财务不可持续停产，能源战略全面转向传统光伏与储能",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-25/doc-inipnuhw1626339.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "A股四大指数开盘表现分化，工业金属、黄金等板块涨幅居前",
-        "link": "https://finance.sina.com.cn/roll/2026-08-24/doc-inipkriy6186124.shtml",
+        "title": "资金逢跌猛攻！创业板人工智能ETF（159363）单日净流入超7000万元，近4日狂揽超5亿元",
+        "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-25/doc-inipnuhy5591038.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "华勤技术于8月24日斥资3807.3万元回购79.67万股A股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-25/doc-inipnuhy5572325.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10506.5,
-    "total_pnl": 1944.93,
-    "total_amount_yi": 4389.98,
+    "total_market_value": 10559.1,
+    "total_pnl": 1997.53,
+    "total_amount_yi": 2488.74,
     "bias": "偏空",
-    "volume_note": "量能：两市合计约 4390 亿元（接口口径），成交偏清淡",
-    "sector_note": "行业分化：偏强 电池化学品、电池、煤炭；偏弱 供水供气、电子器件、石油行业",
-    "tip": "板块轮动是常态，不要追高换仓",
+    "volume_note": "量能：两市合计约 2489 亿元（接口口径），成交偏清淡",
+    "sector_note": "行业分化：偏强 金融控股、煤炭、煤炭开采；偏弱 电力行业、电子器件",
+    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
     "errors": []
   },
   "learning": {
-    "title": "PB（市净率）",
-    "body": "PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。",
+    "title": "股息率",
+    "body": "股息率 = 每股分红 ÷ 股价。偏防守时，高于约4%常被看作有一定现金回报缓冲。神华、工行的观察重点之一就是分红是否稳定。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "视频监控方案",
-    "text": "今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。"
+    "topic": "定额套用",
+    "text": "今儿聊【定额套用】。451跟陕西安装定额放一块，像俩表亲开会：看着都姓定，细问各算各的。你刚把边界理清，人家说“这块能不能合并”——合并的是定额，分裂的是头发。社会经验：重复计取这事，定额怕，审计更怕，最怕的是你自己半夜突然想起来。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
