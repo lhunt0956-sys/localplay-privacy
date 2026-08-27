@@ -1,16 +1,29 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-26T09:42:30.220613+08:00",
+  "generated_at": "2026-08-27T16:39:08.695212+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 19,
   "items": [
     {
-      "title": "Anthropic / 克劳德：介绍克劳德作品 5",
+      "title": "学习从不停息：人工智能如何使学习持续进行",
+      "link": "https://openai.com/index/learning-never-stops",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-08-26T10:00:00+00:00",
+      "summary": "OpenAI 的新报告探讨了学生和教育工作者如何使用 ChatGPT 使学习更加持续，并提供超越课堂的支持。",
+      "score": 65,
+      "original_title": "Learning never stops: How AI makes learning continuous",
+      "translated": true,
+      "priority": 0,
+      "uid": "fc8bed5c5178"
+    },
+    {
+      "title": "Anthropic / Claude：推出 Claude Opus 5",
       "link": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-26T01:42:49+00:00",
-      "summary": "隆重推出 Claude Opus 5 Claude Opus 5 现已上市。 这是一个深思熟虑且积极主动的模型，以一半的价格接近《克劳德寓言 5》的前沿智能。 在 Frontier-Bench 和 GDPval-AA 等编码和知识工作评估中，Opus 5 是最先进的，尽管它在网络安全任务上仍落后于 Mythos 5。 Opus 5 专为日常使用而设计：它的工作效率更高......",
+      "published": "2026-08-27T08:39:26+00:00",
+      "summary": "介绍 Claude Opus 5 Claude Opus 5 今日上线。它是一款深思熟虑且主动的模型，其智能接近 Claude Fable 5 的前沿水平，但价格只有一半。在编码和知识工作评估如 Frontier-Bench 和 GDPval-AA 中，Opus 5 已成为新的最先进模型，尽管在网络安全任务上仍落后于 Mythos 5。Opus 5 旨在用于日常应用：它工作效率更高...",
       "score": 60,
       "original_title": "Anthropic / Claude：Introducing Claude Opus 5",
       "translated": true,
@@ -18,25 +31,12 @@
       "uid": "b08c6994eb9f"
     },
     {
-      "title": "丰富智能背后的全栈",
-      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-08-25T07:05:00+00:00",
-      "summary": "OpenAI 首席财务官 Sarah Friar 解释了芯片、计算、模型和产品之间的进步如何结合起来，以更大规模和更低的成本提供更有用的智能。",
-      "score": 60,
-      "original_title": "The full stack behind abundant intelligence",
-      "translated": true,
-      "priority": 0,
-      "uid": "9fbc0e9ff0b6"
-    },
-    {
-      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究",
+      "title": "从雅达利到《EVE Online》：基于15年的游戏人工智能研究",
       "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-08-21T11:59:48+00:00",
-      "summary": "从 Atari 到 EVE Online：建立在 15 年游戏人工智能研究的基础上 从 Atari 到 Go 到《星际争霸》，游戏推动了人工智能领域的一些最大突破。 现在，我们正在与游戏开发商合作，打造新的游戏体验原型，推动游戏和人工智能的发展。 自 DeepMind 于 2010 年成立以来，有限但丰富的游戏世界在理解智能方面发挥了关键作用……",
+      "summary": "从雅达利到《EVE Online》：在15年的游戏人工智能研究基础上发展\n从雅达利到围棋再到《星际争霸》，游戏推动了人工智能的一些最大突破。现在，我们正与游戏开发者合作，原型化新的游戏体验，推动游戏和人工智能的前沿发展。自2010年DeepMind成立以来，受限但丰富的游戏世界在理解智力方面发挥了关键作用...",
       "score": 50,
       "original_title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
       "translated": true,
@@ -44,25 +44,38 @@
       "uid": "3a26b92514ea"
     },
     {
-      "title": "IT早报 0826：余承东官宣华为新三折叠手机；高通第六代骁龙 8 旗舰 CPU 主频破 5GHz；6999 元起苹果全新 Mac mini 发布；自动驾驶违法由车企担责首次明确...",
-      "link": "https://www.ithome.com/0/994/311.htm",
-      "source": "IT之家·通信安防",
+      "title": "中尼吉隆口岸泥石流灾害数百人失踪",
+      "link": "https://www.solidot.org/story?sid=85202",
+      "source": "Solidot·通信",
       "category": "通信与安防",
-      "published": "2026-08-25T23:44:53+00:00",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 8 月 26 日星期三，今天的重要科技资讯有： 1.余承东官宣全新三折叠即将登场，华为鸿蒙 HarmonyOS 7 | Mate XT 2 及全场景新品发布会定档 华为常务董事、产品投资评审委员会主任、终端 BG 董事长 8 月 25 日官宣，全新三折叠即将登场。>> 查看详情 2.最高主频 5GHz 全球移动端最快，高通下一代骁龙旗舰平台 CPU 技术公开 全新 Oryon CPU 被高通称为“全球最快的移动 CPU”，支撑这个说法的核心，一是突破性的 5GHz 主频，二是全新的缓存架构。高通在博客里明确写道，达到如此极致的最高主频，仅依靠制程工艺是难以实现的。全新 Oryon CPU 是一颗完全定制的 CPU，每一项微架构特性都由高通自主调校，每个核心还拥有自己的时钟域，可以独立进行频率扩展。",
-      "score": 105,
+      "published": "2026-08-26T13:43:56+00:00",
+      "summary": "solidot新版网站常见问题，请点击这里查看。消息 本文已被查看 2244 次 中尼吉隆口岸泥石流灾害数百人失踪 2026 年 8 月 26 日 10 时 30 分许，尼泊尔一侧发生泥石流灾害，随后灾害波及中尼边境吉隆口岸一带。中国官方通报称，灾害造成吉隆口岸重大人员伤亡及人员失联。灾害同时造成中国一侧前往吉隆口岸的道路、通信和电力中断。尼泊尔方面亦遭受严重山洪灾害，拉苏瓦县等地的村庄、道路、桥梁及水电设施受到破坏。尼泊尔方面至少 22 人死亡，约 384 人失联，其中包括 291 名外国游客。中国境内的死亡、受伤及失联人数尚未公布。https://zh.wikipedia.org/wiki/2026%E5%B9%B4%E4%B8%AD%E5%B0%BC%E8%BE%B9%E5%A2%83%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3 https://zh.",
+      "score": 75,
       "original_title": "",
       "translated": false,
-      "priority": 55,
-      "uid": "a3094ab7ea8e"
+      "priority": 50,
+      "uid": "e96a0e2c5d65"
     },
     {
-      "title": "Anthropic / Claude：克劳德的文本水印是如何工作的",
+      "title": "Meta 在美出台未成年人防沉迷措施，韩国有关部门呼吁全球推广",
+      "link": "https://www.ithome.com/0/995/063.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-27T07:45:48+00:00",
+      "summary": "IT之家 8 月 27 日消息，据路透社报道，韩国广播媒体通信委员会今天（27 日）呼吁，Meta 为减少青少年沉迷社交媒体而提出的一系列产品调整， 最好能够在全球统一实施 。当前，韩国也在研究进一步加强对社交媒体平台未成年用户的监管。韩国广播媒体通信委员会在声明中指出，社交媒体企业应承担更多 保护儿童和青少年的责任 。目前韩国国会已有 7 项加强青少年网络保护的法案等待审议，委员会认为，要让韩国青少年能够安全使用社交网络服务，就必须进一步强化社交媒体服务提供商保护未成年人的责任。美国昨天（26 日）宣布了具有里程碑意义的和解协议。多州此前指控 Meta 通过产品设计诱导青少年成瘾并损害心理健康，Meta 最终同意支付最高 180 亿美元 （IT之家注：现汇率约合 1,212.81 亿元人民币） ，同时调整 Facebook 和 Instagram 的多项功能。",
+      "score": 65,
+      "original_title": "",
+      "translated": false,
+      "priority": 50,
+      "uid": "2c084d7368c6"
+    },
+    {
+      "title": "Anthropic / Claude：Claude 的文本水印是如何工作的",
       "link": "https://www.anthropic.com/news/claude-text-watermark",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-26T01:42:49+00:00",
-      "summary": "克劳德的文本水印如何工作未来的克劳德模型将生成包含水印的文本。 这是确定克劳德参与撰写文本的可能性的一种方式，我们与其他几家主要人工智能提供商一起正在实施这一更改，以遵守欧盟人工智能法案。",
+      "published": "2026-08-27T08:39:26+00:00",
+      "summary": "Claude 的文本水印是如何工作的 未来的 Claude 模型将生成包含水印的文本。这是一种确定 Claude 是否参与撰写文本的可能性的方法，我们以及其他几家主要的 AI 提供商正在实施这一变化，以遵守欧盟人工智能法案。",
       "score": 60,
       "original_title": "Anthropic / Claude：How Claude's text watermarking works",
       "translated": true,
@@ -70,43 +83,30 @@
       "uid": "36326c80d59a"
     },
     {
-      "title": "Jalapeo 的首批结果显示了人工智能推理行业领先的速度和效率",
-      "link": "https://openai.com/index/jalapeno-first-results",
+      "title": "将 ChatGPT 教师版引入更多美国学区",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-08-25T07:00:00+00:00",
-      "summary": "Jalapeo 是 OpenAI 的一款定制推理芯片，可提供更快、更节能的 AI 推理，为现代模型提供更高的吞吐量和更低的延迟。",
+      "published": "2026-08-26T10:00:00+00:00",
+      "summary": "面向教师的 ChatGPT 正在扩展到美国 55 个学区，为超过 100,000 名教育工作者和员工带来安全的人工智能工具、培训和支持。",
       "score": 60,
-      "original_title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "original_title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "translated": true,
       "priority": 0,
-      "uid": "863500231a81"
+      "uid": "4785f06de44b"
     },
     {
-      "title": "VZMORE 前置 AX9 Max 等迷你电脑：双2.5G网口，AMD Ryzen AI 9 HX 470芯片",
-      "link": "https://www.ithome.com/0/994/330.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-26T00:46:23+00:00",
-      "summary": "IT之家 8 月 26 日消息，科技媒体 techpowerup 昨日（8 月 25 日）发布博文，报道称德国品牌 VZMORE 官宣参加 2026 柏林国际消费电子展（IFA 2026）， 将展示 AX9 Max、iX9 Max、iX9 Ultra 和 AX9 Ultra 四款迷你电脑。在 AMD 平台方面，AX9 Max 搭载 AMD Ryzen AI 9 HX 470 处理器，配备 Radeon 890M 显卡和专用 Ryzen AI NPU，算力最高达 55 TOPS，端口方面配备 2 个 2.IT之家附上相关图片如下： AX9 Ultra 搭载 AMD Ryzen AI Max 388 和 Radeon 8060S 显卡。结合 V-Boost Max 后，该机支持最高 120 W 性能调校，面向高端内容创作、本地人工智能和 AAA 级游戏。",
-      "score": 50,
-      "original_title": "VZMORE 预热 AX9 Max 等迷你电脑：双 2.5G 网口，AMD Ryzen AI 9 HX 470 芯片",
-      "translated": true,
-      "priority": 25,
-      "uid": "cd49740599dd"
-    },
-    {
-      "title": "国际计量大会将讨论用闰时取代闰秒",
-      "link": "https://www.solidot.org/story?sid=85179",
+      "title": "芬兰准备启用全球首座核废料最终处置场",
+      "link": "https://www.solidot.org/story?sid=85199",
       "source": "Solidot·通信",
       "category": "通信与安防",
-      "published": "2026-08-24T09:50:52+00:00",
-      "summary": "今年 10 月在法国举行的国际计量大会将讨论用闰时取代闰秒。闰秒需要经常性修改，会导致混乱，而引入闰时后数百年内无需修改。协调世界时（UTC）基于用原子振动实现的高精度原子钟来确定，成为 1 秒长度的标准。不过由地球自转时间决定的 1 天长度会发生不规则变化，因此会产生偏差。地球的自转速度根据潮汐涨落以及地球内部地核运动而波动。地球的一天即地球自转一圈，大约需要 86,400 秒。闰秒的作用就是调整与原子钟的偏差，当偏差累积即将超过 0.9 秒时，就会在一天中增加1秒。1972 年引入闰秒以来已修改了 27 次。然而对于需要同步时间进行自动控制的金融交易、交通、电力等高端通信系统而言，哪怕是微小的误差也可能导致整个网络陷入混乱。2012 年增加闰秒时大型网络服务等发生故障。因此美国 IT 巨头 Google 和微软等方面为避免影响而引入各自的调整方法。各公司采用的“时间系统”各不相同，导致闰秒作为标准时间基准的地位动摇。",
+      "published": "2026-08-26T08:21:48+00:00",
+      "summary": "全球首座用于处置核电站产生的高放射性核废料的最终处置场预计将在芬兰投入使用。该国的核能监管机构本月 4 日公布评估报告称，经过约 4 年半的审查，用于将乏燃料埋入地下的“翁卡洛”处置场符合安全条件。芬兰政府拟于今年秋季正式批准其投入使用。最快可能于明年初启用。根据计划，乏燃料将被隔绝在地下约 430 米处长达 10 万年以上。根据芬兰的计划，乏燃料将被放入铜制和铸铁制的双层容器，用粘土覆盖后埋入地下，进行长达 10 万年以上的隔离，直到核燃料的放射能降至安全水平。处置场位于西南部的奥尔基卢奥托岛，岛上遍布约 19 亿年前形成的岩盘，几乎不存在大地震及火山喷发的风险。",
       "score": 50,
       "original_title": "",
       "translated": false,
-      "priority": 25,
-      "uid": "38517a456aa5"
+      "priority": 35,
+      "uid": "81e6f3df01b4"
     },
     {
       "title": "英伟达员工在台被控向中国大陆走私先进芯片",
@@ -122,46 +122,85 @@
       "uid": "d9d09624af31"
     },
     {
-      "title": "与 Gemini 和 Pixel 一起近距离接触游戏",
-      "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-08-17T08:00:00+00:00",
-      "summary": "与 Gemini 和 Pixel 更接近比赛我们将与世界上最具标志性的五个足球俱乐部建立新的长期合作伙伴关系：阿森纳足球俱乐部、巴塞罗那足球俱乐部、拜仁慕尼黑足球俱乐部、利物浦足球俱乐部和巴黎圣日耳曼足球俱乐部。 作为官方消费者人工智能和官方智能手机合作伙伴，Gemini 和 Pixel 携手合作，帮助粉丝成为行动的核心。",
+      "title": "比尔 · 盖茨：我好像是第一个站出来说“AI 太疯狂了”的人，为此感到震惊",
+      "link": "https://www.ithome.com/0/995/125.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-08-27T08:39:01+00:00",
+      "summary": "IT之家 8 月 27 日消息，比尔 · 盖茨通过个人网站 Gates Notes 发表了一篇新的博客文章，同时密集接受媒体采访。在多年对 AI 保持近乎盲目的乐观之后，他突然开始为 AI 将如何改变人类未来 敲响警钟 ，甚至警告这项技术会大量消灭就业岗位，并给经济造成严重冲击。盖茨在这篇接近 6,000 词的长文中写道：“AI 要么会成为人类有史以来最强大的平等工具，要么会成为最严重的不公来源。即便一切都以最理想的方式发展，迈入这个全新的 AI 时代也将成为人类历史上最动荡的时期之一。” 一向习惯把自己置于故事中心的盖茨，对其他人没有表现出同等程度的恐慌显得十分惊讶。盖茨在接受 Semafor 采访时说：“我很震惊，感觉自己好像是 第一个站出来说‘这太疯狂了，简直疯了’ 的人。周围的沉默简直震耳欲聋。",
       "score": 20,
-      "original_title": "Get closer to the game with Gemini and Pixel",
-      "translated": true,
+      "original_title": "",
+      "translated": false,
       "priority": 0,
-      "uid": "7bb26bb70fc7"
+      "uid": "6f3b85107646"
     },
     {
-      "title": "莫斯科和北京没有预见到的美国在伊拉克的权力游戏",
-      "link": "https://oilprice.com/Energy/Energy-General/The-US-Power-Play-in-Iraq-That-Moscow-and-Beijing-Didnt-See-Coming.html",
+      "title": "阿尔伯塔省省长拒绝将石油作为对抗特朗普的武器",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Alberta-Premier-Rejects-Using-Oil-as-a-Weapon-Against-Trump.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-25T22:00:00+00:00",
-      "summary": "由于俄罗斯仍忙于乌克兰战争，伊朗专注于保卫其领土免受美国和以色列的袭击，中国继续参与这两场冲突，这将引发与美国的直接冲突，华盛顿正在利用其在伊拉克的地位。 美国的这些努力",
+      "published": "2026-08-27T08:30:00+00:00",
+      "summary": "全球近一半的石油……胡塞武装的更大控制可能进一步……阿尔伯塔省省长丹妮尔·史密斯拒绝了对出口到美国的原油征收出口税的想法，以报复特朗普政府对渥太华发起的关税攻击，称这将对加拿大造成损害。",
       "score": 15,
-      "original_title": "The U.S. Power Play in Iraq That Moscow and Beijing Didn’t See Coming",
+      "original_title": "Alberta Premier Rejects Using Oil as a Weapon Against Trump",
       "translated": true,
       "priority": 0,
-      "uid": "76480a6accee"
+      "uid": "99da9824f820"
     },
     {
-      "title": "由于加拿大削减油砂产量，美国炼油商面临新的原油挤压",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Refiners-Face-New-Crude-Squeeze-as-Canada-Cuts-Oil-Sands-Output.html",
+      "title": "特斯拉：中国智造的 Model Y 成为日本上半年进口车单一车型新车销量第一",
+      "link": "https://www.ithome.com/0/995/116.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-08-27T08:15:03+00:00",
+      "summary": "IT之家 8 月 27 日消息，特斯拉今日发文称，中国智造的 Model Y 成为日本上半年进口车品牌单一车型新车销量第一。 IT之家注意到，特斯拉目前正加快在日本市场的扩张步伐，日本业务负责人此前表示，特斯拉计划将当地市场门店数量扩大至至少 60 家， 力争最快在明年成为日本销量第一的进口汽车品牌 。 从市场格局来看，日本进口车市场长期由德系豪华品牌主导。根据行业数据，2025 年梅赛德斯-奔驰以接近 5.1 万辆的销量位居第一，其后依次为宝马、大众和奥迪。尽管丰田、铃木、日产、比亚迪等厂商均已在当地推出电动汽车产品，但目前日本电动汽车普及率整体仍处于较低水平。不过，有分析人士认为，受中东局势影响导致的燃油价格不确定性，可能会促使更多日本消费者从汽油或柴油车转向电动车。 截至今年 4 月，特斯拉在当地拥有约 35 家门店 / 14 个服务中心，其门店不仅承担销售功能，还提供试驾体验，旨在降低消费者对电动车的顾虑，尤其是那些长期驾驶燃油车的用户。",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "e9878218a8bd"
+    },
+    {
+      "title": "随着卡塔尔推动新的霍尔木兹海峡会谈，油价下跌",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Qatar-Pushes-New-Hormuz-Talks.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-25T21:00:00+00:00",
-      "summary": "炼油厂几个月来一直全速运转，以弥补中东燃料供应的损失。 美国的燃料出口一直打破记录。 这种情况可能即将改变，但并不是因为战争。 现在是加拿大油砂维护季节。 Rystad Energy表示，由于油砂维护活动，9月份加拿大原油产量可能下降30万桶/日。",
+      "published": "2026-08-27T07:30:00+00:00",
+      "summary": "章鱼老板格雷格·杰克逊已经……挪威启动了巨魔第3阶段……由于有消息称卡塔尔首相今天将访问德黑兰，讨论重新开放霍尔木兹海峡的可能性，原油价格今天连续第四天下跌。撰写本文时，布伦特原油的交易价格为每桶87.46美元，西得克萨斯中质原油为每桶81.83美元，尽管有关于一次针对油罐的罢工的新报告……",
       "score": 15,
-      "original_title": "U.S. Refiners Face New Crude Squeeze as Canada Cuts Oil Sands Output",
+      "original_title": "Oil Prices Fall as Qatar Pushes New Hormuz Talks",
       "translated": true,
       "priority": 0,
-      "uid": "45a22879b06f"
+      "uid": "c4d632083be1"
     },
     {
-      "title": "商业地产投资者竞争出现一年来最强劲增长",
+      "title": "随着霍尔木兹航运危机加深，另一艘油轮遭袭",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Another-Tanker-Struck-as-Hormuz-Shipping-Crisis-Deepens.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-08-27T06:30:00+00:00",
+      "summary": "特朗普政府已确认……欧洲正在避免更深的……英国海上贸易行动今天表示，又一艘油轮在霍尔木兹海峡被弹丸击中，德新社援引报道称。该报告紧随早前的袭击事件之后，尽管巴基斯坦和该地区其他相关方努力促使伊朗与美国坐上谈判桌，结束……",
+      "score": 15,
+      "original_title": "Another Tanker Struck as Hormuz Shipping Crisis Deepens",
+      "translated": true,
+      "priority": 0,
+      "uid": "c0de10bc747b"
+    },
+    {
+      "title": "现代汽车在美国的增长超过了任何汽车制造商——而且这还没有结束",
+      "link": "https://www.cnbc.com/2026/08/26/hyundai-sales-us-investment.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-08-26T12:00:01+00:00",
+      "summary": "旧金山——当另一位高管在发布其新旗舰款Genesis GV90 SUV时讨论起现代汽车公司“mueos-ideun ganeunghada”理念时，现代汽车首席执行官José Muñoz微笑着点头。这个词在韩语中意思是“万事皆有可能”。这是这家韩国汽车制造商的一个座右铭，对于公司的美国雄心以及对于Muñoz本人，这一座右铭都已被证明是真实的。",
+      "score": 15,
+      "original_title": "Hyundai has grown more than any automaker in the U.S. — and it's not done yet",
+      "translated": true,
+      "priority": 0,
+      "uid": "3a85f0eef2be"
+    },
+    {
+      "title": "商业地产的投资者竞争出现一年以来的最强增长",
       "link": "https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html",
       "source": "CNBC",
       "category": "A股与宏观",
@@ -174,12 +213,12 @@
       "uid": "328121764507"
     },
     {
-      "title": "Dick's Sporting Goods 股价下跌 30%，因零售商未达到预期，称鞋类市场“充满挑战”",
+      "title": "由于零售商未达预期并称鞋类市场“充满挑战”，迪克体育用品公司股价下跌30%",
       "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-08-25T20:38:59+00:00",
-      "summary": "迪克体育用品公司 (Dick's Sporting Goods) 周二公布的季度收益未达到华尔街预期，并在所谓的“充满挑战的运动鞋和服装市场”的情况下下调了 Foot Locker 的前景。迪克体育用品公司 (Dick's Sporting Goods) 的股价在周二交易中下跌了 30%，这是自 2023 年以来最糟糕的一天。该公司表示，在各品类“广泛增长”的推动下，迪克体育用品公司本季度的可比销售额增长了 4. 9%。",
+      "summary": "迪克体育用品公司周二报告的季度收益未达到华尔街预期，并在其所称的“具有挑战性的运动鞋和服装市场”背景下，下调了对Foot Locker的前景预测。迪克股价在周二交易中下跌了30%，创下自2023年以来的最糟糕单日表现。公司表示，迪克门店本季度的可比销售额增长了4.9%，主要受各类别“广泛增长”的推动...",
       "score": 15,
       "original_title": "Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market",
       "translated": true,
@@ -187,38 +226,12 @@
       "uid": "5cda7e451f39"
     },
     {
-      "title": "核需求加速，铀价飙升",
-      "link": "https://oilprice.com/Metals/Commodities/Uranium-Prices-Surge-as-Nuclear-Demand-Accelerates.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-08-25T20:00:00+00:00",
-      "summary": "受供应紧缩、政府重新支持核电以及人工智能基础设施热潮带来的电力需求上升的推动，彭博社的连续近月铀期货合约（UXA1 Comdty）在 1 月下旬短暂飙升至每磅 100 美元以上。 铀期货随后回落并在 84 美元至 87 美元之间波动了五个月。 但八月势头又回来了，价格接近……",
-      "score": 15,
-      "original_title": "Uranium Prices Surge as Nuclear Demand Accelerates",
-      "translated": true,
-      "priority": 0,
-      "uid": "f554c8afa207"
-    },
-    {
-      "title": "消息人士称，美国卫生与公众服务部计划设立新的 FDA 技术和药物副专员职位",
-      "link": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-08-25T17:00:01+00:00",
-      "summary": "据 CNBC 获悉，美国卫生与公众服务部正计划在食品和药物管理局设立两个新的副局长职位，其中一个将专注于技术以及健康与人工智能的交叉领域。 据两位熟悉该计划的消息人士透露，另一个新职位是药品副专员。",
-      "score": 15,
-      "original_title": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
-      "translated": true,
-      "priority": 0,
-      "uid": "72c16d349f3e"
-    },
-    {
-      "title": "使用 Google 搜索升级家居装饰的 5 种方法",
+      "title": "通过 Google 搜索升级家居装饰的 5 种方法",
       "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-25T16:00:00+00:00",
-      "summary": "通过 Google 搜索升级家居装饰的 5 种方法 人们每天都会通过 Google 搜索来寻找发现和灵感，包括家居装饰：过去一个月“家居装饰 inspo”的搜索量增长了 300%，“浴室 inspo”和“客厅 inspo”的搜索量在同一时间范围内都取得了突破性的增长。 大胆的流行色彩也很流行——今年的热门涂料搜索包括青色和洋红色。",
+      "summary": "5种利用Google搜索提升家庭装饰的方法 人们每天都会使用Google搜索来获取发现和灵感，包括在家庭装饰方面：过去一个月，“家居装饰灵感”的搜索量增长了300%，而“浴室灵感”和“客厅灵感”在同一时间段内也是热门搜索。今年大胆的颜色点缀也很流行——今年的热门油漆搜索包括青绿色和品红色。",
       "score": 15,
       "original_title": "5 ways to upgrade your home decor with Google Search",
       "translated": true,
@@ -226,12 +239,12 @@
       "uid": "cb59eb1aaf6b"
     },
     {
-      "title": "通过搜索提升学习水平的 5 种新方法",
+      "title": "通过搜索提升学习的5种新方法",
       "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-19T19:00:00+00:00",
-      "summary": "通过搜索提升学习水平的 5 种新方法 新学年是提升日常习惯的绝佳机会 - 无论您是在学习困难的新科目、准备考试，还是在课堂上保持井井有条。 拥有正确的工具会让一切变得不同。 为了帮助您充满信心地开始新学期，我们推出了新方法，通过人工智能搜索和教育来提升您的学习水平……",
+      "summary": "通过搜索提升学习的5种新方法 新学年是升级你日常学习方式的绝佳机会——无论你是在应对新的难学科、准备考试，还是试图在各门课程中保持有条理。拥有正确的工具能带来巨大的不同。为了帮助你自信地开始学期，我们正在通过搜索中的AI介绍提升学习的新方法，涉及教育...",
       "score": 10,
       "original_title": "5 new ways to level up your learning with Search",
       "translated": true,
@@ -243,31 +256,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3898.1428,
-        "change": 8.6979,
-        "pct": 0.22,
-        "amount_yi": 1670.37
+        "price": 3956.571,
+        "change": 44.0475,
+        "pct": 1.13,
+        "amount_yi": 10102.27
       },
       {
         "name": "深证成指",
-        "price": 13783.2,
-        "change": 37.334,
-        "pct": 0.27,
-        "amount_yi": 1887.08
+        "price": 14048.88,
+        "change": 207.549,
+        "pct": 1.5,
+        "amount_yi": 11157.0
       },
       {
         "name": "创业板指",
-        "price": 3402.35,
-        "change": 4.831,
-        "pct": 0.14,
-        "amount_yi": 303.89
+        "price": 3473.35,
+        "change": 58.471,
+        "pct": 1.71,
+        "amount_yi": 2360.64
       },
       {
         "name": "沪深300",
-        "price": 4563.8957,
-        "change": 11.8631,
-        "pct": 0.26,
-        "amount_yi": 779.14
+        "price": 4630.277,
+        "change": 39.4835,
+        "pct": 0.86,
+        "amount_yi": 5871.2
       }
     ],
     "holdings": [
@@ -276,11 +289,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 47.16,
-        "market_value": 4716.0,
-        "pnl": 1543.36,
-        "pnl_pct": 48.65,
-        "weight_hint": "44.5%",
+        "price": 47.8,
+        "market_value": 4780.0,
+        "pnl": 1607.36,
+        "pnl_pct": 50.66,
+        "weight_hint": "44.9%",
         "note": "",
         "available": true
       },
@@ -289,11 +302,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.35,
-        "market_value": 2835.0,
-        "pnl": 138.59,
-        "pnl_pct": 5.14,
-        "weight_hint": "26.7%",
+        "price": 28.1,
+        "market_value": 2810.0,
+        "pnl": 113.59,
+        "pnl_pct": 4.21,
+        "weight_hint": "26.4%",
         "note": "",
         "available": true
       },
@@ -302,11 +315,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 7.89,
-        "market_value": 2367.0,
-        "pnl": 489.48,
-        "pnl_pct": 26.07,
-        "weight_hint": "22.3%",
+        "price": 7.82,
+        "market_value": 2346.0,
+        "pnl": 468.48,
+        "pnl_pct": 24.95,
+        "weight_hint": "22.0%",
         "note": "",
         "available": true
       },
@@ -315,11 +328,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.111,
-        "market_value": 222.2,
-        "pnl": -95.8,
-        "pnl_pct": -30.13,
-        "weight_hint": "2.1%",
+        "price": 1.181,
+        "market_value": 236.2,
+        "pnl": -81.8,
+        "pnl_pct": -25.72,
+        "weight_hint": "2.2%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -328,10 +341,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.624,
-        "market_value": 462.4,
-        "pnl": -34.6,
-        "pnl_pct": -6.96,
+        "price": 4.691,
+        "market_value": 469.1,
+        "pnl": -27.9,
+        "pnl_pct": -5.61,
         "weight_hint": "4.4%",
         "note": "",
         "available": true
@@ -352,58 +365,51 @@
     ],
     "sectors": [
       {
-        "name": "电力/公用 · 综合电力设备商",
-        "pct": 2.02,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": 0.32,
+        "name": "半导体/电子 · 模拟芯片设计",
+        "pct": 5.77,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 7.34,
         "source": "东财行业"
       },
       {
-        "name": "新能源/光伏 · 综合电力设备商",
-        "pct": 2.02,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.32,
+        "name": "半导体/电子 · 半导体材料",
+        "pct": 5.42,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 16.41,
         "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 风电整机",
-        "pct": 1.93,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.19,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 金融行业",
-        "pct": 0.7126238550022,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "电力/公用 · 电力行业",
-        "pct": 0.53566736067595,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": null,
-        "source": "新浪行业"
       },
       {
         "name": "煤炭 · 煤炭行业",
-        "pct": -0.10716158599147,
+        "pct": 3.0200734061353,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子器件",
-        "pct": -0.83583832811478,
-        "why": "对应半导体ETF，关注景气与政策",
+        "name": "煤炭 · 煤炭开采",
+        "pct": 2.63,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": -0.96,
+        "source": "东财行业"
+      },
+      {
+        "name": "石油 · 石油行业",
+        "pct": 0.68076829564795,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "石油 · 石油行业",
-        "pct": -1.6708798322955,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "name": "金融/银行 · 金融行业",
+        "pct": 0.05730476584636,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "电力/公用 · 供水供气",
+        "pct": -0.24573878490014,
+        "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
@@ -411,50 +417,37 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "德银私人银行前主管坦承挪用富豪客户资金 内控是否严密受关注",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprcpu1071680.shtml",
+        "title": "黄仁勋谈芯片供给瓶颈",
+        "link": "https://finance.sina.com.cn/wm/2026-08-27/doc-iniptxkt9094940.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "利率重定价+美债危机！黄金牛市迎来“双重引擎” 法国外贸银行看涨至5000美元",
-        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-26/doc-iniprcpz6223878.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "连发三款自研芯片！小米阔折叠首发搭载玄戒O3，要与苹果“正面交锋”？",
-        "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipqxhc6335516.shtml",
+        "title": "重庆银行：从行业周期中突围  解密高质量发展的底层密码",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-iniptxkt5353089.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
-    "market_news": [
-      {
-        "title": "凯莱英授出271.10万股A股限制性股票",
-        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-26/doc-inipqxhc6338364.shtml",
-        "level": "中",
-        "tag": "股市"
-      }
-    ],
-    "total_market_value": 10602.6,
-    "total_pnl": 2041.03,
-    "total_amount_yi": 3557.45,
-    "bias": "震荡",
-    "volume_note": "量能：两市合计约 3557 亿元（接口口径），成交偏清淡",
-    "sector_note": "行业分化：偏强 综合电力设备商、综合电力设备商、风电整机；偏弱 煤炭行业、电子器件、石油行业",
-    "tip": "一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向",
+    "market_news": [],
+    "total_market_value": 10641.3,
+    "total_pnl": 2079.73,
+    "total_amount_yi": 21259.27,
+    "bias": "偏多",
+    "volume_note": "量能：两市合计约 21259 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 模拟芯片设计、半导体材料、煤炭行业；偏弱 供水供气",
+    "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
   "learning": {
-    "title": "ETF 适合新手的原因",
-    "body": "ETF（交易型开放式指数基金）一篮子持股，分散单家公司暴雷风险。半导体/新能源这种高波动行业，用 ETF 比赌单票更适合学习仓。",
+    "title": "T+1 是什么",
+    "body": "A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "Android 编译",
-    "text": "今儿聊【Android 编译】。Gradle一转，茶凉了；再转，饭糊了；还转，人傻了。你写驱动模式、均衡器、歌词翻译，它回你一个依赖冲突，态度比产品经理还硬。社会经验：能跑的别乱动，能动的别升级——升级这词在编程圈跟“改造”在装修圈一个味儿。"
+    "topic": "血压小计",
+    "text": "今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
