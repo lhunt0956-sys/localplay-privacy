@@ -1,15 +1,15 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-08-29T14:38:24.464653+08:00",
+  "generated_at": "2026-08-30T12:51:27.381906+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 17,
+  "count": 16,
   "items": [
     {
       "title": "Anthropic / Claude：预览模型硬件标准",
       "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-29T06:38:44+00:00",
+      "published": "2026-08-30T04:51:42+00:00",
       "summary": "预览模型硬件标准 我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准（MHS）的研究预览版本。该标准是一个共享规范，旨在使 AI 代理能够安全地操作物理设备。",
       "score": 60,
       "original_title": "Anthropic / Claude：Previewing the Model Hardware Standard",
@@ -31,12 +31,12 @@
       "uid": "2448851d3d2e"
     },
     {
-      "title": "Gemini Omni 1.1 闪光灯让你可以更有控制地进行构建",
+      "title": "Gemini Omni 1.1 闪光灯让你可以更有控制地进行拍摄",
       "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-08-27T16:11:32+00:00",
-      "summary": "Gemini Omni 1.1 Flash 让你拥有更多控制的创作能力。今天，我们推出了 Gemini Omni 1.1 Flash，这是一套新的创意控制和生成视频功能，以支持开发者。Gemini Omni 将现实世界的推理引入生成创作，而今天的更新使 Omni 1.1 通过 Google AI Studio 的 Gemini API 为专业使用做好了生产准备。",
+      "summary": "Gemini Omni 1.1 Flash 让你拥有更多控制的创作能力。今天，我们推出了 Gemini Omni 1.1 Flash，这是一套新的创意控制和生成视频功能套件，旨在支持开发者。Gemini Omni 将现实世界的推理引入生成创作，而今天的更新使 Omni 1.1 通过 Google AI Studio 的 Gemini API 可用于专业生产。",
       "score": 45,
       "original_title": "Gemini Omni 1.1 Flash lets you build with more control",
       "translated": true,
@@ -57,11 +57,24 @@
       "uid": "d507eeb66ea5"
     },
     {
-      "title": "Anthropic / Claude：Claude的文本水印是如何工作的",
+      "title": "小米 18 Fold 首发长鑫 LPDDR6 内存，央视财经报道称“中国半导体两个好消息”",
+      "link": "https://www.ithome.com/0/996/099.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-08-30T03:11:37+00:00",
+      "summary": "IT之家 8 月 30 日消息，小米昨日官宣， Xiaomi 18 Fold 全球首发长鑫 LPDDR6 内存 ，9 月见。IT之家注意到，央视新闻官方微博昨日发文报道“从“芯”到“存”，从单点技术突破到产业链协同发力！中国半导体两个好消息 ”： 8 月 29 日，长鑫存储宣布新一代 LPDDR6 内存正式量产，并首发搭载于小米 18Fold 旗舰折叠屏手机。而就在本周， 小米集团也宣布将在该机型上搭载其最新旗舰移动处理器玄戒 O3 。小米将自主研发设计的移动处理器与国产新一代 LPDDR6 内存一同导入旗舰量产机型，敢于让国产核心器件在高标准的旗舰手机中接受市场检验。以量产产品完成严格验证，牵引国产核心器件加速走向规模应用。从“芯”到“存”，从单点技术突破到产业链协同发力 。小米秉承开放合作，推动更多国产核心技术应用于高端产品， 为中国半导体协同突破提供了新样本 。",
+      "score": 80,
+      "original_title": "",
+      "translated": false,
+      "priority": 50,
+      "uid": "66594da1ee08"
+    },
+    {
+      "title": "Anthropic / Claude：Claude 的文本水印是如何工作的",
       "link": "https://www.anthropic.com/news/claude-text-watermark",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-08-29T06:38:44+00:00",
+      "published": "2026-08-30T04:51:42+00:00",
       "summary": "Claude 的文本水印是如何工作的 未来的 Claude 模型将生成包含水印的文本。这是一种确定 Claude 是否参与撰写文本的可能性的方法，我们以及其他几家主要的人工智能提供商正在实施这一变化，以遵守欧盟人工智能法案。",
       "score": 60,
       "original_title": "Anthropic / Claude：How Claude's text watermarking works",
@@ -83,69 +96,56 @@
       "uid": "d5292f12782f"
     },
     {
-      "title": "IBM 推出双指令集处理器",
-      "link": "https://www.solidot.org/story?sid=85221",
-      "source": "Solidot·通信",
+      "title": "MNT Station 迷你电脑开启众筹：0.96L 机身塞入 32GB 内存",
+      "link": "https://www.ithome.com/0/996/113.htm",
+      "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-08-28T10:06:32+00:00",
-      "summary": "IBM 在 Hot Chips 2026 上介绍了世界首款双指令集处理器。全球约七成交易量都通过 IBM Z 大型机完成，新处理器通过引入 Arm 生态系统，为大型机带来新一代的应用。该处理器采用 2 纳米工艺节点，包括 11 个主频超过 5.7 GHz 的高性能核心、面向交易过程中欺诈检测的 AI 推理加速器、用于 I/O 加速的专用片上数据处理单元以及面向高负载企业级应用的大容量缓存架构。该芯片并未采用彼此独立的 Arm 核心和 IBM 核心。每个处理器核心均可原生执行 Arm 与 IBM Z 指令，或 Arm 与 LinuxONE 指令，同时保持平台既有的性能、安全、加密和可用性。",
+      "published": "2026-08-30T04:38:53+00:00",
+      "summary": "IT之家 8 月 30 日消息，科技媒体 NotebookCheck 昨日（8 月 29 日）发布博文， 报道称德国 MNT Research 在 Crowd Supply 上线 MNT Station 迷你电脑众筹项目。外观方面，该迷你电脑采用阳极氧化、喷砂处理的 CNC 铝合金机箱，尺寸为 279×133×26mm、体积 0.96L、重量 0.68kg，可平放、竖放，也兼容 75×75mm 和 100×100mm VESA 挂载规格。IT之家发稿前已成功筹集 9,099 美元 （IT之家注：现汇率约合 61,381 元人民币） 。性能与可升级性依赖 MNT Reform Mainboard 3.0 的 200 针处理器模块接口。用户可选 Raspberry Pi CM4、NXP LS1028A 或 Rockchip RK3588 V2 模块。",
       "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "07ce963d4167"
+      "uid": "7ffd5db41ea5"
     },
     {
-      "title": "国产 GPU 厂商壁仞科技上半年收入 12.36 亿元，同比增长 1997.6%",
-      "link": "https://www.ithome.com/0/995/887.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-08-29T03:08:21+00:00",
-      "summary": "IT之家 8 月 29 日消息，国产 GPU 厂商壁仞科技昨晚发布公告，截至 2026 年 6 月 30 日止六个月公司收入 12.36 亿元， 同比增长 1997.27 亿元，同比增长 2708.公告显示，该公司持续投入研发与技术迭代创新，报告期内，研发开支为人民币 8.044 亿元，同比增长 40.随着销售和毛利高速增长，营运杠杆进一步放大，报告期内亏损大幅收窄至人民币 3.772 亿元，净亏损与上年同期相比降低 76.报告期内经调整期内亏损（非国际财务报告准则计量）为人民币 3.372 亿元，与上年同期相比减亏 38.商业化方面，壁砺™系列训练及推理产品销售持续扩大，客户结构与场景覆盖进一步拓展。目前公司客户已覆盖头部互联网企业、AI 大模型开发商、国家级 AI 算力平台、AI 数据中心、电信运营商，以及 AI 解决方案、制造、能源及公用事业、金融科技、教育等多个行业和政企客户。",
-      "score": 30,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "4ac73b2aa336"
-    },
-    {
-      "title": "欧洲针对俄罗斯的制裁存在一个重大盲点",
-      "link": "https://oilprice.com/Energy/Energy-General/Europes-Russia-Sanctions-Have-a-Major-Blind-Spot.html",
+      "title": "伊朗战争使全球能源进口账单增加了3300亿美元",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Adds-330-Billion-to-Global-Energy-Import-Bill.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-28T20:00:00+00:00",
-      "summary": "在过去两年中，欧盟和英国已成为对俄罗斯实施制裁的主要行为者。但像意大利欧洲大学学院的教授玛丽亚·德梅尔齐斯这样的人对制裁行动的有效性提出了质疑，因为欧洲机构仍在该国运营盈利的子公司，几乎没有受到审查。",
+      "published": "2026-08-29T23:00:00+00:00",
+      "summary": "美国、以色列和伊朗之间的战争导致全球在三月至八月的六个月期间，石油和天然气进口账单增加了多达3300亿美元。尽管油价上涨幅度小于预期，天然气价格上涨幅度也同样小于预期。但战争尚未结束，账单可能会进一步增加。",
       "score": 15,
-      "original_title": "Europe’s Russia Sanctions Have a Major Blind Spot",
+      "original_title": "Iran War Adds $330 Billion to Global Energy Import Bill",
       "translated": true,
       "priority": 0,
-      "uid": "a58334a71a33"
+      "uid": "35b1e2aa82a1"
     },
     {
-      "title": "到2030年，人工智能热潮可能使数据中心的用水量增加三倍",
-      "link": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
+      "title": "墨西哥的绿色能源推动终于正在获得动力",
+      "link": "https://oilprice.com/Energy/Energy-General/Mexicos-Green-Energy-Push-Is-Finally-Gaining-Momentum.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-28T19:00:00+00:00",
-      "summary": "正在进行的大规模数据中心容量扩张引起了人们对这些设施运作所需水量规模的关注。Rystad Energy估计，如果不采取节水措施，全球数据中心的用水量到2030年可能会增至每年6440亿升。",
+      "published": "2026-08-29T19:00:00+00:00",
+      "summary": "在前一届政府推迟启动之后，墨西哥现在正在顺利推进绿色转型。总统克劳迪娅·谢因鲍姆推出了一项能源改革，开放墨西哥的能源部门以吸引更多私人投资，并着重于扩大国家的可再生能源部门。与此同时，多个太阳能和风能项目的批准显示了政府加快可再生能源发展的承诺...",
       "score": 15,
-      "original_title": "The AI Boom Could Triple Data Center Water Use by 2030",
+      "original_title": "Mexico’s Green Energy Push Is Finally Gaining Momentum",
       "translated": true,
       "priority": 0,
-      "uid": "ff651be96e51"
+      "uid": "21b114f93268"
     },
     {
-      "title": "俄罗斯的能源危机让哈萨克斯坦处境艰难",
-      "link": "https://oilprice.com/Energy/Energy-General/Russias-Energy-Crisis-Puts-Kazakhstan-in-a-Tough-Spot.html",
+      "title": "美国的电力繁荣正在超越其电网",
+      "link": "https://oilprice.com/Energy/Energy-General/Americas-Electricity-Boom-Is-Outrunning-Its-Power-Grid.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-08-28T18:00:00+00:00",
-      "summary": "哈萨克斯坦正试图在克里姆林宫与其保持距离，同时俄罗斯努力依赖中亚国家帮助支撑莫斯科摇摇欲坠的战争经济。乌克兰持续的无人机行动已经对俄罗斯的能源基础设施和军工复合体造成了严重破坏，促使俄罗斯官员寻求来自中亚国家的紧急能源供应和炼油安排，同时...",
+      "published": "2026-08-29T17:00:00+00:00",
+      "summary": "随着快速电气化和能源需求对输电基础设施施加越来越大和前所未有的压力，美国的能源电网正面临极大的紧张状态。人工智能的迅猛发展使能源需求率飙升，因为超大规模企业争相在全国各地建设耗能巨大的数据中心园区。",
       "score": 15,
-      "original_title": "Russia’s Energy Crisis Puts Kazakhstan in a Tough Spot",
+      "original_title": "America’s Electricity Boom Is Outrunning Its Power Grid",
       "translated": true,
       "priority": 0,
-      "uid": "4ec23baf18b1"
+      "uid": "1a67057818b9"
     },
     {
       "title": "FDA批准吉利德每日服用的HIV药片，旨在简化部分患者的治疗",
@@ -153,7 +153,7 @@
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-08-28T14:26:53+00:00",
-      "summary": "吉利德公司周四宣布，美国食品药品监督管理局批准了一种每日一次的HIV药物，这可能有助于简化部分患者的治疗。这种药物以Bixlenvo为商品名，旨在针对病毒已被控制但仍需复杂治疗方案的患者。同时，它也可能吸引那些仅仅想换用新治疗方案的人。",
+      "summary": "吉利德公司周四宣布，美国食品药品监督管理局批准了一种每日一次的HIV药物，这可能有助于简化部分患者的治疗。这种名为Bixlenvo的药物，面向病毒已经得到控制但仍需使用复杂治疗方案的患者。它也可能吸引那些只是想换用新的治疗选择的人。",
       "score": 15,
       "original_title": "FDA approves daily HIV pill from Gilead designed to simplify treatment for some patients",
       "translated": true,
@@ -166,7 +166,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-27T16:00:00+00:00",
-      "summary": "在搜索中规划和预订旅行的3种新方式 规划一次旅行涉及许多变化因素和无数选项。使用搜索中的AI模式，您已经可以获取实时数据来比较航班和酒店，找到网络上的最佳推荐，并制定完美的行程。现在，我们正在通过新的方式升级这一体验，可以跟踪航班价格、查看积分或里程兑换率，并预订您的梦想旅行...",
+      "summary": "在搜索中规划和预订旅行的3种新方式 规划一次旅行涉及许多变化的因素和无数需要考虑的选项。借助搜索中的AI模式，您已经可以获得实时数据来比较航班和酒店，查找网络上的最佳推荐，并制定完美的行程。现在，我们正在通过新的方式升级这一体验，让您跟踪机票价格、查看积分或里程兑换率，并预订理想的旅行...",
       "score": 15,
       "original_title": "3 new ways to plan and book travel in Search",
       "translated": true,
@@ -179,7 +179,7 @@
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-08-27T12:25:09+00:00",
-      "summary": "这篇文章的一个版本最早刊登在CNBC的《Inside Wealth》通讯中，由罗伯特·弗兰克主编，这是一份面向高净值投资者和消费者的每周指南。注册后可将未来的版本直接发送到您的收件箱。杰瑞·巴斯在去世后安排了他的遗产，以确保洛杉矶湖人队留在家族手中。但据信托文件显示，一些旨在保存这一遗产的保护措施反而使他的孩子们产生了分歧...",
+      "summary": "这篇文章的一个版本最早刊登在CNBC的《Inside Wealth》通讯中，由罗伯特·弗兰克主编，这是一份面向高净值投资者和消费者的每周指南。注册即可直接将未来的期刊送达您的收件箱。杰瑞·巴斯在去世后安排了他的遗产，以确保洛杉矶湖人队留在家族手中。但据信托文件显示，一些旨在保存这一遗产的保护措施反而使他的孩子们产生了分歧。",
       "score": 15,
       "original_title": "What the Buss family Lakers dispute can teach the wealthy about trusts",
       "translated": true,
@@ -192,7 +192,7 @@
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-08-27T12:00:01+00:00",
-      "summary": "美国航空公司周四宣布，将在2027年的航班计划中增加七条国际航线，其中许多将使用其空客A321XLR飞机。新增航线如下：\n- 北卡罗来纳州夏洛特至西班牙巴塞罗那，5月27日开航，使用波音777-200ER。\n- 芝加哥奥黑尔国际机场至东京成田国际机场，3月19日开航，使用波音787-9。",
+      "summary": "美国航空公司周四宣布，将在2027年的航班计划中增加七条国际航线，其中许多将使用其空客A321XLR飞机。新增航线如下：- 北卡罗来纳州夏洛特飞往西班牙巴塞罗那，从5月27日开始，使用波音777-200ER。- 芝加哥奥黑尔国际机场飞往东京成田国际机场，从3月19日开始，使用波音787-9。",
       "score": 15,
       "original_title": "American Airlines adds batch of new international routes on its XLR planes",
       "translated": true,
@@ -205,25 +205,12 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-08-25T16:00:00+00:00",
-      "summary": "5种利用Google搜索提升家庭装修的方法 人们每天都会使用Google搜索来寻找发现和灵感，包括在家庭装修方面：过去一个月，“家居装饰灵感”的搜索量增长了300%，而“浴室灵感”和“客厅灵感”在同一时期都是突出的搜索趋势。大胆的亮色搭配也很流行——今年的热门油漆搜索色包括青绿色和品红色。",
+      "summary": "5种利用Google搜索提升家庭装饰的方法 人们每天都会使用Google搜索来获取发现和灵感，包括在家庭装饰方面：过去一个月，“家居装饰灵感”的搜索量增长了300%，而“浴室灵感”和“客厅灵感”在同一时间段内也是热门搜索。大胆的颜色点缀也很流行——今年的热门油漆搜索包括青绿色和洋红色。",
       "score": 15,
       "original_title": "5 ways to upgrade your home decor with Google Search",
       "translated": true,
       "priority": 0,
       "uid": "cb59eb1aaf6b"
-    },
-    {
-      "title": "通过搜索提升学习的5种新方法",
-      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-08-19T19:00:00+00:00",
-      "summary": "通过搜索提升学习的5种新方法 新学年是升级你的日常学习方式的绝佳机会——无论你是在应对新的难学科目、准备考试，还是尝试在各门课程中保持有序。拥有正确的工具能带来巨大的不同。为了帮助你自信地开始学期，我们正在通过搜索中的AI介绍提升学习的新方法，涉及教育...",
-      "score": 10,
-      "original_title": "5 new ways to level up your learning with Search",
-      "translated": true,
-      "priority": 0,
-      "uid": "19638538246f"
     }
   ],
   "market": {
@@ -384,40 +371,40 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "分红率最高34.07%！11家上市银行拟派超300亿中期红包",
-        "link": "https://finance.sina.com.cn/wm/2026-08-29/doc-inipxyyx5597282.shtml",
+        "title": "光伏逆变器龙头，业绩承压",
+        "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqakft8295852.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "净息差企稳、合计派息超1900亿元……拆解四大行半年报",
-        "link": "https://finance.sina.com.cn/wm/2026-08-29/doc-inipxyyv8749813.shtml",
+        "title": "算力扩张，曾经低迷的新能源企业做起了AIDC大生意",
+        "link": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-iniqacxv2982761.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "印度银行股出现数十年来最大跨交易所价差",
-        "link": "https://finance.sina.com.cn/world/2026-08-29/doc-inipxusz5508482.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "新增68.4亿QDII额度落地！华美银行、鑫元基金等三家机构新晋获批",
-        "link": "https://finance.sina.com.cn/jjxw/2026-08-29/doc-inipxusz5521794.shtml",
+        "title": "重大资产重组！半导体龙头，突发公告！下周一停牌",
+        "link": "https://finance.sina.com.cn/roll/2026-08-30/doc-iniqacxv2956905.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "8月29日美股成交前20：英伟达跌超4%拖累股指 亚马逊涨3.97%领跑七巨头",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxqkz8820932.shtml",
+        "title": "投资12亿元！又一家A股公司，加码智能机器人！",
+        "link": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqakfv5056766.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "美国股市：科技股抛售拖累标普500指数走低 沃什鹰派讲话推升加息预期",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxqmc5589630.shtml",
+        "title": "周末，大消息扎堆！A股9月展望：可以更积极一些",
+        "link": "https://finance.sina.com.cn/roll/2026-08-30/doc-iniqacxz8475897.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "这5家A股公司，上周获超200家机构调研！",
+        "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-inipzxsc8568722.shtml",
         "level": "中",
         "tag": "股市"
       }
@@ -428,18 +415,18 @@
     "bias": "偏空",
     "volume_note": "量能：两市合计约 21017 亿元（接口口径），成交偏活跃",
     "sector_note": "行业分化：偏强 石油行业、石油石化、煤炭行业；偏弱 金融行业、电子器件",
-    "tip": "板块轮动是常态，不要追高换仓",
+    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
     "errors": []
   },
   "learning": {
-    "title": "板块轮动",
-    "body": "资金常在行业间切换，不是“好公司永远天天涨”。追昨天上涨板块，容易买在情绪高点；先看逻辑，再看价格。",
+    "title": "净息差（银行）",
+    "body": "净息差 = 贷款利率与存款利率的差距，是银行赚钱能力的核心之一。工行观察点：净息差是否继续收窄，以及不良贷款率。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "标书加班",
-    "text": "今儿聊【标书加班】。标书这东西，白天像散文，夜里像刑法。格式错一个空格，废一宿；价格错一个零，废一年。社会经验：投标不是写作文，是把自己活成附件——附件越全，人越空。"
+    "topic": "AI 工具",
+    "text": "今儿聊【AI 工具】。大模型像特别能干的实习生：秒出三千字，里头三分真七分顺嘴。你让它写可研，它写得比你快；你让它对定额，它比你敢。社会经验：AI能提效，不能替你背锅——锅永远有编制，编制在你工号上。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
