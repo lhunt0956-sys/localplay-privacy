@@ -1,6 +1,6 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-04T11:57:36.946777+08:00",
+  "generated_at": "2026-09-05T11:55:01.080101+08:00",
   "timezone": "Asia/Shanghai",
   "count": 18,
   "items": [
@@ -9,8 +9,8 @@
       "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-04T03:57:55+00:00",
-      "summary": "预览模型硬件标准 我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准（MHS）的研究预览版本，MHS 是一个共享规范，旨在使 AI 代理能够安全地操作物理设备。",
+      "published": "2026-09-05T03:55:16+00:00",
+      "summary": "预览模型硬件标准 我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准（MHS）的研究预览版本。该标准是一个共享规范，旨在使 AI 代理能够安全地操作物理设备。",
       "score": 60,
       "original_title": "Anthropic / Claude：Previewing the Model Hardware Standard",
       "translated": true,
@@ -44,24 +44,24 @@
       "uid": "797f18579943"
     },
     {
-      "title": "全球首款 AI 智能体手机预热：努比亚 NaviX Ultra 搭载长鑫 10667Mbps LPDDR5X 内存，本月发布",
-      "link": "https://www.ithome.com/0/998/289.htm",
-      "source": "IT之家·通信安防",
+      "title": "英伟达发布开源工具将闲置算力连成个人数据中心",
+      "link": "https://www.solidot.org/story?sid=85284",
+      "source": "Solidot·通信",
       "category": "通信与安防",
-      "published": "2026-09-04T02:36:40+00:00",
-      "summary": "IT之家 9 月 4 日消息，努比亚 NaviX Ultra 由中兴通讯与字节跳动联合研发，搭载豆包手机助手，被称为“豆包手机二代”，定位全球首款 AI 智能体手机，计划于 9 月上市开售。努比亚官方今日与长鑫存储共同宣布，努比亚 NaviX Ultra 将搭载长鑫存储速率达 10667Mbps 的 LPDDR5X 内存。长鑫存储官方强调，这是国产 10667Mbps 高速率 LPDDR5X 芯片首次量产应用，标志着国产移动 DRAM 正式迈入顶级速率商用阶段。该颗粒最高 16Gb，相比市面主流 8533Mbps 版本带宽提升约 25%，功耗较 LPDDR5 降低 30%。IT之家注意到，这一速率已达到国际主流厂商同规格产品的水平。核心配置方面，努比亚 NaviX Ultra 搭载高通骁龙 8 Elite Gen 5 旗舰平台，配备 6.",
-      "score": 65,
+      "published": "2026-09-04T06:25:34+00:00",
+      "summary": "英伟达发布开源工具 Personal AI Router(PAIR)，同步家庭网络中的兼容计算机，汇集闲置算力用于本地 AI 推理和智能体工作负载。PAIR 兼容设备包括了英伟达 GeForce RTX 20 及更新的显卡，以及 RTX Pro GPU 和 DGX Spark，此外还有苹果 M4 以上的芯片。PAIR 会根据用户家用电脑是否处于闲置状态去决定利用其算力，如果用户在电脑上玩游戏，那么该设备将会退出 PAIR 的网络。汇集多台设备的算力可避免单台设备的 GPU 出现算力瓶颈影响推理性能。PAIR 通过一个六位数代码配对所有设备，使用 mTLS(Mutual Transport Layer Security）保护通信通道，在计算机之间建立双向可信的加密通信线路。PAIR 支持 Windows、Linux 和 macOS 系统。",
+      "score": 60,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "2d27ce0ed3f7"
+      "uid": "3f0b639a747d"
     },
     {
       "title": "Anthropic / Claude：Claude的文本水印是如何工作的",
       "link": "https://www.anthropic.com/news/claude-text-watermark",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-04T03:57:55+00:00",
+      "published": "2026-09-05T03:55:16+00:00",
       "summary": "Claude 的文本水印是如何工作的 未来的 Claude 模型将生成包含水印的文本。这是一种确定 Claude 是否参与撰写文本的可能性的方法，我们以及其他几家主要的人工智能提供商正在实施这一变化，以遵守欧盟人工智能法案。",
       "score": 60,
       "original_title": "Anthropic / Claude：How Claude's text watermarking works",
@@ -70,43 +70,43 @@
       "uid": "36326c80d59a"
     },
     {
-      "title": "Legora 使用 GPT-6 Astra 在几分钟内审阅了 41 份文件",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Legora 使用 GPT-6 Astra 在几分钟内审查了 41 份文档，找出了所有四个故意设置的错误，并在此财务审核工作流程中将性能提高了近 40%。",
+      "title": "被控内幕交易的 Google 工程师称他只是在赌博",
+      "link": "https://www.solidot.org/story?sid=85289",
+      "source": "Solidot·通信",
+      "category": "通信与安防",
+      "published": "2026-09-04T09:43:34+00:00",
+      "summary": "今年五月被捕的 Google 安全工程师 Michele Spagnuolo 被控利用内部信息在预测市场 Polymarket 押注歌手 d4vd 成为 2025 年 Google 搜索量最高的人物而获利 120 万美元。他被控犯有商品欺诈、电信欺诈和洗钱罪。 他的律师团队本周递交了一份动议，寻求撤销对他的指控。Spagnuolo 没有直接否认利用内部信息获利，而是宣称他只是在赌博，而赌博行为不是受美国《商品交易法》监管的金融工具，且赌博发生在美国境外，不受美国司法管辖。Spagnuolo 已被 Google 停职。Polymarket 虽然是一家美国公司，但其预测市场在美国被禁，其平台也是由名为 Adventure One QSS 的巴拿马公司运营。Spagnuolo 在 Polymarket 上押注时也不是在美国，而是住在瑞士苏黎世。Spagnuolo 律师团队声称他利用的内部信息对 Google 没有任何价值。",
       "score": 50,
-      "original_title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "translated": true,
-      "priority": 0,
-      "uid": "7f1cd187e5dd"
+      "original_title": "",
+      "translated": false,
+      "priority": 35,
+      "uid": "3680c50686cb"
     },
     {
-      "title": "OPPO A7 Pro 手机 9 月 11 日发售：后置双摄设计、内置 8000mAh 电池",
-      "link": "https://www.ithome.com/0/998/285.htm",
+      "title": "Stellantis 回应玛莎拉蒂与华为、江淮汽车合作传闻：不予置评",
+      "link": "https://www.ithome.com/0/998/675.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-04T02:33:17+00:00",
-      "summary": "IT之家 9 月 4 日消息，OPPO 宣布旗下 A7 Pro 手机将于 9 月 11 日 10:00 发售，不过其并未公布该机具体规格信息。参考官方海报，这款手机采用后置双摄设计，内置 8000mAh 电池。 综合IT之家先前报道，博主 @熊猫很秃然 先前曾曝光疑似这款 A7 Pro 手机的规格信息。 该机整体重量 204g、厚度 8.8mm，正面将配备一块 6.57 英寸 1080P 直屏（预计为 OLED 面板），搭载“2.4GHz 处理器”（预计为高通骁龙 4 Gen 5），内置 8000mAh 电池，支持 80W 有线充电。 作为比较，目前 已上市的 OPPO A7 Pro Max 厚度 8.57mm，重量 226g，正面配备一块 6.78 英寸 1.5K 120Hz OLED 直屏，匹配 50Mp 自拍摄像头；手机背面配备 50Mp 主摄 + 2Mp 辅助镜头。搭载高通骁龙 4 Gen 5 芯片，拥有 10000mAh 单电芯大电池，支持 80W 有线充电。",
-      "score": 45,
+      "published": "2026-09-05T02:05:28+00:00",
+      "summary": "IT之家 9 月 5 日消息，意大利媒体 Milano Finanza 昨日报道称，Stellantis 集团正就旗下玛莎拉蒂与华为、江淮汽车开展长期产业合作谈判。9 月 5 日，Stellantis 集团亚太区传播副总裁王超向《每日经济新闻》回应称，集团不对市场传闻或猜测发表评论。王超表示：“作为正常业务运营的一部分，Stellantis 集团持续与全球行业伙伴就不同议题保持沟通与交流，始终致力于为客户提供最佳的出行解决方案。”他同时指出，玛莎拉蒂品牌的未来战略及发展规划将于今年 12 月在意大利摩德纳举办的投资者日活动上正式公布，在此之前不作进一步评论。据 Milano Finanza 此前报道，谈判已进入深度磋商阶段。报道称，三方计划将华为鸿蒙智行平台应用于玛莎拉蒂车型，目标在 2027 年底推出首款联合开发的量产车。",
+      "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "ee36e91b3d18"
+      "uid": "03f20a70b350"
     },
     {
-      "title": "AI 时代 Linux 7.x 系列每个版本修复的漏洞数接近 2000 个",
-      "link": "https://www.solidot.org/story?sid=85265",
-      "source": "Solidot·通信",
-      "category": "通信与安防",
-      "published": "2026-09-02T16:06:58+00:00",
-      "summary": "根据稳定版内核维护者 Greg Kroah-Hartman 制作的幻灯片，Linux 7.x 系列的 CVE 数量已从 7.1 的逾千增加到 7.2 的逾 1500，按照这一趋势，下个版本 7.3 将会超过 2000。这一切并非是因为 Linux 内核安全性变差，而是因为 AI 辅助安全检测工具对内核源代码的自动扫描发现了大量 bug，大部分 bug 并不严重属于低危级别。AI 工具产生了大量报告，而要从这些报告中发现有用的信息需要维护者耗费大量精力和时间。内核网络系统的维护者 Jakub Kicinski 表示他们有点不堪重负了。为了减少旧代码的 bug 报告，内核维护者们开始移除大量基本上无人使用的驱动代码。Linux 7.3 移除了旧的 SGI 和 IBM 驱动代码，此举旨在减少维护成本，因为这些历史悠久的代码被 AI 工具发现了大量 bug，而维护者有义务调查和修复这些 bug。",
-      "score": 25,
-      "original_title": "",
-      "translated": false,
+      "title": "Playco 用 GPT-6 Astra 将手动修复减少了 50% 的原型游戏",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "使用 GPT-6 Astra，Playco 从一个灰箱基础构建了三个主题游戏原型，并报告比以前的模型减少了 50% 的手动修复。",
+      "score": 50,
+      "original_title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "translated": true,
       "priority": 0,
-      "uid": "9a0999b403bb"
+      "uid": "8fd76c4feb7b"
     },
     {
       "title": "英伟达以130亿美元收购开源AI平台Hugging Face",
@@ -114,7 +114,7 @@
       "source": "FT 中文网",
       "category": "A股与宏观",
       "published": "2026-09-03T16:00:00+00:00",
-      "summary": "为何行业领袖选择阅读FT中文网？ 在动荡的市场环境中，清晰、可靠的洞察力本身就是竞争优势。 FT中文网提供源自《金融时报》的权威分析，结合对中国商业语境的深入理解，帮助读者识别趋势、理解风险、把握机会。 信息即力量。对于决策者而言，准确的信息来源尤为重要。",
+      "summary": "Hugging Face平台上有数百万个模型和数据集，是“开放”AI系统的倡导者。该公司去年曾拒绝英伟达提议的大笔投资，而是选择保持独立。",
       "score": 20,
       "original_title": "",
       "translated": false,
@@ -122,12 +122,12 @@
       "uid": "71dd75ab1be5"
     },
     {
-      "title": "我们在2026年8月发布的最新人工智能新闻",
+      "title": "我们在2026年8月公布的最新人工智能新闻",
       "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-01T20:45:00+00:00",
-      "summary": "我们在2026年8月公布的最新人工智能新闻 二十多年来，我们一直在投资机器学习和人工智能研究、工具和基础设施，以构建能够让更多人日常生活变得更美好的产品。谷歌各团队正在努力探索在医疗保健、危机应对和教育等广泛领域中发挥人工智能优势的方法。为了让您了解我们的进展，我们将定期做一个总结……",
+      "summary": "我们在2026年8月公布的最新人工智能新闻：20多年来，我们一直在投资机器学习和人工智能研究、工具和基础设施，以构建能够让更多人日常生活变得更美好的产品。谷歌各团队正在探索在医疗、危机应对和教育等广泛领域释放人工智能的潜力。为了让您了解我们的进展，我们会定期进行汇总...",
       "score": 20,
       "original_title": "The latest AI news we announced in August 2026",
       "translated": true,
@@ -135,82 +135,82 @@
       "uid": "e591a399b61d"
     },
     {
-      "title": "酷态科首款 2026 新国标移动电源获 3C 认证：2C+1A 设计，至高支持 67W 输出",
-      "link": "https://www.ithome.com/0/998/294.htm",
+      "title": "微软 8 月 Win11 可选更新改进关机 / 重启体验，不再强制安装更新",
+      "link": "https://www.ithome.com/0/998/697.htm",
       "source": "IT之家·出行",
       "category": "健康生活",
-      "published": "2026-09-04T02:48:40+00:00",
-      "summary": "IT之家 9 月 4 日消息，CUKTECH 酷态科旗下首款 2026 新国标移动电源现已通过 3C 认证，产品型号为 LPB150N，认证标准和技术要求覆盖 GB 47372-2026《移动电源安全技术规范》。新品提供 USB-C 自带线，具体为 2C+1A 规格，至高支持 67W 输出。按照新国标要求，LPB150N 将在针刺、过充、挤压、热滥用以及循环老化析锂等电芯安全项目上满足相应要求，同时支持电池健康状态查询、异常信息记录及产品信息追溯等功能。具体规格方面，LPB150N 的额定能量为 48Wh，配备 USB-C 接口、USB-C 自带线以及 USB-A 接口，共计 2C1A 三路输出。其中 USB-C 接口和自带线均支持最高 45W 输入、67W 输出，USB-A 接口最高支持 22.5W 输出，多口同时使用时总输出为 5V/4A。",
+      "published": "2026-09-05T03:14:30+00:00",
+      "summary": "IT之家 9 月 5 日消息，科技媒体 Windows Latest 昨日（9 月 4 日）发布博文，报道称 8 月 27 日发布的 Windows 11 可选更新 KB5120998 中， 微软改进了关机 / 重启体验，不再强制安装更新。IT之家附上相关视频如下： 该媒体指出微软早在今年 4 月已开始测试该特性， 在 Windows 11 Build 26300.8289 预览版中 ，而在本次可选更新中已邀请更多用户测试，并将会整合到 9 月补丁星期二（9 月 8 日）活动日发布的累积更新中。该媒体指出在此前 Windows 11 使用过程中，在后台或用户手动下载完更新后，用户点击“关机”后可能先触发更新安装。设备随后重启，并在安装过程中再次唤醒。在本次调整后，Windows 11 区分显示常规电源操作与更新操作，用户选择“关机”时，设备直接关闭；",
       "score": 15,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "ba4db610f3e3"
+      "uid": "fd7a7338678d"
     },
     {
-      "title": "为什么大型石油公司不愿在美国建造新的炼油厂",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Why-Oil-Majors-Dont-Want-to-Build-New-US-Refineries.html",
+      "title": "美国如何在核能方面落后于中国",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/How-The-US-Fell-Behind-China-On-Nuclear-Power.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-03T23:00:00+00:00",
-      "summary": "总统唐纳德·特朗普在本周白宫的一次会议上告诉石油生产商和炼油商，他希望汽油价格立即下降。",
+      "published": "2026-09-04T22:00:00+00:00",
+      "summary": "美国是世界上最大的核能生产国，单独占全球产量的约三分之一。截至目前，美国在28个州的57个电厂中拥有96座正在运行的商业核反应堆。然而，尽管这支核电机队仍然高度高效，国内核能行业正在迅速老化。全国除两座外的所有核反应堆都是二代型号，这意味着它们是...",
       "score": 15,
-      "original_title": "Why Oil Majors Don’t Want to Build New U.S. Refineries",
+      "original_title": "How The U.S. Fell Behind China On Nuclear Power",
       "translated": true,
       "priority": 0,
-      "uid": "0dcfd6590be5"
+      "uid": "60f5c8748941"
     },
     {
-      "title": "人工智能数据中心的繁荣将美国电力设备推向极限",
-      "link": "https://oilprice.com/Energy/Energy-General/AI-Data-Center-Boom-Pushes-US-Power-Equipment-to-the-Breaking-Point.html",
+      "title": "我们会控制人工智能，还是人工智能会控制我们？",
+      "link": "https://oilprice.com/Energy/Energy-General/Artificial-Intelligence-Is-It-Good-Bad-or-a-Game-Changer.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-03T22:00:00+00:00",
-      "summary": "大型科技公司正在在人工智能上投入数万亿美元，其中很大一部分将用于建设为大型语言模型提供动力的数据中心。股市在大型科技股上反映了这一点，但这并不是唯一搭乘人工智能浪潮的行业。因为这一浪潮依赖于电力以及将电力从发电机传送到消费者的设备。",
+      "published": "2026-09-04T21:00:00+00:00",
+      "summary": "世界正在经历由人工智能（AI）指数级增长驱动的变革——这种变化的速度在人类历史上前所未有。因此，许多人担心大量失业，以及可能影响他们生计和生活质量的其他后果。情况真的是这样吗？是的——或者也许并不完全是。本文短文的目的是探讨潜在的益处…",
       "score": 15,
-      "original_title": "AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point",
+      "original_title": "Will We Control AI—or Will AI Control Us?",
       "translated": true,
       "priority": 0,
-      "uid": "7468d9ca02f2"
+      "uid": "0dd28f520fba"
     },
     {
-      "title": "波罗的海干散货指数因“完美风暴”冲击航运而突破",
-      "link": "https://oilprice.com/Energy/Energy-General/Baltic-Dry-Index-Breaks-Out-as-a-Perfect-Storm-Hits-Shipping.html",
+      "title": "乌克兰敦促国会在选举休会前对俄罗斯实施制裁",
+      "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Pushes-Congress-for-Russia-Sanctions-Before-Election-Recess.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-03T20:00:00+00:00",
-      "summary": "据彭博社报道，本周衡量通过全球主要海上航线运输原材料成本的每日基准指数正在突破近三年的高点，因为台风正在压缩Capesize船舶的供应，而矿业公司正增加穿越太平洋和大西洋的铁矿石运输量。追踪包括Capesize船在内的多种船型运费的波罗的海干散货指数(Baltic Dry Index)...",
+      "published": "2026-09-04T18:00:00+00:00",
+      "summary": "乌克兰最高制裁官员表示，尽管众议院何时审议该法案存在越来越大的不确定性，因为议员们在十一月选举前面临大幅缩短的立法日程，但他仍然对美国国会出台全面俄罗斯制裁法案的前景持乐观态度。",
       "score": 15,
-      "original_title": "Baltic Dry Index Breaks Out as a “Perfect Storm” Hits Shipping",
+      "original_title": "Ukraine Pushes Congress for Russia Sanctions Before Election Recess",
       "translated": true,
       "priority": 0,
-      "uid": "4cdbe4918d9d"
-    },
-    {
-      "title": "亿万富翁家族办公室在八月支持医疗和生物技术初创公司",
-      "link": "https://www.cnbc.com/2026/09/03/family-offices-health-care-biotech-startups-august.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-09-03T13:54:50+00:00",
-      "summary": "本文的一个版本最初出现在CNBC的《财富内幕》通讯中，由罗伯特·弗兰克主持，这是一本每周为高净值投资者和消费者提供的指南。注册以直接将未来版本发送到您的收件箱。超级富裕家庭的投资公司正在帮助推动生物技术风投市场的复苏。",
-      "score": 15,
-      "original_title": "Billionaire family offices back healthcare and biotech startups in August",
-      "translated": true,
-      "priority": 0,
-      "uid": "5054b553ed1e"
+      "uid": "9f476358162e"
     },
     {
       "title": "NBA因卡怀·伦纳德工资帽调查暂停快船老板鲍尔默一年",
       "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-03T04:52:41+00:00",
-      "summary": "NBA周三暂停了洛杉矶快船队老板史蒂夫·鲍尔默一年，这是对该篮球队及两位高级管理人员因违反联盟关于明星球员科怀·伦纳德及与该队有业务往来的四家公司相关的工资帽规避规则而采取的一系列广泛制裁措施的一部分。",
+      "published": "2026-09-04T14:38:55+00:00",
+      "summary": "NBA周三暂停了洛杉矶快船队老板史蒂夫·鲍尔默一年的职务，作为对该篮球队及两名高级管理人员因违反联盟关于明星球员科怀·伦纳德及与球队有业务往来的四家公司相关的工资帽规避规则而采取的一系列广泛制裁的一部分。",
       "score": 15,
       "original_title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
       "translated": true,
       "priority": 0,
       "uid": "cc443d6758a8"
+    },
+    {
+      "title": "根据一份新报告，去年全球亿万富翁的财富达到了15.1万亿美元",
+      "link": "https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-09-04T11:32:55+00:00",
+      "summary": "本文的一个版本最初出现在CNBC的《Inside Wealth》时事通讯中，由Robert Frank主编，这是一本针对高净值投资者和消费者的每周指南。注册即可将未来的版本直接发送到您的收件箱。根据Altrata最近发布的一份报告，由于人工智能热潮加速了全球财富的创造，全球亿万富翁的数量在2025年达到创纪录的3,795人。",
+      "score": 15,
+      "original_title": "The wealth of the world's billionaires reached $15.1 trillion last year, per a new report",
+      "translated": true,
+      "priority": 0,
+      "uid": "144aac6f8399"
     },
     {
       "title": "面向政府和企业的主动网络防御",
@@ -231,7 +231,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-01T16:00:00+00:00",
-      "summary": "试试 Google 图片：在 Google Workspace 中轻松创建和编辑图片 Google 图片——我们来自 Google Workspace 的图片创建和编辑工具——将在未来几周向所有 Google AI Pro 和 Ultra 订阅者以及大多数 Workspace 商业客户推出。",
+      "summary": "试试 Google 图片：在 Google Workspace 中轻松创建和编辑图片。Google 图片——我们的 Google Workspace 图像创建和编辑工具——将在未来几周向所有 Google AI Pro 和 Ultra 订阅用户以及大多数 Workspace 商业客户推出。",
       "score": 10,
       "original_title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "translated": true,
@@ -243,31 +243,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3955.851,
-        "change": 13.7631,
-        "pct": 0.35,
-        "amount_yi": 5602.88
+        "price": 3930.1164,
+        "change": -11.9715,
+        "pct": -0.3,
+        "amount_yi": 9382.55
       },
       {
         "name": "深证成指",
-        "price": 13661.39,
-        "change": 36.268,
-        "pct": 0.27,
-        "amount_yi": 6738.84
+        "price": 13516.97,
+        "change": -108.153,
+        "pct": -0.79,
+        "amount_yi": 10924.13
       },
       {
         "name": "创业板指",
-        "price": 3326.68,
-        "change": 14.139,
-        "pct": 0.43,
-        "amount_yi": 1210.07
+        "price": 3286.55,
+        "change": -25.995,
+        "pct": -0.78,
+        "amount_yi": 1965.12
       },
       {
         "name": "沪深300",
-        "price": 4572.2788,
-        "change": 19.7004,
-        "pct": 0.43,
-        "amount_yi": 3047.15
+        "price": 4548.0499,
+        "change": -4.5285,
+        "pct": -0.1,
+        "amount_yi": 5175.09
       }
     ],
     "holdings": [
@@ -276,11 +276,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 47.32,
-        "market_value": 4732.0,
-        "pnl": 1559.36,
-        "pnl_pct": 49.15,
-        "weight_hint": "44.2%",
+        "price": 47.61,
+        "market_value": 4761.0,
+        "pnl": 1588.36,
+        "pnl_pct": 50.06,
+        "weight_hint": "44.4%",
         "note": "",
         "available": true
       },
@@ -289,10 +289,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.39,
-        "market_value": 2839.0,
-        "pnl": 142.59,
-        "pnl_pct": 5.29,
+        "price": 28.42,
+        "market_value": 2842.0,
+        "pnl": 145.59,
+        "pnl_pct": 5.4,
         "weight_hint": "26.5%",
         "note": "",
         "available": true
@@ -302,11 +302,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.16,
-        "market_value": 2448.0,
-        "pnl": 570.48,
-        "pnl_pct": 30.38,
-        "weight_hint": "22.9%",
+        "price": 8.13,
+        "market_value": 2439.0,
+        "pnl": 561.48,
+        "pnl_pct": 29.91,
+        "weight_hint": "22.8%",
         "note": "",
         "available": true
       },
@@ -315,11 +315,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.103,
-        "market_value": 220.6,
-        "pnl": -97.4,
-        "pnl_pct": -30.63,
-        "weight_hint": "2.1%",
+        "price": 1.086,
+        "market_value": 217.2,
+        "pnl": -100.8,
+        "pnl_pct": -31.7,
+        "weight_hint": "2.0%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -328,10 +328,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.639,
-        "market_value": 463.9,
-        "pnl": -33.1,
-        "pnl_pct": -6.66,
+        "price": 4.616,
+        "market_value": 461.6,
+        "pnl": -35.4,
+        "pnl_pct": -7.12,
         "weight_hint": "4.3%",
         "note": "",
         "available": true
@@ -353,114 +353,146 @@
     "sectors": [
       {
         "name": "金融/银行 · 金融信息服务",
-        "pct": 6.5,
+        "pct": 4.89,
         "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 2.58,
+        "main_flow_yi": 2.01,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 风电整机",
+        "pct": 2.56,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": -1.81,
         "source": "东财行业"
       },
       {
         "name": "新能源/光伏 · 燃料电池",
-        "pct": 2.68,
+        "pct": 2.27,
         "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": -0.0,
+        "main_flow_yi": -0.01,
         "source": "东财行业"
       },
       {
-        "name": "金融/银行 · 多元金融",
-        "pct": 2.45,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 2.67,
+        "name": "电力/公用 · 综合电力设备商",
+        "pct": 1.76,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": 3.18,
         "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 金融行业",
+        "pct": 0.44946965691001,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": null,
+        "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": 1.2631578947368,
+        "pct": 0.34285714285714,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子信息",
-        "pct": 1.0057895631036,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
         "name": "电力/公用 · 供水供气",
-        "pct": 0.91075634650615,
+        "pct": 0.1308557969118,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "煤炭 · 煤炭行业",
-        "pct": -1.2420962624603,
+        "pct": -0.51078958619293,
         "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "半导体/电子 · 电子器件",
+        "pct": -2.6122206634195,
+        "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
     "policy_news": [
       {
-        "title": "美财政部干预债市失效，黄金为何成终极赢家？",
-        "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-04/doc-iniqrpqy0883967.shtml",
+        "title": "牛股兴业科技因信披问题遭证监会立案，此前宣布跨界“追光”",
+        "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-05/doc-iniqtnhe0723138.shtml",
+        "level": "高",
+        "tag": "政策"
+      },
+      {
+        "title": "2.388亿元！证监会开出天价罚单，301139欺诈发行坐实，濒临退市！",
+        "link": "https://finance.sina.com.cn/stock/companyt/2026-09-05/doc-iniqtnha0586029.shtml",
         "level": "高",
         "tag": "政策"
       }
     ],
     "industry_news": [
       {
-        "title": "算力投资，别只盯着芯片",
-        "link": "https://finance.sina.com.cn/stock/enterprise/2026-09-04/doc-iniqrpqw4132810.shtml",
+        "title": "美国特使表示制裁对象为土耳其单家银行 而非整个国家",
+        "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqtwvy5365994.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "马斯克警告：相当严重的电力危机！",
-        "link": "https://finance.sina.com.cn/wm/2026-09-04/doc-iniqrpra6323684.shtml",
+        "title": "阿布扎比G42考虑引入美国资本控股 保障AI芯片获取",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtwvy5364999.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "“骑兵已至”！德银：黄金现货资金拐点出现，对冲基金、资管与银行接力买入",
-        "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-04/doc-iniqrpqw4108842.shtml",
+        "title": "地平线余凯：希望明年在国内自动驾驶芯片市场超过英伟达，成为第一",
+        "link": "https://finance.sina.com.cn/hy/hyjz/2026-09-05/doc-iniqtwvu3721016.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "刘汉元：新能源产业有望成为驱动经济发展新的强劲引擎",
+        "link": "https://finance.sina.com.cn/hy/hyjz/2026-09-05/doc-iniqtwvw0467679.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "印尼盾有望创下两年来最长周度上涨行情",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrtww0808051.shtml",
+        "title": "美国股市：非农就业数据拖累大盘下挫 加息担忧再次点燃",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfya3862035.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "2700亿船舶巨头暴涨逾6%！军工板块冲击9天8阳，华宝基金军工ETF（512810）标的指数盘中涨近2%！",
-        "link": "https://finance.sina.com.cn/money/fund/etf/2026-09-04/doc-iniqrpqw4136636.shtml",
+        "title": "9月5日美股成交前20：美光计划年内大幅扩产HBM，英伟达拟向多个公司投资",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh0811441.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "划重点！A股交易新规速览，投资者该注意什么？",
+        "link": "https://finance.sina.com.cn/roll/2026-09-05/doc-iniqtspy0485912.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10703.5,
-    "total_pnl": 2141.93,
-    "total_amount_yi": 12341.72,
+    "total_market_value": 10720.8,
+    "total_pnl": 2159.23,
+    "total_amount_yi": 20306.68,
     "bias": "震荡",
-    "volume_note": "量能：两市合计约 12342 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 金融信息服务、燃料电池、多元金融；偏弱 煤炭行业",
+    "volume_note": "量能：两市合计约 20307 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 金融信息服务、风电整机、燃料电池；偏弱 煤炭行业、电子器件",
     "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
     "errors": []
   },
   "learning": {
-    "title": "股息率",
-    "body": "股息率 = 每股分红 ÷ 股价。偏防守时，高于约4%常被看作有一定现金回报缓冲。神华、工行的观察重点之一就是分红是否稳定。",
+    "title": "ETF 适合新手的原因",
+    "body": "ETF（交易型开放式指数基金）一篮子持股，分散单家公司暴雷风险。半导体/新能源这种高波动行业，用 ETF 比赌单票更适合学习仓。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "定额套用",
-    "text": "今儿聊【定额套用】。451跟陕西安装定额放一块，像俩表亲开会：看着都姓定，细问各算各的。你刚把边界理清，人家说“这块能不能合并”——合并的是定额，分裂的是头发。社会经验：重复计取这事，定额怕，审计更怕，最怕的是你自己半夜突然想起来。"
+    "topic": "Android 编译",
+    "text": "今儿聊【Android 编译】。Gradle一转，茶凉了；再转，饭糊了；还转，人傻了。你写驱动模式、均衡器、歌词翻译，它回你一个依赖冲突，态度比产品经理还硬。社会经验：能跑的别乱动，能动的别升级——升级这词在编程圈跟“改造”在装修圈一个味儿。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
