@@ -1,16 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-05T11:55:01.080101+08:00",
+  "generated_at": "2026-09-06T12:00:10.230556+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 17,
   "items": [
     {
       "title": "Anthropic / Claude：预览模型硬件标准",
       "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-05T03:55:16+00:00",
-      "summary": "预览模型硬件标准 我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准（MHS）的研究预览版本。该标准是一个共享规范，旨在使 AI 代理能够安全地操作物理设备。",
+      "published": "2026-09-06T04:00:34+00:00",
+      "summary": "预览模型硬件标准我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准（MHS）的研究预览，这是一个人工智能代理安全操作物理设备的共享规范。",
       "score": 60,
       "original_title": "Anthropic / Claude：Previewing the Model Hardware Standard",
       "translated": true,
@@ -18,12 +18,12 @@
       "uid": "715b5fd546b1"
     },
     {
-      "title": "前线防御者的黎明：10亿美元用于保护基本服务",
+      "title": "前线捍卫者的黎明：10 亿美元保护基本服务",
       "link": "https://openai.com/index/daybreak-for-frontline-defenders",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-09-03T13:15:00+00:00",
-      "summary": "OpenAI 推出 Daybreak，为前线防护者提供服务。10亿美元的承诺扩大了对前沿网络人工智能、培训和关键服务支持的访问。",
+      "summary": "OpenAI 为前线捍卫者推出了 Daybreak。 10 亿美元的承诺将扩大对前沿网络人工智能、培训和基本服务的支持。",
       "score": 60,
       "original_title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "translated": true,
@@ -31,12 +31,12 @@
       "uid": "e575f2e09ae7"
     },
     {
-      "title": "推出WeatherNext 3，我们最先进、最精准的全球天气人工智能模型",
+      "title": "隆重推出 WeatherNext 3，我们最先进、最准确的全球天气人工智能模型",
       "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-09-03T15:02:08+00:00",
-      "summary": "介绍 WeatherNext 3，这是我们最先进、最准确的全球天气人工智能模型。每天，天气都会影响数十亿人的决策。有些决定简单到仅仅是在出门前拿伞，但也有一些影响更为深远。风、雨以及极端天气事件，如热浪和干旱，会对农业、全球供应链、清洁能源生产以及国家安全产生连锁影响……",
+      "summary": "隆重推出 WeatherNext 3，我们最先进、最准确的全球天气人工智能模型 每天，天气都会影响数十亿个决策。 有些就像出门前拿把雨伞一样简单，但另一些则更为重要。 风、雨和极端天气事件，如热浪和干旱，对农业、全球供应链、清洁能源生产和国家产生连锁影响。",
       "score": 45,
       "original_title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "translated": true,
@@ -57,12 +57,12 @@
       "uid": "3f0b639a747d"
     },
     {
-      "title": "Anthropic / Claude：Claude的文本水印是如何工作的",
+      "title": "Anthropic / Claude：克劳德的文本水印是如何工作的",
       "link": "https://www.anthropic.com/news/claude-text-watermark",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-05T03:55:16+00:00",
-      "summary": "Claude 的文本水印是如何工作的 未来的 Claude 模型将生成包含水印的文本。这是一种确定 Claude 是否参与撰写文本的可能性的方法，我们以及其他几家主要的人工智能提供商正在实施这一变化，以遵守欧盟人工智能法案。",
+      "published": "2026-09-06T04:00:34+00:00",
+      "summary": "克劳德的文本水印如何工作未来的克劳德模型将生成包含水印的文本。 这是确定克劳德参与撰写文本的可能性的一种方法，我们与其他几家主要人工智能提供商一起正在实施这一更改，以遵守欧盟人工智能法案。",
       "score": 60,
       "original_title": "Anthropic / Claude：How Claude's text watermarking works",
       "translated": true,
@@ -83,30 +83,30 @@
       "uid": "3680c50686cb"
     },
     {
-      "title": "Stellantis 回应玛莎拉蒂与华为、江淮汽车合作传闻：不予置评",
-      "link": "https://www.ithome.com/0/998/675.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-09-05T02:05:28+00:00",
-      "summary": "IT之家 9 月 5 日消息，意大利媒体 Milano Finanza 昨日报道称，Stellantis 集团正就旗下玛莎拉蒂与华为、江淮汽车开展长期产业合作谈判。9 月 5 日，Stellantis 集团亚太区传播副总裁王超向《每日经济新闻》回应称，集团不对市场传闻或猜测发表评论。王超表示：“作为正常业务运营的一部分，Stellantis 集团持续与全球行业伙伴就不同议题保持沟通与交流，始终致力于为客户提供最佳的出行解决方案。”他同时指出，玛莎拉蒂品牌的未来战略及发展规划将于今年 12 月在意大利摩德纳举办的投资者日活动上正式公布，在此之前不作进一步评论。据 Milano Finanza 此前报道，谈判已进入深度磋商阶段。报道称，三方计划将华为鸿蒙智行平台应用于玛莎拉蒂车型，目标在 2027 年底推出首款联合开发的量产车。",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "03f20a70b350"
-    },
-    {
-      "title": "Playco 用 GPT-6 Astra 将手动修复减少了 50% 的原型游戏",
+      "title": "Playco 使用 GPT-6 Astra 手动修复了 50% 的原型游戏",
       "link": "https://openai.com/index/playco-game-prototyping-with-astra",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-09-03T12:00:00+00:00",
-      "summary": "使用 GPT-6 Astra，Playco 从一个灰箱基础构建了三个主题游戏原型，并报告比以前的模型减少了 50% 的手动修复。",
+      "summary": "Playco 使用 GPT-6 Astra，从一个灰盒基础构建了三个主题游戏原型，并报告说，与之前的模型相比，手动修复减少了 50%。",
       "score": 50,
       "original_title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
       "translated": true,
       "priority": 0,
       "uid": "8fd76c4feb7b"
+    },
+    {
+      "title": "天玑 9600 Pro 最新跑分成绩曝光：单核最高 4137，多核最高 13086",
+      "link": "https://www.ithome.com/0/998/910.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-06T03:34:40+00:00",
+      "summary": "IT之家 9 月 6 日消息，型号为 V2610DA 的 vivo 新机已现身 Geekbench 跑分数据库，博主 @i冰宇宙 透露， 其搭载的是天玑 9600 Pro 芯片 。 从天玑 9600 Pro 最新跑分成绩来看， 这枚芯片单核最高 4137、多核最高 13086 ，相较早期曝光的成绩又有所提升。 据IT之家此前报道，vivo 通信科技有限公司产品经理韩伯啸宣布，X500 Pro 系列手机会全球首发蓝晶 × 天玑 2nm 旗舰芯。而博主 @数码闲聊站 此前爆料， vivo X500 Pro Max 预计将配备联发科天玑 9600 Pro 芯片 。 作为参考，vivo X500 系列手机将于 9 月亮相，全系 3 杯，包括 X500、X500 Pro、X500 Pro Max。",
+      "score": 45,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "ea3a49eedfd7"
     },
     {
       "title": "英伟达以130亿美元收购开源AI平台Hugging Face",
@@ -122,12 +122,12 @@
       "uid": "71dd75ab1be5"
     },
     {
-      "title": "我们在2026年8月公布的最新人工智能新闻",
+      "title": "我们于 2026 年 8 月公布的最新 AI 新闻",
       "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-01T20:45:00+00:00",
-      "summary": "我们在2026年8月公布的最新人工智能新闻：20多年来，我们一直在投资机器学习和人工智能研究、工具和基础设施，以构建能够让更多人日常生活变得更美好的产品。谷歌各团队正在探索在医疗、危机应对和教育等广泛领域释放人工智能的潜力。为了让您了解我们的进展，我们会定期进行汇总...",
+      "summary": "我们于 2026 年 8 月宣布的最新人工智能新闻 20 多年来，我们一直投资于机器学习和人工智能研究、工具和基础设施，以打造让更多人的日常生活变得更美好的产品。 Google 的团队正在研究如何释放人工智能在医疗保健、危机应对和教育等广泛领域的优势。 为了让您随时了解我们的进展，我们正在定期进行综述......",
       "score": 20,
       "original_title": "The latest AI news we announced in August 2026",
       "translated": true,
@@ -135,64 +135,51 @@
       "uid": "e591a399b61d"
     },
     {
-      "title": "微软 8 月 Win11 可选更新改进关机 / 重启体验，不再强制安装更新",
-      "link": "https://www.ithome.com/0/998/697.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-09-05T03:14:30+00:00",
-      "summary": "IT之家 9 月 5 日消息，科技媒体 Windows Latest 昨日（9 月 4 日）发布博文，报道称 8 月 27 日发布的 Windows 11 可选更新 KB5120998 中， 微软改进了关机 / 重启体验，不再强制安装更新。IT之家附上相关视频如下： 该媒体指出微软早在今年 4 月已开始测试该特性， 在 Windows 11 Build 26300.8289 预览版中 ，而在本次可选更新中已邀请更多用户测试，并将会整合到 9 月补丁星期二（9 月 8 日）活动日发布的累积更新中。该媒体指出在此前 Windows 11 使用过程中，在后台或用户手动下载完更新后，用户点击“关机”后可能先触发更新安装。设备随后重启，并在安装过程中再次唤醒。在本次调整后，Windows 11 区分显示常规电源操作与更新操作，用户选择“关机”时，设备直接关闭；",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "fd7a7338678d"
-    },
-    {
-      "title": "美国如何在核能方面落后于中国",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/How-The-US-Fell-Behind-China-On-Nuclear-Power.html",
+      "title": "伊朗战争迫使全球石油贸易路线改写",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Forces-a-Rewrite-of-Global-Oil-Trade-Routes.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-04T22:00:00+00:00",
-      "summary": "美国是世界上最大的核能生产国，单独占全球产量的约三分之一。截至目前，美国在28个州的57个电厂中拥有96座正在运行的商业核反应堆。然而，尽管这支核电机队仍然高度高效，国内核能行业正在迅速老化。全国除两座外的所有核反应堆都是二代型号，这意味着它们是...",
+      "published": "2026-09-05T23:00:00+00:00",
+      "summary": "由于中东战争依然激烈，前景悲观，油价本周将再次上涨。 该地区的石油出口国正急于实现出口渠道多元化，进口商则急于实现供应商多元化。 石油市场正在以一种不可逆转的方式发生变化。 霍尔木兹海峡是最大的原油和液化石油出口路线之一……",
       "score": 15,
-      "original_title": "How The U.S. Fell Behind China On Nuclear Power",
+      "original_title": "Iran War Forces a Rewrite of Global Oil Trade Routes",
       "translated": true,
       "priority": 0,
-      "uid": "60f5c8748941"
+      "uid": "347d0b510a70"
     },
     {
-      "title": "我们会控制人工智能，还是人工智能会控制我们？",
-      "link": "https://oilprice.com/Energy/Energy-General/Artificial-Intelligence-Is-It-Good-Bad-or-a-Game-Changer.html",
+      "title": "日本、韩国和美国建立新的核联盟",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Japan-South-Korea-and-the-US-Forge-a-New-Nuclear-Alliance.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-04T21:00:00+00:00",
-      "summary": "世界正在经历由人工智能（AI）指数级增长驱动的变革——这种变化的速度在人类历史上前所未有。因此，许多人担心大量失业，以及可能影响他们生计和生活质量的其他后果。情况真的是这样吗？是的——或者也许并不完全是。本文短文的目的是探讨潜在的益处…",
+      "published": "2026-09-05T21:00:00+00:00",
+      "summary": "随着日本和韩国将基本负荷清洁能源纳入其能源安全战略，东北亚正在经历核能的快速复兴。 这两个主要经济体不仅在加大核能扩张力度，而且还在改变计划扩张的方式和对象的地缘政治。",
       "score": 15,
-      "original_title": "Will We Control AI—or Will AI Control Us?",
+      "original_title": "Japan, South Korea and the U.S. Forge a New Nuclear Alliance",
       "translated": true,
       "priority": 0,
-      "uid": "0dd28f520fba"
+      "uid": "579a0235f1a2"
     },
     {
-      "title": "乌克兰敦促国会在选举休会前对俄罗斯实施制裁",
-      "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Pushes-Congress-for-Russia-Sanctions-Before-Election-Recess.html",
+      "title": "美国在新一代小型核反应堆上下了重注",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/America-Is-Betting-Big-on-a-New-Generation-of-Small-Nuclear-Reactors.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-04T18:00:00+00:00",
-      "summary": "乌克兰最高制裁官员表示，尽管众议院何时审议该法案存在越来越大的不确定性，因为议员们在十一月选举前面临大幅缩短的立法日程，但他仍然对美国国会出台全面俄罗斯制裁法案的前景持乐观态度。",
+      "published": "2026-09-05T19:00:00+00:00",
+      "summary": "作为核电复兴计划的一部分，世界各国政府都在竞相开发小型模块化反应堆 (SMR)，近年来取得了重大进展。 然而，美国似乎在核微反应堆开发方面处于领先地位，美国最近宣布对这项技术进行了大量投资。",
       "score": 15,
-      "original_title": "Ukraine Pushes Congress for Russia Sanctions Before Election Recess",
+      "original_title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
       "translated": true,
       "priority": 0,
-      "uid": "9f476358162e"
+      "uid": "05dbc3fb5472"
     },
     {
-      "title": "NBA因卡怀·伦纳德工资帽调查暂停快船老板鲍尔默一年",
+      "title": "NBA因科怀·伦纳德工资帽调查而对快船队老板鲍尔默禁赛一年",
       "link": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-09-04T14:38:55+00:00",
-      "summary": "NBA周三暂停了洛杉矶快船队老板史蒂夫·鲍尔默一年的职务，作为对该篮球队及两名高级管理人员因违反联盟关于明星球员科怀·伦纳德及与球队有业务往来的四家公司相关的工资帽规避规则而采取的一系列广泛制裁的一部分。",
+      "summary": "NBA周三对洛杉矶快船队老板史蒂夫·鲍尔默（Steve Ballmer）停职一年，作为对这支篮球队和两名高管的一系列制裁的一部分，因为他们违反了联盟与明星球员科怀·伦纳德（Kawhi Leonard）以及与该队有业务往来的四家公司有关的工资帽规避规则。",
       "score": 15,
       "original_title": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
       "translated": true,
@@ -200,12 +187,12 @@
       "uid": "cc443d6758a8"
     },
     {
-      "title": "根据一份新报告，去年全球亿万富翁的财富达到了15.1万亿美元",
+      "title": "最新报告显示，去年全球亿万富翁的财富达到 15.1 万亿美元",
       "link": "https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-09-04T11:32:55+00:00",
-      "summary": "本文的一个版本最初出现在CNBC的《Inside Wealth》时事通讯中，由Robert Frank主编，这是一本针对高净值投资者和消费者的每周指南。注册即可将未来的版本直接发送到您的收件箱。根据Altrata最近发布的一份报告，由于人工智能热潮加速了全球财富的创造，全球亿万富翁的数量在2025年达到创纪录的3,795人。",
+      "summary": "本文的一个版本首次出现在 CNBC 与 Robert Frank 合作的 Inside Wealth 时事通讯中，这是一份针对高净值投资者和消费者的每周指南。 注册接收未来版本，直接发送到您的收件箱。 Altrata 最近发布的一份报告显示，随着人工智能热潮推动全球财富创造，到 2025 年，全球亿万富翁人数将达到创纪录的 3,795 人。",
       "score": 15,
       "original_title": "The wealth of the world's billionaires reached $15.1 trillion last year, per a new report",
       "translated": true,
@@ -213,12 +200,12 @@
       "uid": "144aac6f8399"
     },
     {
-      "title": "面向政府和企业的主动网络防御",
+      "title": "政府和企业的主动网络防御",
       "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-02T15:40:00+00:00",
-      "summary": "面向政府和企业的主动网络防御。希望使用先进人工智能的防御者面临着一个艰难的抉择：采用可能成本高昂、在企业代码库中难以控制的庞大前沿模型，或者转向可能在复杂漏洞修复方面表现不佳、并且需要团队从零构建工具和基础设施的较小开放权重模型……",
+      "summary": "政府和企业的主动网络防御想要使用先进人工智能的防御者面临着一个两难的困境：采用庞大的前沿模型，这些模型部署成本高昂且难以跨企业代码库控制，或者转向较小的开放权重模型，这些模型可能难以修复复杂的漏洞，并需要团队从头开始构建自己的工具和基础设施......",
       "score": 15,
       "original_title": "Proactive cyber defense for governments and enterprises",
       "translated": true,
@@ -226,12 +213,12 @@
       "uid": "8e2390057e15"
     },
     {
-      "title": "试试谷歌图片：在 Google Workspace 中轻松创建和编辑图片",
+      "title": "尝试 Google 图片：在 Google Workspace 中轻松创建和编辑图片",
       "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-01T16:00:00+00:00",
-      "summary": "试试 Google 图片：在 Google Workspace 中轻松创建和编辑图片。Google 图片——我们的 Google Workspace 图像创建和编辑工具——将在未来几周向所有 Google AI Pro 和 Ultra 订阅用户以及大多数 Workspace 商业客户推出。",
+      "summary": "尝试 Google Pics：在 Google Workspace 中轻松创建和编辑图像 Google Pics（我们来自 Google Workspace 的图像创建和编辑工具）将在未来几周内向所有 Google AI Pro 和 Ultra 订阅者以及大多数 Workspace 企业客户推出。",
       "score": 10,
       "original_title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "translated": true,
@@ -415,62 +402,25 @@
         "source": "新浪行业"
       }
     ],
-    "policy_news": [
-      {
-        "title": "牛股兴业科技因信披问题遭证监会立案，此前宣布跨界“追光”",
-        "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-05/doc-iniqtnhe0723138.shtml",
-        "level": "高",
-        "tag": "政策"
-      },
-      {
-        "title": "2.388亿元！证监会开出天价罚单，301139欺诈发行坐实，濒临退市！",
-        "link": "https://finance.sina.com.cn/stock/companyt/2026-09-05/doc-iniqtnha0586029.shtml",
-        "level": "高",
-        "tag": "政策"
-      }
-    ],
+    "policy_news": [],
     "industry_news": [
       {
-        "title": "美国特使表示制裁对象为土耳其单家银行 而非整个国家",
-        "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqtwvy5365994.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "阿布扎比G42考虑引入美国资本控股 保障AI芯片获取",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtwvy5364999.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "地平线余凯：希望明年在国内自动驾驶芯片市场超过英伟达，成为第一",
-        "link": "https://finance.sina.com.cn/hy/hyjz/2026-09-05/doc-iniqtwvu3721016.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "刘汉元：新能源产业有望成为驱动经济发展新的强劲引擎",
-        "link": "https://finance.sina.com.cn/hy/hyjz/2026-09-05/doc-iniqtwvw0467679.shtml",
+        "title": "韩国银行的企业美元存款本月创历史新高",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqvvnz9699958.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "美国股市：非农就业数据拖累大盘下挫 加息担忧再次点燃",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfya3862035.shtml",
+        "title": "视频|8589万元误写为8589亿元 京蓝科技更正重大诉讼公告笔误",
+        "link": "https://finance.sina.com.cn/stock/roll/2026-09-06/doc-iniqvzux9600350.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "9月5日美股成交前20：美光计划年内大幅扩产HBM，英伟达拟向多个公司投资",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh0811441.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "划重点！A股交易新规速览，投资者该注意什么？",
-        "link": "https://finance.sina.com.cn/roll/2026-09-05/doc-iniqtspy0485912.shtml",
+        "title": "百亿私募二季度调仓：有色等板块获增配，AI布局转向精选",
+        "link": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvzvc0200258.shtml",
         "level": "中",
         "tag": "股市"
       }
@@ -481,18 +431,18 @@
     "bias": "震荡",
     "volume_note": "量能：两市合计约 20307 亿元（接口口径），成交偏活跃",
     "sector_note": "行业分化：偏强 金融信息服务、风电整机、燃料电池；偏弱 煤炭行业、电子器件",
-    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
+    "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
   "learning": {
-    "title": "ETF 适合新手的原因",
-    "body": "ETF（交易型开放式指数基金）一篮子持股，分散单家公司暴雷风险。半导体/新能源这种高波动行业，用 ETF 比赌单票更适合学习仓。",
+    "title": "T+1 是什么",
+    "body": "A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "Android 编译",
-    "text": "今儿聊【Android 编译】。Gradle一转，茶凉了；再转，饭糊了；还转，人傻了。你写驱动模式、均衡器、歌词翻译，它回你一个依赖冲突，态度比产品经理还硬。社会经验：能跑的别乱动，能动的别升级——升级这词在编程圈跟“改造”在装修圈一个味儿。"
+    "topic": "血压小计",
+    "text": "今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
