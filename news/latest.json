@@ -1,16 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-09T12:08:42.614718+08:00",
+  "generated_at": "2026-09-10T12:06:18.388186+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 20,
+  "count": 18,
   "items": [
     {
       "title": "Anthropic / Claude：预览模型硬件标准",
       "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-09T04:09:00+00:00",
-      "summary": "预览模型硬件标准 我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准（MHS）的研究预览版本。该标准是一个共享规范，旨在使 AI 代理能够安全地操作物理设备。",
+      "published": "2026-09-10T04:06:34+00:00",
+      "summary": "预览模型硬件标准 我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准（MHS）的研究预览版本。该标准是一个共享规范，旨在使人工智能代理能够安全地操作物理设备。",
       "score": 60,
       "original_title": "Anthropic / Claude：Previewing the Model Hardware Standard",
       "translated": true,
@@ -18,17 +18,17 @@
       "uid": "715b5fd546b1"
     },
     {
-      "title": "现在触手可及的工作",
-      "link": "https://openai.com/index/the-work-now-within-reach",
+      "title": "保罗·克里斯蒂亚诺加入OpenAI基金会董事会",
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-09-08T13:00:00+00:00",
-      "summary": "探索更有能力、更经济的人工智能如何扩展人们和企业能够完成的工作，并使增长更加经济。",
-      "score": 55,
-      "original_title": "The Work Now Within Reach",
+      "published": "2026-09-09T17:00:00+00:00",
+      "summary": "Paul Christiano 加入了 OpenAI 基金会董事会及其安全与保障委员会，带来了在 AI 对齐、安全性和标准方面的经验。",
+      "score": 60,
+      "original_title": "Paul Christiano joins OpenAI Foundation Board",
       "translated": true,
       "priority": 0,
-      "uid": "6adf535a2ee7"
+      "uid": "7cb008debf9a"
     },
     {
       "title": "推出WeatherNext 3，我们最先进、最精准的全球天气人工智能模型",
@@ -57,11 +57,11 @@
       "uid": "fe9a35a988a3"
     },
     {
-      "title": "Anthropic / Claude：Claude 的文本水印是如何工作的",
+      "title": "Anthropic / Claude：Claude的文本水印是如何工作的",
       "link": "https://www.anthropic.com/news/claude-text-watermark",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-09T04:09:00+00:00",
+      "published": "2026-09-10T04:06:34+00:00",
       "summary": "Claude 的文本水印是如何工作的 未来的 Claude 模型将生成包含水印的文本。这是一种确定 Claude 是否参与撰写文本的可能性的方法，我们以及其他几家主要的人工智能提供商正在实施这一变化，以遵守欧盟人工智能法案。",
       "score": 60,
       "original_title": "Anthropic / Claude：How Claude's text watermarking works",
@@ -70,43 +70,17 @@
       "uid": "36326c80d59a"
     },
     {
-      "title": "进一步规范儿童座椅电子功能：我国首个电子功能儿童座椅国标 10 月实施，涵盖防夹、儿童遗留警示等功能",
-      "link": "https://www.ithome.com/1/000/087.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-09-09T03:19:03+00:00",
-      "summary": "IT之家 9 月 9 日消息，《机动车儿童乘员用约束系统电子功能技术规范》将于 10 月 1 日起正式实施。这是首个针对具有电子功能的儿童座椅制定的国家标准，适用于各类具备电子功能的儿童约束系统。标准按通信功能划分为 I 类、II 类，按供电方式划分为电池供电类、外部供电类、混合供电类。IT之家查询获悉，该标准编号为 GB/T 47246—2026， 由全国汽车标准化技术委员会归口，主管部门为工业和信息化部 。核心基础功能方面，标准明确了低电量提醒、防夹、儿童约束状态检测、安装提醒、发声装置声响等关键功能的技术指标及测试方法。在通信与数据传输层面，对通信功能、数据传输、儿童遗留警示等作出了严格规定。安全防护方面，标准细化了电池防错装、电子部件破损防伤害等结构安全要求；电气安全涵盖供电规范、短路保护、热源装置管控、电池防护等全项指标；",
-      "score": 55,
-      "original_title": "",
-      "translated": false,
-      "priority": 35,
-      "uid": "3657d10bc1b1"
-    },
-    {
-      "title": "推出 ChatGPT 图像 2.5",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "title": "GPT-6 Astra：工作智能的下一代",
+      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-09-08T11:30:00+00:00",
-      "summary": "ChatGPT 图像 2.5 帮助将您的创意、草图和参考照片转化为更个性化、更精致的图像，更好地反映您的想法。",
-      "score": 55,
-      "original_title": "Introducing ChatGPT Images 2.5",
+      "published": "2026-09-09T11:00:00+00:00",
+      "summary": "认识 GPT-6 Astra，OpenAI 最强大的商业模型，具备高级推理、计算机使用能力，以及更强的写作和设计判断力。",
+      "score": 60,
+      "original_title": "GPT-6 Astra: The next generation in intelligence for work",
       "translated": true,
       "priority": 0,
-      "uid": "0a7182d36e37"
-    },
-    {
-      "title": "泰国暂停所有数据中心项目建设",
-      "link": "https://www.solidot.org/story?sid=85312",
-      "source": "Solidot·通信",
-      "category": "通信与安防",
-      "published": "2026-09-07T14:17:15+00:00",
-      "summary": "solidot新版网站常见问题，请点击这里查看。 消息 本文已被查看 3625 次 泰国暂停所有数据中心项目建设 泰国经济和社会发展委员会上周下令暂停所有数据中心项目的建设，给予数据中心运营商和投资者一周时间提交运营信息，以帮助政府加快制定统一的数据中心监管框架。经济和社会发展委员会考虑将所有用电量超过 2 MW 的数据中心视为工业企业，考虑引入“资源利用费”，以避免数据中心建设产生的间接成本增加公众负担，并建立一套针对未来数据中心建设的评估流程，以确保新建数据中心为泰国创造最大效益。 https://www.nationthailand.com/business/tech/40070670 https://www.nationthailand.com/business/tech/40070670",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 35,
-      "uid": "1cd3796836c0"
+      "uid": "e91f5392a863"
     },
     {
       "title": "Asahi Linux宣布支持M3系列Mac",
@@ -122,82 +96,82 @@
       "uid": "fa0ddc8276de"
     },
     {
-      "title": "瑞银要求初级银行家具备AI技能",
-      "link": "https://www.ftchinese.com/story/001110809",
-      "source": "FT 中文网",
-      "category": "持仓相关",
-      "published": "2026-09-06T16:00:00+00:00",
-      "summary": "该行要求有意在2027年加入其全球银行和市场部门的毕业生及实习生展示自己如何利用AI来“提升工作成果和效率”。",
-      "score": 45,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "7e51bc98b26b"
-    },
-    {
-      "title": "中国向银行与保险公司注资3600亿元",
-      "link": "https://www.ftchinese.com/story/001110816",
-      "source": "FT 中文网",
-      "category": "持仓相关",
-      "published": "2026-09-06T16:00:00+00:00",
-      "summary": "今年的注资计划原本预计只覆盖去年未获注资的两家国有大行，但目前范围已经扩大至保险公司及其他国有控股金融机构。",
+      "title": "美国政府指控中国公司系统性蒸馏美国 AI 模型",
+      "link": "https://www.solidot.org/story?sid=85329",
+      "source": "Solidot·通信",
+      "category": "通信与安防",
+      "published": "2026-09-09T08:55:23+00:00",
+      "summary": "美国国家安全局、联邦调查局及网络安全和基础设施安全局周二发表联合声明，称深度求索（DeepSeek）、月之暗面等六家中国 AI 企业至少从 2024 年起利用“蒸馏”技术，以“工业化规模”访问美国 AI 模型并提取信息。六家企业包括 DeepSeek、Kimi 开发商月之暗面、阿里巴巴、MiniMax、阶跃星辰和智谱，涉及的美国模型来自 Anthropic、OpenAI、Alphabet 旗下 Google 和 SpaceX。蒸馏是利用较大模型生成的内容训练其他模型的技术，可用于降低训练和运行成本。这项技术本身有正当用途，美方此次指控的重点是，中国企业未经授权使用美国模型，并刻意绕过相关使用限制。声明称，这些企业正在开展“激进、恶意且有针对性的蒸馏活动”。美方建议开发商针对疑似恶意蒸馏请求调整模型回复，并相互分享相关情报。",
       "score": 40,
       "original_title": "",
       "translated": false,
-      "priority": 25,
-      "uid": "96d7e54c2996"
+      "priority": 0,
+      "uid": "5f9852e64080"
     },
     {
-      "title": "我们在2026年8月宣布的最新人工智能新闻",
-      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "title": "蚂蚁国际联合 Visa、万事达卡合作开发 AI 支付新标准",
+      "link": "https://www.ithome.com/1/000/625.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-10T03:17:15+00:00",
+      "summary": "IT之家 9 月 10 日消息，蚂蚁国际预计消费者和企业将越来越多地使用 AI 智能体完成交易，于是今日宣布与 Visa 和 Mastercard 万事达卡达成合作，共同制定 AI 支付的新标准。据 CNBC 报道，三方在声明中援引麦肯锡的预测称，到 2030 年，AI 智能体预计将处理全球 3 万亿至 5 万亿美元的消费者商业交易。蚂蚁国际首席创新官杨江明表示，AI 智能体存在“幻觉”的可能性，这意味着“我们需要确保人们感到安全”。他称：“信任是 AI 转型的基础。” 此次合作的核心是一个名为“Know-Your-Agent”（KYA）的互操作性框架。据 BusinessWire 发布的官方新闻稿，该框架旨在帮助卡组织、数字钱包生态系统、智能体平台和市场在保持各自验证和决策流程的前提下，基于共同原则简化 AI 智能体的入驻和识别。",
+      "score": 25,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "37a83bb7c9f1"
+    },
+    {
+      "title": "油价突破100美元——这轮上涨仍有持续动力",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Breaks-100and-This-Rally-Has-Legs.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-10T00:00:00+00:00",
+      "summary": "几个月来，原油价格一直受到霍尔木兹海峡油轮交通改善报道的抑制。即使在伊朗与美国在六月的停火协议破裂后，进出霍尔木兹的油轮航行速度也高于春季水平。但随着这一关键点的最新冲突升级，这一情况已经改变，周三早盘布伦特原油价格突破每桶100美元。",
+      "score": 15,
+      "original_title": "Oil Breaks $100—and This Rally Has Legs",
+      "translated": true,
+      "priority": 0,
+      "uid": "c0aeb1950e08"
+    },
+    {
+      "title": "美国原油库存略微下降，油价突破100美元",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Stocks-Edge-Lower-as-Oil-Tops-100.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-09T21:02:17+00:00",
+      "summary": "加利福尼亚州的广泛热浪……霍尔木兹的石油流量……美国石油协会（API）估计，截至9月4日的一周，美国原油库存减少了30万桶。在前一周，美国原油库存减少了260万桶。在过去的21周里，不包括战略石油储备（SPR）的商业原油库存减少了略超过4800万桶，美国原油……",
+      "score": 15,
+      "original_title": "U.S. Crude Stocks Edge Lower as Oil Tops $100",
+      "translated": true,
+      "priority": 0,
+      "uid": "94138044da69"
+    },
+    {
+      "title": "欧洲各地的电力负价格正在累积",
+      "link": "https://oilprice.com/Energy/Energy-General/Negative-Power-Prices-Are-Piling-Up-Across-Europe.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-09T21:00:00+00:00",
+      "summary": "如果想避免再次发生能源危机，欧洲迫切需要提高其能源储存能力。在弗拉基米尔·普京于2022年入侵乌克兰之后，欧洲联盟在建设自身能源生产能力方面取得了重大进展，以努力摆脱对俄罗斯石油和天然气的依赖。",
+      "score": 15,
+      "original_title": "Negative Power Prices Are Piling Up Across Europe",
+      "translated": true,
+      "priority": 0,
+      "uid": "f2e5b5d41710"
+    },
+    {
+      "title": "通过搜索中的新足球功能为比赛做好准备",
+      "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
       "source": "Google AI Blog",
       "category": "AI与科技",
-      "published": "2026-09-01T20:45:00+00:00",
-      "summary": "我们在2026年8月公布的最新人工智能新闻：20多年来，我们一直在投资机器学习和人工智能研究、工具和基础设施，以构建能够让更多人日常生活变得更美好的产品。谷歌各团队正在探索在医疗、危机应对和教育等广泛领域释放人工智能的潜力。为了让您了解我们的进展，我们会定期进行汇总...",
-      "score": 20,
-      "original_title": "The latest AI news we announced in August 2026",
-      "translated": true,
-      "priority": 0,
-      "uid": "e591a399b61d"
-    },
-    {
-      "title": "随着霍尔木兹对峙持续，伊朗的石油出口崩溃",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Irans-Oil-Exports-Collapse-as-Hormuz-Standoff-Drags-On.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-09T00:00:00+00:00",
-      "summary": "在美伊战争开始六个多月后，霍尔木兹海峡的航运交通仍然受到干扰，油价再次接近每桶100美元大关。冲突进入第七个月之初，美伊双方仍然陷入僵局。",
+      "published": "2026-09-09T16:00:00+00:00",
+      "summary": "在充满活力的绿色背景上展示的插图图形，包含美式足球元素，包括一个金色奖杯、一个蓝色头盔、一只银色哨子、一个足球、一个迷你记分板和战术图，同时还有谷歌搜索中 AI 模式的图标",
       "score": 15,
-      "original_title": "Iran’s Oil Exports Collapse as Hormuz Standoff Drags On",
+      "original_title": "Get ready for the game with new football features in Search",
       "translated": true,
       "priority": 0,
-      "uid": "8284c9175675"
-    },
-    {
-      "title": "随着美国供应紧缩加剧，对冲基金涌入燃料市场",
-      "link": "https://oilprice.com/Energy/Energy-General/Hedge-Funds-Pile-Into-Fuels-as-US-Supply-Squeeze-Deepens.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-08T23:00:00+00:00",
-      "summary": "在美国、以色列与伊朗之间战争的前四个月里，石油交易商总体上保持悲观。普遍的预期是战争很快会结束——即使到了七月——霍尔木兹的石油流量也会恢复。相反，世界正陷入燃料短缺，交易商变得看涨。他们似乎对美国的燃料尤其看涨。",
-      "score": 15,
-      "original_title": "Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens",
-      "translated": true,
-      "priority": 0,
-      "uid": "f75cc1f8e754"
-    },
-    {
-      "title": "为什么美国正竞相锁定伊拉克最具地缘政治爆炸性的天然气资源",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Why-The-US-Is-Racing-To-Lock-Down-Iraqs-Most-Explosive-Geopolitical-Gas-Prize.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-08T22:00:00+00:00",
-      "summary": "伊拉克东部与伊朗接壤，北部与土耳其接壤，西部与叙利亚和约旦接壤，南部与沙特阿拉伯接壤，可以说是整个中东地区对美国、中国和俄罗斯最具地缘政治重要性的国家。反过来，无政府状态的西部沙漠省安巴尔或许是伊拉克地缘政治上最关键的区域，也是战略上最重要的地区。",
-      "score": 15,
-      "original_title": "Why The U.S. Is Racing To Lock Down Iraq’s Most Explosive Geopolitical Gas Prize",
-      "translated": true,
-      "priority": 0,
-      "uid": "aaac331d9d03"
+      "uid": "3b59e60a57b3"
     },
     {
       "title": "一位对冲基金经理如何将他的公司建成完全由人工智能代理驱动",
@@ -226,12 +200,12 @@
       "uid": "03b992c29a4b"
     },
     {
-      "title": "美国正在努力减少对中国电池的依赖。这就是它面临的挑战",
+      "title": "美国正在努力减少对中国电池的依赖。这是它面临的挑战",
       "link": "https://www.cnbc.com/2026/09/08/heres-where-the-us-is-behind-china-on-battery-technology.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-09-08T11:00:01+00:00",
-      "summary": "特朗普政府一直在试图建立美国电池供应链，并减少对中国的依赖。但分析师和与CNBC交谈的高管表示，与大幅削弱中国对该行业控制所需的资金相比，其为这一努力预留的资金很少。能源部在今年八月向与电池制造相关的七家公司拨款5亿美元……",
+      "summary": "特朗普政府一直在努力建立美国电池供应链，并减少对中国的依赖。但分析人士和接受CNBC采访的高管表示，与大幅减轻中国对该行业控制所需的资金相比，政府为这一努力预留的资金很少。今年八月，能源部向七家与电池制造相关的公司拨款5亿美元。",
       "score": 15,
       "original_title": "The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against",
       "translated": true,
@@ -252,48 +226,48 @@
       "uid": "8e2390057e15"
     },
     {
-      "title": "试试谷歌图片：在 Google Workspace 中轻松创建和编辑图片",
-      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "title": "逐帧重现七十年的爱情故事",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
       "source": "Google AI Blog",
       "category": "AI与科技",
-      "published": "2026-09-01T16:00:00+00:00",
-      "summary": "试试 Google 图片：在 Google Workspace 中轻松创建和编辑图片 Google 图片——我们来自 Google Workspace 的图片创建和编辑工具——将在未来几周向所有 Google AI Pro 和 Ultra 订阅用户以及大多数 Workspace 商业客户推出。",
+      "published": "2026-09-09T16:00:00+00:00",
+      "summary": "逐帧重现一段70年的爱情故事。《被呈现的爱》是一部新的纪录短片，探索记忆丧失与讲故事的力量——并展示了科技如何帮助重新唤起那些开始消逝的记忆。影片跟随结婚超过70年的伯特·沙茨（Burt Shatz）和埃塞尔·沙茨（Ethelle Shatz）这对夫妻，记录他们应对伯特认知能力下降的过程。在他逐渐消退的记忆中，有一段最珍贵的回忆：他们的那一天……",
       "score": 10,
-      "original_title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "original_title": "Recreating a 70-year love story frame by frame",
       "translated": true,
       "priority": 0,
-      "uid": "1b86f5049c3a"
+      "uid": "39814010e74c"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3949.8892,
-        "change": 9.3383,
-        "pct": 0.24,
-        "amount_yi": 5737.37
+        "price": 3937.7793,
+        "change": -13.7275,
+        "pct": -0.35,
+        "amount_yi": 5180.05
       },
       {
         "name": "深证成指",
-        "price": 13694.33,
-        "change": -8.877,
-        "pct": -0.06,
-        "amount_yi": 6347.94
+        "price": 13647.49,
+        "change": -75.834,
+        "pct": -0.55,
+        "amount_yi": 5735.52
       },
       {
         "name": "创业板指",
-        "price": 3348.29,
-        "change": -11.43,
-        "pct": -0.34,
-        "amount_yi": 1108.42
+        "price": 3350.08,
+        "change": -4.894,
+        "pct": -0.15,
+        "amount_yi": 1005.56
       },
       {
         "name": "沪深300",
-        "price": 4564.4233,
-        "change": 5.6862,
-        "pct": 0.12,
-        "amount_yi": 2723.52
+        "price": 4553.5229,
+        "change": -19.0766,
+        "pct": -0.42,
+        "amount_yi": 2545.76
       }
     ],
     "holdings": [
@@ -302,11 +276,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 47.04,
-        "market_value": 4704.0,
-        "pnl": 1531.36,
-        "pnl_pct": 48.27,
-        "weight_hint": "44.5%",
+        "price": 47.22,
+        "market_value": 4722.0,
+        "pnl": 1549.36,
+        "pnl_pct": 48.84,
+        "weight_hint": "44.4%",
         "note": "",
         "available": true
       },
@@ -315,10 +289,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 27.95,
-        "market_value": 2795.0,
-        "pnl": 98.59,
-        "pnl_pct": 3.66,
+        "price": 28.08,
+        "market_value": 2808.0,
+        "pnl": 111.59,
+        "pnl_pct": 4.14,
         "weight_hint": "26.4%",
         "note": "",
         "available": true
@@ -328,10 +302,10 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.0,
-        "market_value": 2400.0,
-        "pnl": 522.48,
-        "pnl_pct": 27.83,
+        "price": 8.06,
+        "market_value": 2418.0,
+        "pnl": 540.48,
+        "pnl_pct": 28.79,
         "weight_hint": "22.7%",
         "note": "",
         "available": true
@@ -341,10 +315,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.101,
-        "market_value": 220.2,
-        "pnl": -97.8,
-        "pnl_pct": -30.75,
+        "price": 1.097,
+        "market_value": 219.4,
+        "pnl": -98.6,
+        "pnl_pct": -31.01,
         "weight_hint": "2.1%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -354,11 +328,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.629,
-        "market_value": 462.9,
-        "pnl": -34.1,
-        "pnl_pct": -6.86,
-        "weight_hint": "4.4%",
+        "price": 4.623,
+        "market_value": 462.3,
+        "pnl": -34.7,
+        "pnl_pct": -6.98,
+        "weight_hint": "4.3%",
         "note": "",
         "available": true
       },
@@ -378,135 +352,104 @@
     ],
     "sectors": [
       {
-        "name": "煤炭 · 煤炭开采",
-        "pct": 3.35,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 4.37,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭",
-        "pct": 3.31,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 4.95,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 综合电力设备商",
-        "pct": 1.9,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": 1.77,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 综合电力设备商",
-        "pct": 1.9,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 1.77,
-        "source": "东财行业"
-      },
-      {
         "name": "电力/公用 · 电力行业",
-        "pct": 0.9904297757777,
+        "pct": 1.5414369983561,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "金融/银行 · 国有大型银行Ⅲ",
-        "pct": 0.59,
+        "name": "金融/银行 · 金融控股",
+        "pct": 1.48,
         "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 0.69,
+        "main_flow_yi": 1.01,
         "source": "东财行业"
       },
       {
-        "name": "半导体/电子 · 半导体材料",
-        "pct": 0.43,
+        "name": "新能源/光伏 · 光伏发电",
+        "pct": 1.26,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 1.83,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 银行",
+        "pct": 1.21,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": 1.84,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 风电整机",
+        "pct": 1.12,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.52,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 公用事业",
+        "pct": 0.81,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": 12.06,
+        "source": "东财行业"
+      },
+      {
+        "name": "半导体/电子 · 半导体设备",
+        "pct": 0.67,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": -4.71,
+        "main_flow_yi": 0.85,
         "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 金融行业",
-        "pct": -0.052157420578473,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": null,
-        "source": "新浪行业"
       },
       {
         "name": "半导体/电子 · 电子信息",
-        "pct": -0.13057682703513,
+        "pct": -0.28547784358833,
         "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": -0.60634059017151,
+        "pct": -1.1878986482533,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "煤炭 · 煤炭行业",
+        "pct": -1.2995926319518,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
     "policy_news": [],
-    "industry_news": [
-      {
-        "title": "越南石油与韩国电力加快核电合作磋商",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirexha3943469.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "爱芯元智午前涨逾10% 公司正式进入港股通日前发布M9系列高阶智驾芯片",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-09/doc-inirexfy5760547.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "泰国将允许小型电力生产商竞标发电牌照",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirexha3936968.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "云英谷科技午前涨超7% 已实现高端AMOLED显示驱动芯片规模化出货",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-09/doc-inirexha3932041.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "大众金融控股复牌飙涨超41% 获大股东大众银行溢价约61.29%提私有化",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-09/doc-inirexfw8967070.shtml",
-        "level": "中",
-        "tag": "行业"
-      }
-    ],
+    "industry_news": [],
     "market_news": [
       {
-        "title": "港股午评：恒指微跌 科指跌0.58% 光通信板块逆势上涨 优地机器人首日涨近160%",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-09/doc-inirexha8773881.shtml",
+        "title": "8月资金疯狂涌入黄金ETF，凸显黄金对冲全球主权债务风险的价值",
+        "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-10/doc-inirihny7811668.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10582.1,
-    "total_pnl": 2020.53,
-    "total_amount_yi": 12085.31,
+    "total_market_value": 10629.7,
+    "total_pnl": 2068.13,
+    "total_amount_yi": 10915.57,
     "bias": "震荡",
-    "volume_note": "量能：两市合计约 12085 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 煤炭开采、煤炭、综合电力设备商；偏弱 金融行业、电子信息、石油行业",
+    "volume_note": "量能：两市合计约 10916 亿元（接口口径），成交中等",
+    "sector_note": "行业分化：偏强 电力行业、金融控股、光伏发电；偏弱 电子信息、石油行业、煤炭行业",
     "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
     "errors": []
   },
   "learning": {
-    "title": "净息差（银行）",
-    "body": "净息差 = 贷款利率与存款利率的差距，是银行赚钱能力的核心之一。工行观察点：净息差是否继续收窄，以及不良贷款率。",
+    "title": "护城河（初识）",
+    "body": "护城河指公司难以被抢走的优势。长电的水电资产、神华的煤电一体，都是“不好复制”的例子——但护城河也会随产业政策变化。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "AI 工具",
-    "text": "今儿聊【AI 工具】。大模型像特别能干的实习生：秒出三千字，里头三分真七分顺嘴。你让它写可研，它写得比你快；你让它对定额，它比你敢。社会经验：AI能提效，不能替你背锅——锅永远有编制，编制在你工号上。"
+    "topic": "绿茶黑咖啡",
+    "text": "今儿聊【绿茶黑咖啡】。上午绿茶续命，下午咖啡续命，晚上想着早睡，躺下开始续念头。念头一续就到两点，两点一过，第二天的方案开始穿睡衣上班。社会经验：提神饮品解决不了睡眠债，只能把欠条写得更工整。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
