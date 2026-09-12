@@ -1,15 +1,28 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-11T12:04:10.749043+08:00",
+  "generated_at": "2026-09-12T12:04:54.194644+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 17,
   "items": [
+    {
+      "title": "快速扩展在线存储以服务超过10亿名ChatGPT用户",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-09-11T10:00:00+00:00",
+      "summary": "了解 OpenAI 如何将 Habitat 从一个 Python 库发展成一个全球分布式存储平台，为 10 亿 ChatGPT 用户和每秒 2200 万次请求提供服务。",
+      "score": 65,
+      "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "translated": true,
+      "priority": 0,
+      "uid": "73abed25292d"
+    },
     {
       "title": "Anthropic / Claude：改进我们的对齐和安全实践",
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-11T04:04:28+00:00",
+      "published": "2026-09-12T04:05:18+00:00",
       "summary": "改进我们的对齐和安全工作 7月30日，我们报告了三起事件，其中Claude模型未经授权访问了真实计算机系统。这些模型——出于评估目的故意在没有网络安全防护的情况下运行——由于第三方评估环境中的配置错误而访问了互联网。",
       "score": 60,
       "original_title": "Anthropic / Claude：Improving our alignment and security practices",
@@ -18,25 +31,12 @@
       "uid": "5d9339d17aad"
     },
     {
-      "title": "现在每个人都可以利用数据了",
-      "link": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-09-10T15:00:00+00:00",
-      "summary": "在 ChatGPT Work 中见到数据代理。连接公司数据，发现洞察，并使用自然语言与 AI 构建交互式仪表板。",
-      "score": 60,
-      "original_title": "Now everyone can put data to work",
-      "translated": true,
-      "priority": 0,
-      "uid": "631ad0996fb8"
-    },
-    {
       "title": "推出WeatherNext 3，我们最先进、最精准的全球天气人工智能模型",
       "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-09-03T15:02:08+00:00",
-      "summary": "介绍 WeatherNext 3，这是我们最先进、最准确的全球天气人工智能模型。每天，天气都会影响数十亿的决策。有些决定简单到仅仅是在出门前拿伞，但也有一些影响更为深远。风、雨以及极端天气事件，如热浪和干旱，会对农业、全球供应链、清洁能源生产以及国家安全产生连锁影响……",
+      "summary": "介绍 WeatherNext 3，这是我们最先进、最准确的全球天气人工智能模型。每天，天气都会影响数十亿人的决策。有些决定简单到只是出门前拿把伞，但有些则影响重大。风、雨以及极端天气事件，如热浪和干旱，会在农业、全球供应链、清洁能源生产和国家等各个领域产生连锁影响…",
       "score": 45,
       "original_title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
       "translated": true,
@@ -44,12 +44,25 @@
       "uid": "797f18579943"
     },
     {
+      "title": "19999 元起华为 Mate XT 2 非凡大师三折叠手机首销：首发麒麟 9050 Pro 芯片、首搭硬件级防窥",
+      "link": "https://www.ithome.com/1/001/511.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-12T01:12:41+00:00",
+      "summary": "IT之家 9 月 12 日消息，华为 Mate XT 2 非凡大师全新展翼三折叠手机将于今天 10:08 开启首销，售价 19999 元起，IT之家整理价格如下： 16GB + 256GB：19999 元 16GB + 512GB：21999 元 16GB + 1TB：23999 元 16GB + 1TB 灵盾防窥屏版：24999 元 16GB + 2TB 手写笔套装版：29999 元（该版本 9 月 23 日开售） 华为 Mate XT 2 非凡大师手写笔套装单买售价 1199 元，购机赠送价值 499 元的旋转支架保护壳。京东 HUAWEI Mate XT 2 非凡大师 19999 元起 直达链接 华为还推出了斯莫格手机影像套件，售价 1499 元，包含增距镜，可实现 13.5 倍光学变焦。华为 Mate XT 2 非凡大师采用全新的 G 型折叠设计，折叠厚度仅为 12.",
+      "score": 75,
+      "original_title": "",
+      "translated": false,
+      "priority": 40,
+      "uid": "1ad3fa19bfb1"
+    },
+    {
       "title": "油价涨至每桶105美元 重燃债券抛售",
       "link": "https://www.ftchinese.com/story/001110857",
       "source": "FT 中文网",
       "category": "A股与宏观",
       "published": "2026-09-10T16:00:00+00:00",
-      "summary": "统一认知，降低决策偏差 在跨部门、跨地区协作中，信息不一致往往是决策失误的重要来源。 FT中文网强调事实、数据与多角度分析，为组织提供共同的信息基础。 在复杂环境中，可靠的信息体系是长期竞争力的一部分。",
+      "summary": "油价的最新涨势为债券抛售潮增添了新的动力，因为投资者押注能源涨价将引发全球通胀飙升。欧洲央行已在周四决定加息以遏制通胀。",
       "score": 70,
       "original_title": "",
       "translated": false,
@@ -61,7 +74,7 @@
       "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-11T04:04:28+00:00",
+      "published": "2026-09-12T04:05:18+00:00",
       "summary": "预览模型硬件标准 我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准（MHS）的研究预览版本。该标准是一个共享规范，旨在使 AI 代理能够安全地操作物理设备。",
       "score": 60,
       "original_title": "Anthropic / Claude：Previewing the Model Hardware Standard",
@@ -70,51 +83,38 @@
       "uid": "715b5fd546b1"
     },
     {
-      "title": "扩大人工智能访问和网络防御以服务联邦、州、地方和部落政府",
-      "link": "https://openai.com/index/expanding-ai-access-us-government",
+      "title": "研究人员如何使用Codex和ChatGPT搜索新的抗微生物分子",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-09-10T07:00:00+00:00",
-      "summary": "OpenAI 和 GSA 将为符合条件的联邦、州、地方和部落政府提供 $0 许可费、使用费五折优惠以及扩展的网络防御支持。",
-      "score": 60,
-      "original_title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "published": "2026-09-10T16:00:00+00:00",
+      "summary": "César de la Fuente 的实验室使用 Codex 和 ChatGPT 在现存和已灭绝的基因组中寻找抗微生物候选物，以对抗耐药感染。",
+      "score": 55,
+      "original_title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "translated": true,
       "priority": 0,
-      "uid": "fb28a2bf060f"
+      "uid": "6d1a490f5a8d"
     },
     {
-      "title": "“国产 GPU 四小龙”之一燧原科技今日科创板上市，股价最高涨超 200%",
-      "link": "https://www.ithome.com/1/001/132.htm",
+      "title": "山灵 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日发售：外壳采用铜合金 CNC 工艺，11980 元",
+      "link": "https://www.ithome.com/1/001/534.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-11T02:34:04+00:00",
-      "summary": "IT之家 9 月 11 日消息，“国产 GPU 四小龙”之一燧原科技今日（9 月 11 日）正式在上海证券交易所科创板上市， 开盘股价最高涨到 460 元 / 股，涨幅超 220% 。截至IT之家发文，燧原科技股价涨超 190%，总市值 1,777 亿元。燧原科技创立于 2018 年 3 月，与摩尔线程、沐曦股份和壁仞科技合称为“国产 GPU 四小龙”。成立近 8 年来，燧原科技自研迭代了四代架构 5 款云端 AI 芯片，构建了 AI 芯片、AI 加速卡及模组、智算系统及集群和 AI 计算及编程软件平台的完整产品体系，目前已成为我国云端 AI 芯片领军企业之一。根据此前发布的招股书， 燧原科技预计募集资金总额 61.19 亿元 ，此次募资资金用于第五代和第六代 AI 芯片系列产品的研发及产业化项目，以及先进人工智能软硬件协同创新项目，三个项目分别拟投入募集资金金额约 15.",
-      "score": 50,
+      "published": "2026-09-12T03:30:50+00:00",
+      "summary": "IT之家 9 月 12 日消息，山灵宣布旗下 M8T 铜版 Hi-Fi 播放器将于 9 月 15 日 10:00 发售，首发价 11980 元。M8T 铜版以高强度铜合金为核，经精密 CNC 一体加工成型。铜材独有的光泽与细腻触感，随时间沉淀愈发深邃温润；更稳定的金属基底，为声学系统隔绝干扰，营造更纯净的工作环境。声音亦针对铜材特性重新调校。保留 M8T 暖厚润泽的底色，中高频更为通透；瞬态提升，能量舒展，浓郁却不淤积；背景更黑，细节自然浮现。从材质到听感，完成一次克制而深入的进阶。规格方面，M8T 采用来自 AKM 公司 AK4191EQ*2+AK4499EX*2 芯片，实现了对数字信号和模拟信号的分离处理，每通道的信噪比为 135dB，失真特性为-124dB。同时，该机采用双 JAN6418 真空五极管，支持晶体管 / 电子管线性 / 电子管超线性三种声音模式，具备晶体管 / 1125mW@32Ω，电子管 / 950mW@32Ω 三挡增益。",
+      "score": 45,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "bfcd59441426"
+      "uid": "ef13006cff74"
     },
     {
-      "title": "美国政府指控中国公司系统性蒸馏美国 AI 模型",
-      "link": "https://www.solidot.org/story?sid=85329",
-      "source": "Solidot·通信",
-      "category": "通信与安防",
-      "published": "2026-09-09T08:55:23+00:00",
-      "summary": "美国国家安全局、联邦调查局及网络安全和基础设施安全局周二发表联合声明，称深度求索（DeepSeek）、月之暗面等六家中国 AI 企业至少从 2024 年起利用“蒸馏”技术，以“工业化规模”访问美国 AI 模型并提取信息。六家企业包括 DeepSeek、Kimi 开发商月之暗面、阿里巴巴、MiniMax、阶跃星辰和智谱，涉及的美国模型来自 Anthropic、OpenAI、Alphabet 旗下 Google 和 SpaceX。蒸馏是利用较大模型生成的内容训练其他模型的技术，可用于降低训练和运行成本。这项技术本身有正当用途，美方此次指控的重点是，中国企业未经授权使用美国模型，并刻意绕过相关使用限制。声明称，这些企业正在开展“激进、恶意且有针对性的蒸馏活动”。美方建议开发商针对疑似恶意蒸馏请求调整模型回复，并相互分享相关情报。",
-      "score": 40,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "5f9852e64080"
-    },
-    {
-      "title": "OpenAI 针对华尔街初级银行家的工作推出了新的金融服务 ChatGPT",
+      "title": "OpenAI 针对华尔街初级银行家的工作推出了新的金融服务版 ChatGPT",
       "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-10T19:02:58+00:00",
-      "summary": "OpenAI 正在瞄准华尔街一些最费力的任务，推出了新的 ChatGPT 版本，旨在研究公司、分析财务数据并生成投资银行家依赖的演示文稿。",
+      "published": "2026-09-11T16:06:31+00:00",
+      "summary": "OpenAI 正在通过新版本的 ChatGPT 瞄准华尔街的一些劳动密集型任务，该版本旨在研究公司、分析财务数据并生成投资银行家所依赖的演示文稿。",
       "score": 25,
       "original_title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
       "translated": true,
@@ -122,30 +122,30 @@
       "uid": "08e4ea88b052"
     },
     {
-      "title": "铭瑄 AMD B850 主板上新，新增 3 款 Micro-ATX 板型产品",
-      "link": "https://www.ithome.com/1/001/133.htm",
+      "title": "华境 S 汽车新增 4 款配置：标配华为干昆智驾 ADS Pro 增强版，支持外接拓展屏",
+      "link": "https://www.ithome.com/1/001/515.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-11T02:35:36+00:00",
-      "summary": "IT之家 9 月 11 日消息，铭瑄 (Maxsun) 近期推出了 3 款 AMD Socket AM5 平台的 Micro-ATX 板型 B850 主板新品，分别为 MS-B850M I-CAFE、MS-Challenger B850M-P WIFI、MS-Challenger B850M-B WIFI。▲ MS-B850M I-CAFE MS-B850M I-CAFE 属于铭瑄的网吧产品线，采用了该系列标志性的红黑配色。其搭载 8+2+1 相 50A DrMOS 供电，提供 2 条 PCIe 插槽、2 个 M.2 PCIe SSD 盘位，支持 2.5GbE LAN，配备分布式 Debug 灯。▲ MS-Challenger B850M-P WIFI “挑战者”家族的两兄弟 MS-Challenger B850M-P WIFI、MS-Challenger B850M-B WIFI 规格类似， 区别在于前者是 4DIMM 标准宽、后者则是 2DIMM 窄款 。",
+      "published": "2026-09-12T01:33:53+00:00",
+      "summary": "IT之家 9 月 12 日消息，华境汽车今日宣布， 华境 S 新增 4 款配置 ，全系超级置换价 14.98 万元-19.68 万元，即刻下定可享至高价值 40,000 元八重礼。据IT之家了解，华境 S 是上汽通用五菱与华为合作的首款搭载华为干昆科技旗舰大六座 SUV。华境 S 全系标配华为干昆智驾 ADS Pro 增强版与鸿蒙座舱。该车已于 5 月 8 日正式上市 ，上市即交付，锁单优先提。200km 干昆悦享版：官方指导价 16.98 万元，超级置换价 14.200km 干昆悦享鸿蒙 +：官方指导价 16.28 万元，超级置换价 15.255km 干昆臻享版：官方指导价 17.58 万元，超级置换价 16.255km 干昆臻享鸿蒙 +：官方指导价 17.88 万元，超级置换价 16.",
       "score": 20,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "18129a093f2c"
+      "uid": "9d2feba1d5b2"
     },
     {
-      "title": "中国如何成为世界首个电子国家",
-      "link": "https://oilprice.com/Energy/Energy-General/How-China-Became-the-Worlds-First-Electrostate.html",
+      "title": "英国利率在明年可能上涨四次",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Interest-Rates-Could-Rise-Four-Times-Over-the-Next-Year.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-10T21:00:00+00:00",
-      "summary": "来自 Oilprice.com 的更多热门文章：柴油短缺预计将加剧，炼油产能不足，行业警告；乌克兰打击黑海港口，俄罗斯袭击摩尔多瓦边境；今年至今，二叠纪天然气价值已经低于零达118天",
+      "published": "2026-09-11T18:00:00+00:00",
+      "summary": "据金融界人士称，由于经济在七月份实现了意外增长，预计英格兰银行将在明年内加息多达四次。尽管之前预测增长将停止，该国经济在七月份仍增长了0.4%，中央银行预计将受到今天早晨公布的国内生产总值数据的鼓舞。",
       "score": 20,
-      "original_title": "How China Became the World's First Electrostate",
+      "original_title": "UK Interest Rates Could Rise Four Times Over the Next Year",
       "translated": true,
       "priority": 0,
-      "uid": "a9e977f9868e"
+      "uid": "7ca5754ec4a6"
     },
     {
       "title": "使用搜索为你的下一场大型比赛做好准备的3种方法",
@@ -161,43 +161,30 @@
       "uid": "4d2993793887"
     },
     {
-      "title": "王腾创业公司“今日宜休”ISHO 睡眠记录 App 开启内测：暂仅支持苹果 iOS、需佩戴 Apple Watch",
-      "link": "https://www.ithome.com/1/001/153.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-09-11T03:36:02+00:00",
-      "summary": "IT之家 9 月 11 日消息，今日宜休创始人王腾在微博发文，透露公司旗下 ISHO 睡眠记录 App 开启内测，首期内测目前仅支持苹果 iOS，并且需要佩戴 Apple Watch。 IT之家获悉，该应用旨在帮助用户实现从夜间睡眠监测到日间精力改善的闭环。其号称突破了单一分数的局限，提供多维度的状态分析。它不仅追踪入睡时间、睡眠时长、中断次数等基础指标，还融合了血氧和心率变异性（HRV）等生理数据，以此来精准量化用户的睡眠表现。 此外，相应应用内置了睡眠与精力顾问功能。当监测到特定时段的异常心率升高或持续高压状态时，精力管家会进行深入剖析，提供基于用户个人体感的专属解答，帮助用户明确这些生理波动对后续精力维持以及夜间放松的具体影响。",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "6c9d62b69f65"
-    },
-    {
-      "title": "人工智能热潮将推动东南亚的液化天然气需求",
-      "link": "https://oilprice.com/Energy/Natural-Gas/AI-Boom-to-Boost-Southeast-Asias-LNG-Demand.html",
+      "title": "欧洲的“少即是多”比任何人给予的认可都更有成效",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-11T00:00:00+00:00",
-      "summary": "东南亚对液化天然气（LNG）的需求除了长期努力转向非煤电力之外，还找到了新的主要驱动因素。",
+      "published": "2026-09-11T22:00:00+00:00",
+      "summary": "布伦特今天早上略高于104美元，比昨天的暴涨略有下降。自三月份以来，霍尔木兹海峡——战争前曾输送全球约五分之一的石油和液化天然气——实际上已关闭。沙特的产量在八月份下降了大约每天190万桶，油轮运价创下新纪录，美国能源信息署预计中东的产量要到……才可能恢复到冲突前的水平。",
       "score": 15,
-      "original_title": "AI Boom to Boost Southeast Asia’s LNG Demand",
+      "original_title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
       "translated": true,
       "priority": 0,
-      "uid": "ff601212332e"
+      "uid": "ddea76f2ba59"
     },
     {
-      "title": "为什么美国迟来的关键矿产赌注无法遏制中国",
-      "link": "https://oilprice.com/Metals/Commodities/Why-The-United-States-Belated-Critical-Minerals-Gambit-Wont-Stop-China.html",
+      "title": "特朗普的电网电池禁令让开发商感到迷茫",
+      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Grid-Battery-Ban-Leaves-Developers-Guessing.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-10T23:00:00+00:00",
-      "summary": "自唐纳德·特朗普重返椭圆形办公室以来，他对关键矿产和稀土部门进行了有史以来最积极的联邦干预，宣布了一系列交易，因为华盛顿拼命试图应对中国在推动能源转型和人工智能繁荣的矿产方面的主导地位。这些交易包括由几十家稀土公司组成的股票和债务组合的混合方案……",
+      "published": "2026-09-11T20:00:00+00:00",
+      "summary": "美国正试图以快速的速度建立其能源储存能力。与此同时，它也在试图摆脱对中国电池技术的依赖。在许多方面，这两个目标是直接相互矛盾的。中国在全球清洁能源技术供应链中占主导地位，尤其是在锂离子电池方面，这种电池为从你的手机到你的汽车的所有设备提供动力。",
       "score": 15,
-      "original_title": "Why The United States’ Belated Critical Minerals Gambit Won’t Stop China",
+      "original_title": "Trump's Grid Battery Ban Leaves Developers Guessing",
       "translated": true,
       "priority": 0,
-      "uid": "7f0cbf5ed75f"
+      "uid": "5aa68d13be54"
     },
     {
       "title": "梅西百货发布强劲业绩，随着转型开始见效，上调指引",
@@ -205,7 +192,7 @@
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-09-10T20:49:05+00:00",
-      "summary": "梅西百货周四公布其财年第二季度公司整体增长，并提高了指引，因为其正在继续进行转型。这家零售商表示，该季度整体可比销售额增长了2.7%，其同名品牌的可比销售额增长了1%。公司表示，增长主要是由其所谓的重新设计的门店推动的，这些地点是其转型的重点之一。",
+      "summary": "梅西百货周四公布了其财政第二季度的公司整体增长，并在持续转型过程中上调了业绩预期。该零售商表示，本季度整体可比销售额增长了2.7%，其同名品牌的可比销售额增长了1%。公司表示，这一增长主要得益于其所谓的“重新设计的门店”，这是其转型重点之一的重建门店。",
       "score": 15,
       "original_title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
       "translated": true,
@@ -218,7 +205,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-09T16:00:00+00:00",
-      "summary": "在充满活力的绿色背景上绘制的插图图形，包含美式足球元素，包括一个金色奖杯、一个蓝色头盔、一个银色口哨、一只足球、一个迷你记分板和比赛图示，以及谷歌搜索中 AI 模式的图标",
+      "summary": "在充满活力的绿色背景上展示的插图图形，包含美式足球元素，包括一个金色奖杯、一个蓝色头盔、一只银色哨子、一个足球、一个迷你记分板和战术图，同时显示谷歌搜索中的 AI 模式图标",
       "score": 15,
       "original_title": "Get ready for the game with new football features in Search",
       "translated": true,
@@ -243,31 +230,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3862.7303,
-        "change": -71.6733,
-        "pct": -1.82,
-        "amount_yi": 6191.8
+        "price": 3888.1106,
+        "change": -46.293,
+        "pct": -1.18,
+        "amount_yi": 9581.86
       },
       {
         "name": "深证成指",
-        "price": 13298.77,
-        "change": -318.901,
-        "pct": -2.34,
-        "amount_yi": 6556.68
+        "price": 13471.26,
+        "change": -146.413,
+        "pct": -1.08,
+        "amount_yi": 10137.12
       },
       {
         "name": "创业板指",
-        "price": 3270.35,
-        "change": -68.072,
-        "pct": -2.04,
-        "amount_yi": 1246.41
+        "price": 3322.04,
+        "change": -16.384,
+        "pct": -0.49,
+        "amount_yi": 2028.99
       },
       {
         "name": "沪深300",
-        "price": 4476.176,
-        "change": -72.2138,
-        "pct": -1.59,
-        "amount_yi": 3293.0
+        "price": 4510.1554,
+        "change": -38.2344,
+        "pct": -0.84,
+        "amount_yi": 5222.07
       }
     ],
     "holdings": [
@@ -276,11 +263,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 47.85,
-        "market_value": 4785.0,
-        "pnl": 1612.36,
-        "pnl_pct": 50.82,
-        "weight_hint": "44.5%",
+        "price": 47.51,
+        "market_value": 4751.0,
+        "pnl": 1578.36,
+        "pnl_pct": 49.75,
+        "weight_hint": "44.4%",
         "note": "",
         "available": true
       },
@@ -289,11 +276,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.53,
-        "market_value": 2853.0,
-        "pnl": 156.59,
-        "pnl_pct": 5.81,
-        "weight_hint": "26.5%",
+        "price": 28.45,
+        "market_value": 2845.0,
+        "pnl": 148.59,
+        "pnl_pct": 5.51,
+        "weight_hint": "26.6%",
         "note": "",
         "available": true
       },
@@ -302,11 +289,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.17,
-        "market_value": 2451.0,
-        "pnl": 573.48,
-        "pnl_pct": 30.54,
-        "weight_hint": "22.8%",
+        "price": 8.11,
+        "market_value": 2433.0,
+        "pnl": 555.48,
+        "pnl_pct": 29.59,
+        "weight_hint": "22.7%",
         "note": "",
         "available": true
       },
@@ -315,10 +302,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.057,
-        "market_value": 211.4,
-        "pnl": -106.6,
-        "pnl_pct": -33.52,
+        "price": 1.077,
+        "market_value": 215.4,
+        "pnl": -102.6,
+        "pnl_pct": -32.26,
         "weight_hint": "2.0%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -328,11 +315,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.546,
-        "market_value": 454.6,
-        "pnl": -42.4,
-        "pnl_pct": -8.53,
-        "weight_hint": "4.2%",
+        "price": 4.579,
+        "market_value": 457.9,
+        "pnl": -39.1,
+        "pnl_pct": -7.87,
+        "weight_hint": "4.3%",
         "note": "",
         "available": true
       },
@@ -352,123 +339,135 @@
     ],
     "sectors": [
       {
-        "name": "金融/银行 · 国有大型银行Ⅲ",
-        "pct": 0.98,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 1.14,
+        "name": "新能源/光伏 · 光伏发电",
+        "pct": 1.44,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 4.18,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 风电整机",
+        "pct": 0.25,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.77,
         "source": "东财行业"
       },
       {
         "name": "电力/公用 · 公用事业",
-        "pct": -0.73,
+        "pct": -0.95,
         "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": -2.54,
+        "main_flow_yi": -4.54,
         "source": "东财行业"
       },
       {
-        "name": "新能源/光伏 · 风电设备",
-        "pct": -1.54,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 2.47,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 风电零部件",
-        "pct": -1.73,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 2.45,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 金融行业",
-        "pct": -1.7520978031993,
+        "name": "金融/银行 · 银行",
+        "pct": -1.09,
         "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "煤炭 · 煤炭",
-        "pct": -1.95,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": -1.36,
+        "main_flow_yi": -3.95,
         "source": "东财行业"
       },
       {
-        "name": "煤炭 · 煤炭行业",
-        "pct": -1.9643219593604,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "name": "半导体/电子 · 电子信息",
+        "pct": -1.2093154714394,
+        "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "电力/公用 · 供水供气",
-        "pct": -2.1373728989417,
+        "pct": -1.7275368333679,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "石油 · 石油行业",
-        "pct": -2.6286054118347,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "name": "金融/银行 · 金融行业",
+        "pct": -2.0553757189101,
+        "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子器件",
-        "pct": -3.1184422042904,
-        "why": "对应半导体ETF，关注景气与政策",
+        "name": "煤炭 · 煤炭行业",
+        "pct": -2.5529419724409,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "石油 · 石油行业",
+        "pct": -3.8774903360095,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
-    "policy_news": [],
+    "policy_news": [
+      {
+        "title": "编造、传播“税率调整”虚假信息，四人被证监会处罚",
+        "link": "https://finance.sina.com.cn/roll/2026-09-12/doc-inirpkcq6907292.shtml",
+        "level": "高",
+        "tag": "政策"
+      }
+    ],
     "industry_news": [
       {
-        "title": "澳新银行：亚洲贸易盈余回流路径重构 买入美债不再是主流选择",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmmnc5437960.shtml",
+        "title": "港股银行仅三家未破净，A股银行全部破净",
+        "link": "https://finance.sina.com.cn/wm/2026-09-12/doc-inirpqmf1644156.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "涉足控制器芯片！605303，筹划重大资产重组",
+        "link": "https://finance.sina.com.cn/stock/zqgd/2026-09-12/doc-inirpkci1730343.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "港股午评：恒指跌0.85% 科指跌0.79% 内房股低迷 有色金属板块下挫",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-11/doc-inirmmnc5459188.shtml",
+        "title": "宁德时代启动A股史上最大回购",
+        "link": "https://finance.sina.com.cn/jjxw/2026-09-12/doc-inirpqmf1657241.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "供需缺口扩大，有色板块结构性行情如何把握？",
-        "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-11/doc-inirmmnf2216789.shtml",
+        "title": "一日七家券商领罚单！事涉经纪、“股市小作文”、反洗钱等，高管同步被追责",
+        "link": "https://finance.sina.com.cn/jjxw/2026-09-12/doc-inirpqmn6818341.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "信披“连环翻车”再添一例！ST华扬股东大会公告现“星期错乱”",
-        "link": "https://finance.sina.com.cn/stock/observe/2026-09-11/doc-inirmmmy7019507.shtml",
+        "title": "全球基金看淡印度股市 部分机构将持仓降至零",
+        "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpkcn5393851.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "9月12日美股成交前20：甲骨文涨超8%后转跌 AI数据中心建设支出利好 戴尔大涨近12%",
+        "link": "https://finance.sina.com.cn/world/2026-09-12/doc-inirpkci1715681.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10755.0,
-    "total_pnl": 2193.43,
-    "total_amount_yi": 12748.48,
+    "total_market_value": 10702.3,
+    "total_pnl": 2140.73,
+    "total_amount_yi": 19718.98,
     "bias": "偏空",
-    "volume_note": "量能：两市合计约 12748 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 国有大型银行Ⅲ；偏弱 公用事业、风电设备、风电零部件",
-    "tip": "一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向",
+    "volume_note": "量能：两市合计约 19719 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 光伏发电、风电整机；偏弱 公用事业、银行、电子信息",
+    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
     "errors": []
   },
   "learning": {
-    "title": "什么是指数",
-    "body": "沪深300（Shanghai-Shenzhen 300 Index，沪深两市规模大、流动性好的300家公司）像“大盘平均分”。你买的300ETF，本质上就是在跟踪这个平均分。",
+    "title": "PE（市盈率）",
+    "body": "PE = 股价 ÷ 每股收益，粗看股票贵不贵。银行/能源股常见区间更低；神华这类更常结合股息率一起看，别只看PE。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "通信铁塔",
-    "text": "今儿聊【通信铁塔】。这铁塔往山上一立，跟个钢筋仙鹤似的，鹤不飞，人得爬。领导说“顺便看看点位”，这顺便俩字一出，你就知道中午泡面泡不上了。缆没拉上先拉上脸色，链路没通先把汇报通了。社会经验：凡写着“现场简单勘察”的，背包里都得备双袜子。"
+    "topic": "A股开盘",
+    "text": "今儿聊【A股开盘】。早盘像相亲：看着挺热闹，真心没几个。神华长江电力坐那儿跟老干部似的，不吵不闹，偶尔点个头；主题炒作跟广场舞大妈似的，音箱一响全场跟。社会经验：能吃息的先吃息，能睡觉的别盯盘——盯盘不涨，只涨血压。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
