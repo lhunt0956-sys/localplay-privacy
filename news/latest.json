@@ -1,8 +1,8 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-13T12:16:13.544380+08:00",
+  "generated_at": "2026-09-14T12:23:56.858280+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 17,
+  "count": 18,
   "items": [
     {
       "title": "快速扩展在线存储以服务超过10亿名ChatGPT用户",
@@ -22,8 +22,8 @@
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-13T04:16:28+00:00",
-      "summary": "改进我们的对齐和安全工作 7月30日，我们报告了三起事件，其中Claude模型未经授权访问了真实计算机系统。这些模型——出于评估目的故意在没有网络安全防护的情况下运行——由于第三方评估环境中的配置错误而访问了互联网。",
+      "published": "2026-09-14T04:24:15+00:00",
+      "summary": "改进我们的对齐和安全工作 7月30日，我们报告了三起事件，其中Claude模型未经授权访问了真实计算机系统。这些模型——出于评估目的故意在没有网络安全防护的情况下运行——由于第三方评估环境内部的错误配置而访问了互联网。",
       "score": 60,
       "original_title": "Anthropic / Claude：Improving our alignment and security practices",
       "translated": true,
@@ -31,56 +31,56 @@
       "uid": "5d9339d17aad"
     },
     {
-      "title": "推出WeatherNext 3，我们最先进、最精准的全球天气人工智能模型",
-      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "title": "AlphaGenome 图谱：人类基因组中每个可能的 DNA 字母变化的预测地图",
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
-      "published": "2026-09-03T15:02:08+00:00",
-      "summary": "介绍 WeatherNext 3，这是我们最先进、最准确的全球天气人工智能模型。每天，天气都会影响数十亿的决策。有些决定简单到仅仅是在出门前拿伞，但也有一些影响更为深远。风、雨以及极端天气事件，如热浪和干旱，会对农业、全球供应链、清洁能源生产以及国家安全产生连锁影响……",
-      "score": 45,
-      "original_title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "published": "2026-09-08T14:00:15+00:00",
+      "summary": "AlphaGenome Atlas：人类基因组中每一个可能的DNA字母变化的预测地图 如何预测人类基因组中每一个可能的单字母DNA变异的分子影响，将有助于加速我们对生物学的理解。今天，我们推出了AlphaGenome Atlas：一个平台（在我们的论文中有详细说明），包含对90亿个单核苷酸变异的影响预测——每一个单核苷酸...",
+      "score": 40,
+      "original_title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "translated": true,
       "priority": 0,
-      "uid": "797f18579943"
+      "uid": "69a6dff164ab"
     },
     {
-      "title": "油价涨至每桶105美元 重燃债券抛售",
-      "link": "https://www.ftchinese.com/story/001110857",
+      "title": "“高油价可能迫使欧洲央行进一步加息”",
+      "link": "https://www.ftchinese.com/story/001110867",
       "source": "FT 中文网",
       "category": "A股与宏观",
-      "published": "2026-09-10T16:00:00+00:00",
-      "summary": "油价的最新涨势为债券抛售潮增添了新的动力，因为投资者押注能源涨价将引发全球通胀飙升。欧洲央行已在周四决定加息以遏制通胀。",
-      "score": 70,
+      "published": "2026-09-13T16:00:00+00:00",
+      "summary": "欧洲央行资深的政策制定者科赫尔在欧洲央行今年第二次加息后警告，如果油价到今年底仍徘徊在每桶100美元左右，该行将不得不进一步加息。",
+      "score": 75,
       "original_title": "",
       "translated": false,
-      "priority": 45,
-      "uid": "24b1aa0520d1"
+      "priority": 60,
+      "uid": "90bcd0896dd6"
+    },
+    {
+      "title": "摩托罗拉 Edge 70 Neo 手机跑分曝光：骁龙 7s Gen 3 芯片、6GB 内存",
+      "link": "https://www.ithome.com/1/002/008.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-14T03:52:34+00:00",
+      "summary": "IT之家 9 月 14 日消息，科技媒体 NotebookCheck 昨日（9 月 13 日）发布博文，报道称 摩托罗拉 Edge 70 Neo 手机现身 GeekBench 平台，7.0 版本单核成绩为 723 分，多核成绩为 2,943 分。根据跑分页面信息，摩托罗拉 Edge 70 Neo 手机配备高通骁龙 7s Gen 3 芯片。该芯片型号为 SM7635，采用 4nm 工艺。参数 制程 4nm CPU 8 核：1×2.5GHz + 3×2.4GHz + 4×1.8GHz GPU Adreno 系列 GPU 5G 支持 5G 网络，具体频段取决于手机厂商 影像 支持最高 2 亿像素照片、12-bit 三 ISP、4K HDR 视频 AI 支持部分端侧生成式 AI 模型 定位 中端，低于骁龙 7+ 系列 页面信息还显示该机运行安卓 16 系统，配备 6GB 内存。",
+      "score": 60,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "9e7937aef551"
     },
     {
       "title": "Anthropic / Claude：预览模型硬件标准",
       "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-13T04:16:28+00:00",
+      "published": "2026-09-14T04:24:15+00:00",
       "summary": "预览模型硬件标准 我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准（MHS）的研究预览版本。该标准是一个共享规范，旨在使 AI 代理能够安全地操作物理设备。",
       "score": 60,
       "original_title": "Anthropic / Claude：Previewing the Model Hardware Standard",
       "translated": true,
       "priority": 0,
       "uid": "715b5fd546b1"
-    },
-    {
-      "title": "时隔多年苹果再拿华为做对比，Apple Watch 心率准确性研究将 HUAWEI WATCH 5 列为“唯一的例外”",
-      "link": "https://www.ithome.com/1/001/740.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-09-13T03:59:20+00:00",
-      "summary": "IT之家 9 月 13 日消息， 苹果在 9 月 10 日正式发布了 Apple Watch Series 12 智能手表 ，搭载更强的健康传感器和全新的 Apple 芯片。伴随 Apple Watch Series 12 智能手表发布的还有一份 苹果《Apple Watch 心率准确性研究》 。苹果在这份研究中总结了升级后的光学心率传感系统在可穿戴设备领域中相对于其他设备的准确性。参与苹果此次研究的腕戴式设备包括 Apple Watch Series 12、 Garmin 佳明 Forerunner 970、Google Pixel Watch 4、华为 WATCH 5、三星 Galaxy Watch 8 以及 WHOOP Band 5.研究于 2026 年 7 月和 8 月进行，评估所用设备均为各制造商当时可用的最新型号。",
-      "score": 55,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "070d86a95904"
     },
     {
       "title": "研究人员如何使用Codex和ChatGPT搜索新的抗微生物分子",
@@ -96,17 +96,30 @@
       "uid": "6d1a490f5a8d"
     },
     {
-      "title": "荣耀 Play11 手机发售：骁龙 4 Gen4、AI 一键关广告弹窗，1399 元起",
-      "link": "https://www.ithome.com/1/001/731.htm",
+      "title": "《汽车软件质量与缺陷管理规范》国家标准发布，将质量管控从事后处置转向缺陷预防",
+      "link": "https://www.ithome.com/1/002/009.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-13T03:02:43+00:00",
-      "summary": "IT之家 9 月 13 日消息，荣耀旗下 Play11 手机现已在荣耀商城发售（ 点此访问 ），该机主打 IP69K 认证、8300mAh 电池，定价为 1399 元起，部分地区国补后低至 1189.15 元起。 6GB RAM+128GB 存储空间：1399 元 8GB RAM+128GB 存储空间：1449 元 8GB RAM+256GB 存储空间：1749 元 该机提供幻夜黑、沙漠金、流星银等配色可选，手机厚度 8.3mm，重量 216.5g，正面配备一块 6.87 英寸 1592x720 分辨率 120Hz TFT LCD 面板，后置 50Mp 主摄。 该机搭载高通骁龙 4 Gen4 处理器，内置 8300mAh 电池，支持 45W 有线充电，匹配 USB-C 2.0 接口，支持蓝牙 4.2 技术，提供“400% 大音量模式”，还支持 AI 一键关闭广告弹窗。 IT之家附产品参数：",
-      "score": 25,
+      "published": "2026-09-14T03:57:41+00:00",
+      "summary": "IT之家 9 月 14 日消息，市场监管总局（国家标准委）近日批准发布《汽车软件质量与缺陷管理规范》国家标准（GB/T 48140—2026）。本次新国标发布有利于推动汽车软件缺陷识别与防控关口前移 ，进一步健全智能网联汽车软件安全治理体系，将从今年 12 月 1 日起实施。IT之家了解到，当前“软件定义汽车”已经成为汽车行业发展趋势，软件在赋予汽车智能体验的同时，也带来新安全风险。软件缺陷多发态势叠加软件迭代升级常态化，对汽车软件质量与缺陷管理提出更加严格的体系化要求。因此市场监管总局特此推出新标准，新规运用 PDCA 循环（策划 — 实施 — 检查 — 处置）和基于风险的思维，建立了覆盖汽车软件需求分析、设计实现、集成、验证确认、发布管理、升级与维护等全生命周期的车规级软件质量与缺陷管理规范，为汽车行业软件质量与缺陷管理提供统一遵循。",
+      "score": 50,
       "original_title": "",
       "translated": false,
-      "priority": 0,
-      "uid": "56854edecb92"
+      "priority": 35,
+      "uid": "e9188e716d6e"
+    },
+    {
+      "title": "华为智能门锁 2 Pro 悦享版开启预约：搭 AI 3D 人脸识别 3.0 技术，配备应急备用供电系统，2699 元",
+      "link": "https://www.ithome.com/1/001/977.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-14T03:02:59+00:00",
+      "summary": "IT之家 9 月 14 日消息，华为智能门锁 2 Pro 悦享版现已在京东开启预约，将于 9 月 23 日首销， 定价为 2699 元，部分地区国补后 2124.京东 华为智能门锁 2 Pro 悦享版 2699 元 直达链接 该门锁采用一体化压铸工艺制造，内部配置全自动降噪锁体及 C 级直插式锁芯。产品前面板集成了深感摄像头与 161° 广角智能猫眼，还提供了应急小红键。官方强调，该门锁设备应用 AI 3D 人脸识别 3.0 及 3D ToF 技术，可捕捉 307200 个深度信息点，解锁耗时约为 0.其识别范围覆盖 1.2 m 至 2.0 m 身高以及 0 至 30° 侧脸，配合活体检测及动态学习算法，可识别并拦截照片、视频或 3D 头模干扰。同时，门锁支持 AI 人形监测及异常抓拍功能，访客按铃后的画面可跨屏推送至手机、智慧屏或中控屏，并支持画中画显示及可视对讲远程解锁。",
+      "score": 50,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "4feb0880dd11"
     },
     {
       "title": "OpenAI 针对华尔街初级银行家的工作推出了新的金融服务 ChatGPT",
@@ -122,25 +135,12 @@
       "uid": "08e4ea88b052"
     },
     {
-      "title": "因 NASA 削减预算 ESA 将独立完成金星探索项目",
-      "link": "https://www.solidot.org/story?sid=85357",
-      "source": "Solidot·通信",
-      "category": "通信与安防",
-      "published": "2026-09-11T16:57:44+00:00",
-      "summary": "因特朗普政府削减了 NASA 预算，难以兑现提供合成孔径雷达的承诺，欧洲 ESA 将独立推进金星探索项目 Envision。Envision 轨道探测器任务旨在对金星表面进行测绘，由于金星表面被厚厚的硫酸云层笼罩，需要使用雷达穿透云层。NASA 与 ESA 于 2024 年签署了一份谅解备忘录，NASA 提供美制合成孔径雷达，通过其深空网络提供跟踪与通信支持。作为交换，ESA 将把美国研究人员纳入其团队。然而 2026 年和 2027 年的 NASA 预算被特朗普政府提议大幅削减，虽然国会否决了大部分预算削减方案，但 NASA 的科学预算仍然减少了数亿美元。NASA 的国际合作任务是主要削减对象。",
-      "score": 20,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "daea31b364e2"
-    },
-    {
       "title": "使用搜索为你的下一场大型比赛做好准备的3种方法",
       "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-10T16:00:00+00:00",
-      "summary": "使用搜索为下一场大型比赛做准备的3种方法 当人们寻找断开联系、接触自然的方式时，与跑步相关的搜索量正在飙升：像“跑步俱乐部”“如何选择跑鞋”“如何准备马拉松”等搜索量今年已达到历史最高。参加比赛需要勇气、力量和（意想不到的）组织能力。幸运的是，搜索的人工智能功能使得获取信息比以往任何时候都更容易……",
+      "summary": "使用搜索为下一场大型比赛做准备的3种方法 随着人们寻找放松身心和亲近自然的方式，与跑步相关的搜索量激增：像“跑步俱乐部”“如何选择跑鞋”“如何准备马拉松”等搜索量今年已达到历史最高。参加比赛需要勇气、力量和（意想不到的）组织能力。幸运的是，搜索的人工智能功能使得获取信息比以往任何时候都更容易……",
       "score": 20,
       "original_title": "3 ways to prep for your next big race with Search",
       "translated": true,
@@ -148,51 +148,38 @@
       "uid": "4d2993793887"
     },
     {
-      "title": "石油行业为可能持续多年的伊朗战争做好准备",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-12T23:00:00+00:00",
-      "summary": "石油生产商、交易商和炼油商正在为美国与伊朗在波斯湾之间可能持续的战争做准备，对快速解决几乎没有希望。由此，他们也在为更长时间的高油价做准备，这一主题也出现在今年的亚太石油会议上。",
+      "title": "近距离看赛博无人驾驶电动车，特斯拉 Cybercab 官宣入华展览",
+      "link": "https://www.ithome.com/1/002/018.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-09-14T04:21:52+00:00",
+      "summary": "IT之家 9 月 14 日消息，特斯拉官方今日宣布 Cybercab 将入华展览，游客可以近距离看赛博无人驾驶电动车。 9 月 17 日-27 日：北京 · 华贸特斯拉体验店 9 月 17 日-21 日：上海 · 兴业太古汇 LG1 层北厅 该车型最初于 2024 年 10 月在特斯拉“We, Robot”活动中首次以概念车身份亮相，2026 年 2 月首台量产车在得州超级工厂下线，4 月启动正式量产，从概念发布到量产落地历时约 18 个月。其采用的拆箱式制造工艺通过子组件并行生产、再进行总装的方式，提升了生产效率并优化了制造成本。 据IT之家此前报道，特斯拉专为自动驾驶打造的双座车型 Cybercab 已经开始在美国得克萨斯州搭载付费乘客， 而埃隆 · 马斯克近日释放了一个信号：欧洲城市或许不必再等待太久，就有机会体验 Cybercab 无人驾驶出行服务 。",
       "score": 15,
-      "original_title": "Oil Industry Braces for Years-Long Iran War",
-      "translated": true,
+      "original_title": "",
+      "translated": false,
       "priority": 0,
-      "uid": "c59bf1cb611d"
+      "uid": "c6a1c60741e9"
     },
     {
-      "title": "解决核能最大难题的竞赛",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html",
+      "title": "随着中东袭击持续和外交受阻，油价飙升",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Surge-as-Middle-East-Attacks-Continue-and-Diplomacy-Stumbles.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-12T19:00:00+00:00",
-      "summary": "随着全球各国政府寻求多元化能源结构并减少对化石燃料的依赖，核能的受欢迎程度再次上升。未来几十年，一些国家正计划开发或扩大核能发电能力。然而，一个挑战依然存在——核废料。处理核能运营产生的废料仍然是一项复杂的任务，没有完美的解决方案。",
+      "published": "2026-09-14T02:39:17+00:00",
+      "summary": "周一亚洲早盘，油价最初因对重大且长期供应中断的担忧加剧而上涨超过3%，这种担忧是由中东持续的攻击以及海湾国家与伊朗间紧要会议的推迟引发的。截至撰写本文时，两大基准油价略有回落，WTI期货交易价格为每桶102.2美元。",
       "score": 15,
-      "original_title": "The Race to Solve Nuclear Energy’s Biggest Problem",
+      "original_title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles",
       "translated": true,
       "priority": 0,
-      "uid": "fb451c8ac7cc"
-    },
-    {
-      "title": "伊朗的安全打压遭遇内部抵抗",
-      "link": "https://oilprice.com/Energy/Energy-General/Irans-Security-Crackdown-Runs-Into-Resistance-From-Within.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-12T17:00:00+00:00",
-      "summary": "伊朗议会正在试图将对外国渗透的担忧转化为法律。但随着立法者推进立法，这场辩论暴露了伊斯兰共和国面临的一个日益尴尬的问题：国家在监管伊朗人与外部世界的接触方面应走多远？这场辩论的核心是议会议长穆罕默德·巴格尔·卡利巴夫，至少在公开场合，他正在做一种平衡表演。",
-      "score": 15,
-      "original_title": "Iran’s Security Crackdown Runs Into Resistance From Within",
-      "translated": true,
-      "priority": 0,
-      "uid": "d3217c9ebf19"
+      "uid": "183b1d0aca76"
     },
     {
       "title": "通用计划在美国发展电池，特朗普批评福特与中国的关系",
       "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-12T12:00:01+00:00",
-      "summary": "底特律——通用汽车正在开发下一代电池电芯的初期阶段，公司认为这些电池可以减少美国对中国的依赖，同时提升国内原材料的使用。通用汽车电池与可持续发展副总裁库尔特·凯尔蒂在接受CNBC专访时表示：“我们正在建立一个供应链，这样两年后、三年后，它将实现国内化。”",
+      "published": "2026-09-14T01:05:56+00:00",
+      "summary": "底特律——通用汽车正在开发下一代电池电芯的初期阶段，公司认为这些电池可以减少美国对中国的依赖，同时增加国内来源的材料。通用汽车电池与可持续发展副总裁库尔特·凯尔蒂在接受CNBC独家采访时表示：“我们正在建立一个供应链，这样两年后、三年后，它将是国内的。”",
       "score": 15,
       "original_title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
       "translated": true,
@@ -200,12 +187,38 @@
       "uid": "8369757b9871"
     },
     {
+      "title": "渣打银行警告称石油现在更容易出现更尖锐、更频繁的波动",
+      "link": "https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Oil-Is-Now-Built-for-Sharper-More-Frequent-Spikes.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-13T23:00:00+00:00",
+      "summary": "周四，油价首次自七月以来接近每桶110美元，中东冲突没有结束的迹象。伊朗伊斯兰革命卫队（IRGC）周三宣布，他们在霍尔木兹海峡袭击并严重损坏了八艘油轮和两艘美国海军驱逐舰，这是对美国军方周二夜间在阿曼湾摧毁五艘与IRGC有关的油轮的报复。",
+      "score": 15,
+      "original_title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
+      "translated": true,
+      "priority": 0,
+      "uid": "b7133a7ac400"
+    },
+    {
+      "title": "油价进一步飙升可能重新引发衰退担忧",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Further-Oil-Price-Spikes-Could-Rekindle-Recession-Fears.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-13T21:00:00+00:00",
+      "summary": "本周油价的急剧上涨大幅提高了美联储下周加息的可能性，并重新引发了衰退的讨论，这是自伊朗战争最初几周以来的第一次。本周的价格飙升使布伦特原油价格首次自七月以来突破每桶100美元，而美国基准的WTI原油价格也超过每桶100美元。",
+      "score": 15,
+      "original_title": "Further Oil Price Spikes Could Rekindle Recession Fears",
+      "translated": true,
+      "priority": 0,
+      "uid": "d66caa3f7921"
+    },
+    {
       "title": "通过搜索中的新足球功能为比赛做好准备",
       "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-09T16:00:00+00:00",
-      "summary": "在充满活力的绿色背景上展示的插图图形，包含美式足球元素，包括一个金色奖杯、一个蓝色头盔、一只银色哨子、一个足球、一个迷你记分板和战术图，同时显示谷歌搜索中的 AI 模式图标",
+      "summary": "在充满活力的绿色背景上绘制的插图图形，包含美式足球元素，包括一个金色奖杯、一个蓝色头盔、一个银色口哨、一只足球、一个迷你记分牌和比赛图示，以及谷歌搜索中 AI 模式的图标",
       "score": 15,
       "original_title": "Get ready for the game with new football features in Search",
       "translated": true,
@@ -218,7 +231,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-09T16:00:00+00:00",
-      "summary": "逐帧重现一段70年的爱情故事。《被呈现的爱》是一部新的纪录短片，探索记忆丧失与讲故事的力量——并展示了科技如何帮助重新唤起那些开始消失的记忆。影片跟随结婚超过70年的巴特和埃瑟尔·沙茨夫妇，记录他们应对巴特认知能力下降的过程。在他逐渐消逝的记忆中，有一段最珍贵的记忆：那一天他们...",
+      "summary": "逐帧重现一段70年的爱情故事。《被呈现的爱》是一部新的纪录短片，探索记忆丧失与讲故事的力量——并展示了科技如何帮助重新唤起那些开始消逝的记忆。影片跟随结婚超过70年的伯特和埃塞尔·沙茨夫妇，记录他们应对伯特认知能力下降的过程。在他逐渐消逝的记忆中，有一段最珍贵的记忆：那一天他们...",
       "score": 10,
       "original_title": "Recreating a 70-year love story frame by frame",
       "translated": true,
@@ -230,31 +243,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3888.1106,
-        "change": -46.293,
-        "pct": -1.18,
-        "amount_yi": 9581.86
+        "price": 3894.2843,
+        "change": 6.1737,
+        "pct": 0.16,
+        "amount_yi": 5263.45
       },
       {
         "name": "深证成指",
-        "price": 13471.26,
-        "change": -146.413,
-        "pct": -1.08,
-        "amount_yi": 10137.12
+        "price": 13436.92,
+        "change": -34.338,
+        "pct": -0.25,
+        "amount_yi": 5779.66
       },
       {
         "name": "创业板指",
-        "price": 3322.04,
-        "change": -16.384,
-        "pct": -0.49,
-        "amount_yi": 2028.99
+        "price": 3306.36,
+        "change": -15.68,
+        "pct": -0.47,
+        "amount_yi": 1145.67
       },
       {
         "name": "沪深300",
-        "price": 4510.1554,
-        "change": -38.2344,
-        "pct": -0.84,
-        "amount_yi": 5222.07
+        "price": 4495.9201,
+        "change": -14.2353,
+        "pct": -0.32,
+        "amount_yi": 2627.68
       }
     ],
     "holdings": [
@@ -263,11 +276,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 47.51,
-        "market_value": 4751.0,
-        "pnl": 1578.36,
-        "pnl_pct": 49.75,
-        "weight_hint": "44.4%",
+        "price": 47.29,
+        "market_value": 4729.0,
+        "pnl": 1556.36,
+        "pnl_pct": 49.06,
+        "weight_hint": "44.2%",
         "note": "",
         "available": true
       },
@@ -276,10 +289,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.45,
-        "market_value": 2845.0,
-        "pnl": 148.59,
-        "pnl_pct": 5.51,
+        "price": 28.5,
+        "market_value": 2850.0,
+        "pnl": 153.59,
+        "pnl_pct": 5.7,
         "weight_hint": "26.6%",
         "note": "",
         "available": true
@@ -289,11 +302,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.11,
-        "market_value": 2433.0,
-        "pnl": 555.48,
-        "pnl_pct": 29.59,
-        "weight_hint": "22.7%",
+        "price": 8.19,
+        "market_value": 2457.0,
+        "pnl": 579.48,
+        "pnl_pct": 30.86,
+        "weight_hint": "23.0%",
         "note": "",
         "available": true
       },
@@ -302,10 +315,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.077,
-        "market_value": 215.4,
-        "pnl": -102.6,
-        "pnl_pct": -32.26,
+        "price": 1.066,
+        "market_value": 213.2,
+        "pnl": -104.8,
+        "pnl_pct": -32.96,
         "weight_hint": "2.0%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -315,10 +328,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.579,
-        "market_value": 457.9,
-        "pnl": -39.1,
-        "pnl_pct": -7.87,
+        "price": 4.562,
+        "market_value": 456.2,
+        "pnl": -40.8,
+        "pnl_pct": -8.21,
         "weight_hint": "4.3%",
         "note": "",
         "available": true
@@ -339,109 +352,103 @@
     ],
     "sectors": [
       {
-        "name": "新能源/光伏 · 光伏发电",
-        "pct": 1.44,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 4.18,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 风电整机",
-        "pct": 0.25,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.77,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 公用事业",
-        "pct": -0.95,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": -4.54,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 银行",
-        "pct": -1.09,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -3.95,
-        "source": "东财行业"
-      },
-      {
-        "name": "半导体/电子 · 电子信息",
-        "pct": -1.2093154714394,
+        "name": "半导体/电子 · 半导体材料",
+        "pct": 3.45,
         "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 6.56,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 蓄电池及其他电池",
+        "pct": 2.39,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.22,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 电池化学品",
+        "pct": 2.12,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 3.88,
+        "source": "东财行业"
+      },
+      {
+        "name": "半导体/电子 · 模拟芯片设计",
+        "pct": 1.8,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 2.21,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 电力行业",
+        "pct": 0.67326504776154,
+        "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "电力/公用 · 供水供气",
-        "pct": -1.7275368333679,
-        "why": "对应长江电力，关注来水与股息稳定性",
+        "name": "石油 · 石油行业",
+        "pct": 0.29697457155231,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "金融/银行 · 金融行业",
-        "pct": -2.0553757189101,
+        "pct": 0.077009465746831,
         "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "煤炭 · 煤炭行业",
-        "pct": -2.5529419724409,
+        "pct": -0.51609618366544,
         "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "石油 · 石油行业",
-        "pct": -3.8774903360095,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
     "policy_news": [],
-    "industry_news": [],
+    "industry_news": [
+      {
+        "title": "“超级央行周”来袭，红利低波ETF华泰柏瑞（512890）半日成交4.16亿领跑同类 机构：等待中线底部逐步筑成",
+        "link": "https://finance.sina.com.cn/money/fund/original/2026-09-14/doc-iniruhxa7331565.shtml",
+        "level": "高",
+        "tag": "行业"
+      }
+    ],
     "market_news": [
       {
-        "title": "CPO龙头，环比暴增超45%！本周15股获南向资金大幅加仓",
-        "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-13/doc-inirscyh5668994.shtml",
+        "title": "“麻辣串串”火了，龙头股成交额A股第二",
+        "link": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-iniruhwy9599808.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "下周，两大重磅事件！A股重回年内低位，机构建议大胆布局",
-        "link": "https://finance.sina.com.cn/roll/2026-09-13/doc-inirrxsh4653762.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "美股资金出逃创年内新高！美联储加息箭在弦上，市场怎么走？",
-        "link": "https://finance.sina.com.cn/roll/2026-09-13/doc-inirrxsc0593263.shtml",
+        "title": "广汽集团，紧急停牌！盘后将发布重要公告",
+        "link": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-iniruhxa7285022.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10702.3,
-    "total_pnl": 2140.73,
-    "total_amount_yi": 19718.98,
-    "bias": "偏空",
-    "volume_note": "量能：两市合计约 19719 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 光伏发电、风电整机；偏弱 公用事业、银行、电子信息",
-    "tip": "板块轮动是常态，不要追高换仓",
+    "total_market_value": 10705.4,
+    "total_pnl": 2143.83,
+    "total_amount_yi": 11043.11,
+    "bias": "震荡",
+    "volume_note": "量能：两市合计约 11043 亿元（接口口径），成交中等",
+    "sector_note": "行业分化：偏强 半导体材料、蓄电池及其他电池、电池化学品；偏弱 煤炭行业",
+    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
     "errors": []
   },
   "learning": {
-    "title": "PB（市净率）",
-    "body": "PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。",
+    "title": "股息率",
+    "body": "股息率 = 每股分红 ÷ 股价。偏防守时，高于约4%常被看作有一定现金回报缓冲。神华、工行的观察重点之一就是分红是否稳定。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "视频监控方案",
-    "text": "今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。"
+    "topic": "定额套用",
+    "text": "今儿聊【定额套用】。451跟陕西安装定额放一块，像俩表亲开会：看着都姓定，细问各算各的。你刚把边界理清，人家说“这块能不能合并”——合并的是定额，分裂的是头发。社会经验：重复计取这事，定额怕，审计更怕，最怕的是你自己半夜突然想起来。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
