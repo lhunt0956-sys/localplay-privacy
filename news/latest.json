@@ -1,16 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-15T12:23:41.876767+08:00",
+  "generated_at": "2026-09-16T12:19:10.063900+08:00",
   "timezone": "Asia/Shanghai",
   "count": 18,
   "items": [
     {
-      "title": "快速扩展在线存储以服务超过10亿名ChatGPT用户",
+      "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户",
       "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-09-11T10:00:00+00:00",
-      "summary": "了解 OpenAI 如何将 Habitat 从一个 Python 库发展成一个全球分布式存储平台，为 10 亿 ChatGPT 用户和每秒 2200 万次请求提供服务。",
+      "summary": "了解 OpenAI 如何将 Habitat 从 Python 库发展成为一个全球分布式存储平台，为 10 亿 ChatGPT 用户和每秒 2200 万个请求提供服务。",
       "score": 65,
       "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "translated": true,
@@ -18,12 +18,12 @@
       "uid": "73abed25292d"
     },
     {
-      "title": "Anthropic / Claude：改进我们的对齐和安全实践",
+      "title": "Anthropic / Claude：改进我们的一致性和安全实践",
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-15T04:24:03+00:00",
-      "summary": "改进我们的对齐和安全工作 7月30日，我们报告了三起事件，其中Claude模型未经授权访问了真实计算机系统。这些模型——出于评估目的故意在没有网络安全防护的情况下运行——由于第三方评估环境中的配置错误而访问了互联网。",
+      "published": "2026-09-16T04:19:26+00:00",
+      "summary": "改进我们的协调和安全工作 7 月 30 日，我们报告了三起 Claude 模型未经授权访问真实计算机系统的事件。 这些模型（出于评估目的而故意在没有网络保护的情况下运行）由于第三方评估环境内的配置错误而访问了互联网。",
       "score": 60,
       "original_title": "Anthropic / Claude：Improving our alignment and security practices",
       "translated": true,
@@ -31,30 +31,17 @@
       "uid": "5d9339d17aad"
     },
     {
-      "title": "AlphaGenome 图谱：人类基因组中每个可能的 DNA 字母变化的预测地图",
-      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "title": "隆重推出 Gemini 3.8 Live 和 3.8 Live 延伸思维",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
-      "published": "2026-09-08T14:00:15+00:00",
-      "summary": "AlphaGenome Atlas：人类基因组中每一个可能的DNA字母变化的预测地图 如何预测人类基因组中每一个可能的单个DNA字母变异的分子影响，将有助于加速我们对生物学的理解。今天，我们推出了AlphaGenome Atlas：一个平台（在我们的论文中有详细介绍），包含对90亿个单核苷酸变异的影响预测——每一个单独的...",
-      "score": 40,
-      "original_title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "published": "2026-09-15T17:05:57+00:00",
+      "summary": "隆重推出 Gemini 3. 8 Live 和 3. 8 Live Extended Thinking 今天，我们推出了两种新模型，它们带来了近实时推理方面的进步，可以更有效地启用语音代理，并使与 AI 的对话感觉更加直观和智能。 - Gemini 3. 8 Live：专为规模和成本效率而打造，将对话智能与流畅的对话和视觉基础相结合。",
+      "score": 45,
+      "original_title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "translated": true,
       "priority": 0,
-      "uid": "69a6dff164ab"
-    },
-    {
-      "title": "国家统计局：截至 6 月末我国已建成 70 余条算力大通道",
-      "link": "https://www.ithome.com/1/002/511.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-09-15T03:45:19+00:00",
-      "summary": "IT之家 9 月 15 日消息，国务院新闻办公室今日上午召开新闻发布会，国家统计局相关负责人介绍 8 月份国民经济运行情况，并答记者问。 据央视新闻报道，发布会上介绍，今年是“十五五”开局之年， 包括“六张网”在内的一批重大工程项目陆续开工建设 ，跨区域交通干线、能源水利重大工程、新型基础设施、城市更新等项目有序推进，对高质量发展的支撑作用有望进一步凸显。 前八个月，与“六张网”相关的互联网和相关服务业投资同比增长 42%，航空运输业、水上运输业投资分别增长 16.7% 和 14.7%，电力供应业投资增长 12.7%，数据显示， 截至 6 月末，我国已经围绕算力枢纽建成 70 余条算力大通道 。 IT之家注：“六张网”是 2026 年 4 月中央政治局会议提出的建设方向，包括水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等，是“十五五”规划提出的重大工程。",
-      "score": 115,
-      "original_title": "",
-      "translated": false,
-      "priority": 90,
-      "uid": "147c8a39b66c"
+      "uid": "307b58817a42"
     },
     {
       "title": "“高油价可能迫使欧洲央行进一步加息”",
@@ -70,12 +57,25 @@
       "uid": "90bcd0896dd6"
     },
     {
+      "title": "vivo OriginOS 7 发布：蓝心小 V 大升级，光影美学质感手动切换，首帧交互可打断",
+      "link": "https://www.ithome.com/1/002/974.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-16T03:26:52+00:00",
+      "summary": "IT之家 9 月 16 日消息，vivo OriginOS 7 今日正式发布，在 UI 设计、AI 智能、流畅体验等方面迎来升级。蓝心小 V OriginOS 7 带来全新蓝心小 V Pro：说一句话，小 V 就能自己拆解任务、整理信息、跨端操作，一步步执行，直到把事情办成。“ 定制攻略 ”现在，一句话小 V 就会把收藏的攻略、拍照的打卡点、做的笔记，还有订好的行程，全都串起来，再结合你的偏好生成一份专属路书。旅途中，小 V 也会帮你找到附近最地道的餐厅，为你随时推荐美食。“ 随身代办 ”遇到临时情况要处理，一句话，小 V 就能跨设备找到手机、电脑里的会议纪要、项目材料和邮件报告，再按你的表达习惯，几分钟，就整理成了一份可以直接用的工作报告。“ 更多用法 ”全新蓝心小 V Pro 还能陪你做更多，每天清晨，推荐今日热点资讯；",
+      "score": 75,
+      "original_title": "",
+      "translated": false,
+      "priority": 40,
+      "uid": "6cae0ff9580b"
+    },
+    {
       "title": "Anthropic / Claude：预览模型硬件标准",
       "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-15T04:24:03+00:00",
-      "summary": "预览模型硬件标准 我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准（MHS）的研究预览版本。该标准是一个共享规范，旨在使 AI 代理能够安全地操作物理设备。",
+      "published": "2026-09-16T04:19:26+00:00",
+      "summary": "预览模型硬件标准我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准（MHS）的研究预览，这是一个人工智能代理安全操作物理设备的共享规范。",
       "score": 60,
       "original_title": "Anthropic / Claude：Previewing the Model Hardware Standard",
       "translated": true,
@@ -83,12 +83,12 @@
       "uid": "715b5fd546b1"
     },
     {
-      "title": "Fyxer 如何打造人们信赖的人工智能行政助理",
+      "title": "Fyxer 如何打造人们信任的人工智能行政助理",
       "link": "https://openai.com/index/fyxer",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-09-14T12:00:00+00:00",
-      "summary": "Fyxer 使用 OpenAI 模型、微调、记忆和真实用户反馈来整理收件箱，并以每位用户的语气撰写电子邮件。",
+      "summary": "Fyxer 使用 OpenAI 模型、微调、内存和真实用户反馈来组织收件箱并以每个用户的声音起草电子邮件。",
       "score": 60,
       "original_title": "How Fyxer built an AI executive assistant people trust",
       "translated": true,
@@ -96,17 +96,17 @@
       "uid": "d8a283942308"
     },
     {
-      "title": "小米米家富矿净水器 2 今日开售：1200G 大流量 + 8 年长效 RO 滤芯，首发 2199 元",
-      "link": "https://www.ithome.com/1/002/518.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-09-15T04:09:32+00:00",
-      "summary": "IT之家 9 月 15 日消息，小米米家富矿净水器 2 今日 20:00 正式开售，首发价 2199 元，补贴到手价 2049 元。京东 米家【重磅新品】富矿净水器 2 家用厨下式 8 年长效 RO 膜反渗透母婴认证矿物质直饮机米家 APP 智联 MR1072-D 2049 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴： 点此领券 手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴： 点此领券 多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。欢迎下载最会买 App - 好货好价，高额返利，1 毛钱也能提现！扫描二维码或 点击此处下载 最新版（自动识别平台）。",
+      "title": "华为智慧屏 Mate TV 2 将于 9 月 23 日开启预售，支持隔空艺语双控投屏等功能",
+      "link": "https://www.ithome.com/1/002/985.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-16T03:51:33+00:00",
+      "summary": "IT之家 9 月 16 日消息，华为商城显示，华为智慧屏 Mate TV 2 将于 9 月 23 日 10:08 开启预售。 官方预热信息确认，这款新品延续灵犀悬浮触控、灵犀指向遥控和灵犀手写笔配件。 官方海报显示，华为智慧屏 Mate TV 2 搭载鸿蒙系统（IT之家注：上一代 MateTV 搭载 HarmonyOS 6.1），支持鸿蒙应用多路径下载。此外，新品还支持隔空手势抓取、艺语画面即投、立体视界等功能。 结合此前爆料，MateTV 2 系列在画质、音质和智慧体验上均有迭代。98 英寸和 110 英寸版本支持原生 3D 及 2D 转 3D，预计采用 Super Mini LED 背光与双芯片驱动方案。 音频方面，华为智慧屏 MateTV 2 可组合华为悦彰 Sound X 系列音响及吸顶音箱，搭建 16.3.4 沉浸式声场。系统有望首发搭载鸿蒙 7.0 并配麒麟芯片，手机应用流转、多设备投屏互联将进一步优化。",
       "score": 45,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "405ff2bbbc84"
+      "uid": "bf9fdac4969d"
     },
     {
       "title": "AI 时代隐晦式安全已死",
@@ -122,152 +122,152 @@
       "uid": "d862a959168a"
     },
     {
-      "title": "国补后 38499 元七彩虹灵创 K16 顶配版开售：AMD 锐龙 AI Max+ 395，128GB 内存 + 4TB 存储",
-      "link": "https://www.ithome.com/1/002/482.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-09-15T03:12:32+00:00",
-      "summary": "IT之家 9 月 15 日消息，七彩虹旗下灵创 K16 游戏本新推出的 128GB RAM + 4TB SSD 版本现已开售。该机搭载 AMD 锐龙 AI Max+ 395 处理器，定价为 39999 元，叠加国补后 38499 元。京东 七彩虹灵创 K16 笔记本 128GB RAM + 4TB SSD 版本 39999 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴： 点此领券 手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴： 点此领券 多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。欢迎下载最会买 App - 好货好价，高额返利，1 毛钱也能提现！",
-      "score": 25,
+      "title": "小米推出 4999 元米家冰箱 Pro 439L 法式 自动制冰新品，国补价 4249.2 元",
+      "link": "https://www.ithome.com/1/002/979.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-09-16T03:40:02+00:00",
+      "summary": "IT之家 9 月 16 日消息，小米官方今日宣布推出“米家冰箱 Pro 439L 法式 自动制冰”，官方指导价 4999 元，国补后到手价 4249.京东 米家冰箱 Pro 439L 自动制冰 双系统 急速净味除菌新国标一级法式零嵌入 BCD-439WFSGPDIN 补贴 4999 元 直达链接 该冰箱支持 -30℃ 深冷瞬冻，运行噪音 32 分贝，日均耗电 0.69 度，压缩机提供 10 年包修服务。它还支持四档可调变温空间，可切换母婴、干货、零度、果蔬四种模式。配备水分子筛高保湿技术，果蔬保湿鲜存 7 天；支持 -30℃ 深冷瞬冻。其机身宽度 702mm，深度 597mm，占地面积 0.42m²，相比前代老款减少 7.容积率提升至 54.40%，总容量保持 439L。这款冰箱采用法式布局，下方配备两个大抽屉，可整存整取大件食材，整鸡整鱼无需分割放入；",
+      "score": 15,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "3914cb70c242"
+      "uid": "c9b00771a18a"
     },
     {
-      "title": "使用搜索为你的下一场大型比赛做好准备的3种方法",
-      "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-09-10T16:00:00+00:00",
-      "summary": "使用搜索为下一场大型比赛做准备的3种方法 随着人们寻找放松和亲近自然的方式，与跑步相关的搜索量正在飙升：像“跑步俱乐部”“如何选择跑鞋”“如何准备马拉松”等搜索量今年已达到历史最高。参加比赛需要勇气、力量和（意想不到的）组织能力。幸运的是，搜索的AI功能使这一过程比以往任何时候都更容易……",
-      "score": 20,
-      "original_title": "3 ways to prep for your next big race with Search",
-      "translated": true,
-      "priority": 0,
-      "uid": "4d2993793887"
-    },
-    {
-      "title": "在能源危机中，富裕投资者涌向石油和天然气资产",
-      "link": "https://oilprice.com/Energy/Energy-General/Wealthy-Investors-Flock-To-Oil-Gas-Assets-Amid-Energy-Crisis.html",
+      "title": "沙特管道中断导致石油市场耗尽缓冲",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Hits-an-Oil-Market-Running-Out-of-Buffers.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-15T00:00:00+00:00",
-      "summary": "全球经济持续以历史性的速度造就高净值人士，财富情报公司Altrata指出，2025年全球亿万富翁的总财富同比跃升12.8%，达到创纪录的15.1万亿美元。“三逗号俱乐部”的人数达到创纪录的3,795人，人工智能热潮加速了全球财富的创造。",
+      "published": "2026-09-16T00:00:00+00:00",
+      "summary": "美国必须在大约六周内结束并赢得伊朗战争，现在已经进入第七个月，石油市场开始崩溃。 市场在中东冲突的最初几周和几个月中所拥有的大部分缓冲已经不复存在。 今年早些时候的供应过剩已经消失，因为三月份霍尔木兹海峡禁止油轮通行，水上石油迅速减少。",
       "score": 15,
-      "original_title": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis",
+      "original_title": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
       "translated": true,
       "priority": 0,
-      "uid": "2d733bcab539"
+      "uid": "fc11bc13ba49"
     },
     {
-      "title": "100美元油价让央行重新警惕通胀",
-      "link": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Central-Banks-Back-on-Inflation-Alert.html",
+      "title": "中国太阳能电池板价格降至每瓦 12 美分，全球屋顶安装量激增",
+      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Chinese-Solar-Panels-Drop-to-12-Cents-a-Watt-Rooftop-Installs-Surge-Worldwide.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-14T23:00:00+00:00",
-      "summary": "原油价格本周延续了此前的涨势，由于中东战争的扩大及对和平解决的愿望似乎减弱，加之全球石油库存持续缩减，价格几乎没有回落的可能。通货膨胀正在缓慢上升。对衰退的担忧重现。这可能只是时间问题。自二月底以来，美国柴油价格已上涨约60%，《华尔街日报》报道……",
+      "published": "2026-09-15T23:00:00+00:00",
+      "summary": "据英国《金融时报》报道，到 2026 年，中国制造的光伏电池板的成本为每瓦 12 美分，低于世纪之交的 5 至 6 美元，而价格的暴跌现在正在为从巴基斯坦水泥厂到菲律宾家庭和澳大利亚郊区的屋顶太阳能装置供电。 一家巴基斯坦水泥巨头在其生产基地安装了太阳能，并在...",
       "score": 15,
-      "original_title": "$100 Oil Puts Central Banks Back on Inflation Alert",
+      "original_title": "Chinese Solar Panels Drop to 12 Cents a Watt, Rooftop Installs Surge Worldwide",
       "translated": true,
       "priority": 0,
-      "uid": "ab171ec76cb9"
+      "uid": "04db86e60fd8"
     },
     {
-      "title": "全球燃料紧缩引发美国炼油商股价上涨",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Global-Fuel-Squeeze-Triggers-US-Refiners-Stocks-Rally.html",
+      "title": "萨姆·奥尔特曼 (Sam Altman) 正在向公用事业公司推销网络攻击的解决方案，他自己的人工智能帮助了 Cau",
+      "link": "https://oilprice.com/Energy/Energy-General/Sam-Altman-Is-Selling-Utilities-the-Cure-for-a-Cyberattack-His-Own-AI-Helped-Cau.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-14T22:00:00+00:00",
-      "summary": "今年随着中东冲突期间油价飙升，能源股上涨。超级大型石油公司埃克森美孚和雪佛龙的股票在2026年迄今约上涨了40%，但美国炼油厂的股票表现优于这些大型公司，因为全球燃料市场比原油市场紧张得多。",
+      "published": "2026-09-15T21:00:00+00:00",
+      "summary": "人工智能的繁荣正在推动新一波的自主网络攻击，对包括能源网在内的关键基础设施构成重大且日益严重的威胁。",
       "score": 15,
-      "original_title": "Global Fuel Squeeze Triggers U.S. Refiners Stocks Rally",
+      "original_title": "Sam Altman Is Selling Utilities the Cure for a Cyberattack His Own AI Helped Cau",
       "translated": true,
       "priority": 0,
-      "uid": "14d703e81fe3"
+      "uid": "8ec9b51df762"
     },
     {
-      "title": "美国银行预计第三季度投资银行费用将下降超过10%；股价下跌",
-      "link": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+      "title": "福特提高 V-8 发动机的可用性，降低 2027 年 F-150 卡车的性能价格",
+      "link": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-14T20:34:23+00:00",
-      "summary": "美国银行首席执行官布莱恩·莫伊尼汉周一告诉分析师，在第二季度创纪录之后，该行的华尔街咨询和交易业务将在未来几个月表现得更加低迷。莫伊尼汉在一次会议上表示，第三季度的投资银行费用可能较去年同期下降超过10%，而交易收入将大致保持平稳。",
+      "published": "2026-09-15T18:08:12+00:00",
+      "summary": "底特律——福特汽车正在扩大其 2027 年 F-150 皮卡系列的 V-8 发动机的供应范围，并降低部分性能车型的起价。 这家底特律汽车制造商表示，这些变化旨在为客户提供更多选择，并有助于扩大关键车型的销售，这是福特在首席执行官吉姆·法利(Jim Farley)的领导下一直在推行的战略。 这些变化发生之际，汽车制造商试图解决全行业的负担能力问题……",
       "score": 15,
-      "original_title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+      "original_title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
       "translated": true,
       "priority": 0,
-      "uid": "6546630ab7bc"
+      "uid": "00b978d24531"
     },
     {
-      "title": "通用计划在美国发展电池，特朗普批评福特与中国的关系",
-      "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+      "title": "人工智能的社会影响",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source": "Google AI Blog",
+      "category": "AI与科技",
+      "published": "2026-09-15T16:00:00+00:00",
+      "summary": "构建人工智能以加速科学发展并改善生活我们专注于先进技术可以帮助人类取得非凡进步的关键领域。 十多年来，我们看到人工智能稳步推进科学发现，从理论研究转向对现实世界的影响。 如今，这些工具的潜力不再是假设的——它是可测量的，并且从根本上是可...",
+      "score": 15,
+      "original_title": "AI for Societal Impact",
+      "translated": true,
+      "priority": 0,
+      "uid": "943cdc8a0d6d"
+    },
+    {
+      "title": "构建人工智能以加速科学发展并改善生活",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "source": "Google AI Blog",
+      "category": "AI与科技",
+      "published": "2026-09-15T16:00:00+00:00",
+      "summary": "构建人工智能以加速科学发展并改善生活今天，我们达到了一个重要的里程碑，它证明了数十年的人工智能研究和进步：Google 技术现在支持 300 多种语言，覆盖 70 亿人（占全球人口的 86%）。",
+      "score": 15,
+      "original_title": "Building AI to accelerate science and improve lives",
+      "translated": true,
+      "priority": 0,
+      "uid": "221091baff44"
+    },
+    {
+      "title": "为每个人提供每种语言的人工智能",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "source": "Google AI Blog",
+      "category": "AI与科技",
+      "published": "2026-09-15T16:00:00+00:00",
+      "summary": "今天，我们的技术和产品为超过 70 亿人（占全球人口的 86%）使用 300 多种语言的日常互动提供支持。 实现这一里程碑意义重大，但它也强调了对我们的使命至关重要的工作。",
+      "score": 15,
+      "original_title": "AI for everyone in every language",
+      "translated": true,
+      "priority": 0,
+      "uid": "c36a8b74933c"
+    },
+    {
+      "title": "童装零售商 Carter's 正在重塑品牌以吸引新一代父母",
+      "link": "https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-14T01:05:56+00:00",
-      "summary": "底特律——通用汽车正在开发下一代电池电芯的初期阶段，公司认为这些电池可以减少美国对中国的依赖，同时提升国内原材料的使用。通用汽车电池与可持续发展副总裁库尔特·凯尔蒂在接受CNBC专访时表示：“我们正在建立一个供应链，这样两年后、三年后，它将实现国内化。”",
+      "published": "2026-09-15T13:19:31+00:00",
+      "summary": "童装品牌卡特 (Carter's) 正在经历转型，以更好地适应新一代父母的需求，其同名公司正试图从近年来的低迷业绩中恢复过来。 周二宣布的品牌重塑包括新的徽标和营销活动，首席营销官 Sarah Crockett 告诉 CNBC，旨在保持这家拥有 161 年历史的公司与其核心客户的联系。",
       "score": 15,
-      "original_title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+      "original_title": "Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
       "translated": true,
       "priority": 0,
-      "uid": "8369757b9871"
-    },
-    {
-      "title": "观看宇航员克里斯蒂娜·科赫和谷歌的詹姆斯·马尼卡讨论太空、科技与探索。",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-09-14T19:00:00+00:00",
-      "summary": "观看宇航员克里斯蒂娜·科赫和谷歌的詹姆斯·马尼卡讨论太空、技术和探索。在我们“技术与社会对话”系列的最新一集中，NASA宇航员、工程师和科学家克里斯蒂娜·科赫与谷歌研究、实验室、技术与社会高级副总裁詹姆斯·马尼卡坐下来进行对谈。",
-      "score": 10,
-      "original_title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "translated": true,
-      "priority": 0,
-      "uid": "b35e4bb508a4"
-    },
-    {
-      "title": "开发者节回来了",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-09-14T16:00:00+00:00",
-      "summary": "DevFest 回来了 DevFest 季节正式回归。从 2026 年 10 月 1 日到 12 月 31 日，近一百万开发者和建设者将聚集在全球最大的社区主导技术会议上。由全球各地的 Google 开发者社区 (GDGs) 主办，DevFest 帮助每个人——从经验丰富的软件工程师到新兴的解决方案建设者——获得使用 Google 人工智能技术的实际动手经验...",
-      "score": 10,
-      "original_title": "DevFest is back",
-      "translated": true,
-      "priority": 0,
-      "uid": "c597a8697ede"
+      "uid": "8f8c33f72608"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3881.4057,
-        "change": -3.9271,
-        "pct": -0.1,
-        "amount_yi": 5050.81
+        "price": 3886.481,
+        "change": 22.2016,
+        "pct": 0.57,
+        "amount_yi": 5528.14
       },
       {
         "name": "深证成指",
-        "price": 13389.63,
-        "change": 5.06,
-        "pct": 0.04,
-        "amount_yi": 5517.58
+        "price": 13476.85,
+        "change": 188.874,
+        "pct": 1.42,
+        "amount_yi": 6122.72
       },
       {
         "name": "创业板指",
-        "price": 3279.62,
-        "change": -5.961,
-        "pct": -0.18,
-        "amount_yi": 992.86
+        "price": 3324.36,
+        "change": 76.44,
+        "pct": 2.35,
+        "amount_yi": 1321.43
       },
       {
         "name": "沪深300",
-        "price": 4479.4708,
-        "change": -0.6113,
-        "pct": -0.01,
-        "amount_yi": 2452.19
+        "price": 4479.5475,
+        "change": 29.5073,
+        "pct": 0.66,
+        "amount_yi": 3003.54
       }
     ],
     "holdings": [
@@ -276,11 +276,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 46.98,
-        "market_value": 4698.0,
-        "pnl": 1525.36,
-        "pnl_pct": 48.08,
-        "weight_hint": "44.0%",
+        "price": 46.59,
+        "market_value": 4659.0,
+        "pnl": 1486.36,
+        "pnl_pct": 46.85,
+        "weight_hint": "43.9%",
         "note": "",
         "available": true
       },
@@ -289,11 +289,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.5,
-        "market_value": 2850.0,
-        "pnl": 153.59,
-        "pnl_pct": 5.7,
-        "weight_hint": "26.7%",
+        "price": 28.37,
+        "market_value": 2837.0,
+        "pnl": 140.59,
+        "pnl_pct": 5.21,
+        "weight_hint": "26.8%",
         "note": "",
         "available": true
       },
@@ -302,10 +302,10 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.16,
-        "market_value": 2448.0,
-        "pnl": 570.48,
-        "pnl_pct": 30.38,
+        "price": 8.08,
+        "market_value": 2424.0,
+        "pnl": 546.48,
+        "pnl_pct": 29.11,
         "weight_hint": "22.9%",
         "note": "",
         "available": true
@@ -315,11 +315,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.08,
-        "market_value": 216.0,
-        "pnl": -102.0,
-        "pnl_pct": -32.08,
-        "weight_hint": "2.0%",
+        "price": 1.128,
+        "market_value": 225.6,
+        "pnl": -92.4,
+        "pnl_pct": -29.06,
+        "weight_hint": "2.1%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -328,10 +328,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.547,
-        "market_value": 454.7,
-        "pnl": -42.3,
-        "pnl_pct": -8.51,
+        "price": 4.553,
+        "market_value": 455.3,
+        "pnl": -41.7,
+        "pnl_pct": -8.39,
         "weight_hint": "4.3%",
         "note": "",
         "available": true
@@ -352,72 +352,58 @@
     ],
     "sectors": [
       {
-        "name": "新能源/光伏 · 风电零部件",
-        "pct": 4.62,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 9.59,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 风电设备",
-        "pct": 4.22,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 9.71,
+        "name": "半导体/电子 · 半导体材料",
+        "pct": 6.7,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 29.56,
         "source": "东财行业"
       },
       {
         "name": "半导体/电子 · 半导体设备",
-        "pct": 2.83,
+        "pct": 6.17,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 11.4,
+        "main_flow_yi": 24.19,
         "source": "东财行业"
       },
       {
-        "name": "半导体/电子 · 半导体材料",
-        "pct": 2.04,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 10.77,
+        "name": "新能源/光伏 · 光伏加工设备",
+        "pct": 3.24,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.76,
         "source": "东财行业"
       },
       {
-        "name": "电力/公用 · 电力设备",
-        "pct": 0.28,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": 12.22,
+        "name": "新能源/光伏 · 蓄电池及其他电池",
+        "pct": 2.46,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.61,
         "source": "东财行业"
       },
       {
-        "name": "煤炭 · 煤炭行业",
-        "pct": -0.1378375852724,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "煤炭 · 煤炭开采",
-        "pct": -0.18,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": -0.12,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 金融行业",
-        "pct": -0.72961098104615,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "电力/公用 · 供水供气",
-        "pct": -1.1336797354747,
+        "name": "电力/公用 · 电力行业",
+        "pct": 0.85357592180393,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": -1.3339151031603,
+        "pct": 0.49066462754094,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "煤炭 · 煤炭行业",
+        "pct": -0.43054028125512,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "金融/银行 · 金融行业",
+        "pct": -0.57231796883866,
+        "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
@@ -425,37 +411,49 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "港股午评：恒指跌0.23% 科指涨0.76% 科网股活跃 芯片股走强",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-15/doc-inirwsea3698711.shtml",
+        "title": "港股午评：恒指涨0.12% 科指涨0.87% 芯片股活跃 光通信板块走强",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvay6670480.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "天域半导体午前涨逾9% 拟回购不超过10%H股",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-15/doc-inirwsee3839392.shtml",
+        "title": "天域半导体午前涨近14% 月内连续回购股份彰显发展信心",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvaw7885675.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "爱芯元智午前涨逾9% 公司正式推出M9系列高阶智驾芯片",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvaw7883275.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "博泰车联午前涨超4% 首获头部高端新能源OEM海外车型项目定点",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvaw7882110.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [],
-    "total_market_value": 10666.7,
-    "total_pnl": 2105.13,
-    "total_amount_yi": 10568.39,
-    "bias": "震荡",
-    "volume_note": "量能：两市合计约 10568 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 风电零部件、风电设备、半导体设备；偏弱 煤炭行业、煤炭开采、金融行业",
-    "tip": "板块轮动是常态，不要追高换仓",
+    "total_market_value": 10600.9,
+    "total_pnl": 2039.33,
+    "total_amount_yi": 11650.86,
+    "bias": "偏多",
+    "volume_note": "量能：两市合计约 11651 亿元（接口口径），成交中等",
+    "sector_note": "行业分化：偏强 半导体材料、半导体设备、光伏加工设备；偏弱 煤炭行业、金融行业",
+    "tip": "一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向",
     "errors": []
   },
   "learning": {
-    "title": "ETF 适合新手的原因",
-    "body": "ETF（交易型开放式指数基金）一篮子持股，分散单家公司暴雷风险。半导体/新能源这种高波动行业，用 ETF 比赌单票更适合学习仓。",
+    "title": "T+1 是什么",
+    "body": "A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "Android 编译",
-    "text": "今儿聊【Android 编译】。Gradle一转，茶凉了；再转，饭糊了；还转，人傻了。你写驱动模式、均衡器、歌词翻译，它回你一个依赖冲突，态度比产品经理还硬。社会经验：能跑的别乱动，能动的别升级——升级这词在编程圈跟“改造”在装修圈一个味儿。"
+    "topic": "血压小计",
+    "text": "今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
