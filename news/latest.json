@@ -1,28 +1,28 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-16T12:19:10.063900+08:00",
+  "generated_at": "2026-09-17T12:25:23.112519+08:00",
   "timezone": "Asia/Shanghai",
   "count": 18,
   "items": [
     {
-      "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "title": "帮助老年人在日常生活中使用人工智能",
+      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-09-11T10:00:00+00:00",
-      "summary": "了解 OpenAI 如何将 Habitat 从 Python 库发展成为一个全球分布式存储平台，为 10 亿 ChatGPT 用户和每秒 2200 万个请求提供服务。",
+      "published": "2026-09-16T16:00:00+00:00",
+      "summary": "OpenAI 和 AARP 正在为美国 10 个城市的 1,000 名老年人举办免费的动手实践 ChatGPT 研讨会，以安全地培养实用的 AI 技能。",
       "score": 65,
-      "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "original_title": "Helping older adults use AI in everyday life",
       "translated": true,
       "priority": 0,
-      "uid": "73abed25292d"
+      "uid": "4c4a63a0b4fd"
     },
     {
       "title": "Anthropic / Claude：改进我们的一致性和安全实践",
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-16T04:19:26+00:00",
+      "published": "2026-09-17T04:25:45+00:00",
       "summary": "改进我们的协调和安全工作 7 月 30 日，我们报告了三起 Claude 模型未经授权访问真实计算机系统的事件。 这些模型（出于评估目的而故意在没有网络保护的情况下运行）由于第三方评估环境内的配置错误而访问了互联网。",
       "score": 60,
       "original_title": "Anthropic / Claude：Improving our alignment and security practices",
@@ -44,37 +44,24 @@
       "uid": "307b58817a42"
     },
     {
-      "title": "“高油价可能迫使欧洲央行进一步加息”",
-      "link": "https://www.ftchinese.com/story/001110867",
-      "source": "FT 中文网",
-      "category": "A股与宏观",
-      "published": "2026-09-13T16:00:00+00:00",
-      "summary": "欧洲央行资深的政策制定者科赫尔在欧洲央行今年第二次加息后警告，如果油价到今年底仍徘徊在每桶100美元左右，该行将不得不进一步加息。",
-      "score": 75,
-      "original_title": "",
-      "translated": false,
-      "priority": 60,
-      "uid": "90bcd0896dd6"
-    },
-    {
-      "title": "vivo OriginOS 7 发布：蓝心小 V 大升级，光影美学质感手动切换，首帧交互可打断",
-      "link": "https://www.ithome.com/1/002/974.htm",
+      "title": "华为打造业界首个采用 NPO 技术的超节点，汪涛宣布 openEuler 成为中国服务器操作系统份额第一",
+      "link": "https://www.ithome.com/1/003/505.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-16T03:26:52+00:00",
-      "summary": "IT之家 9 月 16 日消息，vivo OriginOS 7 今日正式发布，在 UI 设计、AI 智能、流畅体验等方面迎来升级。蓝心小 V OriginOS 7 带来全新蓝心小 V Pro：说一句话，小 V 就能自己拆解任务、整理信息、跨端操作，一步步执行，直到把事情办成。“ 定制攻略 ”现在，一句话小 V 就会把收藏的攻略、拍照的打卡点、做的笔记，还有订好的行程，全都串起来，再结合你的偏好生成一份专属路书。旅途中，小 V 也会帮你找到附近最地道的餐厅，为你随时推荐美食。“ 随身代办 ”遇到临时情况要处理，一句话，小 V 就能跨设备找到手机、电脑里的会议纪要、项目材料和邮件报告，再按你的表达习惯，几分钟，就整理成了一份可以直接用的工作报告。“ 更多用法 ”全新蓝心小 V Pro 还能陪你做更多，每天清晨，推荐今日热点资讯；",
-      "score": 75,
+      "published": "2026-09-17T04:13:25+00:00",
+      "summary": "IT之家 9 月 17 日消息，华为全联接大会 2026 于今日在上海启幕。华为副董事长、轮值董事长汪涛在大会上发表了“ 智启新未来，打造智能世界的硅基黑土地 ”的主题演讲，与产业界共同探讨在智能浪潮中如何携手合作，打造强大的 AI 基础设施，筑牢坚实的算力底座，迎接智能世界带来的机遇与挑战。汪涛表示，截至目前， 升腾 910C 超节点已部署超 1000 套，升腾 950 超节点也已规模商用 。超节点在规模商用的同时，已成为产、学、研在 AI 基础设施领域的共识，即是一种在物理上由多个计算节点通过高效的互联协议紧密连接组成，具备跨物理节点统一内存编址能力，逻辑上具备“一台计算机”特征的计算系统。在所有芯片中，升腾芯片是整个系统中的核心部件， 华为宣布升腾 960 芯片研发进度超出预期，性能实现倍增 。960DT 比原计划提前三个季度，2027 年第一季度就绪 ；",
+      "score": 60,
       "original_title": "",
       "translated": false,
-      "priority": 40,
-      "uid": "6cae0ff9580b"
+      "priority": 25,
+      "uid": "ad67a719035e"
     },
     {
       "title": "Anthropic / Claude：预览模型硬件标准",
       "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-16T04:19:26+00:00",
+      "published": "2026-09-17T04:25:45+00:00",
       "summary": "预览模型硬件标准我们正在向第一批科学研究实验室和先进制造商开放模型硬件标准（MHS）的研究预览，这是一个人工智能代理安全操作物理设备的共享规范。",
       "score": 60,
       "original_title": "Anthropic / Claude：Previewing the Model Hardware Standard",
@@ -83,111 +70,137 @@
       "uid": "715b5fd546b1"
     },
     {
-      "title": "Fyxer 如何打造人们信任的人工智能行政助理",
-      "link": "https://openai.com/index/fyxer",
+      "title": "我们报告模型失调的框架",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-09-14T12:00:00+00:00",
-      "summary": "Fyxer 使用 OpenAI 模型、微调、内存和真实用户反馈来组织收件箱并以每个用户的声音起草电子邮件。",
+      "published": "2026-09-16T17:00:00+00:00",
+      "summary": "OpenAI 共享一个用于跟踪、调查和披露模型偏差的框架，以及六份关于意外或相关模型行为的报告。",
       "score": 60,
-      "original_title": "How Fyxer built an AI executive assistant people trust",
+      "original_title": "Our framework for reporting model misalignment",
       "translated": true,
       "priority": 0,
-      "uid": "d8a283942308"
+      "uid": "eb42ceef02d6"
     },
     {
-      "title": "华为智慧屏 Mate TV 2 将于 9 月 23 日开启预售，支持隔空艺语双控投屏等功能",
-      "link": "https://www.ithome.com/1/002/985.htm",
+      "title": "一站式聚合东北超、苏超等 17 省 640 余场比赛，新型广电网络建设加速落地",
+      "link": "https://www.ithome.com/1/003/431.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-16T03:51:33+00:00",
-      "summary": "IT之家 9 月 16 日消息，华为商城显示，华为智慧屏 Mate TV 2 将于 9 月 23 日 10:08 开启预售。 官方预热信息确认，这款新品延续灵犀悬浮触控、灵犀指向遥控和灵犀手写笔配件。 官方海报显示，华为智慧屏 Mate TV 2 搭载鸿蒙系统（IT之家注：上一代 MateTV 搭载 HarmonyOS 6.1），支持鸿蒙应用多路径下载。此外，新品还支持隔空手势抓取、艺语画面即投、立体视界等功能。 结合此前爆料，MateTV 2 系列在画质、音质和智慧体验上均有迭代。98 英寸和 110 英寸版本支持原生 3D 及 2D 转 3D，预计采用 Super Mini LED 背光与双芯片驱动方案。 音频方面，华为智慧屏 MateTV 2 可组合华为悦彰 Sound X 系列音响及吸顶音箱，搭建 16.3.4 沉浸式声场。系统有望首发搭载鸿蒙 7.0 并配麒麟芯片，手机应用流转、多设备投屏互联将进一步优化。",
-      "score": 45,
+      "published": "2026-09-17T03:08:47+00:00",
+      "summary": "IT之家 9 月 17 日消息，国新办今日举行“开局起步‘十五五’”系列主题新闻发布会，国家广播电视总局副局长何飚介绍，“新型广电网络”纳入国家“十五五”规划纲要，广电总局正在加快建设“特色鲜明、技术先进、安全可靠”的新型广电网络，发挥“文化 + 科技”“内容 + 网络”“大屏 + 小屏”综合优势，打造广电视听行业“核心基座”，建好用好“三张网”。一是建强基础设施一张网。综合运用有线、无线、卫星、5G、互联网等多种网络资源，融合“云、网、数、智、端、安”等核心技术，建设“千兆化、超清化、智能化、协同化、一体化”的新型技术底座，全面提升广电网络对超高清、大流量、高带宽等多元视听服务的综合承载能力。二是建好内容服务一张网。广电视听行业拥有海量优质内容，但分散在不同地域、不同层级、不同主体。内容服务网就是针对这一现状，加强国家和地方的优质内容汇聚、共享、融通，打通内容“孤岛”，建立高效连接，这样既可以减少用户入口、方便收看，又能推动好内容更广传播、直达基层。",
+      "score": 55,
+      "original_title": "",
+      "translated": false,
+      "priority": 35,
+      "uid": "42b048abe3fb"
+    },
+    {
+      "title": "宏碁、华硕和联想 Googlebook 笔记本渲染图曝光：配彩色 Glowbar 灯带",
+      "link": "https://www.ithome.com/1/003/445.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-17T03:34:33+00:00",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 Android Headline 昨日（9 月 16 日）发布博文，分享了一组渲染图， 展示了宏碁、华硕和联想（按照英文字母排序）即将推出的 Googlebook 笔记本产品，预估将会在 9 月 21 日集体亮相。本次曝光了 4 张照片，分别展示了宏碁、华硕以及联想三款机型，还有一张照片展示了同框合照， 其亮点在于三款机型顶盖均采用彩色“Glowbar”灯带设计。宏碁 GP714-91N 这款 Googlebook 内部代号为“Moonstone”，键盘拥有实体 Gemini 按键，可快速调用 AI 功能。B 面配备一块 14 英寸 2.8K 分辨率 16:10 OLED 屏幕（覆盖 100% DCI-P3 色域），摄像头处配备物理遮挡开关。",
+      "score": 55,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "bf9fdac4969d"
+      "uid": "7586071b90b8"
     },
     {
-      "title": "AI 时代隐晦式安全已死",
-      "link": "https://www.solidot.org/story?sid=85370",
-      "source": "Solidot·通信",
-      "category": "通信与安防",
-      "published": "2026-09-14T08:27:40+00:00",
-      "summary": "安全工程领域有一种名为隐晦式安全（Security through obscurity）的设计方式，即只要网络和系统的架构以及任何漏洞或弱点保密或不为人知，它们就是安全的。但在 AI 辅助 bug 发现的时代，这种设计方式过时了。软件供应商和独立研究人员正利用 AI 智能体在各种产品和开源代码中搜寻漏洞——其中一些漏洞极其隐蔽且存在已久。这导致安全漏洞披露和补丁发布数量创下历史新高，同时也给项目维护者带来了巨大的积压事项。微软上周二释出例行安全更新，修复了 974 个 CVE 漏洞。趋势科技的 Dustin Child 指出，微软和 Adob​​e 所修复漏洞涉及的组件多年来基本无人问津，如 Telnet 客户端、Windows RNDIS、NFS Portmapper 和 Link Layer Topology Discovery。与此同时，攻击者也在利用 AI 对补丁进行逆向工程，在数小时内开发出相应的漏洞利用方法。在 AI 时代，攻击者无需成为某个领域的专家就能针对关键网络和设施发动破坏性网络攻击。",
-      "score": 30,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "d862a959168a"
-    },
-    {
-      "title": "小米推出 4999 元米家冰箱 Pro 439L 法式 自动制冰新品，国补价 4249.2 元",
-      "link": "https://www.ithome.com/1/002/979.htm",
+      "title": "小米米家空气净化器 6C 预售：千分位甲醛数显，999 元",
+      "link": "https://www.ithome.com/1/003/438.htm",
       "source": "IT之家·出行",
       "category": "健康生活",
-      "published": "2026-09-16T03:40:02+00:00",
-      "summary": "IT之家 9 月 16 日消息，小米官方今日宣布推出“米家冰箱 Pro 439L 法式 自动制冰”，官方指导价 4999 元，国补后到手价 4249.京东 米家冰箱 Pro 439L 自动制冰 双系统 急速净味除菌新国标一级法式零嵌入 BCD-439WFSGPDIN 补贴 4999 元 直达链接 该冰箱支持 -30℃ 深冷瞬冻，运行噪音 32 分贝，日均耗电 0.69 度，压缩机提供 10 年包修服务。它还支持四档可调变温空间，可切换母婴、干货、零度、果蔬四种模式。配备水分子筛高保湿技术，果蔬保湿鲜存 7 天；支持 -30℃ 深冷瞬冻。其机身宽度 702mm，深度 597mm，占地面积 0.42m²，相比前代老款减少 7.容积率提升至 54.40%，总容量保持 439L。这款冰箱采用法式布局，下方配备两个大抽屉，可整存整取大件食材，整鸡整鱼无需分割放入；",
+      "published": "2026-09-17T03:22:48+00:00",
+      "summary": "IT之家 9 月 17 日消息，米家空气净化器 6C 于昨晚开启预售，新品到手价 999 元，京东券后 997.这款空气净化器面向中小户型设计，最大适用面积达到 68 m²，颗粒物 CADR 实测值 603 m³/h，可实现 9500L/min 清新大气量，促进全屋高效循环换气，让洁净空气快速送达。机身设计紧凑，占地面积约为 0.063 m²， 和一张 A4 纸大小相近 ，能够轻松融入各类家居场景，小机身也能释放强劲性能。净化方面，该机配备 六项复合净化矩阵 ，包含：初效滤层拦截碎屑毛发、专效抗菌滤层抑制细菌、高密度除醛滤层分解甲醛、纳米级高精过滤层滤除颗粒物、专效除醛配方炭层锁定异味、紫外线杀菌层杀灭细菌病毒，实现深度除菌除敏。滤芯平均寿命长达 6 ~ 12 个月，日均使用成本仅 0.55 元，滤芯建议零售价 199 元。",
       "score": 15,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "c9b00771a18a"
+      "uid": "8398d340fd8d"
     },
     {
-      "title": "沙特管道中断导致石油市场耗尽缓冲",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Hits-an-Oil-Market-Running-Out-of-Buffers.html",
+      "title": "随着霍尔木兹危机蔓延至沙特出口航线，渣打银行预计石油底线将会更高",
+      "link": "https://oilprice.com/Energy/Crude-Oil/StanChart-Sees-Higher-Oil-Floor-as-Hormuz-Crisis-Spreads-to-Saudi-Export-Routes.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-16T00:00:00+00:00",
-      "summary": "美国必须在大约六周内结束并赢得伊朗战争，现在已经进入第七个月，石油市场开始崩溃。 市场在中东冲突的最初几周和几个月中所拥有的大部分缓冲已经不复存在。 今年早些时候的供应过剩已经消失，因为三月份霍尔木兹海峡禁止油轮通行，水上石油迅速减少。",
+      "published": "2026-09-17T00:00:00+00:00",
+      "summary": "在周三美联储做出关键决定之前，油价回落，但仍保持高位，市场预期转向美伊冲突旷日持久。 下午 2:18 11 月交割的布伦特原油下跌 2. 88%。 东部时间，交易价格为 105 美元。 6 美元/桶，而 10 月交割的 WTI 原油价格下跌 3. 33%，以 102 美元易手。 美联储周三加息25个基点至...",
       "score": 15,
-      "original_title": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
+      "original_title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
       "translated": true,
       "priority": 0,
-      "uid": "fc11bc13ba49"
+      "uid": "fd6e4b976920"
     },
     {
-      "title": "中国太阳能电池板价格降至每瓦 12 美分，全球屋顶安装量激增",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Chinese-Solar-Panels-Drop-to-12-Cents-a-Watt-Rooftop-Installs-Surge-Worldwide.html",
+      "title": "随着石油运输危机加深，油轮运价每天突破 100 万美元",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Tanker-Rates-Smash-1-Million-a-Day-as-Oil-Shipping-Crisis-Deepens.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-15T23:00:00+00:00",
-      "summary": "据英国《金融时报》报道，到 2026 年，中国制造的光伏电池板的成本为每瓦 12 美分，低于世纪之交的 5 至 6 美元，而价格的暴跌现在正在为从巴基斯坦水泥厂到菲律宾家庭和澳大利亚郊区的屋顶太阳能装置供电。 一家巴基斯坦水泥巨头在其生产基地安装了太阳能，并在...",
+      "published": "2026-09-16T23:00:00+00:00",
+      "summary": "由于运载原油和燃料的船只供应紧张，油轮的日费历史上首次突破 100 万美元，船东愿意冒险穿越霍尔木兹海峡。 正如油轮成为网络安全目标一样，这种挤压增加了实物交割石油价格的额外成本。",
       "score": 15,
-      "original_title": "Chinese Solar Panels Drop to 12 Cents a Watt, Rooftop Installs Surge Worldwide",
+      "original_title": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens",
       "translated": true,
       "priority": 0,
-      "uid": "04db86e60fd8"
+      "uid": "218e4f66a382"
     },
     {
-      "title": "萨姆·奥尔特曼 (Sam Altman) 正在向公用事业公司推销网络攻击的解决方案，他自己的人工智能帮助了 Cau",
-      "link": "https://oilprice.com/Energy/Energy-General/Sam-Altman-Is-Selling-Utilities-the-Cure-for-a-Cyberattack-His-Own-AI-Helped-Cau.html",
+      "title": "油价突破 100 美元推动美国燃油价格创新高",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Above-100-Pushes-US-Fuel-Prices-to-New-Records.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-15T21:00:00+00:00",
-      "summary": "人工智能的繁荣正在推动新一波的自主网络攻击，对包括能源网在内的关键基础设施构成重大且日益严重的威胁。",
+      "published": "2026-09-16T22:00:00+00:00",
+      "summary": "石油市场似乎已经达到了许多分析师几周前预测的拐点，因为中东冲突重新升级，且看不到外交推动力，全球库存继续下滑。 油价重回每桶 100 美元以上，推高了柴油和汽油价格，包括美国在内。 特朗普政府希望淡化价格上涨，认为这只是暂时的。",
       "score": 15,
-      "original_title": "Sam Altman Is Selling Utilities the Cure for a Cyberattack His Own AI Helped Cau",
+      "original_title": "Oil Above $100 Pushes U.S. Fuel Prices to New Records",
       "translated": true,
       "priority": 0,
-      "uid": "8ec9b51df762"
+      "uid": "e44879d895b5"
     },
     {
-      "title": "福特提高 V-8 发动机的可用性，降低 2027 年 F-150 卡车的性能价格",
-      "link": "https://www.cnbc.com/2026/09/15/2027-ford-f-150-trucks.html",
+      "title": "波音首席执行官：737 Max 产量需要“比预期更长的时间”才能稳定下来",
+      "link": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-15T18:08:12+00:00",
-      "summary": "底特律——福特汽车正在扩大其 2027 年 F-150 皮卡系列的 V-8 发动机的供应范围，并降低部分性能车型的起价。 这家底特律汽车制造商表示，这些变化旨在为客户提供更多选择，并有助于扩大关键车型的销售，这是福特在首席执行官吉姆·法利(Jim Farley)的领导下一直在推行的战略。 这些变化发生之际，汽车制造商试图解决全行业的负担能力问题……",
+      "published": "2026-09-16T19:36:24+00:00",
+      "summary": "波音公司首席执行官凯利·奥特伯格周三对投资者表示，波音 737 Max 的产量稳定所需的时间比预期“稍长一些”，该公司预计明年将增加飞机的产量。 奥特伯格发表上述言论后，波音公司股价延续当天跌势，下午交易中下跌超过 5%。 在……之后，该制造商一直致力于稳步提高其最畅销飞机的产量。",
       "score": 15,
-      "original_title": "Ford increases V-8 engine availability, lowers performance prices for 2027 F-150 trucks",
+      "original_title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
       "translated": true,
       "priority": 0,
-      "uid": "00b978d24531"
+      "uid": "e0316ab69290"
     },
     {
-      "title": "人工智能的社会影响",
+      "title": "美国航空表示，随着高级客舱热潮升温，30% 的座位贡献了一半的收入",
+      "link": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-09-16T18:33:51+00:00",
+      "summary": "K型经济正在腾飞。 美国航空首席执行官罗伯特·伊索姆周三表示，其座位数仅占公司收入的一半，这一比例使得这家总部位于德克萨斯州沃思堡的航空公司和大大小小的竞争对手放弃了现有的飞机配置，以增加更多的头等舱和其他更高收益的选择。",
+      "score": 15,
+      "original_title": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
+      "translated": true,
+      "priority": 0,
+      "uid": "59bf45a4165b"
+    },
+    {
+      "title": "J.D. Power 报告显示，尽管出行量接近创纪录水平，但旅客对美国机场的满意度更高",
+      "link": "https://www.cnbc.com/2026/09/16/airport-satisfaction.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-09-16T10:00:01+00:00",
+      "summary": "尽管在美国飞行的人数接近创纪录的水平，但旅客似乎对他们所经过的机场感到更满意。 Power 周三发布的年度北美机场满意度研究报告称，今年机场的总体满意度显着提高。 旅客给予更高的评分，部分原因是许多机场近年来开设了较新的登机口和航站楼...",
+      "score": 15,
+      "original_title": "Flyers are happier with U.S. airports, despite near record travel levels, J.D. Power report shows",
+      "translated": true,
+      "priority": 0,
+      "uid": "dd6e41126cce"
+    },
+    {
+      "title": "人工智能促进社会影响",
       "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
       "source": "Google AI Blog",
       "category": "AI与科技",
@@ -224,50 +237,37 @@
       "translated": true,
       "priority": 0,
       "uid": "c36a8b74933c"
-    },
-    {
-      "title": "童装零售商 Carter's 正在重塑品牌以吸引新一代父母",
-      "link": "https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-09-15T13:19:31+00:00",
-      "summary": "童装品牌卡特 (Carter's) 正在经历转型，以更好地适应新一代父母的需求，其同名公司正试图从近年来的低迷业绩中恢复过来。 周二宣布的品牌重塑包括新的徽标和营销活动，首席营销官 Sarah Crockett 告诉 CNBC，旨在保持这家拥有 161 年历史的公司与其核心客户的联系。",
-      "score": 15,
-      "original_title": "Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
-      "translated": true,
-      "priority": 0,
-      "uid": "8f8c33f72608"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3886.481,
-        "change": 22.2016,
-        "pct": 0.57,
-        "amount_yi": 5528.14
+        "price": 3877.458,
+        "change": -14.1425,
+        "pct": -0.36,
+        "amount_yi": 5943.67
       },
       {
         "name": "深证成指",
-        "price": 13476.85,
-        "change": 188.874,
-        "pct": 1.42,
-        "amount_yi": 6122.72
+        "price": 13415.41,
+        "change": -39.329,
+        "pct": -0.29,
+        "amount_yi": 6501.75
       },
       {
         "name": "创业板指",
-        "price": 3324.36,
-        "change": 76.44,
-        "pct": 2.35,
-        "amount_yi": 1321.43
+        "price": 3307.63,
+        "change": -3.849,
+        "pct": -0.12,
+        "amount_yi": 1262.62
       },
       {
         "name": "沪深300",
-        "price": 4479.5475,
-        "change": 29.5073,
-        "pct": 0.66,
-        "amount_yi": 3003.54
+        "price": 4463.9874,
+        "change": -16.2809,
+        "pct": -0.36,
+        "amount_yi": 2958.78
       }
     ],
     "holdings": [
@@ -276,11 +276,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 46.59,
-        "market_value": 4659.0,
-        "pnl": 1486.36,
-        "pnl_pct": 46.85,
-        "weight_hint": "43.9%",
+        "price": 46.44,
+        "market_value": 4644.0,
+        "pnl": 1471.36,
+        "pnl_pct": 46.38,
+        "weight_hint": "43.7%",
         "note": "",
         "available": true
       },
@@ -289,10 +289,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.37,
-        "market_value": 2837.0,
-        "pnl": 140.59,
-        "pnl_pct": 5.21,
+        "price": 28.43,
+        "market_value": 2843.0,
+        "pnl": 146.59,
+        "pnl_pct": 5.44,
         "weight_hint": "26.8%",
         "note": "",
         "available": true
@@ -302,11 +302,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.08,
-        "market_value": 2424.0,
-        "pnl": 546.48,
-        "pnl_pct": 29.11,
-        "weight_hint": "22.9%",
+        "price": 8.19,
+        "market_value": 2457.0,
+        "pnl": 579.48,
+        "pnl_pct": 30.86,
+        "weight_hint": "23.1%",
         "note": "",
         "available": true
       },
@@ -315,10 +315,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.128,
-        "market_value": 225.6,
-        "pnl": -92.4,
-        "pnl_pct": -29.06,
+        "price": 1.116,
+        "market_value": 223.2,
+        "pnl": -94.8,
+        "pnl_pct": -29.81,
         "weight_hint": "2.1%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -328,10 +328,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.553,
-        "market_value": 455.3,
-        "pnl": -41.7,
-        "pnl_pct": -8.39,
+        "price": 4.533,
+        "market_value": 453.3,
+        "pnl": -43.7,
+        "pnl_pct": -8.79,
         "weight_hint": "4.3%",
         "note": "",
         "available": true
@@ -352,58 +352,44 @@
     ],
     "sectors": [
       {
-        "name": "半导体/电子 · 半导体材料",
-        "pct": 6.7,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 29.56,
-        "source": "东财行业"
-      },
-      {
         "name": "半导体/电子 · 半导体设备",
-        "pct": 6.17,
+        "pct": 0.66,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 24.19,
+        "main_flow_yi": 1.75,
         "source": "东财行业"
       },
       {
-        "name": "新能源/光伏 · 光伏加工设备",
-        "pct": 3.24,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.76,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 蓄电池及其他电池",
-        "pct": 2.46,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.61,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 电力行业",
-        "pct": 0.85357592180393,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "石油 · 石油行业",
-        "pct": 0.49066462754094,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "name": "金融/银行 · 金融行业",
+        "pct": -0.3629143814995,
+        "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "煤炭 · 煤炭行业",
-        "pct": -0.43054028125512,
+        "pct": -0.53111839026673,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "金融/银行 · 金融行业",
-        "pct": -0.57231796883866,
-        "why": "对应工商银行，关注净息差与分红",
+        "name": "半导体/电子 · 电子器件",
+        "pct": -0.56775586753557,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "石油 · 石油行业",
+        "pct": -1.9172361427487,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "电力/公用 · 电力行业",
+        "pct": -2.1527057648731,
+        "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
@@ -411,49 +397,31 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "港股午评：恒指涨0.12% 科指涨0.87% 芯片股活跃 光通信板块走强",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvay6670480.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "天域半导体午前涨近14% 月内连续回购股份彰显发展信心",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvaw7885675.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "爱芯元智午前涨逾9% 公司正式推出M9系列高阶智驾芯片",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvaw7883275.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "博泰车联午前涨超4% 首获头部高端新能源OEM海外车型项目定点",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvaw7882110.shtml",
+        "title": "华为发布首个采用NPO技术的昇腾960超节点，轮值董事长汪涛：昇腾960芯片研发进度超出预期，性能实现倍增",
+        "link": "https://finance.sina.com.cn/china/gncj/2026-09-17/doc-inisceki0303594.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [],
-    "total_market_value": 10600.9,
-    "total_pnl": 2039.33,
-    "total_amount_yi": 11650.86,
-    "bias": "偏多",
-    "volume_note": "量能：两市合计约 11651 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 半导体材料、半导体设备、光伏加工设备；偏弱 煤炭行业、金融行业",
-    "tip": "一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向",
+    "total_market_value": 10620.5,
+    "total_pnl": 2058.93,
+    "total_amount_yi": 12445.42,
+    "bias": "震荡",
+    "volume_note": "量能：两市合计约 12445 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 半导体设备；偏弱 金融行业、煤炭行业、电子器件",
+    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
     "errors": []
   },
   "learning": {
-    "title": "T+1 是什么",
-    "body": "A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？",
+    "title": "满仓的代价",
+    "body": "现金几乎为0时，回调里没有子弹加仓。新手版仓位：核心防御60–70%，成长卫星20–30%，现金尽量留10–20%。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "血压小计",
-    "text": "今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。"
+    "topic": "机油保养",
+    "text": "今儿聊【机油保养】。NWG150说明书写六千公里一换，你心里写“再挺挺”。车不说话，缸里知道；等它说话，说话的方式通常是异响。社会经验：省下的机油钱，最后都会变成修理厂的茶位费。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
