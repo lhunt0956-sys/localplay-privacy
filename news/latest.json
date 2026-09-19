@@ -1,8 +1,8 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-18T12:09:13.453992+08:00",
+  "generated_at": "2026-09-19T12:06:11.796616+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "title": "帮助老年人在日常生活中使用人工智能",
@@ -22,7 +22,7 @@
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-18T04:09:36+00:00",
+      "published": "2026-09-19T04:06:32+00:00",
       "summary": "改进我们的对齐和安全工作 7月30日，我们报告了三起事件，其中Claude模型未经授权访问了真实计算机系统。这些模型——出于评估目的故意在没有网络安全防护的情况下运行——由于第三方评估环境中的配置错误而访问了互联网。",
       "score": 60,
       "original_title": "Anthropic / Claude：Improving our alignment and security practices",
@@ -44,30 +44,30 @@
       "uid": "307b58817a42"
     },
     {
-      "title": "华为灵衢升腾 950 智算集群云服务计划 9 月 30 日国内商用、11 月 30 日全球商用",
-      "link": "https://www.ithome.com/1/003/981.htm",
+      "title": "“机顶盒内置”引发网友热议：专家解读一体化电视到底长什么样，广电总局目标在今年实现数千万规模部署",
+      "link": "https://www.ithome.com/1/004/382.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-18T02:48:00+00:00",
-      "summary": "IT之家 9 月 18 日消息，在华为全联接大会 2026 上，华为公司董事、华为云 CEO 周跃峰表示，灵衢升腾 950 智算集群云服务将于 9 月 30 日面向国内市场商用，11 月 30 日面向全球市场商用。IT之家昨日曾报道，华为轮值董事长汪涛表示升腾 960 芯片已提前就绪，性能实现翻番。升腾 960DT 将于 2027 年第一季度发布，较原计划提前三个季度；升腾 960PR 将于第三季度发布，提前一个季度。后续华为将坚持一年一代的演进节奏，升腾 970 计划 2028 年发布，升腾 980 计划 2029 年发布。升腾 960DT 可支持 2 PFLOPS 的 FP8 算力和 4 PFLOPS 的 FP4 算力，片上 HBM 最大支持 288GB，访存带宽达 9.汪涛透露，升腾超节点已部署超过 1000 套，升腾 950 超节点已开始规模商用。",
-      "score": 60,
+      "published": "2026-09-19T01:25:09+00:00",
+      "summary": "IT之家 9 月 19 日消息，国家广播电视总局 9 月 17 日在国务院新闻办公室发布会上介绍，将会同工业和信息化部制定一体化电视技术标准，把机顶盒功能以软件形态内置于电视机中。按照规划，一台电视即可接收直播、点播等全类型电视业务。用户配备通用遥控器，可一键开关机、一键看频道节目。实际上，这已经不是什么新闻了，IT之家近两年来至少已经报道过 12 次相关内容。但没想到的是，9 月 17 日消息公布后，“机顶盒内置”这一旧闻迅速引发网友讨论并登上热搜。今年 6 月 15 日，国家广播电视总局就已发布《一体化电视专网电视业务应用技术要求和测量方法》行业标准。这是我国首个针对一体化电视的基础性技术规范 。央视新闻邀请到了国家广播电视总局广播电视科学研究院有线所所长欧阳峰进行解读。据介绍，一体化电视主要是将传统硬件机顶盒以软件形式安装在智能电视机中，实现直播、点播和视频回看等功能。",
+      "score": 105,
       "original_title": "",
       "translated": false,
-      "priority": 25,
-      "uid": "944312e42d82"
+      "priority": 85,
+      "uid": "b8517f8190b1"
     },
     {
-      "title": "Anthropic / Claude：推出生命科学验证计划",
-      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "title": "Anthropic / Claude：与埃森哲合作进行嵌入式评估",
+      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-18T04:09:36+00:00",
-      "summary": "介绍生命科学验证计划 今天，我们推出了生命科学验证计划（LSVP），该计划为生命科学专业人士提供了访问我们的Mythos、Opus和Sonnet模型的权限，并采用了一套针对生物学相关工作更宽松的精细化防护措施。我们已经通过早期访问计划为数十个组织提供了服务，现在向更广泛的生命科学社群开放申请。",
+      "published": "2026-09-19T04:06:32+00:00",
+      "summary": "与埃森哲合作进行嵌入式评估 我们正在与埃森哲合作，对前沿人工智能进行独立评估。这是朝着我们首席执行官在《我们必须为前沿设定步伐》的文章中所作承诺迈出的重要一步，即在Anthropic内部嵌入评估人员。该合作将由埃森哲的人工智能专业业务部门Faculty领导，并将包括评估和红队测试模型、进行对齐评估...",
       "score": 60,
-      "original_title": "Anthropic / Claude：Introducing the Life Sciences Verification Program",
+      "original_title": "Anthropic / Claude：Partnering with Accenture on embedded evaluation",
       "translated": true,
       "priority": 0,
-      "uid": "dc6bebd5e3fb"
+      "uid": "62890b5bd4da"
     },
     {
       "title": "推出Astra法律版",
@@ -83,43 +83,43 @@
       "uid": "15ab17ad4c1c"
     },
     {
-      "title": "张雪机车官宣 2026 中国摩博会“五车齐发”，首款巡航、ADV 摩托车将至",
-      "link": "https://www.ithome.com/1/004/053.htm",
+      "title": "联想旗下摩托罗拉预热 Signature 27 旗舰手机：后置 2 亿像素主摄、有望搭载第六代骁龙 8 系列芯片",
+      "link": "https://www.ithome.com/1/004/400.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-19T02:45:27+00:00",
+      "summary": "IT之家 9 月 19 日消息，联想旗下摩托罗拉现已开始预热旗下旗舰手机 Signature 27，官方透露将于 9 月 22 日公布更多信息。参考官方先前发布的预热视频，其开头写着“Every material.Obsessed.”（每一种材质，都极致追求），随后展示不同质感后盖版本的苔藓绿配色手机背面（可以看到该机后置 2 亿像素主摄）。视频中还出现一款未具名的芯片，视频结尾确认了产品名称“Signature 27”，同时公布 9 月 22 日这一日期线索。值得注意的是，高通年度骁龙峰会将于 9 月 22 日至 24 日举行。如果摩托罗拉此次预热确实与高通合作有关，这意味着该机有望搭载高通第六代骁龙 8 系列芯片，但不确定搭载的是标准版还是至尊版。除此之外，Signature 27 网页的源代码中可以找到一段 \"Crystals by Swarovski logo\" 的注释，这意味着该机很可能会引入施华洛世奇水晶装饰版本。",
+      "score": 55,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "eda4608ff57b"
+    },
+    {
+      "title": "北京市市场监督管理局对四家在线酒店旅游预订平台立案调查，飞猪、同程、途家、美团回应",
+      "link": "https://www.ithome.com/1/004/415.htm",
       "source": "IT之家·出行",
       "category": "健康生活",
-      "published": "2026-09-18T03:40:51+00:00",
-      "summary": "IT之家 9 月 18 日消息，第二十四届中国国际摩托车博览会（简称 2026 中国摩博会）将于 2026 年 9 月 19 日-22 日在重庆国际博览中心举行，参展企业逾 1,000 家，展示规模和展商数均创历史新高。张雪机车今日宣布，将在 2026 中国摩博会“五车齐发”， 推出 820X、600V、500F-2027、820RR-RS、820RR-RC 五款摩托车 。网上已经流传出张雪 820X 摩托车的实车图， 这是一款 ADV 车型（探险摩托车） 。从图中可以看到，车上印有 820X 字样，配备类似手机比例的竖向仪表屏，尾部搭载尾箱。IT之家注意到，张雪 820X 已现身工信部申报名单，还有黑色尾箱版本；搭载 819cc 排量直列三缸水冷发动机，最大功率 85kW。张雪 820X 车身尺寸为 2320x950x1455mm，轴距 1575mm，最高车速达 220km/h，不带尾箱的版本重量为 218kg。",
+      "published": "2026-09-19T03:33:41+00:00",
+      "summary": "9 月 19 日消息，北京市市场监督管理局根据国家市场监督管理总局工作部署和前期核查情况，依据《反不正当竞争法》《电子商务法》等法律法规，对杭州淘美航空服务有限公司（飞猪）、同程网络科技股份有限公司、途家在线信息技术（天津）有限公司、北京三快信息科技有限公司（美团）四家在线酒店旅游预订平台企业涉嫌相关违法行为立案调查，四家平台当天对此发布回应。飞猪表示，公司高度重视，并将积极配合北京市市场监督管理局的各项调查工作，全面落实监管要求。飞猪始终尊重并维护公平、开放、有序的市场环境，也将持续与行业各方一起，促进行业高质量发展。同程表示，对此高度重视，并将积极配合监管部门开展工作，全面落实监管的各项要求，全力保障消费者和合作伙伴的合法权益。目前同程各项业务运行正常，公司将持续提升合规水平，与行业各方共同维护高质量、可持续发展的市场环境。",
       "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 35,
-      "uid": "f79cad907558"
+      "uid": "39458e3a307f"
     },
     {
-      "title": "讯飞 AI 录音卡上架：支持 10 种外语翻译、30 小时续航，999 元",
-      "link": "https://www.ithome.com/1/004/040.htm",
-      "source": "IT之家·通信安防",
+      "title": "安全研究人员利用 Claude 成功入侵 OpenAI",
+      "link": "https://www.solidot.org/story?sid=85421",
+      "source": "Solidot·通信",
       "category": "通信与安防",
-      "published": "2026-09-18T03:31:49+00:00",
-      "summary": "IT之家 9 月 18 日消息，科大讯飞现已在京东上架一款讯飞 AI 录音卡，该产品深度整合 AI 大模型，主打会议记录， 定价为 999 元 。 京东 科大讯飞 AI 录音卡 999 元 直达链接 该产品提供深空灰与曜石黑两色，尺寸为 85.6mm×54mm×4mm，重约 33g。正面为铝合金材质，背面采用玻纤与 PET 工艺，支持原生磁吸，可直接贴附于手机背面。机身配备一块 0.95 英寸 OLED 屏，可显示录音信息。 该机内置 1 颗骨传导麦克风与 3 颗全向麦克风，可实现 8 米远距离拾音及专业降噪功能。机器具备 AI 转文字 / 总结能力，支持多种本地方言、10 种外语及 2 种民族语言翻译。2 小时录音号称“2 分钟即可完成转写”，并能自动生成包含待办事项的会议纪要，第一年提供不限量免费转写服务。 其他方面，该机搭载 16GB 存储空间，内置 210mAh 电池，提供至高 30 小时续航，支持手机反向磁吸充电，IT之家附产品参数：",
+      "published": "2026-09-18T15:17:50+00:00",
+      "summary": "Hacktron 安全团队组合利用 OpenAI 的 SSO（单点登录）配置错误以及其社区论坛使用的 Discourse 软件 libheif 软件包堆缓冲区溢出漏洞，成功控制了多名 OpenAI 员工的 ChatGPT 账户。利用这些账户安全研究人员能访问 OpenAI 内部代码库，以及其他关联服务。他们向 OpenAI 和 Discourse 报告了 bug，从 OpenAI 获得了 6500 美元的赏金。安全研究人员利用了 OpenAI 竞争对手 Anthropic 的 Claude AI 工具去辅助发现 bug，以及实现远程代码执行 RCE。他们一开始使用的是较旧的模型 Opus 4.8，之后使用了新发布的 Opus 5.5。整个 AI 辅助 bug 发现和辅助攻击消耗的 token 支出不到 3000 美元，AI 智能体花费了数天时间，而研究人员投入的人工时间仅仅数小时，凸显了 AI 时代黑客攻击成本的低廉。",
       "score": 40,
       "original_title": "",
       "translated": false,
-      "priority": 15,
-      "uid": "b02b15982e2c"
-    },
-    {
-      "title": "影视飓风 Tim 称苹果首款折叠屏手机 iPhone Duo 录视频烫到握不住，客服回应称单台测评片面",
-      "link": "https://www.ithome.com/1/004/055.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-09-18T04:02:16+00:00",
-      "summary": "IT之家 9 月 18 日消息，影视飓风创始人 Tim（潘天鸿）9 月 16 日晚发布了苹果首款折叠屏手机 iPhone Duo 的测评视频，称该机型在录制视频等高负载场景下发热严重，形容“烫到握不住，一边很凉一边可以煎鸡蛋”。他在视频中表示，iPhone Duo 在日常使用时机身温度可控。但在苹果发布会现场持续录制约 3 分钟 4K 60 帧视频后，手机已烫到几乎无法握持。他称 iPhone Duo“是我测过最烫的手机之一”。对于发热原因，Tim 分析称这与 iPhone Duo 的设计有关，其算力和信号模块集中在摄像头下方，即便配备 VC 均热板也难以压制。他推测苹果后续可能通过软件更新限制性能以改善体验。作为对比，同场测试的 iPhone 18 Pro 系列升级了大面积 VC 均热板，长时间高负载运行后机身温度仅比上一代高出约 1℃，温控表现相对稳定。",
-      "score": 20,
-      "original_title": "",
-      "translated": false,
       "priority": 0,
-      "uid": "702fa1d5504d"
+      "uid": "64288a19b5cc"
     },
     {
       "title": "Netflix 内容主管贝拉·巴贾里亚将事件战略定义为流媒体平台关注更多现场体育赛事",
@@ -127,7 +127,7 @@
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-09-17T16:00:17+00:00",
-      "summary": "Netflix 的现场体育战略是基于寻找它认为可以转变为重大事件的比赛和锦标赛。这使得定义“事件”对公司的成功至关重要。Netflix 首席内容官 Bela Bajaria 在上周接受 CNBC 体育独家采访时表示：“事件的特点在于它充满热度、具有文化性、符合时代精神——那真的是一种不可错过的时刻。”",
+      "summary": "Netflix 的现场体育战略是基于寻找它认为可以转变为重大事件的比赛和锦标赛。这使得定义“事件”对公司的成功至关重要。Netflix 首席内容官 Bela Bajaria 在上周接受 CNBC 体育独家采访时表示：“事件的特点在于它充满热度、具有文化意义、符合时代精神——那真的是一种不可错过的时刻。”",
       "score": 20,
       "original_title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
       "translated": true,
@@ -135,95 +135,121 @@
       "uid": "fefd934d1e03"
     },
     {
-      "title": "也门对美伊战争的真正意义",
-      "link": "https://oilprice.com/Geopolitics/Middle-East/What-Yemen-Really-Means-to-the-US-Iran-War.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-18T00:00:00+00:00",
-      "summary": "也门的胡塞武装并没有参与伊朗的战争，这进一步使情况复杂化。他们自己发动战争，并让伊朗的战争为此买单。他们9月8日提出的要求与他们自2023年拒绝联合国的一项路线图以来的要求相同，该路线图本来会支付胡塞的薪水，并给予他们也门石油和天然气收入的一部分。",
-      "score": 15,
-      "original_title": "What Yemen Really Means to the U.S.-Iran War",
-      "translated": true,
-      "priority": 0,
-      "uid": "cc2f5796fcee"
-    },
-    {
-      "title": "沙特管道中断可能加剧全球燃料紧缺",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Could-Deepen-the-Global-Fuel-Crunch.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-17T23:00:00+00:00",
-      "summary": "沙特阿拉伯用于绕过霍尔木兹海峡的关键陆上管道的临时关闭，为已经因中东供应中断持续六个月而苦苦挣扎的油市增加了另一个冲击。而且现在看来，损害比最初认为的更为严重。路透社周四报道称，上周的袭击中，沙特东西管道沿线的三座泵站受损。",
-      "score": 15,
-      "original_title": "Saudi Pipeline Outage Could Deepen the Global Fuel Crunch",
-      "translated": true,
-      "priority": 0,
-      "uid": "a3018c255d45"
-    },
-    {
-      "title": "土耳其在扩大石油和天然气的同时，押注1080亿美元用于风能和太阳能",
-      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Turkey-Bets-108-Billion-on-Wind-and-Solar-While-Expanding-Oil-and-Gas.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-17T22:00:00+00:00",
-      "summary": "土耳其计划在未来十年内花费1080亿美元发展其替代能源基础设施，目标是实现120吉瓦的风能和太阳能装机容量。与此同时，土耳其也在大力投资确保长期的石油和天然气供应——并计划成为欧洲的主要区域天然气枢纽。",
-      "score": 15,
-      "original_title": "Turkey Bets $108 Billion on Wind and Solar While Expanding Oil and Gas",
-      "translated": true,
-      "priority": 0,
-      "uid": "ae2b1d919013"
-    },
-    {
-      "title": "华为轮值董事长称中国AI公司应加快开发",
-      "link": "https://www.ftchinese.com/story/001110919",
-      "source": "FT 中文网",
-      "category": "A股与宏观",
-      "published": "2026-09-17T16:00:00+00:00",
-      "summary": "为何行业领袖选择阅读FT中文网？ 在动荡的市场环境中，清晰、可靠的洞察力本身就是竞争优势。 FT中文网提供源自《金融时报》的权威分析，结合对中国商业语境的深入理解，帮助读者识别趋势、理解风险、把握机会。 信息即力量。对于决策者而言，准确的信息来源尤为重要。",
+      "title": "张雪首款 ADV 摩托车 820X 发布，4.68 万元起",
+      "link": "https://www.ithome.com/1/004/409.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-09-19T03:17:05+00:00",
+      "summary": "IT之家 9 月 19 日消息，在今日的第二十四届中国国际摩托车博览会上，张雪首款 ADV 车型（探险摩托车）—— 张雪 820X 正式发布， 突击版售价 4.68 万元（2027 年上市），旅行版售价 5.78 万元 。 张雪 820X 搭载 818.8cc 排量直列三缸水冷发动机 ，最大功率 85kW，最大扭矩 80N·m。 张雪 820X 车身尺寸为 2320x950x1455mm，轴距 1575mm，最高车速达 220km/h，不带尾箱的版本重量为 218kg。 该车配备 电子减震系统 ，支持阻尼智能匹配、阻尼自定义、后减震预载智能调整； 搭载毫米波雷达 ，支持 ACC 自适应巡航、前后碰撞预警；还有自动驻车、电子油门、紧急制动等。 智能化方面，张雪 820X 配备无钥匙启动、双向 Type-C 紧急反充、手把加热、1080p 双摄、6.2 英寸仪表（旅行版为安卓竖屏仪表，类似手机尺寸）。 IT之家附张雪 820X 配置表如下：",
       "score": 15,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "db7929de0bd1"
+      "uid": "da10739d60fe"
     },
     {
-      "title": "慈善机构表示，已故捐赠者的礼物在金融公司被延迟处理",
-      "link": "https://www.cnbc.com/2026/09/17/charities-ira-gifts-hurdles.html",
+      "title": "张雪 820RR-RS 正式上市：818.8cc 三缸 + 全碳纤维覆盖件，13.8 万元不到国际品牌一成",
+      "link": "https://www.ithome.com/1/004/407.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-09-19T03:09:17+00:00",
+      "summary": "IT之家 9 月 19 日消息，在第二十四届中国国际摩托车博览会（2026 中国摩博会）上，张雪机车 820RR-RS 正式发布，全国统一指导价 138000 元。张雪表示：13.8 万元这个价格当然不便宜，但可能有些车友都知道，一些国际品牌给到这个配置的，要卖到 150 万元，我们不到别人的 1/10。该车搭载 818.8cc 直列三缸 DOHC 水冷加油冷发动机，每缸四气门。最大功率 110kW（约 150PS）/13500rpm，最大扭矩 86N·m/10000rpm。其最高转速为 14750rpm，压缩比 14:1，供油方式为 BOSCH 电喷；动力模式提供雨天、道路、运动，以及两种自定义模型。其发动机采用钛合金连杆、钛合金气门和两环活塞。整车使用 368 颗钛合金螺栓，整备质量 182kg，推重比 0.",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "39d00b973919"
+    },
+    {
+      "title": "霍尔木兹海峡中断影响关键贸易路线，全球航运成本暴涨",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Global-Shipping-Costs-Explode-as-Hormuz-Disruptions-Hit-Key-Trade-Routes.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-18T21:00:00+00:00",
+      "summary": "中东危机已经波及距离霍尔木兹海峡数千英里的全球主要航运瓶颈。在中东主要石油和液化天然气出口通道的油轮交通受阻之后，过去半年巴拿马运河和苏伊士运河的能源商品货运量有所增加。",
+      "score": 15,
+      "original_title": "Global Shipping Costs Explode as Hormuz Disruptions Hit Key Trade Routes",
+      "translated": true,
+      "priority": 0,
+      "uid": "a9a7dc25818c"
+    },
+    {
+      "title": "马克龙呼吁再次紧急释放石油，因欧洲供应减少",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Macron-Calls-for-Another-Emergency-Oil-Release-as-Europe-Loses-Supply.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-18T21:00:00+00:00",
+      "summary": "亚美尼亚正在加快努力……国会已经通过了一项全面的……法国总统埃马纽埃尔·马克龙正在召集七国集团重新开会，讨论再次释放紧急石油储备，因为随着欧洲失去沙特的原油供应，柴油价格进一步推向创纪录水平。马克龙周五表示，他将在未来几周召集七国集团国家协调库存水平、出口和生产能力，并……",
+      "score": 15,
+      "original_title": "Macron Calls for Another Emergency Oil Release as Europe Loses Supply",
+      "translated": true,
+      "priority": 0,
+      "uid": "6f28cd64c9aa"
+    },
+    {
+      "title": "随着海湾出口激增，沙特阿拉伯从十月起切断对欧洲的原油供应",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Cuts-Europe-Off-From-October-Crude-as-Gulf-Exports-Surge.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-18T17:30:00+00:00",
+      "summary": "人工智能的能源需求正在推动……能源资产的竞争正在……沙特阿美已告知其欧洲长期客户，他们在10月份将无法收到沙特原油，即使该王国在东西管道受损后，通过波斯湾重新输送约6000万桶原油。彭博社周五报道，至少有两家欧洲炼油厂被告知其10月份的配额为零。",
+      "score": 15,
+      "original_title": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge",
+      "translated": true,
+      "priority": 0,
+      "uid": "39bd7961e149"
+    },
+    {
+      "title": "温迪的特许经营商因汉堡连锁店经营困难而申请第十一章破产保护",
+      "link": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-17T11:50:08+00:00",
-      "summary": "本文的一个版本刊登在CNBC的《Inside Wealth》通讯中，这是一本面向高净值投资者和消费者的每周指南。注册以接收未来的版本，直接发送到您的邮箱。对于希望留下遗产并节省税款的捐赠者来说，指定一个慈善机构在他们去世后接收他们的退休账户是最简单的方式之一。但非营利组织领导者和律师警告说，这一过程出现了一个日益复杂的问题...",
+      "published": "2026-09-18T16:13:00+00:00",
+      "summary": "梅里塔奇酒店集团，温迪最大的一些美国特许经营商之一，于周四申请了第11章破产保护。这一申请发生之际，该汉堡连锁店一直在努力吸引越来越关注性价比的顾客。在连续六个季度中，温迪的同店销售额都出现了下滑。",
       "score": 15,
-      "original_title": "Charities say gifts by deceased donors are getting held up at financial firms",
+      "original_title": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
       "translated": true,
       "priority": 0,
-      "uid": "bfbae6db5688"
+      "uid": "8f10782d9c82"
     },
     {
-      "title": "人工智能对社会的影响",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-09-15T16:00:00+00:00",
-      "summary": "构建人工智能以加速科学发展和改善生活 我们专注于先进技术能够帮助人类实现非凡进步的关键领域。十多年来，我们目睹了人工智能在科学发现方面的持续进展，从理论研究转向现实世界的影响。今天，这些工具的潜力已不再是假设——它是可衡量的，并从根本上改变了…",
+      "title": "为什么越来越多的公司在争夺消费者在美容、健康和保健上的开支",
+      "link": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-09-18T15:18:38+00:00",
+      "summary": "随着消费者对所购买的产品了解得越来越多，并寻求进行更全面的购买，一种新的零售类别正在出现。曾经的三个独立部分——美容、健康和保健——已经融合为一个大的类别，因为消费者正在寻找具有多重用途的产品。这种消费者行为的变化正在为各公司之间的竞争创造更多机会，这些公司正竞相赢得合作消费者的青睐...",
       "score": 15,
-      "original_title": "AI for Societal Impact",
+      "original_title": "Why more companies are fighting over consumers' beauty, health and wellness spending",
       "translated": true,
       "priority": 0,
-      "uid": "943cdc8a0d6d"
+      "uid": "20bb453a8fc0"
     },
     {
-      "title": "构建人工智能以加速科学发展并改善生活",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "title": "新的专家加入谷歌的人工智能与经济团队",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
       "source": "Google AI Blog",
       "category": "AI与科技",
-      "published": "2026-09-15T16:00:00+00:00",
-      "summary": "构建人工智能以加速科学发展并改善生活 今天，我们达到了一个重要的里程碑，这一里程碑是几十年来人工智能研究与进展的见证：谷歌技术现在支持超过300种语言，这些语言被70亿人使用——占全球人口的86%。",
+      "published": "2026-09-18T14:00:00+00:00",
+      "summary": "新的专家加入谷歌的人工智能与经济团队 我们最近推出了人工智能与经济 ATLAS v1.0 及其互动开放访问网站，以了解人们如何在工作和日常生活中使用谷歌的人工智能工具。但跟踪采用模式只是一个开始。随着人工智能重塑工作、企业和日常生活，应对这一变化需要一种多学科方法，将...",
       "score": 15,
-      "original_title": "Building AI to accelerate science and improve lives",
+      "original_title": "New experts join Google’s AI & Economy team",
       "translated": true,
       "priority": 0,
-      "uid": "221091baff44"
+      "uid": "a371457dab8c"
+    },
+    {
+      "title": "与谷歌共同创造时尚的未来",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "source": "Google AI Blog",
+      "category": "AI与科技",
+      "published": "2026-09-18T13:00:00+00:00",
+      "summary": "与谷歌共同创造时尚的未来 询问一位独立时装设计师他们实际如何度过时间，“设计衣服”很少是答案。行政事务、工厂物流和供应商协调占据了他们大部分时间，留下很少时间用于设计。",
+      "score": 10,
+      "original_title": "Co-creating the future of fashion with Google",
+      "translated": true,
+      "priority": 0,
+      "uid": "1253b5f79879"
     },
     {
       "title": "让全球数据更易于探索",
@@ -231,7 +257,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-17T20:00:00+00:00",
-      "summary": "让全球数据更易于探索 每年，联合国系统中的各个实体都会收集数据，以跟踪影响我们工作、学习、保持健康以及照顾亲人的各种挑战。这些机构使用的是世界上一些最高诚信的数据。但是，解决重大全球挑战所需的统计数据却被分散存储在不同的孤立系统中，并且在这些系统之间以及系统内部以互相冲突的格式组织。",
+      "summary": "让全球数据更易于探索 每年，联合国系统中的各个实体都会收集数据，以跟踪影响我们工作、学习、保持健康以及照顾亲人的各种挑战。这些机构处理的是世界上一些最高诚信的数据。但是，解决重大全球挑战所需的统计数据却被分散存储在不同的数据孤岛中，以不同的冲突格式在各个机构之间和机构内部组织。",
       "score": 10,
       "original_title": "Making global data easier to explore",
       "translated": true,
@@ -243,31 +269,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3916.0749,
-        "change": 40.4705,
-        "pct": 1.04,
-        "amount_yi": 6373.55
+        "price": 3911.8714,
+        "change": 36.267,
+        "pct": 0.94,
+        "amount_yi": 9941.69
       },
       {
         "name": "深证成指",
-        "price": 13613.48,
-        "change": 203.57,
-        "pct": 1.52,
-        "amount_yi": 6815.02
+        "price": 13640.87,
+        "change": 230.965,
+        "pct": 1.72,
+        "amount_yi": 10829.31
       },
       {
         "name": "创业板指",
-        "price": 3368.03,
-        "change": 69.72,
-        "pct": 2.11,
-        "amount_yi": 1397.8
+        "price": 3372.68,
+        "change": 74.366,
+        "pct": 2.25,
+        "amount_yi": 2227.36
       },
       {
         "name": "沪深300",
-        "price": 4507.0239,
-        "change": 46.8682,
-        "pct": 1.05,
-        "amount_yi": 3265.51
+        "price": 4507.3926,
+        "change": 47.2369,
+        "pct": 1.06,
+        "amount_yi": 5376.99
       }
     ],
     "holdings": [
@@ -276,10 +302,10 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 46.31,
-        "market_value": 4631.0,
-        "pnl": 1458.36,
-        "pnl_pct": 45.97,
+        "price": 46.23,
+        "market_value": 4623.0,
+        "pnl": 1450.36,
+        "pnl_pct": 45.71,
         "weight_hint": "43.8%",
         "note": "",
         "available": true
@@ -289,11 +315,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.29,
-        "market_value": 2829.0,
-        "pnl": 132.59,
-        "pnl_pct": 4.92,
-        "weight_hint": "26.7%",
+        "price": 28.27,
+        "market_value": 2827.0,
+        "pnl": 130.59,
+        "pnl_pct": 4.84,
+        "weight_hint": "26.8%",
         "note": "",
         "available": true
       },
@@ -302,10 +328,10 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.09,
-        "market_value": 2427.0,
-        "pnl": 549.48,
-        "pnl_pct": 29.27,
+        "price": 8.07,
+        "market_value": 2421.0,
+        "pnl": 543.48,
+        "pnl_pct": 28.95,
         "weight_hint": "22.9%",
         "note": "",
         "available": true
@@ -315,10 +341,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.163,
-        "market_value": 232.6,
-        "pnl": -85.4,
-        "pnl_pct": -26.86,
+        "price": 1.152,
+        "market_value": 230.4,
+        "pnl": -87.6,
+        "pnl_pct": -27.55,
         "weight_hint": "2.2%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -328,10 +354,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.575,
-        "market_value": 457.5,
-        "pnl": -39.5,
-        "pnl_pct": -7.95,
+        "price": 4.582,
+        "market_value": 458.2,
+        "pnl": -38.8,
+        "pnl_pct": -7.81,
         "weight_hint": "4.3%",
         "note": "",
         "available": true
@@ -353,102 +379,122 @@
     "sectors": [
       {
         "name": "半导体/电子 · 半导体设备",
-        "pct": 5.79,
+        "pct": 4.83,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 20.62,
+        "main_flow_yi": 18.2,
         "source": "东财行业"
       },
       {
         "name": "半导体/电子 · 数字芯片设计",
-        "pct": 5.31,
+        "pct": 4.68,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 75.2,
+        "main_flow_yi": 75.35,
         "source": "东财行业"
       },
       {
         "name": "新能源/光伏 · 光伏加工设备",
-        "pct": 3.55,
+        "pct": 4.52,
         "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.66,
+        "main_flow_yi": 0.63,
         "source": "东财行业"
       },
       {
-        "name": "新能源/光伏 · 光伏辅材",
-        "pct": 2.19,
+        "name": "新能源/光伏 · 光伏电池组件",
+        "pct": 3.25,
         "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.96,
+        "main_flow_yi": 2.55,
         "source": "东财行业"
       },
       {
-        "name": "电力/公用 · 电力行业",
-        "pct": 1.2472831939848,
+        "name": "电力/公用 · 综合电力设备商",
+        "pct": 2.1,
         "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": null,
-        "source": "新浪行业"
+        "main_flow_yi": 1.45,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 电力设备",
+        "pct": 2.1,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": 33.12,
+        "source": "东财行业"
       },
       {
         "name": "金融/银行 · 金融行业",
-        "pct": 0.7705395412754,
+        "pct": 0.69692111376501,
         "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": 0.21279339695641,
+        "pct": 0.10317255610008,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "煤炭 · 煤炭行业",
-        "pct": 0.049305033809166,
+        "pct": 0.025826446280992,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
-    "policy_news": [],
+    "policy_news": [
+      {
+        "title": "600053、300086，被证监会立案",
+        "link": "https://finance.sina.com.cn/wm/2026-09-19/doc-inisinhk7813763.shtml",
+        "level": "高",
+        "tag": "政策"
+      }
+    ],
     "industry_news": [
       {
-        "title": "桥水联席首席投资官呼吁：像监管系统重要性银行一样监管AI企业",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisfiic3450255.shtml",
-        "level": "高",
+        "title": "9月19日隔夜要闻：美股涨跌不一芯片股大涨 油价三连跌 金价续涨 特朗普签署针对俄罗斯和伊朗的制裁法案",
+        "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inisifyi3180629.shtml",
+        "level": "中",
         "tag": "行业"
       },
       {
-        "title": "港股午评：恒指涨0.67% 科指涨1.74% 科网股活跃 芯片股走强 联想涨超7%",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfiii0272256.shtml",
+        "title": "9月19日美股成交前20：存储芯片爆发 美光涨约4% 闪迪大涨11% 美光高管称内存短缺短期难缓解",
+        "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inisifyn7873555.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "美国股市：芯片股大涨提振科技板块 标普500指数小幅收高",
+        "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsp0045637.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "算力涨价验证AI需求 创业板人工智能ETF（159363）标的指数涨3%！华为发布首个NPO超节点 “相信光”迎新叙事",
-        "link": "https://finance.sina.com.cn/money/fund/etf/2026-09-18/doc-inisfiic3443171.shtml",
+        "title": "黄仁勋减持4.6万股英伟达股票，成交价约每股212美元",
+        "link": "https://finance.sina.com.cn/roll/2026-09-19/doc-inisisqc3101405.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10577.1,
-    "total_pnl": 2015.53,
-    "total_amount_yi": 13188.57,
+    "total_market_value": 10559.6,
+    "total_pnl": 1998.03,
+    "total_amount_yi": 20771.0,
     "bias": "偏多",
-    "volume_note": "量能：两市合计约 13189 亿元（接口口径），成交偏活跃",
+    "volume_note": "量能：两市合计约 20771 亿元（接口口径），成交偏活跃",
     "sector_note": "行业分化：偏强 半导体设备、数字芯片设计、光伏加工设备；偏弱 暂无",
-    "tip": "一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向",
+    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
     "errors": []
   },
   "learning": {
-    "title": "板块轮动",
-    "body": "资金常在行业间切换，不是“好公司永远天天涨”。追昨天上涨板块，容易买在情绪高点；先看逻辑，再看价格。",
+    "title": "净息差（银行）",
+    "body": "净息差 = 贷款利率与存款利率的差距，是银行赚钱能力的核心之一。工行观察点：净息差是否继续收窄，以及不良贷款率。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "标书加班",
-    "text": "今儿聊【标书加班】。标书这东西，白天像散文，夜里像刑法。格式错一个空格，废一宿；价格错一个零，废一年。社会经验：投标不是写作文，是把自己活成附件——附件越全，人越空。"
+    "topic": "AI 工具",
+    "text": "今儿聊【AI 工具】。大模型像特别能干的实习生：秒出三千字，里头三分真七分顺嘴。你让它写可研，它写得比你快；你让它对定额，它比你敢。社会经验：AI能提效，不能替你背锅——锅永远有编制，编制在你工号上。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
