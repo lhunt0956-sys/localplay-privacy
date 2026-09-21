@@ -1,6 +1,6 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-20T12:26:07.810429+08:00",
+  "generated_at": "2026-09-21T12:23:21.137044+08:00",
   "timezone": "Asia/Shanghai",
   "count": 19,
   "items": [
@@ -22,7 +22,7 @@
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-20T04:26:26+00:00",
+      "published": "2026-09-21T04:23:41+00:00",
       "summary": "改进我们的对齐和安全工作 7月30日，我们报告了三起事件，其中Claude模型未经授权访问了真实计算机系统。这些模型——出于评估目的故意在没有网络安全防护的情况下运行——由于第三方评估环境中的配置错误而访问了互联网。",
       "score": 60,
       "original_title": "Anthropic / Claude：Improving our alignment and security practices",
@@ -44,24 +44,37 @@
       "uid": "307b58817a42"
     },
     {
-      "title": "全球首个：中国移动与高通完成基于 U6G 频段 6G 原型基站与终端原型对接测试",
-      "link": "https://www.ithome.com/1/004/708.htm",
+      "title": "一加 16 手机开启预约：支持全局 165Hz 超高刷，定位“巅峰性能旗舰”",
+      "link": "https://www.ithome.com/1/005/116.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-20T03:29:28+00:00",
-      "summary": "IT之家 9 月 20 日消息，中国移动与高通技术公司今日宣布，双方在中国移动协同创新基地基于 6G 开放众创试验装置， 成功完成全球首个符合 3GPP 最新定义的 U6G 频段 6G 原型基站与终端原型对接测试 ，标志着 6G 关键技术从研究迈入系统化验证的新阶段。据介绍，此次验证是全球首个运营商与芯片厂商开展的、基于 3GPP 定义的大带宽基带与射频对准要求，针对 U6G 频段（6425–7125MHz 范围内）原型基站与终端进行的测试。另外，本次验证将 U6G 频段、下行 400MHz 和上行 200MHz 超大信道带宽（子载波间隔为 30kHz）、128 通道超大规模 MIMO 基站以及 6G 终端原型平台纳入同一端到端链路。其中，中国移动提供了其业界领先的 6G 开放原型基站，支持 3GPP 标准中定义的最新下行 400MHz 超大带宽和 128 通道超大规模天线阵列；",
-      "score": 105,
+      "published": "2026-09-21T03:15:17+00:00",
+      "summary": "IT之家 9 月 21 日消息，一加 16 手机现已在京东开启预约，价格暂未公布。现阶段预约且发布后购机可享电池保两年、OPPO Enco R5 蓝牙耳机、京东 PLUS 京典年卡等礼品。京东 一加 16 手机 待公布 立即预约 IT之家了解到，一加 16 手机提供明日星光 / 黑暗森林 / 火星杰作三种配色，定位巅峰性能旗舰。据一加中国区总裁李杰透露，一加 16 将首发搭载 ColorOS 17 操作系统， 首次实现“全局 165Hz 超高刷” 。微博博主 @数码闲聊站 曾发文称， 一加 16 电池定版是 9000mAh，是新一波旗舰手机的最大容量 。该机还用了 OPPO 聚能芯片，支持低压放电，预计还将拥有骁龙 8 Elite Extreme Gen6 芯片、2 亿像素大底影像、185Hz 超高刷游戏、独一档硬件级全局 165Hz 高刷体验、9K 大电池等，主打“全能旗舰”。",
+      "score": 80,
       "original_title": "",
       "translated": false,
       "priority": 60,
-      "uid": "1cd41deec393"
+      "uid": "247c0629944e"
+    },
+    {
+      "title": "沙特退出中国主导的跨境数字货币平台",
+      "link": "https://www.ftchinese.com/story/001110939",
+      "source": "FT 中文网",
+      "category": "A股与宏观",
+      "published": "2026-09-19T16:00:00+00:00",
+      "summary": "沙特央行去年退出了该项目。该平台是中国推动建立不依赖美元的跨境支付体系努力的一部分。",
+      "score": 60,
+      "original_title": "",
+      "translated": false,
+      "priority": 45,
+      "uid": "61ac1cafbf78"
     },
     {
       "title": "Anthropic / Claude：与埃森哲合作进行嵌入式评估",
       "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-20T04:26:26+00:00",
+      "published": "2026-09-21T04:23:41+00:00",
       "summary": "与埃森哲合作进行嵌入式评估 我们正在与埃森哲合作，对前沿人工智能进行独立评估。这是朝着我们首席执行官在《我们必须为前沿设定步伐》的文章中所作承诺迈出的重要一步，即在Anthropic内部嵌入评估人员。该合作将由埃森哲的人工智能专业业务部门Faculty领导，并将包括评估和红队测试模型、进行对齐评估...",
       "score": 60,
       "original_title": "Anthropic / Claude：Partnering with Accenture on embedded evaluation",
@@ -83,121 +96,108 @@
       "uid": "5bec41a17f29"
     },
     {
-      "title": "国家能源局：8 月份全社会用电量再破万亿，负荷创历史新高",
-      "link": "https://www.ithome.com/1/004/724.htm",
+      "title": "三方品牌首次：漫步者 Comfo Clip Q2 耳夹式耳机升级支持星闪 E2.0 功能",
+      "link": "https://www.ithome.com/1/005/127.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-20T04:14:16+00:00",
-      "summary": "IT之家 9 月 20 日消息，国家能源局今天宣布，2026 年 8 月全社会用电量再破万亿， 达到 10332 亿千瓦时 ，同比增长 1.用电负荷创历史新高达到 15.6 亿千瓦 ，较上年最大负荷高 4969 万千瓦，共有 7 天超过上年最大负荷。IT之家从国家能源局公众号获悉，从分产业用电看，第一产业用电量 169 亿千瓦时，同比增长 2.第二产业用电量 6124 亿千瓦时，同比增长 2.其中，工业用电量 6065 亿千瓦时，同比增长 2.7%，高技术及装备制造业用电量保持较快增长势头，达到 1222 亿千瓦时，同比增长 7.计算机通信设备（7.5%）、汽车制造业（7.6%，其中新能源车整车 22.2%）、通用设备制造业（7.6%）、专用设备制造业（8.2%）、电气机械（12.3%）用电量较快增长。",
+      "published": "2026-09-21T03:53:03+00:00",
+      "summary": "IT之家 9 月 21 日消息， 漫步者本月初在京东上架了 Comfo Clip Q2 耳夹式耳机 ，该耳机基于 OpenHarmony 开源鸿蒙系统打造，搭载海思谛听芯片、匹配 12mm 动圈，定价 399 元。IT之家从漫步者供应商客服了解到，这款耳机已升级支持星闪功能。用户只需在手机应用商店将 Edifier Connect App 更新至最新版本并连接耳机，开启 App 后根据提示重新完成耳机配对， 即可选择星闪连接模式 。从官方 App 的描述来看， 漫步者 Comfo Clip Q2 耳夹式耳机此次升级了星闪 E2.0 ，支持无损音频传输，延迟更低、抗干扰更强。值得一提的是， 这也是首个三方品牌的星闪耳机 。漫步者 Comfo Clip Q2 耳夹式耳机用户可通过星闪与自己的华为手机进行连接。",
+      "score": 55,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "79699fd4632b"
+    },
+    {
+      "title": "深蓝 S07 AI 激光版 9 月 28 日登场，搭载 AI 激光感知方案与超级三电系统",
+      "link": "https://www.ithome.com/1/005/084.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-21T02:11:56+00:00",
+      "summary": "IT之家 9 月 21 日消息，深蓝汽车今天在微博宣布，全新深蓝 S07 AI 激光版将于 9 月 28 日登场。新车搭载 AI 激光感知方案，拥有超级三电系统。据IT之家此前报道 ，在今年 6 月的 2026 重庆国际车展期间，深蓝汽车正式推出全新深蓝 S07 华为干昆激光版增程车型。据悉，全新深蓝 S07 华为干昆激光版增程车型搭载华为干昆 ADS 4 Pro 增强版辅助驾驶系统，配备由 1 颗激光雷达、3 颗 4D 毫米波雷达、11 个高清摄像头以及 12 个超声波雷达组成的 27 传感器融合感知方案。车辆支持城区领航辅助、高速领航辅助以及园区领航辅助等功能，并搭载全维防碰撞系统 CAS 4.续航与补能方面，新车采用超级增程 2.0 技术，搭载原力智能增程系统和原力超集电驱 2.官方数据显示，新车百公里馈电油耗低至 3.",
       "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "74fb6aa0d338"
+      "uid": "5fc87b149540"
     },
     {
-      "title": "长鑫科技宣布第五代技术平台正式量产：每张晶圆产出提升 50% 以上，24GB LPDDR5X 全面进入国产主流旗舰手机",
-      "link": "https://www.ithome.com/1/004/720.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-09-20T03:56:29+00:00",
-      "summary": "IT之家 9 月 20 日闪讯速报，据澎湃新闻今日报道，在 2026 世界制造业大会上， 长鑫科技宣布第五代技术平台正式量产 。 据介绍，长鑫科技将内存阵列有源区半间距做到 11.95 纳米，存储器电容深宽比 45:1，核心动能区高度降至 6762 纳米；同时，第五代工艺平台的存储密度有了大幅提升，同等条件下，每张晶圆的产出， 与上一代平台相比提升了 50% 以上 。 基于该平台打造的 24GB LPDDR5X 产品已经进入正式量产，全面进入国产主流旗舰手机。 据IT之家此前报道， 长鑫科技于 2025 年 10 月宣布量产 LPDDR5X 产品 ，芯片形态提供了覆盖 12GB、16GB、24GB 等多个容量点的解决方案，模组形态的 LPCAMM 产品容量为 16GB 和 32GB。",
-      "score": 45,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "9de9c809d030"
-    },
-    {
-      "title": "阿里千问 App 升级“未成年人保护模式”：仅可使用学习功能、加强适龄内容回应",
-      "link": "https://www.ithome.com/1/004/713.htm",
+      "title": "能在 100 米高空救援的无人机：“天目山九号”飞行平台发布，一次能载 3 个人",
+      "link": "https://www.ithome.com/1/005/119.htm",
       "source": "IT之家·出行",
       "category": "健康生活",
-      "published": "2026-09-20T03:40:01+00:00",
-      "summary": "IT之家 9 月 20 日消息，阿里宣布为旗下千问 App 升级未成年人保护模式，在保留拍照答疑、AI 写作、翻译、深度研究等学习功能的同时，加强适龄内容回应、明确人机互动边界，并设置使用时长提醒，进一步便利青少年使用 AI。 阿里表示，家长可在千问 App 设置中开启未成年人模式，设置独立密码。开启后， App 仅保留拍照答疑、AI 写作、翻译、深度研究四项功能 ，对话记录与普通模式完全隔离，并限制第三方链接访问，降低不可控内容的接触风险。 同时，开启未成年人保护模式后， 千问将加强对低俗、暴力等不适宜未成年人接触的内容的管理 ，并以符合未成年人认知特点的方式回应相关问题。与此同时，千问会对用户提出的模拟虚拟伴侣、虚拟亲属等拟亲密关系互动服务进行软性拒答，并提供正向引导，避免未成年人形成不良情感依赖。 当识别到极端情绪倾向时，千问将优先提供专业心理援助热线信息，引导其寻求专业或身边亲人的帮助。如用户在未成年人保护模式下连续使用超过 30 分钟，还会收到休息提示，以保护用户的身心健康。",
-      "score": 20,
+      "published": "2026-09-21T03:34:06+00:00",
+      "summary": "IT之家 9 月 21 日消息，天目山实验室“天目山九号”高鲁棒性系留式高层营救飞行平台发布仪式于 9 月 19 日在北航杭州国际校园举行。现场开展了“天目山九号”模拟营救实景飞行演示。在消防登高车无法抵达楼顶的演习设定背景下，实验楼顶楼发生模拟火情，有人员在楼顶被困。接收信息后， “天目山九号”整套车载系统快速协同，飞行救援平台搭载搜救机器狗起飞，飞至楼顶后悬停并抵近楼宇，依托地面系留供电保持稳定悬停 。机器狗进入火场开始搜救，其搜救算法由北航国新院人工智能平台完成。随后，模拟受困人员被送上“天目山九号”， 该平台单次可运输 3 名成年人 。最终，“天目山九号”带着模拟受困人员顺利返回地面，模拟救援任务圆满完成。本次演习完整复刻高层火情下受困人员转移的真实作业场景，展示了“天目山九号”在复杂环境下的定位控制能力、载人作业适配能力。",
+      "score": 15,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "da00bca65222"
+      "uid": "cf21944a7f24"
     },
     {
-      "title": "Netflix 内容主管贝拉·巴贾里亚将事件战略定义为流媒体公司关注更多现场体育赛事",
-      "link": "https://www.cnbc.com/2026/09/17/netflix-bela-bajaria-live-sports-event-strategy.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-09-17T16:00:17+00:00",
-      "summary": "Netflix 的现场体育战略是基于寻找它认为可以转变为重大事件的比赛和锦标赛。这使得对“事件”的定义对公司的成功至关重要。Netflix 首席内容官 Bela Bajaria 上周在接受 CNBC Sport 独家采访时表示：“关于事件的特点是它热闹、具有文化意义、体现时代精神——真的是那种绝对不容错过的时刻。”",
-      "score": 20,
-      "original_title": "Netflix content chief Bela Bajaria defines event strategy as streamer eyes more live sports",
-      "translated": true,
-      "priority": 0,
-      "uid": "fefd934d1e03"
-    },
-    {
-      "title": "英国面临1,500亿英镑电网改造以推动可再生能源繁荣",
-      "link": "https://oilprice.com/Energy/Energy-General/Britain-Faces-150-Billion-Grid-Overhaul-to-Power-Renewable-Energy-Boom.html",
+      "title": "霍尔木兹危机将推动全球煤炭需求创历史新高",
+      "link": "https://oilprice.com/Energy/Coal/Hormuz-Crisis-to-Push-Global-Coal-Demand-to-Record-High.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-19T19:00:00+00:00",
-      "summary": "为了满足日益增长的电力需求并确保新的可再生能源项目能够接入，英国将需要在扩展电力网方面进行大量投资。国家能源系统运营商（NESO）宣布，更新该国的输电基础设施预计将需要超过1.5亿英镑。",
+      "published": "2026-09-20T19:00:00+00:00",
+      "summary": "国际能源署预计，今年煤炭需求将增加，以应对霍尔木兹海峡关闭造成的持续石油和天然气贸易限制。由于石油库存消耗殆尽，各国被迫重新转向煤炭以填补空缺，同时各国也在逐步扩大可再生能源的容量。",
       "score": 15,
-      "original_title": "Britain Faces £150 Billion Grid Overhaul to Power Renewable Energy Boom",
+      "original_title": "Hormuz Crisis to Push Global Coal Demand to Record High",
       "translated": true,
       "priority": 0,
-      "uid": "f959216bb5e3"
+      "uid": "a24f0a7be7bc"
     },
     {
-      "title": "国际原子能机构将核电预测提高三倍，小型反应堆终于起飞",
-      "link": "https://oilprice.com/Energy/Energy-General/IAEA-Triples-Nuclear-Power-Forecast-as-Small-Reactors-Finally-Take-Off.html",
+      "title": "分析人士称，中国将主导全球核能至2035年",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-Will-Dominate-Global-Nuclear-Energy-Through-2035-Analyst-Says.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-19T17:00:00+00:00",
-      "summary": "经过多年的延迟和发展时间线的停滞，小型核能革命可能终于到来。在一份全新的报告中，国际原子能机构（IAEA）再次提高了其长期核能预测，预计到2060年，全球核能发电能力将完全增长三倍。",
+      "published": "2026-09-20T17:00:00+00:00",
+      "summary": "核能的未来掌握在中国手中。虽然美国仍是世界上最大的核能生产国，但中国的核能行业增长速度如此之快，预计将在未来十年内超越法国以及美国，成为世界领先的核能生产国。",
       "score": 15,
-      "original_title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
+      "original_title": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says",
       "translated": true,
       "priority": 0,
-      "uid": "ead99dcf4a7d"
+      "uid": "2c77853dcc79"
     },
     {
-      "title": "联合国警告世界必须为超过1.5°C的生活做好准备",
-      "link": "https://oilprice.com/The-Environment/Global-Warming/UN-Warns-World-Must-Prepare-for-Life-Beyond-15C.html",
+      "title": "纽约750亿美元气候责任法面临不确定的未来",
+      "link": "https://oilprice.com/Energy/Energy-General/New-Yorks-75-Billion-Climate-Liability-Law-Faces-an-Uncertain-Future.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-19T15:00:00+00:00",
-      "summary": "联合国首次承认，世界将超过将全球变暖限制在比工业化前水平高1.5°C的目标，这标志着2015年巴黎协定承诺的失败。根据联合国环境规划署的一份报告，预计未来几年内，全球气温将升高到比工业化前水平高1.5°C。",
+      "published": "2026-09-20T15:00:00+00:00",
+      "summary": "2024年，纽约州州长凯西·霍楚尔签署了一项法律，要求大型化石燃料污染者支付最多750亿美元的赔偿。然而，两年后，一名联邦法官裁定该法律与联邦法律存在冲突，不能继续执行。",
       "score": 15,
-      "original_title": "UN Warns World Must Prepare for Life Beyond 1.5°C",
+      "original_title": "New York’s $75 Billion Climate Liability Law Faces an Uncertain Future",
       "translated": true,
       "priority": 0,
-      "uid": "fbd825b2d8d2"
+      "uid": "ab6b91d81cba"
     },
     {
-      "title": "温迪的特许经营商因汉堡连锁店经营困难而申请第十一章破产保护",
-      "link": "https://www.cnbc.com/2026/09/18/wendys-franchisee-files-for-chapter-11-bankruptcy-protection.html",
+      "title": "‘太糟了’：关税、飞涨的燃料成本和更高的利率如何挤压美国公司",
+      "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-18T16:13:00+00:00",
-      "summary": "梅里塔奇酒店集团，温迪最大的一些美国特许经营商之一，于周四申请了第11章破产保护。这一申请发生之际，该汉堡连锁店一直在努力吸引越来越关注性价比的顾客。在连续六个季度中，温迪的同店销售额都出现了下滑。",
+      "published": "2026-09-20T12:47:23+00:00",
+      "summary": "航班减少且价格更高。货运附加费增加。制造商囤积库存。甚至破产。对于美国的大大小小公司来说，由唐纳德·特朗普总统贸易政策下实施的关税、伊朗战争导致的燃油价格飙升以及现在不断上升的利率的组合，正迫使高管们做出艰难的选择。艾伦·伊登一直为他拥有25名员工的公司——Orig——囤积额外库存。",
       "score": 15,
-      "original_title": "Wendy's franchisee files for Chapter 11 bankruptcy protection as burger chain struggles",
+      "original_title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
       "translated": true,
       "priority": 0,
-      "uid": "8f10782d9c82"
+      "uid": "f6b972a5bfa8"
     },
     {
-      "title": "为什么越来越多的公司在争夺消费者在美容、健康和保健上的开支",
-      "link": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
+      "title": "廉价航空之王比尔·弗兰克热衷于头等舱座位和高级升级",
+      "link": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-18T15:18:38+00:00",
-      "summary": "随着消费者对所购买的产品了解得越来越多，并寻求进行更全面的购买，一种新的零售类别正在出现。曾经的三个独立部分——美容、健康和保健——已经融合为一个大的类别，因为消费者正在寻找具有多重用途的产品。这种消费者行为的变化正在为各公司之间的竞争创造更多机会，这些公司正竞相赢得合作消费者的青睐...",
+      "published": "2026-09-20T12:00:01+00:00",
+      "summary": "亚利桑那州斯科茨代尔——几十年来，弗朗泰尔航空公司的董事长、连续投资航空公司的威廉·奥古斯都·弗兰克通过销售廉价机票以及收取托运行李费、选座费和其他各种费用赚得盆满钵满。现在，他表示头等舱座位和其他旅客舒适设施是有必要的——至少在美国是如此。弗朗泰尔计划明年在其空客机队上推出头等舱座位。",
       "score": 15,
-      "original_title": "Why more companies are fighting over consumers' beauty, health and wellness spending",
+      "original_title": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
       "translated": true,
       "priority": 0,
-      "uid": "20bb453a8fc0"
+      "uid": "25222a8e837d"
     },
     {
       "title": "新的专家加入谷歌的人工智能与经济团队",
@@ -239,12 +239,12 @@
       "uid": "1253b5f79879"
     },
     {
-      "title": "让全球数据更易于探索",
+      "title": "让全球数据更易探索",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-17T20:00:00+00:00",
-      "summary": "让全球数据更易于探索 每年，联合国系统中的各个实体都会收集数据，以跟踪影响我们工作、学习、保持健康以及照顾亲人的各种挑战。这些机构处理的是世界上一些最高诚信的数据。但是，用于解决重大全球挑战的统计数据一直分散在不同的孤立系统中，在不同机构之间甚至机构内部以冲突的格式组织。",
+      "summary": "让全球数据更易于探索 每年，联合国系统内的各个实体都会收集数据，以追踪影响我们工作、学习、保持健康以及照顾亲人的挑战。这些机构处理的是世界上一些最高诚信的数据。但是，用于解决重大全球挑战的统计数据一直分散在不同的孤立系统中，在不同机构之间及机构内部以相互冲突的格式组织。",
       "score": 10,
       "original_title": "Making global data easier to explore",
       "translated": true,
@@ -256,31 +256,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3911.8714,
-        "change": 36.267,
-        "pct": 0.94,
-        "amount_yi": 9941.69
+        "price": 3933.3676,
+        "change": 21.4962,
+        "pct": 0.55,
+        "amount_yi": 6204.6
       },
       {
         "name": "深证成指",
-        "price": 13640.87,
-        "change": 230.965,
-        "pct": 1.72,
-        "amount_yi": 10829.31
+        "price": 13718.23,
+        "change": 77.354,
+        "pct": 0.57,
+        "amount_yi": 7073.83
       },
       {
         "name": "创业板指",
-        "price": 3372.68,
-        "change": 74.366,
-        "pct": 2.25,
-        "amount_yi": 2227.36
+        "price": 3403.97,
+        "change": 31.293,
+        "pct": 0.93,
+        "amount_yi": 1428.0
       },
       {
         "name": "沪深300",
-        "price": 4507.3926,
-        "change": 47.2369,
-        "pct": 1.06,
-        "amount_yi": 5376.99
+        "price": 4526.2959,
+        "change": 18.9033,
+        "pct": 0.42,
+        "amount_yi": 3144.83
       }
     ],
     "holdings": [
@@ -289,11 +289,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 46.23,
-        "market_value": 4623.0,
-        "pnl": 1450.36,
-        "pnl_pct": 45.71,
-        "weight_hint": "43.8%",
+        "price": 46.55,
+        "market_value": 4655.0,
+        "pnl": 1482.36,
+        "pnl_pct": 46.72,
+        "weight_hint": "44.0%",
         "note": "",
         "available": true
       },
@@ -302,11 +302,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.27,
-        "market_value": 2827.0,
-        "pnl": 130.59,
-        "pnl_pct": 4.84,
-        "weight_hint": "26.8%",
+        "price": 28.08,
+        "market_value": 2808.0,
+        "pnl": 111.59,
+        "pnl_pct": 4.14,
+        "weight_hint": "26.6%",
         "note": "",
         "available": true
       },
@@ -315,10 +315,10 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.07,
-        "market_value": 2421.0,
-        "pnl": 543.48,
-        "pnl_pct": 28.95,
+        "price": 8.06,
+        "market_value": 2418.0,
+        "pnl": 540.48,
+        "pnl_pct": 28.79,
         "weight_hint": "22.9%",
         "note": "",
         "available": true
@@ -328,10 +328,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.152,
-        "market_value": 230.4,
-        "pnl": -87.6,
-        "pnl_pct": -27.55,
+        "price": 1.16,
+        "market_value": 232.0,
+        "pnl": -86.0,
+        "pnl_pct": -27.04,
         "weight_hint": "2.2%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -341,10 +341,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.582,
-        "market_value": 458.2,
-        "pnl": -38.8,
-        "pnl_pct": -7.81,
+        "price": 4.595,
+        "market_value": 459.5,
+        "pnl": -37.5,
+        "pnl_pct": -7.55,
         "weight_hint": "4.3%",
         "note": "",
         "available": true
@@ -365,65 +365,44 @@
     ],
     "sectors": [
       {
-        "name": "半导体/电子 · 半导体设备",
-        "pct": 4.83,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 18.2,
-        "source": "东财行业"
-      },
-      {
-        "name": "半导体/电子 · 数字芯片设计",
-        "pct": 4.68,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 75.35,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 光伏加工设备",
-        "pct": 4.52,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.63,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 光伏电池组件",
-        "pct": 3.25,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 2.55,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 综合电力设备商",
-        "pct": 2.1,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": 1.45,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 电力设备",
-        "pct": 2.1,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": 33.12,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 金融行业",
-        "pct": 0.69692111376501,
+        "name": "金融/银行 · 金融信息服务",
+        "pct": 2.51,
         "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": 0.09,
+        "source": "东财行业"
+      },
+      {
+        "name": "煤炭 · 煤炭行业",
+        "pct": 1.9317888411614,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": 0.10317255610008,
+        "pct": 1.7521257407885,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "煤炭 · 煤炭行业",
-        "pct": 0.025826446280992,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "name": "半导体/电子 · 电子信息",
+        "pct": 0.78175878862415,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "电力/公用 · 供水供气",
+        "pct": 0.59026854559957,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "金融/银行 · 金融行业",
+        "pct": -0.04224070704445,
+        "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
@@ -431,44 +410,44 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "上银基金总经理落定：上海银行老将姚秦接棒 能否破解固收“独大”格局？",
-        "link": "https://finance.sina.com.cn/stock/observe/2026-09-20/doc-inismvpc2578805.shtml",
+        "title": "美联储和英国央行在Jane Street亏损后加强对银行与交易公司业务往来的审查",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqetx0768055.shtml",
+        "level": "高",
+        "tag": "行业"
+      },
+      {
+        "title": "澳新银行预计新西兰联储本轮周期还将加息三次",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqetx0753447.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "“9·24”行情即将两周年！下周迎重磅事件，A股怎么走？",
-        "link": "https://finance.sina.com.cn/stock/marketresearch/2026-09-20/doc-inismvph6825113.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "小摩：中国机械板块近期跌幅未反映基本面 维持看好并建议趁低吸纳",
-        "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inismvpe9306189.shtml",
+        "title": "英派药业-B股价涨幅扩大逾42% 公司入通有望持续吸引南下资金",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-21/doc-inisqetz2142733.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10559.6,
-    "total_pnl": 1998.03,
-    "total_amount_yi": 20771.0,
+    "total_market_value": 10572.5,
+    "total_pnl": 2010.93,
+    "total_amount_yi": 13278.43,
     "bias": "偏多",
-    "volume_note": "量能：两市合计约 20771 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 半导体设备、数字芯片设计、光伏加工设备；偏弱 暂无",
-    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
+    "volume_note": "量能：两市合计约 13278 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 金融信息服务、煤炭行业、石油行业；偏弱 金融行业",
+    "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
   "learning": {
-    "title": "护城河（初识）",
-    "body": "护城河指公司难以被抢走的优势。长电的水电资产、神华的煤电一体，都是“不好复制”的例子——但护城河也会随产业政策变化。",
+    "title": "什么是指数",
+    "body": "沪深300（Shanghai-Shenzhen 300 Index，沪深两市规模大、流动性好的300家公司）像“大盘平均分”。你买的300ETF，本质上就是在跟踪这个平均分。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "绿茶黑咖啡",
-    "text": "今儿聊【绿茶黑咖啡】。上午绿茶续命，下午咖啡续命，晚上想着早睡，躺下开始续念头。念头一续就到两点，两点一过，第二天的方案开始穿睡衣上班。社会经验：提神饮品解决不了睡眠债，只能把欠条写得更工整。"
+    "topic": "通信铁塔",
+    "text": "今儿聊【通信铁塔】。这铁塔往山上一立，跟个钢筋仙鹤似的，鹤不飞，人得爬。领导说“顺便看看点位”，这顺便俩字一出，你就知道中午泡面泡不上了。缆没拉上先拉上脸色，链路没通先把汇报通了。社会经验：凡写着“现场简单勘察”的，背包里都得备双袜子。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
