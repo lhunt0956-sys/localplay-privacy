@@ -1,28 +1,15 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-21T12:23:21.137044+08:00",
+  "generated_at": "2026-09-22T12:18:50.339236+08:00",
   "timezone": "Asia/Shanghai",
   "count": 19,
   "items": [
-    {
-      "title": "帮助老年人在日常生活中使用人工智能",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-09-16T16:00:00+00:00",
-      "summary": "OpenAI 和 AARP 正在为美国 10 个城市的 1,000 名老年人提供免费的、动手操作的 ChatGPT 研讨会，以安全地建立实用的 AI 技能。",
-      "score": 65,
-      "original_title": "Helping older adults use AI in everyday life",
-      "translated": true,
-      "priority": 0,
-      "uid": "4c4a63a0b4fd"
-    },
     {
       "title": "Anthropic / Claude：改进我们的对齐和安全实践",
       "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-21T04:23:41+00:00",
+      "published": "2026-09-22T04:19:14+00:00",
       "summary": "改进我们的对齐和安全工作 7月30日，我们报告了三起事件，其中Claude模型未经授权访问了真实计算机系统。这些模型——出于评估目的故意在没有网络安全防护的情况下运行——由于第三方评估环境中的配置错误而访问了互联网。",
       "score": 60,
       "original_title": "Anthropic / Claude：Improving our alignment and security practices",
@@ -31,7 +18,20 @@
       "uid": "5d9339d17aad"
     },
     {
-      "title": "推出 Gemini 3.8 Live 和 3.8 Live 扩展思维",
+      "title": "数学与人工智能咨询小组",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "OpenAI 正与一个独立的数学与人工智能顾问小组合作，指导对新兴人工智能成果的审查和沟通。",
+      "score": 60,
+      "original_title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "translated": true,
+      "priority": 0,
+      "uid": "5cdc4a251a1d"
+    },
+    {
+      "title": "推出 Gemini 3.8 Live 及 3.8 Live 扩展思维",
       "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
@@ -42,19 +42,6 @@
       "translated": true,
       "priority": 0,
       "uid": "307b58817a42"
-    },
-    {
-      "title": "一加 16 手机开启预约：支持全局 165Hz 超高刷，定位“巅峰性能旗舰”",
-      "link": "https://www.ithome.com/1/005/116.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-09-21T03:15:17+00:00",
-      "summary": "IT之家 9 月 21 日消息，一加 16 手机现已在京东开启预约，价格暂未公布。现阶段预约且发布后购机可享电池保两年、OPPO Enco R5 蓝牙耳机、京东 PLUS 京典年卡等礼品。京东 一加 16 手机 待公布 立即预约 IT之家了解到，一加 16 手机提供明日星光 / 黑暗森林 / 火星杰作三种配色，定位巅峰性能旗舰。据一加中国区总裁李杰透露，一加 16 将首发搭载 ColorOS 17 操作系统， 首次实现“全局 165Hz 超高刷” 。微博博主 @数码闲聊站 曾发文称， 一加 16 电池定版是 9000mAh，是新一波旗舰手机的最大容量 。该机还用了 OPPO 聚能芯片，支持低压放电，预计还将拥有骁龙 8 Elite Extreme Gen6 芯片、2 亿像素大底影像、185Hz 超高刷游戏、独一档硬件级全局 165Hz 高刷体验、9K 大电池等，主打“全能旗舰”。",
-      "score": 80,
-      "original_title": "",
-      "translated": false,
-      "priority": 60,
-      "uid": "247c0629944e"
     },
     {
       "title": "沙特退出中国主导的跨境数字货币平台",
@@ -74,7 +61,7 @@
       "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-21T04:23:41+00:00",
+      "published": "2026-09-22T04:19:14+00:00",
       "summary": "与埃森哲合作进行嵌入式评估 我们正在与埃森哲合作，对前沿人工智能进行独立评估。这是朝着我们首席执行官在《我们必须为前沿设定步伐》的文章中所作承诺迈出的重要一步，即在Anthropic内部嵌入评估人员。该合作将由埃森哲的人工智能专业业务部门Faculty领导，并将包括评估和红队测试模型、进行对齐评估...",
       "score": 60,
       "original_title": "Anthropic / Claude：Partnering with Accenture on embedded evaluation",
@@ -83,121 +70,147 @@
       "uid": "62890b5bd4da"
     },
     {
-      "title": "推出澳大利亚青年安全蓝图",
-      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "title": "下一阶段人工智能的建设标准",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-09-18T12:00:00+00:00",
-      "summary": "OpenAI 推出了澳大利亚青少年安全蓝图，这是一个六大支柱的路线图，旨在提供更安全的人工智能体验，保护并赋能年轻人。",
+      "published": "2026-09-21T10:00:00+00:00",
+      "summary": "OpenAI概述了通向全球共享人工智能标准的路径，呼吁通过协调的评估、报告和治理来提高安全性。",
       "score": 60,
-      "original_title": "Introducing the Australian Youth Safety Blueprint",
+      "original_title": "Building standards for the next phase of AI",
       "translated": true,
       "priority": 0,
-      "uid": "5bec41a17f29"
+      "uid": "a0bd9ce58c0e"
     },
     {
-      "title": "三方品牌首次：漫步者 Comfo Clip Q2 耳夹式耳机升级支持星闪 E2.0 功能",
-      "link": "https://www.ithome.com/1/005/127.htm",
+      "title": "铲除“幽灵外卖”、最高判刑 15 年，新一批网络食品安全犯罪典型案例发布",
+      "link": "https://www.ithome.com/1/005/580.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-21T03:53:03+00:00",
-      "summary": "IT之家 9 月 21 日消息， 漫步者本月初在京东上架了 Comfo Clip Q2 耳夹式耳机 ，该耳机基于 OpenHarmony 开源鸿蒙系统打造，搭载海思谛听芯片、匹配 12mm 动圈，定价 399 元。IT之家从漫步者供应商客服了解到，这款耳机已升级支持星闪功能。用户只需在手机应用商店将 Edifier Connect App 更新至最新版本并连接耳机，开启 App 后根据提示重新完成耳机配对， 即可选择星闪连接模式 。从官方 App 的描述来看， 漫步者 Comfo Clip Q2 耳夹式耳机此次升级了星闪 E2.0 ，支持无损音频传输，延迟更低、抗干扰更强。值得一提的是， 这也是首个三方品牌的星闪耳机 。漫步者 Comfo Clip Q2 耳夹式耳机用户可通过星闪与自己的华为手机进行连接。",
+      "published": "2026-09-22T02:26:46+00:00",
+      "summary": "IT之家 9 月 22 日消息，最高人民法院、最高人民检察院今日联合发布一批 依法惩治网络食品安全犯罪典型案例 ，通过以案释法，净化网络食品市场环境，切实保障人民群众合法权益。近年来，随着电子商务平台的快速发展，网络食品销售活动日趋活跃，极大便利了人民群众的消费需求。与此同时， 一些不法分子利用网络空间特点，借助算法推荐快速精准锁定目标客户，通过组织虚假交易进行网络刷单，人为提升商品搜索排名，实现快速引流 。在社交网络平台销售及直播带货等销售模式中，还通过私聊议价或者使用隐晦词汇等方式逃避平台监管，致使食品安全风险扩散的速度、广度及危害程度远超传统线下销售模式。此外， 部分平台经营者食品安全主体责任落实不到位 ，对入网食品经营者的经营资质、备案信息等审核把关不严，部分不法分子大肆伪造、买卖虚假证件，并使用虚假证件注册入驻外卖平台开展食品生产经营活动，埋下食品安全隐患，也增加了监管治理难度。",
+      "score": 55,
+      "original_title": "",
+      "translated": false,
+      "priority": 35,
+      "uid": "2fb8ed06dd07"
+    },
+    {
+      "title": "最强国产 AI 芯片阿里平头哥真武 V900 发布，全新磐久超节点服务器明年 Q1 上市",
+      "link": "https://www.ithome.com/1/005/602.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-22T03:18:56+00:00",
+      "summary": "IT之家 9 月 22 日消息，由阿里集团主办的 2026 云栖大会于 9 月 22 日至 24 日在杭州国际博览中心举行。 IT之家在大会现场获悉，阿里平头哥发布了最强国产 AI 芯片 —— 真武 V900 ，这是一款训推一体 AI 芯片，算力提升至真武 M890 的 3 倍，支持 216GB 显存、1200GB/s 片间互联、FP8/FP4 精度。 阿里宣布，搭载平头哥真武 V900、ICN Switch、磐脉及镇岳芯片的 全新磐久超节点服务器将于 2027 年 Q1 上市 。 此外，阿里云灵骏真武 M890 超节点实例 GP9A 已对外提供服务，成为国内首个成功运行超 2 万亿参数大模型的超节点形态算力。 IT之家从大会现场获悉，阿里平头哥还预告了下一代 AI 芯片 —— 真武 J900 ，自研并行计算架构将迎来跨越革新，计划 2028 年 Q3 上市。",
       "score": 55,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "79699fd4632b"
+      "uid": "35e732fc8ec8"
     },
     {
-      "title": "深蓝 S07 AI 激光版 9 月 28 日登场，搭载 AI 激光感知方案与超级三电系统",
-      "link": "https://www.ithome.com/1/005/084.htm",
+      "title": "龙芯发布自研通用 GPU 加速计算平台首个软件版本：支持 OpenCL 3.0、CUDA 及 AI 推理",
+      "link": "https://www.ithome.com/1/005/595.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-21T02:11:56+00:00",
-      "summary": "IT之家 9 月 21 日消息，深蓝汽车今天在微博宣布，全新深蓝 S07 AI 激光版将于 9 月 28 日登场。新车搭载 AI 激光感知方案，拥有超级三电系统。据IT之家此前报道 ，在今年 6 月的 2026 重庆国际车展期间，深蓝汽车正式推出全新深蓝 S07 华为干昆激光版增程车型。据悉，全新深蓝 S07 华为干昆激光版增程车型搭载华为干昆 ADS 4 Pro 增强版辅助驾驶系统，配备由 1 颗激光雷达、3 颗 4D 毫米波雷达、11 个高清摄像头以及 12 个超声波雷达组成的 27 传感器融合感知方案。车辆支持城区领航辅助、高速领航辅助以及园区领航辅助等功能，并搭载全维防碰撞系统 CAS 4.续航与补能方面，新车采用超级增程 2.0 技术，搭载原力智能增程系统和原力超集电驱 2.官方数据显示，新车百公里馈电油耗低至 3.",
+      "published": "2026-09-22T03:05:18+00:00",
+      "summary": "IT之家 9 月 22 日消息，龙芯中科今日宣布推出支持自研通用 GPU 的龙芯加速计算平台（Loongson Accelerated Computing Platform）首个软件版本，面向龙芯通用 GPU 提供从底层驱动、编程环境到 AI 模型推理的完整软件支持。该平台基于龙芯 2K3000 和 9A1000 芯片集成的 LG200 系列通用 GPU 核心开发。在已有 OpenGL、Vulkan 图形软件栈的基础上，平台进一步覆盖算力芯片驱动、编译器、运行时环境、算子库、推理引擎、调试工具和性能分析工具等组件。龙芯加速计算平台支持 OpenCL 3.0 和 CUDA 两类编程模型接口，并集成 BLAS、DNN 等高性能算子库，可用于 AI 模型推理。平台面向龙芯全系列算力芯片，支持从系统选型、算力调用、模型优化到应用部署的开发流程。",
       "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "5fc87b149540"
+      "uid": "576585598b99"
     },
     {
-      "title": "能在 100 米高空救援的无人机：“天目山九号”飞行平台发布，一次能载 3 个人",
-      "link": "https://www.ithome.com/1/005/119.htm",
+      "title": "戴森空气净化器 BP10 国行首销：20 米长气流净化、提供医护级除醛消杀能力，7699 元",
+      "link": "https://www.ithome.com/1/005/640.htm",
       "source": "IT之家·出行",
       "category": "健康生活",
-      "published": "2026-09-21T03:34:06+00:00",
-      "summary": "IT之家 9 月 21 日消息，天目山实验室“天目山九号”高鲁棒性系留式高层营救飞行平台发布仪式于 9 月 19 日在北航杭州国际校园举行。现场开展了“天目山九号”模拟营救实景飞行演示。在消防登高车无法抵达楼顶的演习设定背景下，实验楼顶楼发生模拟火情，有人员在楼顶被困。接收信息后， “天目山九号”整套车载系统快速协同，飞行救援平台搭载搜救机器狗起飞，飞至楼顶后悬停并抵近楼宇，依托地面系留供电保持稳定悬停 。机器狗进入火场开始搜救，其搜救算法由北航国新院人工智能平台完成。随后，模拟受困人员被送上“天目山九号”， 该平台单次可运输 3 名成年人 。最终，“天目山九号”带着模拟受困人员顺利返回地面，模拟救援任务圆满完成。本次演习完整复刻高层火情下受困人员转移的真实作业场景，展示了“天目山九号”在复杂环境下的定位控制能力、载人作业适配能力。",
+      "published": "2026-09-22T04:03:23+00:00",
+      "summary": "IT之家 9 月 22 日消息，戴森旗下 BP10 巡航气流消毒净化器（空气净化器）国行现已在京东开启首销，该产品主打“20 米长气流净化”，拥有“医护级除醛消杀能力”， 国行定价为 7699 元 。 京东 戴森空气净化器 BP10 7699 元 直达链接 该净化器外观汲取航空美学，号称以喷气式飞机引擎为灵感。顶部配备星形喷嘴，利用内部导流叶片控制气流。机身支持 350° 旋转与 30° 夹角，能够输出前进式直射气流。最远送风距离达 20m，最大送风量 1300L/s，净化面积 144m²，置于角落即可实现大范围覆盖，官方称净化 12m² 空间需 90s。 该净化器内置五重传感器，持续监测 PM2.5、PM10、HCHO、VOC、NO2、CO2 及温湿度这 8 项指标。数据实时显示于机身屏幕，净化器内部配备主动净化模块，可产生负离子装置、去除 10 种细菌病毒及 4 种过敏原，去除率大于 99%，同时在睡眠模式噪音低至 20dB。可在用户睡眠时悄悄安心净化空气。",
       "score": 15,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "cf21944a7f24"
+      "uid": "6f89217c70c7"
     },
     {
-      "title": "霍尔木兹危机将推动全球煤炭需求创历史新高",
-      "link": "https://oilprice.com/Energy/Coal/Hormuz-Crisis-to-Push-Global-Coal-Demand-to-Record-High.html",
+      "title": "通用汽车发言人重申苹果 CarPlay / 谷歌 Android Auto 禁令，目前暂时仅燃油车提供相应功能",
+      "link": "https://www.ithome.com/1/005/612.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-09-22T03:34:00+00:00",
+      "summary": "IT之家 9 月 22 日消息，此前有消息称通用汽车（GM）可能改变调整策略，不再取消旗下车型苹果 CarPlay / 谷歌 Android Auto 兼容计划。不过，最新消息显示，这一说法并不准确。据消息源 Joanna Stern 透露，通用汽车发言人已经确认，2027 款雪佛兰 Silverado 和 GMC Sierra 搭载的新软件界面虽然可以同时支持 CarPlay / Android Auto，但这一设计仅适用于燃油版车型，不支持电动车型。通用汽车此前已经表示，CarPlay 和 Android Auto 未来一段时间仍会继续出现在旗下燃油车中，尽管 2027 款 Silverado 和 Sierra 继续支持 CarPlay / Android Auto，但这并不意味着通用汽车改变了原有自行开发车机策略。",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "a78de5fcd8c9"
+    },
+    {
+      "title": "卡塔尔的液化天然气损失重振了从阿根廷到东帝汶的项目",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Qatars-LNG-Loss-Revives-Projects-From-Argentina-to-Timor-Leste.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-20T19:00:00+00:00",
-      "summary": "国际能源署预计，今年煤炭需求将增加，以应对霍尔木兹海峡关闭造成的持续石油和天然气贸易限制。由于石油库存消耗殆尽，各国被迫重新转向煤炭以填补空缺，同时各国也在逐步扩大可再生能源的容量。",
+      "published": "2026-09-22T00:00:00+00:00",
+      "summary": "由于卡塔尔17%的液化天然气出口能力受损，海湾地区的运输受到干扰，买家在Gastech上寻求其他来源的天然气。主办方估计在曼谷宣布或推进的协议价值约为600亿美元，包括一份为期20年的液化天然气合同和一份为期35年的泰国湾生产协议，而阿根廷、东帝汶和坦桑尼亚的拟议项目也引起了买家们的兴趣。",
       "score": 15,
-      "original_title": "Hormuz Crisis to Push Global Coal Demand to Record High",
+      "original_title": "Qatar’s LNG Loss Revives Projects From Argentina to Timor-Leste",
       "translated": true,
       "priority": 0,
-      "uid": "a24f0a7be7bc"
+      "uid": "7b0754ac03b5"
     },
     {
-      "title": "分析人士称，中国将主导全球核能至2035年",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-Will-Dominate-Global-Nuclear-Energy-Through-2035-Analyst-Says.html",
+      "title": "由于威瑞森光纤线路被切断，数百个飞往纽瓦克、纽约、费城的航班受到影响",
+      "link": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-09-21T23:03:04+00:00",
+      "summary": "官员表示，由于新泽西州的一条维珍尼亚光纤电缆在施工过程中被意外切断，切断了航空交通管制员关键数据的备用传输通道，周一往返纽约地区和费城的数百个航班被取消、延误或改道。联邦航空管理局暂停了飞往新泽西州纽瓦克和费城的航班，并迫使近100架飞机，其中一些在后续...",
+      "score": 15,
+      "original_title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
+      "translated": true,
+      "priority": 0,
+      "uid": "2ec10dc19474"
+    },
+    {
+      "title": "美国新制裁法威胁印度巨额俄罗斯石油贸易",
+      "link": "https://oilprice.com/Energy/Crude-Oil/New-US-Sanctions-Law-Threatens-Indias-Huge-Russian-Oil-Trade.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-20T17:00:00+00:00",
-      "summary": "核能的未来掌握在中国手中。虽然美国仍是世界上最大的核能生产国，但中国的核能行业增长速度如此之快，预计将在未来十年内超越法国以及美国，成为世界领先的核能生产国。",
+      "published": "2026-09-21T23:00:00+00:00",
+      "summary": "最近几天，印度从俄罗斯进口更便宜的原油受到关注，此前美国立法者通过了针对俄罗斯能源部门的新制裁法案。《2026年林赛·O·格雷厄姆对俄罗斯和伊朗制裁法案》授权并扩大对俄罗斯的法定制裁、关税和禁令，并延长对伊朗的现有制裁，该法案已由美国签署成为法律。",
       "score": 15,
-      "original_title": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says",
+      "original_title": "New U.S. Sanctions Law Threatens India’s Huge Russian Oil Trade",
       "translated": true,
       "priority": 0,
-      "uid": "2c77853dcc79"
+      "uid": "593cc63a15cd"
     },
     {
-      "title": "纽约750亿美元气候责任法面临不确定的未来",
-      "link": "https://oilprice.com/Energy/Energy-General/New-Yorks-75-Billion-Climate-Liability-Law-Faces-an-Uncertain-Future.html",
+      "title": "全球炼油紧缩推动柴油价格创新高",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Global-Refinery-Crunch-Pushes-Diesel-Prices-to-New-Records.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-20T15:00:00+00:00",
-      "summary": "2024年，纽约州州长凯西·霍楚尔签署了一项法律，要求大型化石燃料污染者支付最多750亿美元的赔偿。然而，两年后，一名联邦法官裁定该法律与联邦法律存在冲突，不能继续执行。",
+      "published": "2026-09-21T22:00:00+00:00",
+      "summary": "上周柴油价格再创新高，每加仑超过6.50美元。在欧洲，燃料价格飙升，而原本就困难的经济体面临短缺威胁。全球炼油能力根本不足以弥补中东和俄罗斯石油的损失。而且没有快速的解决办法。",
       "score": 15,
-      "original_title": "New York’s $75 Billion Climate Liability Law Faces an Uncertain Future",
+      "original_title": "Global Refinery Crunch Pushes Diesel Prices to New Records",
       "translated": true,
       "priority": 0,
-      "uid": "ab6b91d81cba"
+      "uid": "79df908cc1bf"
     },
     {
-      "title": "‘太糟了’：关税、飞涨的燃料成本和更高的利率如何挤压美国公司",
+      "title": "“太糟了”：关税、飙升的燃油成本和更高的利率如何挤压美国公司",
       "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-20T12:47:23+00:00",
-      "summary": "航班减少且价格更高。货运附加费增加。制造商囤积库存。甚至破产。对于美国的大大小小公司来说，由唐纳德·特朗普总统贸易政策下实施的关税、伊朗战争导致的燃油价格飙升以及现在不断上升的利率的组合，正迫使高管们做出艰难的选择。艾伦·伊登一直为他拥有25名员工的公司——Orig——囤积额外库存。",
+      "published": "2026-09-21T15:04:04+00:00",
+      "summary": "航班减少且价格更高。货运附加费增加。制造商囤积库存。甚至出现破产。对于美国大大小小的公司来说，在唐纳德·特朗普总统贸易政策下征收的关税、伊朗战争导致的燃料价格飙升以及现在利率上升的共同作用下，管理层被迫做出艰难的选择。艾伦·伊顿一直在为他的25人公司Orig保留额外库存...",
       "score": 15,
       "original_title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
       "translated": true,
       "priority": 0,
       "uid": "f6b972a5bfa8"
-    },
-    {
-      "title": "廉价航空之王比尔·弗兰克热衷于头等舱座位和高级升级",
-      "link": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-09-20T12:00:01+00:00",
-      "summary": "亚利桑那州斯科茨代尔——几十年来，弗朗泰尔航空公司的董事长、连续投资航空公司的威廉·奥古斯都·弗兰克通过销售廉价机票以及收取托运行李费、选座费和其他各种费用赚得盆满钵满。现在，他表示头等舱座位和其他旅客舒适设施是有必要的——至少在美国是如此。弗朗泰尔计划明年在其空客机队上推出头等舱座位。",
-      "score": 15,
-      "original_title": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
-      "translated": true,
-      "priority": 0,
-      "uid": "25222a8e837d"
     },
     {
       "title": "新的专家加入谷歌的人工智能与经济团队",
@@ -213,19 +226,6 @@
       "uid": "a371457dab8c"
     },
     {
-      "title": "让 Agent 读懂你的身体：数据获取篇",
-      "link": "https://sspai.com/prime/story/how-to-obtain-data-for-agent-analysis",
-      "source": "少数派",
-      "category": "健康生活",
-      "published": "2026-09-18T03:19:13+00:00",
-      "summary": "某一天，我站在健身房里，发现自己似乎已经有一阵子没什么进步了，隐约生出一种“怎么练来练去还是这样”的顿感。我知道，这多半是平台期。理论上，我要做的无非是调整训练量、换动作、看恢复、查饮食，必要时调整周期安排。但前提是，我得先知道自己卡在哪一环。于是，我开始琢磨一件事：能不能让 AI Agent 来“接管”我的身体？这个需求可以拆分成三个问题： - AI Agent 怎么才能方便地拿到我的数据？- 拿到数据后，怎么让 AI Agent 正确地处理？- AI 的处理结果在多大程度上可信？由于篇幅问题，这三个问题，我准备分开来写。本文处理第一个问题：怎样让 AI 持续拿到我已经在记录的数据。需要承认的是，我个人的精力与手边的设备都有限，只能实测从 Apple Health 与 Oura 获取数据的方法；",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "d1d8cba2db19"
-    },
-    {
       "title": "与谷歌共同创造时尚的未来",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "source": "Google AI Blog",
@@ -239,12 +239,12 @@
       "uid": "1253b5f79879"
     },
     {
-      "title": "让全球数据更易探索",
+      "title": "让全球数据更易于探索",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-17T20:00:00+00:00",
-      "summary": "让全球数据更易于探索 每年，联合国系统内的各个实体都会收集数据，以追踪影响我们工作、学习、保持健康以及照顾亲人的挑战。这些机构处理的是世界上一些最高诚信的数据。但是，用于解决重大全球挑战的统计数据一直分散在不同的孤立系统中，在不同机构之间及机构内部以相互冲突的格式组织。",
+      "summary": "让全球数据更易于探索 每年，联合国系统内的各个实体都会收集数据，以追踪影响我们工作、学习、保持健康和照顾亲人的挑战。这些机构使用的是世界上最具诚信的数据之一。但是，解决重大全球挑战所需的统计数据一直存在于各自分隔的数据孤岛中，以不同的冲突格式在各个机构之间以及机构内部组织。",
       "score": 10,
       "original_title": "Making global data easier to explore",
       "translated": true,
@@ -256,31 +256,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3933.3676,
-        "change": 21.4962,
-        "pct": 0.55,
-        "amount_yi": 6204.6
+        "price": 3958.6395,
+        "change": 8.7327,
+        "pct": 0.22,
+        "amount_yi": 6810.35
       },
       {
         "name": "深证成指",
-        "price": 13718.23,
-        "change": 77.354,
-        "pct": 0.57,
-        "amount_yi": 7073.83
+        "price": 13814.87,
+        "change": 84.848,
+        "pct": 0.62,
+        "amount_yi": 7472.53
       },
       {
         "name": "创业板指",
-        "price": 3403.97,
-        "change": 31.293,
+        "price": 3431.11,
+        "change": 31.524,
         "pct": 0.93,
-        "amount_yi": 1428.0
+        "amount_yi": 1462.47
       },
       {
         "name": "沪深300",
-        "price": 4526.2959,
-        "change": 18.9033,
-        "pct": 0.42,
-        "amount_yi": 3144.83
+        "price": 4562.4989,
+        "change": 22.9335,
+        "pct": 0.51,
+        "amount_yi": 3488.57
       }
     ],
     "holdings": [
@@ -289,11 +289,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 46.55,
-        "market_value": 4655.0,
-        "pnl": 1482.36,
-        "pnl_pct": 46.72,
-        "weight_hint": "44.0%",
+        "price": 47.19,
+        "market_value": 4719.0,
+        "pnl": 1546.36,
+        "pnl_pct": 48.74,
+        "weight_hint": "44.3%",
         "note": "",
         "available": true
       },
@@ -302,11 +302,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.08,
-        "market_value": 2808.0,
-        "pnl": 111.59,
-        "pnl_pct": 4.14,
-        "weight_hint": "26.6%",
+        "price": 28.05,
+        "market_value": 2805.0,
+        "pnl": 108.59,
+        "pnl_pct": 4.03,
+        "weight_hint": "26.3%",
         "note": "",
         "available": true
       },
@@ -315,11 +315,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.06,
-        "market_value": 2418.0,
-        "pnl": 540.48,
-        "pnl_pct": 28.79,
-        "weight_hint": "22.9%",
+        "price": 8.09,
+        "market_value": 2427.0,
+        "pnl": 549.48,
+        "pnl_pct": 29.27,
+        "weight_hint": "22.8%",
         "note": "",
         "available": true
       },
@@ -328,10 +328,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.16,
-        "market_value": 232.0,
-        "pnl": -86.0,
-        "pnl_pct": -27.04,
+        "price": 1.178,
+        "market_value": 235.6,
+        "pnl": -82.4,
+        "pnl_pct": -25.91,
         "weight_hint": "2.2%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -341,11 +341,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.595,
-        "market_value": 459.5,
-        "pnl": -37.5,
-        "pnl_pct": -7.55,
-        "weight_hint": "4.3%",
+        "price": 4.635,
+        "market_value": 463.5,
+        "pnl": -33.5,
+        "pnl_pct": -6.74,
+        "weight_hint": "4.4%",
         "note": "",
         "available": true
       },
@@ -365,44 +365,65 @@
     ],
     "sectors": [
       {
-        "name": "金融/银行 · 金融信息服务",
-        "pct": 2.51,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 0.09,
+        "name": "新能源/光伏 · 燃料电池",
+        "pct": 3.1,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.02,
+        "source": "东财行业"
+      },
+      {
+        "name": "半导体/电子 · 数字芯片设计",
+        "pct": 3.05,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 66.89,
+        "source": "东财行业"
+      },
+      {
+        "name": "半导体/电子 · 模拟芯片设计",
+        "pct": 1.35,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 3.19,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 综合电力设备商",
+        "pct": 1.23,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": 0.51,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 综合电力设备商",
+        "pct": 1.23,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.51,
         "source": "东财行业"
       },
       {
         "name": "煤炭 · 煤炭行业",
-        "pct": 1.9317888411614,
+        "pct": 0.92658425265476,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "石油 · 石油行业",
-        "pct": 1.7521257407885,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "name": "金融/银行 · 金融行业",
+        "pct": -0.077384407041981,
+        "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子信息",
-        "pct": 0.78175878862415,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "电力/公用 · 供水供气",
-        "pct": 0.59026854559957,
+        "name": "电力/公用 · 电力行业",
+        "pct": -0.44186582648121,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "金融/银行 · 金融行业",
-        "pct": -0.04224070704445,
-        "why": "对应工商银行，关注净息差与分红",
+        "name": "石油 · 石油行业",
+        "pct": -0.95184419813388,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
@@ -410,44 +431,56 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "美联储和英国央行在Jane Street亏损后加强对银行与交易公司业务往来的审查",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqetx0768055.shtml",
-        "level": "高",
+        "title": "阿里平头哥公布CPU规划，2027年将推出倚天720、倚天730两代芯片",
+        "link": "https://finance.sina.com.cn/china/gncj/2026-09-22/doc-inissitp2253733.shtml",
+        "level": "中",
         "tag": "行业"
       },
       {
-        "title": "澳新银行预计新西兰联储本轮周期还将加息三次",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqetx0753447.shtml",
+        "title": "阿里平头哥AI芯片真武V900发布，将于2027年一季度上市",
+        "link": "https://finance.sina.com.cn/china/gncj/2026-09-22/doc-inissiti8969958.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "中环新能源午前涨近5% 上半年AI算力业务收入飙升至10.47亿元",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-22/doc-inissiti8963243.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "Meta智能体Muse引爆AI硬件需求！科创半导体设备ETF华泰柏瑞（588710）连续5个交易日成交额超10亿",
+        "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-22/doc-inissitp2240527.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "英派药业-B股价涨幅扩大逾42% 公司入通有望持续吸引南下资金",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-21/doc-inisqetz2142733.shtml",
+        "title": "龙旗科技盘中涨近12% 近日拟以自有资金收购安瑞可60%股权",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-22/doc-inissitf7067122.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10572.5,
-    "total_pnl": 2010.93,
-    "total_amount_yi": 13278.43,
+    "total_market_value": 10650.1,
+    "total_pnl": 2088.53,
+    "total_amount_yi": 14282.88,
     "bias": "偏多",
-    "volume_note": "量能：两市合计约 13278 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 金融信息服务、煤炭行业、石油行业；偏弱 金融行业",
-    "tip": "板块轮动是常态，不要追高换仓",
+    "volume_note": "量能：两市合计约 14283 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 燃料电池、数字芯片设计、模拟芯片设计；偏弱 金融行业、电力行业、石油行业",
+    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
     "errors": []
   },
   "learning": {
-    "title": "什么是指数",
-    "body": "沪深300（Shanghai-Shenzhen 300 Index，沪深两市规模大、流动性好的300家公司）像“大盘平均分”。你买的300ETF，本质上就是在跟踪这个平均分。",
+    "title": "PE（市盈率）",
+    "body": "PE = 股价 ÷ 每股收益，粗看股票贵不贵。银行/能源股常见区间更低；神华这类更常结合股息率一起看，别只看PE。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "通信铁塔",
-    "text": "今儿聊【通信铁塔】。这铁塔往山上一立，跟个钢筋仙鹤似的，鹤不飞，人得爬。领导说“顺便看看点位”，这顺便俩字一出，你就知道中午泡面泡不上了。缆没拉上先拉上脸色，链路没通先把汇报通了。社会经验：凡写着“现场简单勘察”的，背包里都得备双袜子。"
+    "topic": "A股开盘",
+    "text": "今儿聊【A股开盘】。早盘像相亲：看着挺热闹，真心没几个。神华长江电力坐那儿跟老干部似的，不吵不闹，偶尔点个头；主题炒作跟广场舞大妈似的，音箱一响全场跟。社会经验：能吃息的先吃息，能睡觉的别盯盘——盯盘不涨，只涨血压。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
