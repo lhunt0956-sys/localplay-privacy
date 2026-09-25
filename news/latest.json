@@ -1,15 +1,15 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-24T12:11:52.219668+08:00",
+  "generated_at": "2026-09-25T12:24:47.966833+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 17,
+  "count": 19,
   "items": [
     {
       "title": "克劳德发现了一种新型酶系统",
       "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-24T04:12:12+00:00",
+      "published": "2026-09-25T04:25:04+00:00",
       "summary": "订阅人类科学专题，了解人工智能辅助发现、实用工作流程和跨科学领域的现场笔记。 我们正在 Anthropic 引入一个新的生命科学研究小组和实验室。 我们的重点是使用 Claude 进行基础生物学研究：探索 DNA 数据集以识别未表征的蛋白质家族，大规模生成假设，并通过实验室实验对其进行测试。",
       "score": 60,
       "original_title": "Claude discovers a novel enzyme system",
@@ -18,7 +18,7 @@
       "uid": "2d52ed2f0b86"
     },
     {
-      "title": "两年的OpenAI学院",
+      "title": "OpenAI 学院两年",
       "link": "https://openai.com/index/two-years-of-openai-academy",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
@@ -31,50 +31,24 @@
       "uid": "b7912633d880"
     },
     {
-      "title": "通过安全的服务器端内存推进私有人工智能计算",
-      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "title": "隆重推出 Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
-      "published": "2026-09-23T16:00:57+00:00",
-      "summary": "通过安全的服务器端内存推进私有人工智能计算我们的私有人工智能计算架构进行了技术更新，这将支持具有设备隐私标准的持久、跨设备人工智能内存。 人工智能变得越来越有能力和直观——记住重要的事情，理解你周围的世界，并按照你的指示行事。",
+      "published": "2026-09-24T16:20:39+00:00",
+      "summary": "推出 Gemini 3.8 Live 和 Live Avatar 在上周 Gemini 3.8 Live 发布的势头基础上，今天我们很高兴推出 Gemini 3.8 Live 和 Live Avatar — 为我们的本地实时对话模型带来近乎实时的视觉效果。 通过将近乎实时的视频生成与语音相结合，实时头像功能创造了一种以动态视觉角色来听、看、说的体验。",
       "score": 45,
-      "original_title": "Advancing Private AI Compute with secure, server-side memory",
+      "original_title": "Introducing Gemini 3.8 Live with Live Avatar",
       "translated": true,
       "priority": 0,
-      "uid": "5e764aef2076"
-    },
-    {
-      "title": "2026 骁龙峰会高通高管群访：双旗舰策略、行业首超 5GHz、和小米合作关系、AI 手机未来...",
-      "link": "https://www.ithome.com/1/006/706.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-09-24T04:08:21+00:00",
-      "summary": "IT之家 9 月 24 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会主题演讲结束后， 高通公司高级副总裁兼手机业务总经理克里斯 · 帕特里克（Chris Patrick）在内的诸多高通高管接受了IT之家等媒体采访。在本次媒体群访中，出席的高通高管有以下几位： 高通技术公司高级副总裁兼手机业务总经理 Chris Patrick 高通技术公司产品管理副总裁 Judd Heape 高通技术公司产品管理副总裁 Vinesh Sukumar 高通技术公司产品管理总监 Amandeep Dhaliwa 高通技术公司 CPU 产品管理高级总监 Manju Varma 高通技术公司高级副总裁兼旗舰移动平台总经理 Dino Bekis 问：第一个问题，第六代骁龙 8 至尊版和超级至尊版的 GPU，在硬件上有什么具体区别？",
-      "score": 65,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "2a998dfa4ed9"
-    },
-    {
-      "title": "华为 MatePad Air Z 平板配置公布：麒麟 T93SD 处理器、12 英寸 LCD 屏，2799 元起",
-      "link": "https://www.ithome.com/1/006/606.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-09-24T03:14:48+00:00",
-      "summary": "IT之家 9 月 24 日消息，华为 MatePad Air Z 平板今日 10:08 正式预售，限时优惠价 2799 元起，9 月 29 日 10:08 正式开售，官网现已公布新品配置信息。华为 MatePad Air Z 系列平板提供珊瑚橙、海岛蓝、星云粉、深空灰、皓月银配色，搭载 麒麟 T93SD 处理器、HarmonyOS 7.0 系统，配备 12 英寸 LCD 屏 ，最高支持 144Hz 屏幕刷新率，分辨率 2800 × 1840 像素，屏占比 88%。该机前置摄像头 800 万像素，后置摄像头 5000 万像素， 配备 10100 mAh（典型值）电池 ，机身尺寸为 270.50 mm × 183.55 mm × 5.9 mm，重量约 555g（含电池）。IT之家询问华为商城官方客服获悉，MatePad Air Z 悦享款标准版与 MatePad Air Z 标准版都搭载麒麟 T93SD 芯片， 不同的地方在于标配的充电器及后置 LED 闪光灯 。",
-      "score": 60,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "7ad237c1e1cc"
+      "uid": "ec0422e215bd"
     },
     {
       "title": "Anthropic / Claude：与埃森哲合作开展嵌入式评估",
       "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-24T04:12:12+00:00",
+      "published": "2026-09-25T04:25:04+00:00",
       "summary": "与埃森哲合作进行嵌入式评估 我们正在与埃森哲合作进行前沿人工智能的独立评估。 这是朝着我们首席执行官的文章《我们必须开拓前沿》中做出的承诺迈出的重要一步，即在 Anthropic 中嵌入评估员。 该合作伙伴关系将由埃森哲专业人工智能业务部门Faculty领导，包括评估和红队模型、进行一致性评估……",
       "score": 60,
       "original_title": "Anthropic / Claude：Partnering with Accenture on embedded evaluation",
@@ -96,6 +70,19 @@
       "uid": "95c2e31d0be6"
     },
     {
+      "title": "鸿蒙智行问界新 M8 内饰揭晓，新增“沙砾棕”与“澜月白”配色",
+      "link": "https://www.ithome.com/1/007/098.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-25T02:49:34+00:00",
+      "summary": "IT之家 9 月 25 日消息，鸿蒙智行问界汽车官方刚刚正式公开了新 M8 旗舰 SUV 的内饰外观，新车带来了“天幕青”和“苍戎绿”两款全新车色，以及全新的“沙砾棕”与“澜月白”内饰颜色。据介绍，新车座椅采用经典菱格纹，彰显豪华格调。此外，新车还对中控台区域的一些细节进行了全新设计，虽然依然搭载一体式联屏，但对边框进行了重新设计，变得更加平直简洁，中控屏下方的空调出风口造型也有所变化。后排方面，新车依然提供五座和六座两种座椅布局，六座车型第二排为双零重力座椅，腿拖、按摩等功能一应俱全。这款新车已通过工信部申报，其车身尺寸 5190×1999×1795mm，轴距 3105mm。轮胎可选 255/50R20、265/45R21、275/50R20、285/45R21 四种规格，用户可按需选装不同样式轮辋、侧脚踏板以及 ETC 车载设备。",
+      "score": 55,
+      "original_title": "",
+      "translated": false,
+      "priority": 35,
+      "uid": "97e2fa37aea4"
+    },
+    {
       "title": "英国准备施压 Google 向 Android 和 Chrome 用户展示 AI 助手选择屏",
       "link": "https://www.solidot.org/story?sid=85465",
       "source": "Solidot·通信",
@@ -107,6 +94,19 @@
       "translated": false,
       "priority": 35,
       "uid": "d5c0328e7f70"
+    },
+    {
+      "title": "华硕 ROG XBOX 掌机 X 20 周年版国行版上架：升级 7.4 英寸 OLED 屏，9999 元起",
+      "link": "https://www.ithome.com/1/007/106.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-25T03:39:03+00:00",
+      "summary": "IT之家 9 月 25 日消息，华硕 ROG XBOX 掌机 X 20 周年版国行版现已上架电商平台，将于 10 月 15 日开售， 售价 9999 元起 ： 20 周年版：9999 元 20 周年版套装：18999 元 相比 20 周年版，20 周年版套装增加了 ROG XREAL R1 AR 游戏眼镜 20 周年版、dbrand Killswitch 保护套件（带支架保护壳、旅行防护盖、ROG 定制摇杆防滑帽、专属贴膜）、定制派力肯防护箱（箱体镌刻 ROG 20 周年限定徽章与 ROG 红锁扣）。该掌机采用 ROG 20 周年限定设计，半透机身搭配黑金装饰元素，机身带有专属 20 周年金色铭牌。4 英寸 ROG 星云原画屏，采用 OLED 面板，分辨率为 1920×1080，支持 120Hz VRR 可变刷新率，峰值亮度可达 1400nits，具备 DXC 抗反射防眩光技术，获得杜比视界、DisplayHDR True Black 1400 等认证。",
+      "score": 50,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "9f829d74abeb"
     },
     {
       "title": "英能源大臣：英国必须“立即推进电气化”",
@@ -135,56 +135,82 @@
       "uid": "bf27dc38d7ce"
     },
     {
-      "title": "由于价格飙升至 6.50 美元以上，白宫排除了柴油出口禁令",
-      "link": "https://oilprice.com/Energy/Energy-General/White-House-Rules-Out-Diesel-Export-Ban-as-Prices-Surge-Above-650.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-23T22:00:00+00:00",
-      "summary": "白宫周三否认政府正在考虑禁止美国柴油出口，并澄清了唐纳德·特朗普总统和财政部长斯科特·贝森特一天前的言论，随着美国平均柴油价格突破 6 美元，该言论似乎为限制措施敞开了大门。 50每加仑。",
+      "title": "铃木汽车计划到 2030 年将新车研发周期缩短一半，研发效率提升 30%",
+      "link": "https://www.ithome.com/1/007/096.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-09-25T02:39:25+00:00",
+      "summary": "IT之家 9 月 25 日消息，据路透社报道，日本汽车制造商铃木汽车周五（9 月 25 日）表示，公司计划以 2020 财年为基准， 在 2030 年左右将新车型的研发周期减半 ，同时全面提升研发与生产效率。铃木在一份声明中表示，公司计划到 2030 年实现 研发效率提升 30% 、生产效率提升 50%。同时，该汽车制造商计划在 2030 财年或之后，将其在印度的年产能扩充至 400 万至 499 万辆。延伸阅读 铃木汽车是日本汽车制造商，其在印度的业务主要由子公司马鲁蒂铃木（Maruti Suzuki）负责运营， 印度也是铃木全球最大的单一市场 。马鲁蒂铃木长期占据印度乘用车市场约 40% 的份额，2026 年 8 月批发销量约 17.7 万辆，市场份额约 40.在产能方面，铃木目前在印度的年产能约为 265 万辆。",
       "score": 15,
-      "original_title": "White House Rules Out Diesel Export Ban as Prices Surge Above $6.50",
-      "translated": true,
+      "original_title": "",
+      "translated": false,
       "priority": 0,
-      "uid": "5ef5def192e0"
+      "uid": "8f8935f14b19"
     },
     {
-      "title": "麦当劳首席执行官预计高通胀和低迷的客流量将持续下去",
-      "link": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
+      "title": "5只能源股为长期伊朗战争做好准备",
+      "link": "https://oilprice.com/Energy/Crude-Oil/5-Energy-Stocks-Positioned-for-a-Prolonged-Iran-War.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-25T00:00:00+00:00",
+      "summary": "自伊朗战争爆发以来，摩根大通首次表示，对于石油市场如何摆脱战争，它不再有明确的基线。 该银行此前的假设是，油价上涨及其造成的经济损失最终将限制冲突的发展程度。 战争结束六个月后，摩根大通表示，其中许多门槛已经被跨越，但没有产生明确的……",
+      "score": 15,
+      "original_title": "5 Energy Stocks Positioned for a Prolonged Iran War",
+      "translated": true,
+      "priority": 0,
+      "uid": "8187fb19567a"
+    },
+    {
+      "title": "到 2035 年，世界电气化率能否达到 35%？",
+      "link": "https://oilprice.com/Energy/Energy-General/Can-the-World-Hit-35-Electrification-by-2035.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-24T21:00:00+00:00",
+      "summary": "美国和以色列在伊朗的战争造成的能源危机可能正是世界到 2035 年实现 35% 电气化所需的。这一目标“35 by ‘35”已成为即将于 2026 年 11 月 9 日至 20 日在土耳其安塔利亚举行的 COP31 联合国气候会议的重要平台。",
+      "score": 15,
+      "original_title": "Can the World Hit 35% Electrification by 2035?",
+      "translated": true,
+      "priority": 0,
+      "uid": "4328c0bed8e6"
+    },
+    {
+      "title": "在巴里·迪勒的人民公司取消收购要约后，米高梅度假村股价11% 下跌。",
+      "link": "https://www.cnbc.com/2026/09/24/barry-diller-people-mgm-resorts.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-23T20:23:52+00:00",
-      "summary": "麦当劳首席执行官克里斯·肯普钦斯基 (Chris Kempczinski) 周三表示，预计客流量停滞和通胀上升将继续给餐饮业带来压力。 肯普钦斯基在 CNBC 的“Squawk on the Street”节目中表示：“我与我们团队讨论的一件事是，我们需要停止谈论这是一个困难的环境，而只是说这就是环境。”“因为我认为，当我们展望未来时，我们并没有...",
+      "published": "2026-09-24T20:11:24+00:00",
+      "summary": "Barry Diller's People Inc. 撤销了收购米高梅国际酒店集团 (MGM Resorts International) 的提议，导致这家赌场巨头的股价周四下跌约 11%。 这一更新是在迪勒的公司提出以 48 美元收购米高梅度假村近四个月后发布的。 每股30。 People Inc. 已拥有米高梅约 26. 1% 的股份。 People Inc.（前身为 IAC）董事长迪勒将这一决定归因于...",
       "score": 15,
-      "original_title": "McDonald's CEO expects high inflation, lackluster traffic are here to stay",
+      "original_title": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
       "translated": true,
       "priority": 0,
-      "uid": "a67da1672a25"
+      "uid": "6c8b6311490d"
     },
     {
-      "title": "霍尔木兹的解决办法以高昂的成本保持海湾石油的流动",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Workarounds-Keep-Gulf-Oil-Flowingat-a-Steep-Cost.html",
+      "title": "能源危机期间全球生物燃料产量可能激增 70%",
+      "link": "https://oilprice.com/Alternative-Energy/Biofuels/Global-Biofuels-Output-Could-Surge-70-Amid-Energy-Crisis.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-23T20:00:00+00:00",
-      "summary": "船对船转运和绕过霍尔木兹海峡的管道（如有）已成为大多数中东石油的主要出口路线。 该地区的石油生产商表现出了一些人认为的对新环境的卓越适应能力。 事实上，这是一个生存问题。 这是有代价的。 本周，受沙特阿拉伯重启经济的消息影响，油价大幅下跌……",
+      "published": "2026-09-24T20:00:00+00:00",
+      "summary": "英国智库查塔姆研究所和森林管理委员会共同撰写的一项研究发现，随着主要生产国提高燃料混合指令以应对中东冲突引发的能源危机，全球生物燃料产量预计到 2030 年将激增近 70%。",
       "score": 15,
-      "original_title": "Hormuz Workarounds Keep Gulf Oil Flowing—at a Steep Cost",
+      "original_title": "Global Biofuels Output Could Surge 70% Amid Energy Crisis",
       "translated": true,
       "priority": 0,
-      "uid": "12e3ec2f5b88"
+      "uid": "9daf99cbb72e"
     },
     {
-      "title": "霍尔木兹供应危机将永远改变液化天然气市场",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Hormuz-Supply-Crisis-to-Change-LNG-Market-Forever.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-23T19:00:00+00:00",
-      "summary": "霍尔木兹海峡危机已使全球约 20% 的液化天然气供应变得不可中断。 海峡交通瘫痪近七个月后，卡塔尔和阿联酋的液化天然气出口仍然受到严重限制。",
+      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+      "link": "https://sspai.com/prime/story/home-made-beverages-5",
+      "source": "少数派",
+      "category": "健康生活",
+      "published": "2026-09-24T08:20:39+00:00",
+      "summary": "往期文章： 这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取 Espresso，其他替代方法我会单独标注。特调咖啡 特调咖啡，个人建议使用深烘偏坚果、焦糖、可可风味的 拼配豆做基础。这样的 Espresso 味道深厚，不会被过多的配料遮挡风味，能够体现出不错的饮品层次。特调咖啡使用统一参数萃取 Espresso，萃取出的浓缩为 1 份，如果标注 1 份以上的，请萃取相应份数的浓缩。Espresso 浓缩参数： 具体根据豆子不同，需要先测试 Espresso，测试合格方可使用。最好使用摩卡壶、半自动意式咖啡机、全自动咖啡机。不推荐使用胶囊咖啡机。以下配方基于 400ml 以上杯子作为比例制作的，所以杯子不要小于 400ml。有特殊杯型的会单独说明。茶叶浸泡参数： 这里指茉莉花茶的商业大批量浸泡方法，各位可根据浸泡参数，自行缩减比例： 一定要盖盖闷泡，浸泡完成，用滤网过滤（拉茶袋、法兰绒滤网等之前提过） 椰子淡奶咖啡 这款咖啡推荐做冰的，我认为还挺好喝的。",
       "score": 15,
-      "original_title": "Hormuz Supply Crisis to Change LNG Market Forever",
-      "translated": true,
+      "original_title": "",
+      "translated": false,
       "priority": 0,
-      "uid": "6c20adde4311"
+      "uid": "6b22a1a0b4f4"
     },
     {
       "title": "新专家加入 Google 人工智能与经济团队",
@@ -200,7 +226,7 @@
       "uid": "a371457dab8c"
     },
     {
-      "title": "Google Beam 不断拓展新的地区、合作伙伴和客户",
+      "title": "Google Beam扩展了新的区域、合作伙伴和客户",
       "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
       "source": "Google AI Blog",
       "category": "AI与科技",
@@ -230,31 +256,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3899.9967,
-        "change": -36.5232,
-        "pct": -0.93,
-        "amount_yi": 5083.12
+        "price": 3888.3738,
+        "change": -48.1461,
+        "pct": -1.22,
+        "amount_yi": 7836.13
       },
       {
         "name": "深证成指",
-        "price": 13399.34,
-        "change": -236.737,
-        "pct": -1.74,
-        "amount_yi": 5593.55
+        "price": 13316.97,
+        "change": -319.105,
+        "pct": -2.34,
+        "amount_yi": 8697.44
       },
       {
         "name": "创业板指",
-        "price": 3317.33,
-        "change": -62.276,
-        "pct": -1.84,
-        "amount_yi": 940.24
+        "price": 3288.95,
+        "change": -90.662,
+        "pct": -2.68,
+        "amount_yi": 1515.42
       },
       {
         "name": "沪深300",
-        "price": 4459.148,
-        "change": -58.1305,
-        "pct": -1.29,
-        "amount_yi": 2279.14
+        "price": 4439.1443,
+        "change": -78.1342,
+        "pct": -1.73,
+        "amount_yi": 3754.62
       }
     ],
     "holdings": [
@@ -263,11 +289,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 47.49,
-        "market_value": 4749.0,
-        "pnl": 1576.36,
-        "pnl_pct": 49.69,
-        "weight_hint": "44.4%",
+        "price": 48.03,
+        "market_value": 4803.0,
+        "pnl": 1630.36,
+        "pnl_pct": 51.39,
+        "weight_hint": "44.7%",
         "note": "",
         "available": true
       },
@@ -276,11 +302,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.19,
-        "market_value": 2819.0,
-        "pnl": 122.59,
-        "pnl_pct": 4.55,
-        "weight_hint": "26.3%",
+        "price": 28.36,
+        "market_value": 2836.0,
+        "pnl": 139.59,
+        "pnl_pct": 5.18,
+        "weight_hint": "26.4%",
         "note": "",
         "available": true
       },
@@ -289,11 +315,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.17,
-        "market_value": 2451.0,
-        "pnl": 573.48,
-        "pnl_pct": 30.54,
-        "weight_hint": "22.9%",
+        "price": 8.13,
+        "market_value": 2439.0,
+        "pnl": 561.48,
+        "pnl_pct": 29.91,
+        "weight_hint": "22.7%",
         "note": "",
         "available": true
       },
@@ -302,10 +328,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.139,
-        "market_value": 227.8,
-        "pnl": -90.2,
-        "pnl_pct": -28.36,
+        "price": 1.132,
+        "market_value": 226.4,
+        "pnl": -91.6,
+        "pnl_pct": -28.81,
         "weight_hint": "2.1%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -315,10 +341,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.533,
-        "market_value": 453.3,
-        "pnl": -43.7,
-        "pnl_pct": -8.79,
+        "price": 4.515,
+        "market_value": 451.5,
+        "pnl": -45.5,
+        "pnl_pct": -9.15,
         "weight_hint": "4.2%",
         "note": "",
         "available": true
@@ -339,106 +365,94 @@
     ],
     "sectors": [
       {
-        "name": "新能源/光伏 · 风电零部件",
-        "pct": 3.02,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 6.54,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 风电设备",
-        "pct": 2.57,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 6.77,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 国有大型银行Ⅲ",
-        "pct": 1.01,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 3.11,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭",
-        "pct": 0.22,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 3.29,
-        "source": "东财行业"
-      },
-      {
         "name": "煤炭 · 煤炭行业",
-        "pct": -0.30653636950309,
+        "pct": 0.036876555729695,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": -0.51380860629416,
+        "pct": -0.057803468208092,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "金融/银行 · 金融行业",
-        "pct": -0.78304853928212,
+        "pct": -0.95651891961999,
         "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "电力/公用 · 供水供气",
-        "pct": -1.6522798284171,
+        "pct": -1.7528994333528,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "半导体/电子 · 电子器件",
-        "pct": -2.30701957197,
+        "pct": -2.9606751173615,
         "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
-    "policy_news": [
+    "policy_news": [],
+    "industry_news": [
       {
-        "title": "央行开展8000亿元MLF操作 红利低波ETF华泰柏瑞（512890）逆势上涨半日成交2.67亿领跑同类",
-        "link": "https://finance.sina.com.cn/money/fund/original/2026-09-24/doc-inisxaez5318691.shtml",
-        "level": "高",
-        "tag": "政策"
+        "title": "中国人寿出手！加码AI、半导体",
+        "link": "https://finance.sina.com.cn/stock/zqgd/2026-09-25/doc-iniszfef4583437.shtml",
+        "level": "中",
+        "tag": "行业"
       },
       {
-        "title": "央行节前放大招！隔夜逆回购上限飙至1万亿，MLF净投放2000亿，什么信号？",
-        "link": "https://finance.sina.com.cn/jjxw/2026-09-24/doc-iniswvxf8252219.shtml",
-        "level": "高",
-        "tag": "政策"
+        "title": "汇丰取消香港银行家20万港元的会所补贴福利",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszfcz4510690.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "中环新能源午前涨近9% 本周股价累计涨幅已超30%",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-25/doc-iniszfeh9669656.shtml",
+        "level": "中",
+        "tag": "行业"
       }
     ],
-    "industry_news": [],
-    "market_news": [],
-    "total_market_value": 10700.1,
-    "total_pnl": 2138.53,
-    "total_amount_yi": 10676.67,
+    "market_news": [
+      {
+        "title": "高盛称AI板块仍具吸引力 8000亿美元超大规模投资支撑亚洲硬件链",
+        "link": "https://finance.sina.com.cn/stock/bxjj/2026-09-25/doc-iniszfcz4501309.shtml",
+        "level": "中",
+        "tag": "股市"
+      }
+    ],
+    "total_market_value": 10755.9,
+    "total_pnl": 2194.33,
+    "total_amount_yi": 16533.57,
     "bias": "偏空",
-    "volume_note": "量能：两市合计约 10677 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 风电零部件、风电设备、国有大型银行Ⅲ；偏弱 煤炭行业、石油行业、金融行业",
-    "tip": "一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向",
-    "errors": []
+    "volume_note": "量能：两市合计约 16534 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 煤炭行业；偏弱 石油行业、金融行业、供水供气",
+    "tip": "板块轮动是常态，不要追高换仓",
+    "errors": [
+      "东财行业板块失败: HTTP Error 502: Bad Gateway"
+    ]
   },
   "learning": {
-    "title": "股息率",
-    "body": "股息率 = 每股分红 ÷ 股价。偏防守时，高于约4%常被看作有一定现金回报缓冲。神华、工行的观察重点之一就是分红是否稳定。",
+    "title": "ETF 适合新手的原因",
+    "body": "ETF（交易型开放式指数基金）一篮子持股，分散单家公司暴雷风险。半导体/新能源这种高波动行业，用 ETF 比赌单票更适合学习仓。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "定额套用",
-    "text": "今儿聊【定额套用】。451跟陕西安装定额放一块，像俩表亲开会：看着都姓定，细问各算各的。你刚把边界理清，人家说“这块能不能合并”——合并的是定额，分裂的是头发。社会经验：重复计取这事，定额怕，审计更怕，最怕的是你自己半夜突然想起来。"
+    "topic": "Android 编译",
+    "text": "今儿聊【Android 编译】。Gradle一转，茶凉了；再转，饭糊了；还转，人傻了。你写驱动模式、均衡器、歌词翻译，它回你一个依赖冲突，态度比产品经理还硬。社会经验：能跑的别乱动，能动的别升级——升级这词在编程圈跟“改造”在装修圈一个味儿。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
+    "东财行业板块失败: HTTP Error 502: Bad Gateway",
     "36氪: 解析失败 (<unknown>:10:542: not well-formed (invalid token))"
   ]
 }
