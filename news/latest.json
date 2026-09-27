@@ -1,6 +1,6 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-26T12:28:57.305937+08:00",
+  "generated_at": "2026-09-27T12:47:03.679668+08:00",
   "timezone": "Asia/Shanghai",
   "count": 18,
   "items": [
@@ -9,7 +9,7 @@
       "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-26T04:29:17+00:00",
+      "published": "2026-09-27T04:47:27+00:00",
       "summary": "订阅人类科学专题，了解人工智能辅助发现、实用工作流程和跨科学领域的现场笔记。 我们正在 Anthropic 引入一个新的生命科学研究小组和实验室。 我们的重点是使用 Claude 进行基础生物学研究：探索 DNA 数据集以识别未表征的蛋白质家族，大规模生成假设，并通过实验室实验对其进行测试。",
       "score": 60,
       "original_title": "Claude discovers a novel enzyme system",
@@ -44,24 +44,24 @@
       "uid": "ec0422e215bd"
     },
     {
-      "title": "OPPO Find X10 Pro Max 手机体验：3 颗两亿镜头，就是这么豪横",
-      "link": "https://www.ithome.com/1/007/317.htm",
+      "title": "“我们不是美国”：澳大利亚政界商界称民众抵制 AI 数据中心是受美国舆论影响",
+      "link": "https://www.ithome.com/1/007/481.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-26T03:15:14+00:00",
-      "summary": "9 月 22 日，OPPO 举办了新品发布会，正式发布了全新 OPPO Find X10 系列旗舰新机。其中，系列顶配的 Find X10 Pro Max，无疑是本次发布会大家最关注的核心产品。我们知道，Find X 系列一直是 OPPO 影像旗舰路线的集大成之作，以“真实影像 + 全能体验”为核心定位，特别是在影像上向来是不吝堆料且有自己的想法的，而这次的 Find X10 Pro Max 在这个路线上又进一步狂飙起来，全球首发三颗 2 亿像素哈苏全焦段镜头，覆盖主摄、超广角与潜望长焦，实现照片与视频能力双满配；同时搭载天玑 9600 Pro 2nm 旗舰芯片、8000mAh 冰川电池、新一代 1nit 明眸护眼屏，并首发 ColorOS 17 系统，在性能、续航、屏幕与系统体验上同步拉满。再看今年的国内旗舰市场，高端市场份额持续向头部集中，用户平均换机周期突破 40 个月，换机决策越来越偏向于“体验驱动”。",
-      "score": 60,
+      "published": "2026-09-27T02:47:05+00:00",
+      "summary": "IT之家 9 月 27 日消息，据卫报报道，澳大利亚政界和商界人士认为，当地民众对 AI 数据中心日益增长的不满情绪，很大程度上是从美国“输入”而来的，并不能完全反映澳大利亚本土的实际情况。IT之家注意到，与美国类似，随着大规模 AI 数据中心建设加速，澳大利亚一些社区对这类项目的抵触情绪也在不断增加。不过，支持数据中心建设的政府官员和企业高管认为，澳大利亚的数据中心建设规模更小，监管也更加严格，因此对当地环境和社会造成的影响远低于美国。他们表示，美国国内围绕数据中心展开的激烈争论，通过社交媒体传播到澳大利亚，正在加剧当地的负面情绪。去年美国开始出现针对数据中心的大规模反对浪潮时，这股情绪在澳大利亚还比较有限。但到了 2026 年，相关争议已经迅速演变成全国性话题，并引发了要求暂停全国数据中心建设的呼声、社区抗议活动以及 3 项政府调查。",
+      "score": 115,
       "original_title": "",
       "translated": false,
-      "priority": 25,
-      "uid": "e8f97c5bc770"
+      "priority": 75,
+      "uid": "c2ea5a17d690"
     },
     {
       "title": "Anthropic / Claude：与埃森哲合作开展嵌入式评估",
       "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-26T04:29:17+00:00",
+      "published": "2026-09-27T04:47:27+00:00",
       "summary": "与埃森哲合作进行嵌入式评估 我们正在与埃森哲合作进行前沿人工智能的独立评估。 这是朝着我们首席执行官的文章《我们必须开拓前沿》中做出的承诺迈出的重要一步，即在 Anthropic 中嵌入评估员。 该合作伙伴关系将由埃森哲专业人工智能业务部门Faculty领导，包括评估和红队模型、进行一致性评估……",
       "score": 60,
       "original_title": "Anthropic / Claude：Partnering with Accenture on embedded evaluation",
@@ -75,7 +75,7 @@
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-09-23T13:00:00+00:00",
-      "summary": "OpenAI 正在将其 Daybreak 计划的访问权限扩展到乌克兰政府，以支持民用基础设施的网络防御。",
+      "summary": "OpenAI 正在将其 Daybreak 计划的访问范围扩大到乌克兰政府，以支持民用基础设施的网络防御。",
       "score": 60,
       "original_title": "OpenAI extends cyber access to Ukraine for civilian defense",
       "translated": true,
@@ -83,50 +83,50 @@
       "uid": "95c2e31d0be6"
     },
     {
-      "title": "英国准备施压 Google 向 Android 和 Chrome 用户展示 AI 助手选择屏",
-      "link": "https://www.solidot.org/story?sid=85465",
-      "source": "Solidot·通信",
-      "category": "通信与安防",
-      "published": "2026-09-23T14:56:12+00:00",
-      "summary": "英国竞争监管机构 CMA 想要让 Android 和 Chrome 用户对 AI 助手和搜索引擎有更大的选择权和控制权。CMA 公布了一份提案，要求 Google 在用户首次设置 Android 手机或打开 Chrome 浏览器时，向其展示多种搜索引擎供选择，并且每年提示用户选择一个默认搜索引擎；符合技术与安全标准的 AI 助手也必须获准出现在选择屏上上。该提案目前进入公众咨询阶段，截止日期为 10 月 9 日，CMA 预计将在今年底前做出最终决定。",
-      "score": 55,
-      "original_title": "",
-      "translated": false,
-      "priority": 35,
-      "uid": "d5c0328e7f70"
-    },
-    {
-      "title": "华为 Mate 90 系列及全场景新品发布会官宣定档 10 月 1 日",
-      "link": "https://www.ithome.com/1/007/296.htm",
+      "title": "六联智能发布 4 盘位 \"Wildcat Lake\" AI NAS WS18，0.15L 迷你主机同场展出",
+      "link": "https://www.ithome.com/1/007/492.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-26T01:51:24+00:00",
-      "summary": "IT之家 9 月 26 日闪讯速报，华为官网显示，HUAWEI Mate 90 系列及全场景新品发布会正式官宣定档 10 月 1 日 14:30。据IT之家此前报道，消息称华为 Mate 90 系列线下开始分货， 四款机型的 SKU 也已曝光 ： Mate 90 版：12+256GB/12+512GB/12+1TB，黑 / 白 / 粉 / 绿 Mate 90 Pro 版： 12+256GB/12+512GB/16+512GB/16+1TB ，黑 / 白 / 橙 / 绿 Mate 90 Pro Max 版：16+512GB/16+1TB，黑 / 白 / 金 / 绿 / 摄影套装 Mate 90 RS 版：16+512GB/16+1TB，黑 / 白 / 红 最新爆料显示，华为 Mate 90 系列手机将搭载最新麒麟旗舰处理器，延续星环设计，RS 是八边形，疑似调整为全系三摄 + 单潜望长焦方案。",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "e2f584c071bf"
-    },
-    {
-      "title": "英能源大臣：英国必须“立即推进电气化”",
-      "link": "https://www.ftchinese.com/story/001110979",
-      "source": "FT 中文网",
-      "category": "A股与宏观",
-      "published": "2026-09-23T16:00:00+00:00",
-      "summary": "法恩布勒称，履行《巴黎协定》相关义务是“首要优先事项”，尽管她同时表示要对油气开采许可证采取“务实”态度。",
+      "published": "2026-09-27T03:40:19+00:00",
+      "summary": "IT之家 9 月 27 日消息，六联智能 (Sixunited) 本周在英特尔技术创新与产业生态大会 (Intel Connection 2026) 上发布了四盘位 AI NAS 机型 WS18 。这一型号基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，配备 LPDDR5 (X) 内存、UFS 3.1 存储，提供 3 个 PCIe Gen4 SSD 盘位、4 个 3.5\" 盘位，支持 Wi-Fi 6，提供 10GbE、2.5GbE 双网口以及 HDMI 2.另一款 NAS 产品 PTLT19-5HD-QSB 基于第 3 代英特尔酷睿 Ultra 处理器 \"Panther Lake\"，配备 LPDDR5X-8533 内存，拥有 2 个 M.2 (PCIe Gen5) 盘位、5 个 3.5\" 盘位，支持 Wi-Fi 7，提供 2 个 10GbE、雷电 4、HDMI 2.",
       "score": 20,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "ed78e9bc5702"
+      "uid": "5196047ffc8f"
+    },
+    {
+      "title": "第三方后装智驾闯大祸：5 起事故致 3 死，Comma.ai 遭美国联邦调查",
+      "link": "https://www.ithome.com/1/007/470.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-27T01:40:03+00:00",
+      "summary": "IT之家 9 月 27 日消息，据 TechCrunch 报道，由黑客乔治 · 霍茨（George Hotz）创立的初创公司 Comma.ai 正面临美国联邦调查。此前，该公司后装驾驶辅助技术涉及 5 起已报告的交通事故，其中两起事故共造成 3 人死亡。美国国家公路交通安全管理局（NHTSA）缺陷调查办公室（ODI）本周表示，报告中的事故涉及 Comma.ai 设备未能探测到同一车道内缓慢行驶或已经停下的车辆，也未能及时采取应对措施。在其中 4 起事故中，共有最多 11 人受伤，其中一些伤势严重。ODI 表示，部分事故可能涉及使用 Comma.ai 软件的“分叉版”（forked）或修改版，其中至少一起致命事故可能属于这种情况。ai 暂未回应置评请求。霍茨已于 2022 年逐渐淡出该公司的日常运营，目前也尚未回应置评请求。",
+      "score": 20,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "af9d6e6b7f9e"
+    },
+    {
+      "title": "全球天然气紧缩可能持续到明年夏天",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Global-Gas-Squeeze-Could-Last-Through-Next-Summer.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-26T23:00:00+00:00",
+      "summary": "至少到明年夏天，全球天然气供应可能仍将比应有的紧张，这可能会导致长期的需求破坏。 如果这种情况成为现实，将对欧洲造成严重打击，因为在供暖季正式开始之前，欧洲已经难以满足冬季天然气需求，但亚洲也不会对此感到高兴。",
+      "score": 15,
+      "original_title": "Global Gas Squeeze Could Last Through Next Summer",
+      "translated": true,
+      "priority": 0,
+      "uid": "d502700c169b"
     },
     {
       "title": "这正是派拉蒙向好莱坞承诺登陆 WBD 的内容——以及为什么有些人仍然持怀疑态度",
       "link": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-25T22:53:52+00:00",
+      "published": "2026-09-26T19:23:56+00:00",
       "summary": "每 11 天一部新电影？ 这就是派拉蒙公司的大卫·埃里森在本周为公司收购华纳兄弟探索公司扫清道路后所许诺的，华纳兄弟探索公司合并了两家著名的好莱坞电影公司。 该首席执行官与一群州总检察长就反垄断问题达成的和解协议规定，这家新成立的公司将在 2027 年和 2028 年在影院上映至少 30 部电影，以及至少 32 部电影……",
       "score": 15,
       "original_title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
@@ -135,56 +135,56 @@
       "uid": "354f0e5a0af6"
     },
     {
+      "title": "改革联合国安理会的呼声获得新动力",
+      "link": "https://oilprice.com/Geopolitics/International/Calls-to-Overhaul-the-UN-Security-Council-Gain-New-Momentum.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-26T17:00:00+00:00",
+      "summary": "随着吉尔吉斯斯坦将于今年年底开始在联合国安理会的两年任期，这个中亚国家的总统萨德尔·贾帕罗夫在联合国大会的演讲中向唐纳德·特朗普总统发出了一些讽刺和支持。 贾帕罗夫9月22日的讲话明确表示，比什凯克在联合国改革问题上站在中国一边，目的是改变联合国内部的力量平衡。",
+      "score": 15,
+      "original_title": "Calls to Overhaul the UN Security Council Gain New Momentum",
+      "translated": true,
+      "priority": 0,
+      "uid": "3a7f02355439"
+    },
+    {
+      "title": "北卡罗来纳州监管机构拒绝杜克能源天然气发电厂",
+      "link": "https://oilprice.com/Energy/Energy-General/North-Carolina-Regulators-Reject-Duke-Energy-Gas-Power-Plant.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-26T15:00:00+00:00",
+      "summary": "随着美国提高产量并寻求填补霍尔木兹海峡能源贸易限制造成的缺口，预计美国天然气产量将在 2026 年和 2027 年创下历史新高。 然而，随着美国加大天然气野心，一名法官裁定北卡罗来纳州的天然气发电厂不应继续建设。 U 的供给和需求。",
+      "score": 15,
+      "original_title": "North Carolina Regulators Reject Duke Energy Gas Power Plant",
+      "translated": true,
+      "priority": 0,
+      "uid": "e1c89efb4551"
+    },
+    {
+      "title": "由于航班中断逐渐增多，航空公司在东北复活节前免收改签费",
+      "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-09-26T12:19:38+00:00",
+      "summary": "联邦预报员警告称，东北复活节将带来强风和降雨，并可能引发危险的洪水，航空公司在周五至周日之前免除了周五至周日航班的改签费。 据 FlightAware 称，截至周六早上，波士顿约有 250 架航班被取消，约占当天航班的四分之一。 周五，超过600架往返纽约拉瓜迪亚机场的航班延误，关闭...",
+      "score": 15,
+      "original_title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
+      "translated": true,
+      "priority": 0,
+      "uid": "2bbc427ee11a"
+    },
+    {
       "title": "可口可乐聘请 Monster Energy 的 Rob Gehring 负责其北美业务",
       "link": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-09-25T21:02:20+00:00",
-      "summary": "怪兽能源美洲业务负责人罗布·格林 (Rob Gehring) 将离职，负责可口可乐的北美业务，两家公司周五表示。 他将于 12 月接任该职位。此举正值可口可乐试图保持增长，而美国消费者面对汽油和杂货价格上涨而削减支出。 尽管存在这些动态，这家饮料巨头第二季度的净销售额增长了 7%，因为销量......",
+      "summary": "怪兽能源美洲业务负责人罗布·格林 (Rob Gehring) 将离职，负责可口可乐北美业务，两家公司周五表示。 他将于 12 月接任该职位。此举正值可口可乐试图保持增长，而美国消费者面对汽油和杂货价格上涨而削减支出。 尽管存在这些动态，这家饮料巨头第二季度的净销售额增长了 7%，因为销量......",
       "score": 15,
       "original_title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
       "translated": true,
       "priority": 0,
       "uid": "131bf6cb6610"
-    },
-    {
-      "title": "为什么创纪录的高温未能提升美国天然气价格",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Why-Record-Heat-Failed-to-Lift-US-Natural-Gas-Prices.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-25T20:00:00+00:00",
-      "summary": "欧洲和亚洲正在寻求……美国和伊朗正在……亨利中心天然气平均价格为 2 美元。 6 月至 8 月期间，每百万英国热量单位为 93 个，比去年同期低 6%，尽管下 48 个州创下了有记录以来最热的 7 月。 根据 NOAA 的数据，7 月份，下 48 州的平均气温达到 77°F，空调运行更加困难，导致电力需求上升。",
-      "score": 15,
-      "original_title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
-      "translated": true,
-      "priority": 0,
-      "uid": "8620a55134cd"
-    },
-    {
-      "title": "Rystad 表示，到 2030 年，委内瑞拉石油产量可能达到 180 万桶/日",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Venezuela-Oil-Output-Could-Hit-18-Million-Bpd-By-2030-Rystad-Says.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-25T18:00:00+00:00",
-      "summary": "委内瑞拉的上游石油行业正在吸引数十年来最广泛的国际运营商和资本，老牌石油巨头不断扩大其足迹，而新的运营商则根据修订后的合同框架进入。 如果资本部署、钻机可用性和油田服务规模符合要求，Rystad Energy 可以模拟委内瑞拉原油产量达到 1 左右。",
-      "score": 15,
-      "original_title": "Venezuela Oil Output Could Hit 1.8 Million Bpd By 2030, Rystad Says",
-      "translated": true,
-      "priority": 0,
-      "uid": "4515c55de7c3"
-    },
-    {
-      "title": "德文郡交易谈判后，英国石油公司着眼于扩大美国页岩油足迹",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Eyes-Bigger-US-Shale-Footprint-After-Devon-Deal-Talks.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-25T16:30:00+00:00",
-      "summary": "华盛顿正在讨论柴油……中国可能会减少精炼燃料……英国石油公司（BP）已开始再次认真考虑美国页岩资产，包括德文能源公司的伊格尔福特业务，首席执行官梅格·奥尼尔（Meg O'Neill）推动该公司重新转向石油和天然气增长。 据路透社消息称，英国石油公司 (BP) 在德文郡德克萨斯州南部资产的数据室于 8 月底开放后进入了该数据室。 一位消息人士称，英国石油公司最终放弃了一项交易。",
-      "score": 15,
-      "original_title": "BP Eyes Bigger U.S. Shale Footprint After Devon Deal Talks",
-      "translated": true,
-      "priority": 0,
-      "uid": "e8bffba3288e"
     },
     {
       "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
@@ -352,39 +352,11 @@
     ],
     "sectors": [
       {
-        "name": "新能源/光伏 · 风电零部件",
-        "pct": 2.67,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 6.93,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 风电设备",
-        "pct": 2.15,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 6.97,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭",
-        "pct": 0.66,
+        "name": "煤炭 · 煤炭行业",
+        "pct": 0.036876555729695,
         "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 5.5,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 国有大型银行Ⅲ",
-        "pct": 0.63,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 4.13,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭开采",
-        "pct": 0.25,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 0.82,
-        "source": "东财行业"
+        "main_flow_yi": null,
+        "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
@@ -416,55 +388,32 @@
       }
     ],
     "policy_news": [],
-    "industry_news": [
-      {
-        "title": "英飞凌耗资14.4亿美元的泰国半导体工厂将于10月1日投产",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initckaz3586127.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "玻利维亚取消银行美元卖出汇率限制",
-        "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvi3994746.shtml",
-        "level": "中",
-        "tag": "行业"
-      }
-    ],
-    "market_news": [
-      {
-        "title": "超26亿元主力资金撤离光模块龙头",
-        "link": "https://finance.sina.com.cn/wm/2026-09-26/doc-initcqme8650282.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "算力赛道，多家A股公司密集宣布",
-        "link": "https://finance.sina.com.cn/stock/marketresearch/2026-09-26/doc-initckaz3612730.shtml",
-        "level": "中",
-        "tag": "股市"
-      }
-    ],
+    "industry_news": [],
+    "market_news": [],
     "total_market_value": 10755.9,
     "total_pnl": 2194.33,
     "total_amount_yi": 16533.57,
     "bias": "偏空",
     "volume_note": "量能：两市合计约 16534 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 风电零部件、风电设备、煤炭；偏弱 石油行业、金融行业、供水供气",
-    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
-    "errors": []
+    "sector_note": "行业分化：偏强 煤炭行业；偏弱 石油行业、金融行业、供水供气",
+    "tip": "板块轮动是常态，不要追高换仓",
+    "errors": [
+      "东财行业板块失败: HTTP Error 502: Bad Gateway"
+    ]
   },
   "learning": {
-    "title": "T+1 是什么",
-    "body": "A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？",
+    "title": "满仓的代价",
+    "body": "现金几乎为0时，回调里没有子弹加仓。新手版仓位：核心防御60–70%，成长卫星20–30%，现金尽量留10–20%。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "血压小计",
-    "text": "今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。"
+    "topic": "机油保养",
+    "text": "今儿聊【机油保养】。NWG150说明书写六千公里一换，你心里写“再挺挺”。车不说话，缸里知道；等它说话，说话的方式通常是异响。社会经验：省下的机油钱，最后都会变成修理厂的茶位费。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
+    "东财行业板块失败: HTTP Error 502: Bad Gateway",
     "36氪: 解析失败 (<unknown>:10:542: not well-formed (invalid token))"
   ]
 }
