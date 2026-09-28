@@ -1,16 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-09-27T12:47:03.679668+08:00",
+  "generated_at": "2026-09-28T12:49:06.976337+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 20,
   "items": [
     {
       "title": "克劳德发现了一种新型酶系统",
       "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-27T04:47:27+00:00",
-      "summary": "订阅人类科学专题，了解人工智能辅助发现、实用工作流程和跨科学领域的现场笔记。 我们正在 Anthropic 引入一个新的生命科学研究小组和实验室。 我们的重点是使用 Claude 进行基础生物学研究：探索 DNA 数据集以识别未表征的蛋白质家族，大规模生成假设，并通过实验室实验对其进行测试。",
+      "published": "2026-09-28T04:49:26+00:00",
+      "summary": "订阅Anthropic科学特写，了解AI辅助的发现、实用工作流程以及各科学领域的实地记录。我们正在Anthropic引入一个新的生命科学研究小组和实验室。我们的重点是使用Claude进行基础生物学研究：探索DNA数据集以识别未表征的蛋白质家族、大规模生成假设，并通过实验室实验进行验证。",
       "score": 60,
       "original_title": "Claude discovers a novel enzyme system",
       "translated": true,
@@ -18,12 +18,12 @@
       "uid": "2d52ed2f0b86"
     },
     {
-      "title": "OpenAI 学院两年",
+      "title": "OpenAI学院两年",
       "link": "https://openai.com/index/two-years-of-openai-academy",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-09-23T16:00:00+00:00",
-      "summary": "纪念 OpenAI 学院成立两周年，并将人工智能技能带给更多社区。",
+      "summary": "庆祝OpenAI学院两周年，并将人工智能技能带给更多社区。",
       "score": 60,
       "original_title": "Two years of OpenAI Academy",
       "translated": true,
@@ -31,12 +31,12 @@
       "uid": "b7912633d880"
     },
     {
-      "title": "隆重推出 Gemini 3.8 Live with Live Avatar",
+      "title": "推出 Gemini 3.8 实时直播及实时头像功能",
       "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-09-24T16:20:39+00:00",
-      "summary": "推出 Gemini 3.8 Live 和 Live Avatar 在上周 Gemini 3.8 Live 发布的势头基础上，今天我们很高兴推出 Gemini 3.8 Live 和 Live Avatar — 为我们的本地实时对话模型带来近乎实时的视觉效果。 通过将近乎实时的视频生成与语音相结合，实时头像功能创造了一种以动态视觉角色来听、看、说的体验。",
+      "summary": "介绍 Gemini 3.8 Live 及其实时头像功能。在上周 Gemini 3.8 Live 发布的势头基础上，今天我们很高兴推出带有实时头像的 Gemini 3.8 Live——为我们的原生实时对话模型带来近乎实时的视觉存在感。通过将近乎实时的视频生成与语音结合，实时头像功能创造了一种能够倾听、观察并用动态视觉形象进行交流的体验。",
       "score": 45,
       "original_title": "Introducing Gemini 3.8 Live with Live Avatar",
       "translated": true,
@@ -44,25 +44,12 @@
       "uid": "ec0422e215bd"
     },
     {
-      "title": "“我们不是美国”：澳大利亚政界商界称民众抵制 AI 数据中心是受美国舆论影响",
-      "link": "https://www.ithome.com/1/007/481.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-09-27T02:47:05+00:00",
-      "summary": "IT之家 9 月 27 日消息，据卫报报道，澳大利亚政界和商界人士认为，当地民众对 AI 数据中心日益增长的不满情绪，很大程度上是从美国“输入”而来的，并不能完全反映澳大利亚本土的实际情况。IT之家注意到，与美国类似，随着大规模 AI 数据中心建设加速，澳大利亚一些社区对这类项目的抵触情绪也在不断增加。不过，支持数据中心建设的政府官员和企业高管认为，澳大利亚的数据中心建设规模更小，监管也更加严格，因此对当地环境和社会造成的影响远低于美国。他们表示，美国国内围绕数据中心展开的激烈争论，通过社交媒体传播到澳大利亚，正在加剧当地的负面情绪。去年美国开始出现针对数据中心的大规模反对浪潮时，这股情绪在澳大利亚还比较有限。但到了 2026 年，相关争议已经迅速演变成全国性话题，并引发了要求暂停全国数据中心建设的呼声、社区抗议活动以及 3 项政府调查。",
-      "score": 115,
-      "original_title": "",
-      "translated": false,
-      "priority": 75,
-      "uid": "c2ea5a17d690"
-    },
-    {
-      "title": "Anthropic / Claude：与埃森哲合作开展嵌入式评估",
+      "title": "Anthropic / Claude：与埃森哲合作进行嵌入式评估",
       "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-09-27T04:47:27+00:00",
-      "summary": "与埃森哲合作进行嵌入式评估 我们正在与埃森哲合作进行前沿人工智能的独立评估。 这是朝着我们首席执行官的文章《我们必须开拓前沿》中做出的承诺迈出的重要一步，即在 Anthropic 中嵌入评估员。 该合作伙伴关系将由埃森哲专业人工智能业务部门Faculty领导，包括评估和红队模型、进行一致性评估……",
+      "published": "2026-09-28T04:49:26+00:00",
+      "summary": "与埃森哲合作进行嵌入式评估 我们正在与埃森哲合作，对前沿人工智能进行独立评估。这是朝着我们首席执行官在《我们必须为前沿定节奏》一文中提出的承诺迈出的重要一步，即将在Anthropic内部嵌入评估人员。该合作将由埃森哲的人工智能专业业务部门Faculty牵头，包括对模型进行评估和红队测试，进行对齐评估...",
       "score": 60,
       "original_title": "Anthropic / Claude：Partnering with Accenture on embedded evaluation",
       "translated": true,
@@ -70,12 +57,12 @@
       "uid": "62890b5bd4da"
     },
     {
-      "title": "OpenAI 将网络访问扩展到乌克兰用于民防",
+      "title": "OpenAI 为乌克兰拓展民用防御的网络访问权限",
       "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-09-23T13:00:00+00:00",
-      "summary": "OpenAI 正在将其 Daybreak 计划的访问范围扩大到乌克兰政府，以支持民用基础设施的网络防御。",
+      "summary": "OpenAI 正在将其 Daybreak 计划的访问权限扩展到乌克兰政府，以支持民用基础设施的网络防御。",
       "score": 60,
       "original_title": "OpenAI extends cyber access to Ukraine for civilian defense",
       "translated": true,
@@ -83,51 +70,129 @@
       "uid": "95c2e31d0be6"
     },
     {
-      "title": "六联智能发布 4 盘位 \"Wildcat Lake\" AI NAS WS18，0.15L 迷你主机同场展出",
-      "link": "https://www.ithome.com/1/007/492.htm",
+      "title": "荣耀手表 6 Pro 今起首销：纳米微晶陶瓷、穿戴首款双层 OLED 屏幕，首发 1699 元起",
+      "link": "https://www.ithome.com/1/007/753.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-09-28T03:48:02+00:00",
+      "summary": "IT之家 9 月 28 日消息，荣耀手表 6 Pro 系列今日正式开售，新品定位“心脏血压健康专家”，采用纳米微晶陶瓷材质，搭载灵瞳感知系统，支持心脏停搏监测、无感血压 2.0 等功能， 首发价 1699 元起 。京东 荣耀手表 6 Pro 1699 元起 直达链接 据介绍，荣耀手表 6 Pro 双系列五款设计， 搭载 1.5 英寸像素光刻屏（穿戴首款双层 OLED 屏幕） ，首次将半导体高精度光刻技术引入腕间像素设计，同时搭载双层 OLED + MagicOS 全新通透毛玻璃动效， 全局激发亮度 4500nits 。荣耀将“主动社会求救”能力引入心脏骤停等极端场景。面对心脏停搏风险，荣耀健康系统可自动识别并分级提醒， 从 1.5~3 秒后台动态评估，到 3 秒以上强震动预警，逐级响应 。当手表监测到停搏达到极高风险时，手表将依次呼叫紧急联系人， 全屏显示 AED 复苏提示，并向周围人群发出求助信息 ，在无法发声时，依然持续呼救。",
+      "score": 55,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "776b38848cf6"
+    },
+    {
+      "title": "一加 16 定档 10 月 12 日发布：185 FPS 极速枪神性能抢先看",
+      "link": "https://www.ithome.com/1/007/730.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-09-27T03:40:19+00:00",
-      "summary": "IT之家 9 月 27 日消息，六联智能 (Sixunited) 本周在英特尔技术创新与产业生态大会 (Intel Connection 2026) 上发布了四盘位 AI NAS 机型 WS18 。这一型号基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\"，配备 LPDDR5 (X) 内存、UFS 3.1 存储，提供 3 个 PCIe Gen4 SSD 盘位、4 个 3.5\" 盘位，支持 Wi-Fi 6，提供 10GbE、2.5GbE 双网口以及 HDMI 2.另一款 NAS 产品 PTLT19-5HD-QSB 基于第 3 代英特尔酷睿 Ultra 处理器 \"Panther Lake\"，配备 LPDDR5X-8533 内存，拥有 2 个 M.2 (PCIe Gen5) 盘位、5 个 3.5\" 盘位，支持 Wi-Fi 7，提供 2 个 10GbE、雷电 4、HDMI 2.",
+      "published": "2026-09-28T03:32:10+00:00",
+      "summary": "FPS 竞技手游一直是在线服务类游戏中的“香饽饽”，它融合了 PVP 的爽快感、上分杀敌的成绩感，社交谈资的满足感等多种情绪激励需求，无论是玩家数量、赛事规模还是社区讨论度都是 Top 级别的。然而，FPS 竞技手游同样也非常考验手机性能的综合实力，不仅对手机的性能要求不低，还极度依赖触控优化、天线信号强度、散热效率以及长时间性能释放的稳定性。主打游戏性能、深耕游戏体验赛道的一加，即将推出新一代性能旗舰一加 16，并携全新“风驰稳帧”、“电竞三芯”、“一键枪神”，带给玩家与众不同的 185FPS 极速枪神体验。官方表示，一加 16 新品搭载了最新第六代骁龙 8 超级至尊版处理器，将“风驰游戏内核”直接写入芯片底层，拥有行业独家硬件级“全局 165Hz”，能够实现“游戏满帧 185，全场景体验 165”的出色体验。",
+      "score": 45,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "702d92cd57c6"
+    },
+    {
+      "title": "华为开源盘古 openPangu-2.0 的预训练、SFT 代码和后训练 RL 代码正式开源上线",
+      "link": "https://www.ithome.com/1/007/740.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-28T03:43:19+00:00",
+      "summary": "IT之家 9 月 28 日消息，华为今日宣布， 开源盘古 openPangu-2.0 的预训练、 SFT 代码和后训练 RL 代码正式开源上线 。 开源盘古 openPangu 是华为开源 AI 模型品牌，致力于通过升腾原生训练与推理技术，为业界用好升腾提供最佳实践参考。 openPangu-2.0 模型相关组件已陆续上线开源平台。IT之家附开源地址如下： https://gitcode.com/ascend-tribe/openPangu-2.0-Training https://gitcode.com/ascend-tribe/openPangu-2.0-RL",
+      "score": 25,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "4c4687db12b5"
+    },
+    {
+      "title": "荣耀 WKL-AN80 新机现身安兔兔：第 6 代骁龙 8 超级至尊版、跑分超 552 万，预计是 Magic9 Pro Max",
+      "link": "https://www.ithome.com/1/007/760.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-09-28T04:07:34+00:00",
+      "summary": "IT之家 9 月 28 日消息，安兔兔官方今日发文称在后台发现了一款荣耀新机，型号为“WKL-AN80”， 预计为 Magic9 Pro Max 旗舰手机 。安兔兔表示，这款新机的跑分成绩目前曝光的同平台机型中跑分属于比较拔尖的存在。▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏 测试机型跑分超 552 万（总分 5524187）， 搭载第 6 代骁龙 8 超级至尊版移动平台 ，系统基于 Android 17 打造，拥有 16GB+1TB 规格。安兔兔官方称该机 CPU 成绩 1452764、GPU 成绩 2081549、MEM 成绩 736389、UX 成绩则是 1253485。据IT之家此前报道， 荣耀已正式官宣全新年度旗舰 Magic9 系列手机将于 9 月 28 日正式发布 。新机爆料汇总如下： Magic9 6.",
       "score": 20,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "5196047ffc8f"
+      "uid": "9d83ebeb4a9b"
     },
     {
-      "title": "第三方后装智驾闯大祸：5 起事故致 3 死，Comma.ai 遭美国联邦调查",
-      "link": "https://www.ithome.com/1/007/470.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-09-27T01:40:03+00:00",
-      "summary": "IT之家 9 月 27 日消息，据 TechCrunch 报道，由黑客乔治 · 霍茨（George Hotz）创立的初创公司 Comma.ai 正面临美国联邦调查。此前，该公司后装驾驶辅助技术涉及 5 起已报告的交通事故，其中两起事故共造成 3 人死亡。美国国家公路交通安全管理局（NHTSA）缺陷调查办公室（ODI）本周表示，报告中的事故涉及 Comma.ai 设备未能探测到同一车道内缓慢行驶或已经停下的车辆，也未能及时采取应对措施。在其中 4 起事故中，共有最多 11 人受伤，其中一些伤势严重。ODI 表示，部分事故可能涉及使用 Comma.ai 软件的“分叉版”（forked）或修改版，其中至少一起致命事故可能属于这种情况。ai 暂未回应置评请求。霍茨已于 2022 年逐渐淡出该公司的日常运营，目前也尚未回应置评请求。",
-      "score": 20,
+      "title": "vivo WATCH 6 轻户外智能手表开售：超轻薄表体 + 蓝宝石玻璃表镜，999 元起",
+      "link": "https://www.ithome.com/1/007/768.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-09-28T04:39:02+00:00",
+      "summary": "IT之家 9 月 28 日消息，vivo WATCH 6 轻户外智能手表今日正式开售，采用超轻薄表体 + 蓝宝石玻璃表镜设计，支持进阶跑骑指导、60s 一键体检、健康减脂助手等功能， 999 元起 。蓝牙版：999 元 eSIM 版：1399 元 钛合金（eSIM 版）：1999 元 京东 vivo WATCH 6 999 元起 直达链接 据IT之家了解，vivo WATCH 6 钛合金版重 37g，采用高亮精工雕刻，配备蓝宝石玻璃表镜、TC4 航天级钛合金表体。vivo WATCH 6 手表全系标配蓝宝石玻璃表镜，搭载 1.47 英寸 AMOLED 屏幕，刷新率 60Hz，有月光、旷野、原色三种配色可选，屏幕局部峰值亮度 3500nits。vivo WATCH 6 手表搭载高精度检测模组，对比专业心率带全场景平均心率准确度 97.",
+      "score": 15,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "af9d6e6b7f9e"
+      "uid": "bee5b75eed3b"
     },
     {
-      "title": "全球天然气紧缩可能持续到明年夏天",
-      "link": "https://oilprice.com/Energy/Natural-Gas/Global-Gas-Squeeze-Could-Last-Through-Next-Summer.html",
+      "title": "下一次全球能源危机不会仅来自一个方向",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-26T23:00:00+00:00",
-      "summary": "至少到明年夏天，全球天然气供应可能仍将比应有的紧张，这可能会导致长期的需求破坏。 如果这种情况成为现实，将对欧洲造成严重打击，因为在供暖季正式开始之前，欧洲已经难以满足冬季天然气需求，但亚洲也不会对此感到高兴。",
+      "published": "2026-09-27T19:00:00+00:00",
+      "summary": "下一次全球能源危机即将来临。如果过去四年教会了我们什么，那就是能源危机可能会出乎意料地发生，并由多种因素引起——通常是同时发生的。",
       "score": 15,
-      "original_title": "Global Gas Squeeze Could Last Through Next Summer",
+      "original_title": "The Next Global Energy Crisis Won’t Come From Just One Direction",
       "translated": true,
       "priority": 0,
-      "uid": "d502700c169b"
+      "uid": "917605a3eec3"
     },
     {
-      "title": "这正是派拉蒙向好莱坞承诺登陆 WBD 的内容——以及为什么有些人仍然持怀疑态度",
+      "title": "东北风暴导致数百班航班延误，航空公司免收改签费",
+      "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-09-27T18:43:21+00:00",
+      "summary": "由于东北风暴继续给东北部带来大雨和大风，周日有数百个飞往东北方向的航班被延误或完全取消。根据FlightAware的数据，周日波士顿进出港的航班中有300多个被取消，占全天航班计划的约四分之一，而周六又有260个航班被取消。在新英格兰和纽约地区的主要机场，还有数百个其他航班被延误。",
+      "score": 15,
+      "original_title": "Nor'easter delays hundreds of flights, airlines waive change fees",
+      "translated": true,
+      "priority": 0,
+      "uid": "3ded8246986e"
+    },
+    {
+      "title": "人工智能数据中心的繁荣面临新的现实检验",
+      "link": "https://oilprice.com/Energy/Energy-General/The-AI-Data-Center-Boom-Faces-a-New-Reality-Check.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-27T17:00:00+00:00",
+      "summary": "“只有一小部分拟建的数据中心会被建成。公用事业公司正在变得聪明。”这是2025年5月《Utility Dive》的一篇文章的标题，该文章探讨了投机性数据中心需求给美国电力公用事业公司带来的困境。一年多后，目前尚不清楚发生了多少变化。",
+      "score": 15,
+      "original_title": "The AI Data Center Boom Faces a New Reality Check",
+      "translated": true,
+      "priority": 0,
+      "uid": "2b58b033f85f"
+    },
+    {
+      "title": "环保局电厂政策回滚将增加1.23亿吨二氧化碳排放",
+      "link": "https://oilprice.com/Energy/Energy-General/EPA-Power-Plant-Rollback-To-Add-123-Million-More-Tons-of-CO2.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-09-27T15:00:00+00:00",
+      "summary": "环境保护署（EPA）在九月份宣布，它将放弃根据《清洁空气法》对电厂温室气体排放进行监管的权力，这一工具此前曾被用于应对气候变化。这实际上取消了对煤炭和天然气电厂排放的任何限制，并减少了政府遏制这种污染的能力。",
+      "score": 15,
+      "original_title": "EPA Power Plant Rollback To Add 123 Million More Tons of CO2",
+      "translated": true,
+      "priority": 0,
+      "uid": "ef7390a1c1ea"
+    },
+    {
+      "title": "这就是派拉蒙为了获得 WBD 向好莱坞承诺的内容——以及为什么一些人仍然持怀疑态度",
       "link": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-09-26T19:23:56+00:00",
-      "summary": "每 11 天一部新电影？ 这就是派拉蒙公司的大卫·埃里森在本周为公司收购华纳兄弟探索公司扫清道路后所许诺的，华纳兄弟探索公司合并了两家著名的好莱坞电影公司。 该首席执行官与一群州总检察长就反垄断问题达成的和解协议规定，这家新成立的公司将在 2027 年和 2028 年在影院上映至少 30 部电影，以及至少 32 部电影……",
+      "summary": "每11天上映一部新电影？这正是派拉蒙影业的戴维·埃利森在本周为公司收购华纳兄弟探索公司铺平道路后所承诺的，这次收购将两家有着悠久历史的好莱坞制片厂合并。首席执行官与一组州检察总长就反垄断问题达成的和解协议规定，新成立的公司将在2027年和2028年向电影院至少发行30部电影，并且至少发行32部电影……",
       "score": 15,
       "original_title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
       "translated": true,
@@ -135,51 +200,12 @@
       "uid": "354f0e5a0af6"
     },
     {
-      "title": "改革联合国安理会的呼声获得新动力",
-      "link": "https://oilprice.com/Geopolitics/International/Calls-to-Overhaul-the-UN-Security-Council-Gain-New-Momentum.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-26T17:00:00+00:00",
-      "summary": "随着吉尔吉斯斯坦将于今年年底开始在联合国安理会的两年任期，这个中亚国家的总统萨德尔·贾帕罗夫在联合国大会的演讲中向唐纳德·特朗普总统发出了一些讽刺和支持。 贾帕罗夫9月22日的讲话明确表示，比什凯克在联合国改革问题上站在中国一边，目的是改变联合国内部的力量平衡。",
-      "score": 15,
-      "original_title": "Calls to Overhaul the UN Security Council Gain New Momentum",
-      "translated": true,
-      "priority": 0,
-      "uid": "3a7f02355439"
-    },
-    {
-      "title": "北卡罗来纳州监管机构拒绝杜克能源天然气发电厂",
-      "link": "https://oilprice.com/Energy/Energy-General/North-Carolina-Regulators-Reject-Duke-Energy-Gas-Power-Plant.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-26T15:00:00+00:00",
-      "summary": "随着美国提高产量并寻求填补霍尔木兹海峡能源贸易限制造成的缺口，预计美国天然气产量将在 2026 年和 2027 年创下历史新高。 然而，随着美国加大天然气野心，一名法官裁定北卡罗来纳州的天然气发电厂不应继续建设。 U 的供给和需求。",
-      "score": 15,
-      "original_title": "North Carolina Regulators Reject Duke Energy Gas Power Plant",
-      "translated": true,
-      "priority": 0,
-      "uid": "e1c89efb4551"
-    },
-    {
-      "title": "由于航班中断逐渐增多，航空公司在东北复活节前免收改签费",
-      "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-09-26T12:19:38+00:00",
-      "summary": "联邦预报员警告称，东北复活节将带来强风和降雨，并可能引发危险的洪水，航空公司在周五至周日之前免除了周五至周日航班的改签费。 据 FlightAware 称，截至周六早上，波士顿约有 250 架航班被取消，约占当天航班的四分之一。 周五，超过600架往返纽约拉瓜迪亚机场的航班延误，关闭...",
-      "score": 15,
-      "original_title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
-      "translated": true,
-      "priority": 0,
-      "uid": "2bbc427ee11a"
-    },
-    {
-      "title": "可口可乐聘请 Monster Energy 的 Rob Gehring 负责其北美业务",
+      "title": "可口可乐从怪兽能量饮料公司聘请罗布·格林宁负责其北美业务",
       "link": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-09-25T21:02:20+00:00",
-      "summary": "怪兽能源美洲业务负责人罗布·格林 (Rob Gehring) 将离职，负责可口可乐北美业务，两家公司周五表示。 他将于 12 月接任该职位。此举正值可口可乐试图保持增长，而美国消费者面对汽油和杂货价格上涨而削减支出。 尽管存在这些动态，这家饮料巨头第二季度的净销售额增长了 7%，因为销量......",
+      "summary": "Monster Energy美洲业务负责人Rob Gehring将离职，去管理可口可乐北美部门，公司周五表示。他将于12月接任该职位。此举正值可口可乐试图在美国消费者在高油价和食品杂货价格面前减少支出的情况下维持增长。尽管存在这些变化，这家饮料巨头在第二季度实现了7%的净销售额增长，因为销量...",
       "score": 15,
       "original_title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
       "translated": true,
@@ -200,12 +226,12 @@
       "uid": "6b22a1a0b4f4"
     },
     {
-      "title": "新专家加入 Google 人工智能与经济团队",
+      "title": "新的专家加入谷歌的人工智能与经济团队",
       "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-18T14:00:00+00:00",
-      "summary": "新专家加入 Google 人工智能与经济团队 我们最近推出了人工智能与经济 ATLAS v1。 0 及其交互式开放访问网站，以了解人们如何在工作和日常生活中使用 Google 的 AI 工具。 但跟踪采用模式只是一个开始。 随着人工智能重塑工作、企业和日常生活，应对这一转变需要采取多学科方法，将……",
+      "summary": "新的专家加入谷歌的人工智能与经济团队 我们最近推出了人工智能与经济 ATLAS v1.0 及其互动开放访问网站，以了解人们如何在工作和日常生活中使用谷歌的人工智能工具。但跟踪采用模式只是一个开始。随着人工智能重塑工作、企业和日常生活，应对这一变化需要一种多学科方法，将...",
       "score": 15,
       "original_title": "New experts join Google’s AI & Economy team",
       "translated": true,
@@ -213,12 +239,12 @@
       "uid": "a371457dab8c"
     },
     {
-      "title": "Google Beam 不断拓展新的地区、合作伙伴和客户",
+      "title": "Google Beam 扩展了新的地区、合作伙伴和客户",
       "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-23T18:00:00+00:00",
-      "summary": "Google Beam 不断拓展新的地区、合作伙伴和客户 自成立之初，Google Beam 就一直由一个单一的愿景驱动：将人们聚集在一起，让他们能够体验真正的、面对面的联系，无论距离有多远。 我们已经对早期用户（包括在我们自己的办公室）测试了 Beam，并展示了它如何帮助将日常会议转变为真实的联系时刻。",
+      "summary": "谷歌 Beam 通过新增区域、合作伙伴和客户不断扩展 自早期以来，谷歌 Beam 一直秉持着一个单一的愿景：将人们聚集在一起，让他们无论距离多远都能体验到真实的面对面交流。我们已在早期用户中测试了 Beam，包括在我们自己的办公室中，并展示了它如何帮助将日常会议转变为真实的互动时刻。",
       "score": 10,
       "original_title": "Google Beam expands with new regions, partners, and customers",
       "translated": true,
@@ -226,12 +252,12 @@
       "uid": "850e451d6d4d"
     },
     {
-      "title": "与 Google 共同创造时尚的未来",
+      "title": "与谷歌共同创造时尚的未来",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-18T13:00:00+00:00",
-      "summary": "与 Google 共同创造时尚的未来 如果询问一位独立时装设计师，他们实际上是如何度过时间的，“设计服装”很少能得到答案。 行政任务、工厂物流和供应商协调占据了他们大部分时间，留给设计的时间很少。",
+      "summary": "与谷歌共同创造时尚的未来 询问一位独立时装设计师他们实际上如何度过时间，“设计衣服”很少是答案。行政事务、工厂物流和供应商协调占据了他们大部分时间，留下很少时间用于设计。",
       "score": 10,
       "original_title": "Co-creating the future of fashion with Google",
       "translated": true,
@@ -243,31 +269,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3888.3738,
-        "change": -48.1461,
-        "pct": -1.22,
-        "amount_yi": 7836.13
+        "price": 3820.8188,
+        "change": -67.555,
+        "pct": -1.74,
+        "amount_yi": 5482.49
       },
       {
         "name": "深证成指",
-        "price": 13316.97,
-        "change": -319.105,
-        "pct": -2.34,
-        "amount_yi": 8697.44
+        "price": 12868.28,
+        "change": -448.687,
+        "pct": -3.37,
+        "amount_yi": 6127.83
       },
       {
         "name": "创业板指",
-        "price": 3288.95,
-        "change": -90.662,
-        "pct": -2.68,
-        "amount_yi": 1515.42
+        "price": 3146.9,
+        "change": -142.048,
+        "pct": -4.32,
+        "amount_yi": 1180.66
       },
       {
         "name": "沪深300",
-        "price": 4439.1443,
-        "change": -78.1342,
-        "pct": -1.73,
-        "amount_yi": 3754.62
+        "price": 4343.6342,
+        "change": -95.5101,
+        "pct": -2.15,
+        "amount_yi": 2835.49
       }
     ],
     "holdings": [
@@ -276,10 +302,10 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 48.03,
-        "market_value": 4803.0,
-        "pnl": 1630.36,
-        "pnl_pct": 51.39,
+        "price": 48.3,
+        "market_value": 4830.0,
+        "pnl": 1657.36,
+        "pnl_pct": 52.24,
         "weight_hint": "44.7%",
         "note": "",
         "available": true
@@ -289,11 +315,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 28.36,
-        "market_value": 2836.0,
-        "pnl": 139.59,
-        "pnl_pct": 5.18,
-        "weight_hint": "26.4%",
+        "price": 28.57,
+        "market_value": 2857.0,
+        "pnl": 160.59,
+        "pnl_pct": 5.96,
+        "weight_hint": "26.5%",
         "note": "",
         "available": true
       },
@@ -302,10 +328,10 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.13,
-        "market_value": 2439.0,
-        "pnl": 561.48,
-        "pnl_pct": 29.91,
+        "price": 8.18,
+        "market_value": 2454.0,
+        "pnl": 576.48,
+        "pnl_pct": 30.7,
         "weight_hint": "22.7%",
         "note": "",
         "available": true
@@ -315,11 +341,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 1.132,
-        "market_value": 226.4,
-        "pnl": -91.6,
-        "pnl_pct": -28.81,
-        "weight_hint": "2.1%",
+        "price": 1.081,
+        "market_value": 216.2,
+        "pnl": -101.8,
+        "pnl_pct": -32.01,
+        "weight_hint": "2.0%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -328,11 +354,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.515,
-        "market_value": 451.5,
-        "pnl": -45.5,
-        "pnl_pct": -9.15,
-        "weight_hint": "4.2%",
+        "price": 4.418,
+        "market_value": 441.8,
+        "pnl": -55.2,
+        "pnl_pct": -11.11,
+        "weight_hint": "4.1%",
         "note": "",
         "available": true
       },
@@ -352,68 +378,120 @@
     ],
     "sectors": [
       {
-        "name": "煤炭 · 煤炭行业",
-        "pct": 0.036876555729695,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": null,
-        "source": "新浪行业"
+        "name": "新能源/光伏 · 光伏发电",
+        "pct": 1.34,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 2.28,
+        "source": "东财行业"
       },
       {
-        "name": "石油 · 石油行业",
-        "pct": -0.057803468208092,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": null,
-        "source": "新浪行业"
+        "name": "新能源/光伏 · 燃料电池",
+        "pct": 1.16,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.19,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 国有大型银行Ⅲ",
+        "pct": 0.32,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": -1.72,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 公用事业",
+        "pct": -0.4,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": 3.55,
+        "source": "东财行业"
+      },
+      {
+        "name": "煤炭 · 煤炭开采",
+        "pct": -0.81,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": 0.33,
+        "source": "东财行业"
       },
       {
         "name": "金融/银行 · 金融行业",
-        "pct": -0.95651891961999,
+        "pct": -1.0504131402,
         "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "电力/公用 · 供水供气",
-        "pct": -1.7528994333528,
+        "name": "电力/公用 · 电力行业",
+        "pct": -1.1189787573551,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子器件",
-        "pct": -2.9606751173615,
+        "name": "石油 · 石油行业",
+        "pct": -1.1824432877064,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "煤炭 · 煤炭行业",
+        "pct": -1.4353515804995,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "半导体/电子 · 电子信息",
+        "pct": -4.2706865110649,
         "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
     "policy_news": [],
-    "industry_news": [],
-    "market_news": [],
-    "total_market_value": 10755.9,
-    "total_pnl": 2194.33,
-    "total_amount_yi": 16533.57,
+    "industry_news": [
+      {
+        "title": "iQOO 16将搭载新一代自研电竞芯片Q4，首家旗舰电竞馆9月28日南京开业",
+        "link": "https://finance.sina.com.cn/hy/hyjz/2026-09-28/doc-initkarh2954579.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "创指跌超4%！红利低波ETF华泰柏瑞（512890）逆势抗跌半日成交2.71亿领跑 机构：兼顾景气成长与高股息防御",
+        "link": "https://finance.sina.com.cn/money/fund/original/2026-09-28/doc-initkarc8677176.shtml",
+        "level": "中",
+        "tag": "行业"
+      }
+    ],
+    "market_news": [
+      {
+        "title": "港股午评：恒指涨0.64% 科指跌0.54% 石油股活跃 光通信板块下挫",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-28/doc-initkarc8672493.shtml",
+        "level": "中",
+        "tag": "股市"
+      }
+    ],
+    "total_market_value": 10799.0,
+    "total_pnl": 2237.43,
+    "total_amount_yi": 11610.32,
     "bias": "偏空",
-    "volume_note": "量能：两市合计约 16534 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 煤炭行业；偏弱 石油行业、金融行业、供水供气",
+    "volume_note": "量能：两市合计约 11610 亿元（接口口径），成交中等",
+    "sector_note": "行业分化：偏强 光伏发电、燃料电池、国有大型银行Ⅲ；偏弱 公用事业、煤炭开采、金融行业",
     "tip": "板块轮动是常态，不要追高换仓",
-    "errors": [
-      "东财行业板块失败: HTTP Error 502: Bad Gateway"
-    ]
+    "errors": []
   },
   "learning": {
-    "title": "满仓的代价",
-    "body": "现金几乎为0时，回调里没有子弹加仓。新手版仓位：核心防御60–70%，成长卫星20–30%，现金尽量留10–20%。",
+    "title": "板块轮动",
+    "body": "资金常在行业间切换，不是“好公司永远天天涨”。追昨天上涨板块，容易买在情绪高点；先看逻辑，再看价格。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "机油保养",
-    "text": "今儿聊【机油保养】。NWG150说明书写六千公里一换，你心里写“再挺挺”。车不说话，缸里知道；等它说话，说话的方式通常是异响。社会经验：省下的机油钱，最后都会变成修理厂的茶位费。"
+    "topic": "标书加班",
+    "text": "今儿聊【标书加班】。标书这东西，白天像散文，夜里像刑法。格式错一个空格，废一宿；价格错一个零，废一年。社会经验：投标不是写作文，是把自己活成附件——附件越全，人越空。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
-    "东财行业板块失败: HTTP Error 502: Bad Gateway",
     "36氪: 解析失败 (<unknown>:10:542: not well-formed (invalid token))"
   ]
 }
