@@ -1,34 +1,34 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-10-01T13:16:12.839741+08:00",
+  "generated_at": "2026-10-02T13:04:32.850280+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 19,
+  "count": 18,
   "items": [
     {
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
+      "title": "Albertsons 公司如何从内到外重新构想零售",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-09-29T10:00:00+00:00",
-      "summary": "探索来自 OpenAI DevDay 2026 的 20 多条公告，包括 GPT-6 Astra、ChatGPT、Codex、API、安全性以及为开发者提供的新工具。",
+      "published": "2026-10-01T16:00:00+00:00",
+      "summary": "Albertsons 公司正在使用 ChatGPT Enterprise 和 OpenAI API 来帮助团队更快地工作，并让数百万顾客的杂货购物更加轻松。",
       "score": 65,
-      "original_title": "DevDay 2026 Recap",
+      "original_title": "How Albertsons Companies is reimagining retail from the inside out",
       "translated": true,
       "priority": 0,
-      "uid": "af813b508df5"
+      "uid": "82cb944762b6"
     },
     {
-      "title": "克劳德发现了一种新型酶系统",
-      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "title": "Anthropic / Claude：巴克莱扩大 Claude 的应用以升级运营并改善客户体验",
+      "link": "https://www.anthropic.com/news/barclays-scales-claude",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-01T05:16:49+00:00",
-      "summary": "订阅Anthropic科学特写，了解AI辅助的发现、实用工作流程以及各科学领域的实地记录。我们正在Anthropic引入一个新的生命科学研究小组和实验室。我们的重点是使用Claude进行基础生物学研究：探索DNA数据集以识别未被表征的蛋白质家族，大规模生成假设，并通过实验室实验进行验证。",
+      "published": "2026-10-02T05:05:08+00:00",
+      "summary": "巴克莱银行扩大Claude的应用以升级运营并改善客户体验。英国综合性银行巴克莱正在扩大与Anthropic的战略合作，将安全的企业级人工智能系统整合到其全球业务中。巴克莱正在将Claude推广到整个银行，以加速软件开发、现代化传统系统并提高运营效率。",
       "score": 60,
-      "original_title": "Claude discovers a novel enzyme system",
+      "original_title": "Anthropic / Claude：Barclays scales Claude to upgrade operations and improve client experience",
       "translated": true,
       "priority": 0,
-      "uid": "2d52ed2f0b86"
+      "uid": "f012418f8c4f"
     },
     {
       "title": "双子座4氩：我们下一个前沿智能时代",
@@ -36,7 +36,7 @@
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-09-30T20:01:45+00:00",
-      "summary": "双子座4号氩：我们前沿智能的下一个时代 今天，我们宣布推出我们的新前沿模型——双子座4号氩，该模型将通过我们的Fairwind计划向一组可信赖的网络防御者推出。氩旨在支持跨复杂、长周期工作流程的深度推理，从根本上改变了我们在谷歌的工作和建设方式。",
+      "summary": "双子座4号氩：我们前沿智能的下一个时代 今天，我们宣布推出我们的新前沿模型——双子座4号氩，该模型将通过我们的Fairwind计划向一组可信的网络防御者推出。Argon旨在在复杂、长期的工作流程中维持深度推理，从根本上改变了我们在谷歌的工作和建设方式。",
       "score": 45,
       "original_title": "Gemini 4 Argon: our next era of frontier intelligence",
       "translated": true,
@@ -57,30 +57,43 @@
       "uid": "99849501f26b"
     },
     {
-      "title": "华为余承东：Mate 90 系列是中国半导体行业的时代答卷，也是中国操作系统产业的创新答卷",
-      "link": "https://www.ithome.com/1/009/035.htm",
+      "title": "宏碁发布 14 英寸 Aspire Lite 笔记本：高通骁龙 X1-26-101 芯片、16GB 内存",
+      "link": "https://www.ithome.com/1/009/259.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-01T04:22:51+00:00",
-      "summary": "IT之家 10 月 1 日消息，在今天的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate 90 年度旗舰新机。在发布会上半场的结尾，余承东进行了总结。他表示，今天华为把最强大的麒麟芯片、最创新的鸿蒙系统带给了史上最强大的 Mate。余承东还直言： Mate 90 系列是中国半导体行业的时代答卷，也是中国操作系统产业的创新答卷 。感谢每一位一路相伴的 Mate，你们的信任与鼎力支持，是我们坚定向前的最大底气。让我们一起踏光向前，终成璀璨！据IT之家昨日报道，余承东发布视频预热 Mate 90 系列旗舰新机，并向消费者表达了谢意。他表示， 大家一次次选择我们，我们就得一次次拿出进步 。",
-      "score": 75,
+      "published": "2026-10-02T04:34:59+00:00",
+      "summary": "IT之家 10 月 2 日消息，科技媒体 NotebookCheck 昨日（10 月 1 日）发布博文，报道称宏碁（Acer）推出 Aspire Lite 笔记本，配备 14 英寸屏幕， 高通骁龙 X 芯片（型号 X1-26-101），售价为 749 美元 （IT之家注：现汇率约合 5,029 元人民币） 。芯片方面，该芯片的 CPU 配置与 X1-26-100 相同，只是 Adreno X1-45 集成显卡替换为 Adreno X1-85。单从数字上而言，X1-26-101 的 GPU 性能更强，不过 Adreno X1-85 的频率为 0.63GHz，而 X1-26-100 所搭配的频率最高为 1.",
+      "score": 60,
       "original_title": "",
       "translated": false,
-      "priority": 50,
-      "uid": "4d0e27ec4327"
+      "priority": 25,
+      "uid": "a26317234d31"
     },
     {
-      "title": "Anthropic / Claude：与埃森哲合作进行嵌入式评估",
-      "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "title": "贝恩：全球 AI 行业到 2031 年创造 6 万亿美元年营收，才能证明数据中心价值",
+      "link": "https://www.ithome.com/1/009/244.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-10-02T02:57:01+00:00",
+      "summary": "IT之家 10 月 2 日消息，9 月 29 日，据彭博社报道，贝恩公司称，要支撑目前全球数据中心建设的巨额资本投入，全球 AI 行业到 2031 年每年需要创造 6 万亿美元 （IT之家注：现汇率约合 40.29 万亿元人民币） 营收。该机构发布的报告指出，现有消费级和企业级 AI 服务最多只能贡献 1.8 万亿美元 （现汇率约合 12.09 万亿元人民币） ，因此还需要找到 4.2 万亿美元 （现汇率约合 28.2 万亿元人民币） 新增收入。这部分收入可能来自仍处于起步阶段的新市场，包括自动化机器、机器人，以及药物研发、心理健康和能源生产等领域。报告主要作者、贝恩全球科技、媒体和电信业务主席戴维 · 克劳福德说：“整个行业需要一轮规模远超移动互联网和云计算的创新浪潮。AI 基础设施建设 远远跑在需求前面 ，要让这些投资能够持续下去，全球 GDP 年增速需要额外提高约 1%。",
+      "score": 60,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "165ad4842840"
+    },
+    {
+      "title": "克劳德发现了一种新型酶系统",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-01T05:16:49+00:00",
-      "summary": "与埃森哲合作进行嵌入式评估 我们正在与埃森哲合作，对前沿人工智能进行独立评估。这是朝着我们首席执行官在《我们必须为前沿设定步伐》的文章中所作承诺迈出的重要一步，即在Anthropic内部嵌入评估人员。该合作将由埃森哲的人工智能专业业务部门Faculty领导，并将包括评估和红队测试模型、进行对齐评估...",
+      "published": "2026-10-02T05:05:08+00:00",
+      "summary": "订阅Anthropic科学特写，了解AI辅助的发现、实用工作流程以及各科学领域的实地记录。我们正在Anthropic引入一个新的生命科学研究小组和实验室。我们的重点是使用Claude进行基础生物学研究：探索DNA数据集以识别未被表征的蛋白质家族，大规模生成假设，并通过实验室实验进行验证。",
       "score": 60,
-      "original_title": "Anthropic / Claude：Partnering with Accenture on embedded evaluation",
+      "original_title": "Claude discovers a novel enzyme system",
       "translated": true,
       "priority": 0,
-      "uid": "62890b5bd4da"
+      "uid": "2d52ed2f0b86"
     },
     {
       "title": "破坏协作的模型蒸馏行动",
@@ -109,56 +122,30 @@
       "uid": "50d1d707a6c0"
     },
     {
-      "title": "英伟达启动1500亿美元股票回购计划",
-      "link": "https://www.ftchinese.com/story/001111012",
-      "source": "FT 中文网",
-      "category": "持仓相关",
-      "published": "2026-09-28T16:00:00+00:00",
-      "summary": "这是美国企业史上规模最大的回购计划。这家硅谷芯片制造商继续凭借其在AI供应链顶端的优势地位赚取巨额利润。",
-      "score": 55,
-      "original_title": "",
-      "translated": false,
-      "priority": 35,
-      "uid": "99c0d73f14ce"
-    },
-    {
-      "title": "上汽通用五菱 9 月销量 132045 辆，1-9 月全球销量超 105 万辆",
-      "link": "https://www.ithome.com/1/009/036.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-10-01T04:23:10+00:00",
-      "summary": "IT之家 10 月 1 日消息，据上汽通用五菱官方发布的销售数据，2026 年 1—9 月，上汽通用五菱全球累计销量达 1,058,169 辆，其中 9 月单月销量为 132,045 辆。值得一提的是，新能源车型 1—9 月累计销量达 569,640 辆，占公司总销量的 53.IT之家注意到，上汽通用五菱新能源车型全球累计销量已突破 400 万辆；海外市场累计销量超过 160 万台 / 套。从月度走势来看，公司销量自年初以来保持稳健攀升：1 月累计销售 105,792 辆，至 6 月底已达 675,204 辆，三季度末顺利突破百万辆大关；新能源销量则由 1 月的 37,929 辆逐月增长，7 月底累计突破 40 万辆，9 月底逼近 57 万辆，增长曲线持续向上。作为五菱品牌的中坚力量，焕新后的红标系列 1—9 月累计销量达 374,092 辆。",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "45eac0fe8c7d"
-    },
-    {
-      "title": "东风本田 9 月全系销量 17932 辆，环比增长 19%",
-      "link": "https://www.ithome.com/1/009/033.htm",
+      "title": "三星上调 Galaxy S26 系列手机建议零售价：涨 800-1800 元，7799 元起",
+      "link": "https://www.ithome.com/1/009/242.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-01T04:16:53+00:00",
-      "summary": "IT之家 10 月 1 日消息，今天（1 日）上午，东风本田宣布，9 月全系销量 17932 辆，环比增长 19%。具体到车型上，官方称当月“双 V（IT之家注：CR-V 和 HRV 两款 SUV 车型）”稳步发力，其中 CR-V 当月销量 11851 辆 ，环比增长 9%；HR-V 当月销量 2952 辆，环比增长 72%。而在上月早些时候，本田技研工业（中国）投资有限公司总经理、本田技研科技（中国）有限公司总经理五十岚雅行明确表态，中国市场的意义早已不止于销售，更是推进电动化与智能化变革的重要市场，立场今后也不会改变， 未来本田将一如既往深耕中国 。据悉，本田在智能化领域已选定 Momenta 与华为，双方分别签署战略合作协议，Momenta 的领航辅助驾驶技术与华为的鸿蒙座舱将 从 2027 年上市车型起陆续导入 。",
+      "published": "2026-10-02T02:52:04+00:00",
+      "summary": "IT之家 10 月 2 日消息，三星官网显示，三星上调了国行 Galaxy S26 系列手机的建议零售价。Galaxy S26 12GB + 256GB：调价前 6,999 元，调价后 7,799 元（涨价 800 元） Galaxy S26+ 12GB + 256GB：调价前 7,999 元，调价后 8,999 元（涨价 1,000 元） 12GB + 512GB：调价前 9,599 元，调价后 10,599 元（涨价 1,000 元） Galaxy S26 Ultra 12GB + 256GB：调价前 9,999 元，调价后 10,999 元（涨价 1,000 元） 12GB + 512GB：调价前 11,599 元，调价后 12,599 元（涨价 1,000 元） 16GB + 1TB：调价前 13,999 元，调价后 15,799 元（涨价 1,800 元） IT之家注意到，三星虽然上调了建议零售价，但在官网为部分机型提供优惠券，Galaxy S26 系列手机券后到手价为 5,999 元起，还有价保双 11 服务。",
       "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "d5b0c6ed76eb"
+      "uid": "06af66788ae0"
     },
     {
-      "title": "2026 年 9 月汽车销量 / 交付汇总（持续更新）：小鹏汽车 41256 辆，蔚来公司 37408 辆",
-      "link": "https://www.ithome.com/1/008/990.htm",
-      "source": "IT之家·通信安防",
+      "title": "美国佛蒙特州通过家庭电池储能网络应对气候变化",
+      "link": "https://www.solidot.org/story?sid=85517",
+      "source": "Solidot·通信",
       "category": "通信与安防",
-      "published": "2026-10-01T01:36:55+00:00",
-      "summary": "IT之家 10 月 1 日消息，各大车企今日起陆续交出了 2026 年 9 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。上汽通用五菱 ：132,045 辆，同比下降 15.13%，环比增长 0.9%（备注：2026 年 1—9 月，上汽通用五菱全球累计销量达 1,058,169 辆。值得一提的是，新能源车型 1—9 月累计销量达 569,640 辆，占公司总销量的 53.华境 S 为旗下与华为合作的首款大六座 SUV；华境 S：连续 5 个月增长；累计交付已突破 3 万台；2026 年 8 月交付 7306 台、7 月交付 7203 台、6 月交付 5689 台；5 月 8 日上市；标配华为干昆智驾 ADS 5 Pro）。其中： 华境 S：7,416 辆。零跑汽车 ：105,656 辆，同比增长 58.",
+      "published": "2026-09-30T14:44:08+00:00",
+      "summary": "过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向参与该网络的家庭出租两块电池，租期十年，每月费用为 55 美元。该州有超过 5,500 人参与了该家庭电池网络，半数家庭还安装了太阳能电池板。该项目目前提供约 110 MW 的电力，相当于一座中小型天然气发电厂的装机容量。美国其他州也有类似的电池储能网络。",
       "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "3440fcd12645"
+      "uid": "5e6e934b08e0"
     },
     {
       "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
@@ -174,56 +161,56 @@
       "uid": "3e19fb34e13c"
     },
     {
-      "title": "伊朗日益减少的石油正在成为人人的问题",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Irans-Disappearing-Oil-Is-Becoming-Everyones-Problem.html",
+      "title": "2026年上涨的5只能源ETF",
+      "link": "https://oilprice.com/Energy/Energy-General/5-Energy-ETFs-That-Have-Soared-in-2026.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-01T00:00:00+00:00",
-      "summary": "伊朗石油正在从市场上消失，正值其最大买家再次大量购买之际。中国正在复苏的原油需求与失去在危机期间支持其独立炼油厂的供应商发生冲突，迫使它们为日益昂贵的替代品竞争。",
-      "score": 15,
-      "original_title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
+      "published": "2026-10-02T00:00:00+00:00",
+      "summary": "随着本年度四分之三的时间已经过去，美国股市有望连续第四年实现两位数的涨幅，大规模的人工智能基础设施支出以及异常强劲的企业盈利增长为市场带来了重大推动。标普500指数今年迄今已回报11.8%，唯有公用事业（-7.7%）和可选消费品（-6%）出现下跌。",
+      "score": 20,
+      "original_title": "5 Energy ETFs That Have Soared in 2026",
       "translated": true,
       "priority": 0,
-      "uid": "d0394462a54d"
+      "uid": "4a6df9a8ec2d"
     },
     {
-      "title": "欧盟天然气紧缩迫使重新考虑甲烷规则",
-      "link": "https://oilprice.com/Energy/Natural-Gas/EU-Gas-Crunch-Forces-Rethink-of-Methane-Rules.html",
+      "title": "中国力争在2030年前实现固态电池主导地位",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Targets-Solid-State-Battery-Dominance-by-2030.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-09-30T23:00:00+00:00",
-      "summary": "欧洲委员会已表示，由于乌克兰和中东的战争导致的持续天然气紧缺，它将推迟实施备受争议的甲烷法规。但这可能不足以抵消这种紧缺的影响——因为该法规尚未生效，而欧洲人已经在挣扎。",
+      "published": "2026-10-01T23:00:00+00:00",
+      "summary": "中国已经主导了全球锂离子电池市场，计划将这种地位扩展到固态电池。北京政府将寻求降低固态电池成本，提高其性能，并在2030年前开始商业生产。",
       "score": 15,
-      "original_title": "EU Gas Crunch Forces Rethink of Methane Rules",
+      "original_title": "China Targets Solid-State Battery Dominance by 2030",
       "translated": true,
       "priority": 0,
-      "uid": "aba2d2e8d05b"
+      "uid": "e889f0aade91"
     },
     {
-      "title": "礼来公司表示，备受关注的组合肥胖治疗方案在中期试验中提高了减重效果",
-      "link": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
+      "title": "电力需求的增长速度超过了电网的供应能力",
+      "link": "https://oilprice.com/Energy/Energy-General/Power-Demand-Is-Surging-Faster-Than-Grids-Can-Keep-Up.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-01T22:00:00+00:00",
+      "summary": "在关键发达市场多年停滞之后，随着数据中心、电气化和工业化推动电力消费激增，电力需求正以几十年来未曾见过的速度再次上升。",
+      "score": 15,
+      "original_title": "Power Demand Is Surging Faster Than Grids Can Keep Up",
+      "translated": true,
+      "priority": 0,
+      "uid": "e31ad78361a5"
+    },
+    {
+      "title": "耐克股价下跌，因零售商公布令人失望的销售额，并宣布裁员作为重组的一部分",
+      "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-09-30T22:40:47+00:00",
-      "summary": "礼来公司周三表示，其实验性联合方案在一项针对肥胖和2型糖尿病患者的中期试验中，导致的体重减轻比单独使用该公司畅销药物 tirzepatide 高剂量的效果更显著。该联合疗法在通常难以减重的人群中达到了研究的主要目标。",
+      "published": "2026-10-01T21:34:44+00:00",
+      "summary": "耐克周四公布了财政第一季度的喜忧参半的财报，并宣布了一项重组计划，该计划将导致明年开始裁员。公司还提供了全年展望，表示预计2027财年的收入将下降高单位数百分比。耐克还表示，预计调整后的每股收益将在1.15美元到1美元之间。耐克股价在周四延长交易中下跌约3%。",
       "score": 15,
-      "original_title": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial",
+      "original_title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
       "translated": true,
       "priority": 0,
-      "uid": "1fc98fc154f6"
-    },
-    {
-      "title": "量子计算能驯服人工智能的能耗吗？",
-      "link": "https://oilprice.com/Energy/Energy-General/Can-Quantum-Computing-Tame-AIs-Energy-Appetite.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-09-30T21:00:00+00:00",
-      "summary": "美国能源部（DoE）正在提供2.15亿美元的资金，以帮助国内公司开发世界上第一台可靠的量子计算机。随着下一代技术成为AI繁荣所带来的能源需求潘多拉盒子潜在解决方案，解锁量子计算的竞争已经升温。",
-      "score": 15,
-      "original_title": "Can Quantum Computing Tame AI's Energy Appetite?",
-      "translated": true,
-      "priority": 0,
-      "uid": "61381b4b4a91"
+      "uid": "0a158a5b30f8"
     },
     {
       "title": "观看未来愿景XPRIZE获奖预告片《天赋者》。",
@@ -231,7 +218,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-09-28T19:00:00+00:00",
-      "summary": "观看未来愿景XPRIZE获奖预告片《天赋者》。今年早些时候，我们与XPRIZE和Range Media Partners合作推出了未来愿景XPRIZE，这是一项全球比赛，征集描绘充满希望、由技术驱动的未来的影片。上周在洛杉矶，独立电影制片人杰夫·Synthesized凭借《天赋者》被评为大奖得主。",
+      "summary": "观看未来愿景 XPRIZE 获奖预告片《天赋》。今年早些时候，我们与 XPRIZE 和 Range Media Partners 合作，启动了未来愿景 XPRIZE，这是一个全球竞赛，征集描绘充满希望的技术驱动未来的影片。上周在洛杉矶，独立电影制片人杰夫·Synthesized 因《天赋》被评为大奖得主。",
       "score": 15,
       "original_title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "translated": true,
@@ -363,25 +350,75 @@
         "available": false
       }
     ],
-    "sectors": [],
-    "policy_news": [
+    "sectors": [
       {
-        "title": "香港证监会及马来西亚证监会官宣IPO申请材料两地通用 企业可在香港和大马两地同步上市 两地基金7月已实现互认互挂",
-        "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-10-01/doc-initstui5323604.shtml",
-        "level": "高",
-        "tag": "政策"
+        "name": "新能源/光伏 · 光伏主材",
+        "pct": 3.5,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 1.11,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 燃料电池",
+        "pct": 2.51,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.12,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 银行",
+        "pct": 1.46,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": -0.87,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 银行Ⅱ",
+        "pct": 1.46,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": -0.87,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 电力行业",
+        "pct": 1.1634034618347,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "煤炭 · 煤炭行业",
+        "pct": 0.40585558110074,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "石油 · 石油行业",
+        "pct": 0.33665673960896,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "半导体/电子 · 电子器件",
+        "pct": -1.9066573200439,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": null,
+        "source": "新浪行业"
       }
     ],
+    "policy_news": [],
     "industry_news": [
       {
-        "title": "高光之作华为Mate 90系列发布：麒麟芯片全面突围，Mate开启“芯”纪元",
-        "link": "https://finance.sina.com.cn/tech/mobile/n/n/2026-10-01/doc-initstui1389434.shtml",
+        "title": "知情人士：博通着手筹集600亿美元 为Anthropic采购芯片提供资金",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initvazp7485054.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "澳洲联储称家庭和银行有能力应对房价下跌和经济衰退",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initspnm1466468.shtml",
+        "title": "知情人士：亚马逊计划向投资者出售价值80亿美元的英伟达芯片",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initvazi1445462.shtml",
         "level": "中",
         "tag": "行业"
       }
@@ -392,27 +429,22 @@
     "total_amount_yi": 14379.89,
     "bias": "震荡",
     "volume_note": "量能：两市合计约 14380 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：关注行业数据暂缺",
-    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
-    "errors": [
-      "新浪行业板块失败: <urlopen error _ssl.c:993: The handshake operation timed out>",
-      "东财行业板块失败: HTTP Error 502: Bad Gateway"
-    ]
+    "sector_note": "行业分化：偏强 光伏主材、燃料电池、银行；偏弱 电子器件",
+    "tip": "板块轮动是常态，不要追高换仓",
+    "errors": []
   },
   "learning": {
-    "title": "什么是指数",
-    "body": "沪深300（Shanghai-Shenzhen 300 Index，沪深两市规模大、流动性好的300家公司）像“大盘平均分”。你买的300ETF，本质上就是在跟踪这个平均分。",
+    "title": "PE（市盈率）",
+    "body": "PE = 股价 ÷ 每股收益，粗看股票贵不贵。银行/能源股常见区间更低；神华这类更常结合股息率一起看，别只看PE。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "通信铁塔",
-    "text": "今儿聊【通信铁塔】。这铁塔往山上一立，跟个钢筋仙鹤似的，鹤不飞，人得爬。领导说“顺便看看点位”，这顺便俩字一出，你就知道中午泡面泡不上了。缆没拉上先拉上脸色，链路没通先把汇报通了。社会经验：凡写着“现场简单勘察”的，背包里都得备双袜子。"
+    "topic": "A股开盘",
+    "text": "今儿聊【A股开盘】。早盘像相亲：看着挺热闹，真心没几个。神华长江电力坐那儿跟老干部似的，不吵不闹，偶尔点个头；主题炒作跟广场舞大妈似的，音箱一响全场跟。社会经验：能吃息的先吃息，能睡觉的别盯盘——盯盘不涨，只涨血压。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
-    "新浪行业板块失败: <urlopen error _ssl.c:993: The handshake operation timed out>",
-    "东财行业板块失败: HTTP Error 502: Bad Gateway",
     "36氪: 解析失败 (<unknown>:10:542: not well-formed (invalid token))"
   ]
 }
