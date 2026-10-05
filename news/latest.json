@@ -1,15 +1,15 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-10-04T13:20:26.426030+08:00",
+  "generated_at": "2026-10-05T13:03:28.096073+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 19,
+  "count": 18,
   "items": [
     {
       "title": "克劳德前沿学院：1 亿美元培训 10,000 名工程师",
       "link": "https://www.anthropic.com/news/claude-frontier-academy",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-04T05:20:46+00:00",
+      "published": "2026-10-05T05:03:44+00:00",
       "summary": "Anthropic 投资 1 亿美元培训 10,000 名工程师，解决企业人工智能人才缺口。首个学院采用与 Anthropic 自己的工程师相同的技能标准来培训前沿部署工程师，培训对象来自埃森哲、贝恩、凯捷、澳大利亚联邦银行、德勤、麦肯锡、摩根士丹利、诺和诺德等公司。",
       "score": 65,
       "original_title": "Claude Frontier Academy: $100M to train 10,000 engineers",
@@ -44,24 +44,11 @@
       "uid": "0908094c9952"
     },
     {
-      "title": "余承东：华为半导体已在手机、AI、智能汽车等领域成功设计并量产 381 款 τ 芯片",
-      "link": "https://www.ithome.com/1/009/638.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-04T04:32:30+00:00",
-      "summary": "IT之家 10 月 4 日消息，在今年 5 月的 2026 国际电路与系统研讨会上，华为公司董事、半导体业务部总裁何庭波在主旨演讲中首次提出半导体全新演进路径 ——“韬（τ）定律”。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，透露华为半导体已经在手机、AI、通用计算、网络、智能汽车等多个领域 成功设计并量产了 381 款 τ 芯片 。据余承东介绍，过去芯片性能提升主要依赖不断缩小的晶体管。但随着晶体管尺寸接近物理极限，性能提升越来越难。因为空间是有极限的， 所以华为换了一个思路 —— 向时间要性能 。具体来看，芯片完成一项任务，时间不光花在计算上，还花在数据传输和等待上。韬定律的核心思路是让数据少绕路、让计算不用等，花更少的时间完成更多的任务。IT之家从华为官方了解到，华为韬定律提出以“时间 (τ) 缩微”替代“几何缩微”作为半导体与电子系统演进的新指导原则 —— 通过逻辑折叠等创新技术，持续压缩信号传播时延，不断提升晶体管密度，从而实现半导体与电子系统的持续演进。",
-      "score": 85,
-      "original_title": "",
-      "translated": false,
-      "priority": 50,
-      "uid": "6d2ee4ecf1d2"
-    },
-    {
       "title": "Anthropic / Claude：巴克莱扩大 Claude 规模以升级运营并改善客户体验",
       "link": "https://www.anthropic.com/news/barclays-scales-claude",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-04T05:20:46+00:00",
+      "published": "2026-10-05T05:03:44+00:00",
       "summary": "巴克莱 (Barclays) 扩大 Claude 规模，以升级运营并改善客户体验 英国全能银行巴克莱 (Barclays) 正在扩大与 Anthropic 的战略合作，以在其全球运营中集成安全的企业级人工智能系统。 巴克莱正在将 Claude 扩展到整个银行，以加速软件开发、实现遗留系统的现代化并提高运营效率。",
       "score": 60,
       "original_title": "Anthropic / Claude：Barclays scales Claude to upgrade operations and improve client experience",
@@ -83,30 +70,43 @@
       "uid": "4cf359a00e3f"
     },
     {
-      "title": "华为四代 τ 芯片首次集体亮相，余承东详解麒麟 9050 系列首发逻辑折叠技术",
-      "link": "https://www.ithome.com/1/009/633.htm",
+      "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
+      "link": "https://www.ithome.com/1/009/795.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-04T04:02:59+00:00",
-      "summary": "IT之家 10 月 4 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）；逻辑折叠 τ 芯片：麒麟 9050（Mate 90 Pro Max）、麒麟 9050 Pro（Mate 90 Pro Max / RS 非凡大师）。值得一提的是， 全新麒麟 9050 Pro 也是首款逻辑折叠 τ 芯片 。IT之家注意到，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，详细介绍了麒麟 9050 系列处理器首发的逻辑折叠技术。在余承东的视频里， 华为四代麒麟 τ 芯片也迎来了首次集体亮相 。据余承东介绍，这一代的华为 Mate 90 和 Mate 90 Pro 搭载的是麒麟 9030 和麒麟 9035 处理器， 均沿着韬定律演进 。",
-      "score": 45,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "5ffb68f0606c"
-    },
-    {
-      "title": "谷歌在英国应诉 12 亿英镑集体诉讼，被指 Play 商店向消费者转嫁高额佣金",
-      "link": "https://www.ithome.com/1/009/641.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-04T05:00:47+00:00",
-      "summary": "IT之家 10 月 4 日消息，谷歌即将应诉一桩索赔金额 12 亿英镑 （IT之家注：现汇率约合 106.75 亿元人民币） 的诉讼。该诉讼指控十余年间，数百万英国安卓手机用户在应用下载业务上一直被多收费用。这也是针对大型科技企业市场势力的又一起法律纠纷。如果开庭前夕未能达成和解，这起由堡垒投资集团（Fortress Investment Group）出资、阿布扎比穆巴达拉（Mubadala）投资部门提供支持的针对谷歌的集体诉讼，将于本周在伦敦开启为期七周的庭审。如果这起反垄断诉讼原告胜诉，大约 2000 万名消费者有望获得赔偿，平均每人约 60 英镑 （现汇率约合 533.8 元人民币） 。原告方指控，自 2015 年以来，谷歌的母公司 Alphabet 遏制市场竞争， 针对安卓系统下从谷歌 Play 商店下载的软件收取“过高”费用。",
-      "score": 30,
+      "published": "2026-10-05T05:00:25+00:00",
+      "summary": "IT之家 10 月 5 日消息，美国佛罗里达州李县（Lee County）一名 30 岁女子因涉嫌在与 Anthropic 旗下聊天机器人 Claude 的对话中写下针对当地警长办公室的暴力威胁而被捕。据当地警方通报，邦尼塔斯普林斯居民卡莉 · 米歇尔 · 赫勒（Carli Michelle Heller）于 9 月 26 日在对话中称要对李县警长办公室实施枪击（shoot up）。相关内容随即触发 Anthropic 的安全风控机制，并被 Claude 上报给人工审核及执法部门。据当地媒体 WINK News 报道，警长卡迈恩 · 马尔切诺（Carmine Marceno）告诉该媒体，赫勒后来称她把 AI 当作“日记”使用。调查人员称，Anthropic 通过安全机制监测关键词和潜在威胁内容，相关信息视严重程度被升级至人工审核，随后由人工团队确认后联系当地执法部门。",
+      "score": 55,
       "original_title": "",
       "translated": false,
       "priority": 15,
-      "uid": "df56f9479f84"
+      "uid": "cc8e7fe494d5"
+    },
+    {
+      "title": "JEDEC 发布首份全行业硅光子学（SiPh）可靠性标准 JESD264",
+      "link": "https://www.ithome.com/1/009/775.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-05T02:34:56+00:00",
+      "summary": "IT之家 10 月 5 日消息，JEDEC 固态技术协会美国当地时间本月 1 日发布了 JESD264 硅光子学 (SiPh) 器件认证和可靠性要求，这是 首份全行业级别的硅光器件统一认证和可靠性实践规范 。硅光领域此前缺乏标准化的、行业通用的可靠性所有权和验证框架，导致整个供应链存在不确定性。JESD264 通过建立测试和制造控制的通用基准， 有助于降低部署风险 ，并支持硅光技术在高速数据中心、电信和人工智能网络中的更广泛应用。该标准支持包含激光器、调制器、光电二极管和无源光学结构的复杂光子芯片组的集成；还明确了代工厂、外包封测、系统开发商之间的可靠性责任，从而有助于提高整个硅光生态系统的一致性。JESD264 是一份适用于硅光芯片和集成芯片组的全面可靠性协议，为多类型器件提供了组件级鉴定指南。其包含明确的装配工艺和激光集成要求，也有着对生产过程的控制和可追溯性要求。",
+      "score": 50,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "a1453610af23"
+    },
+    {
+      "title": "纽约时报：石油大国闹油荒，俄罗斯人抢购中国电动汽车",
+      "link": "https://www.ithome.com/1/009/787.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-05T03:44:32+00:00",
+      "summary": "北京时间 10 月 5 日，《纽约时报》发文称，随着乌克兰越来越多地将战火带到俄罗斯，俄罗斯出现了燃料短缺的情况，这促使俄罗斯人开始抢购中国电动汽车。俄罗斯加油站排起长队 谢尔盖 · 采利科夫 (Sergei Tselikov) 是俄罗斯首屈一指的汽车行业专家，先后拥有过 20 多辆车，包括沃尔沃、大众和路虎。这些车全都配备了燃油发动机。但是今年 7 月，随着乌克兰无人机袭击俄罗斯炼油厂，俄罗斯全国各地的司机在加油站排队数小时加油。于是，他购买了一辆中国品牌长城汽车生产的纯电动掀背车。他必须迅速出手，由于需求激增，这款车的价格在几天内上涨了约 2000 美元。“我试着给我的一辆车加油，跑了附近 5 个加油站，但那里只有柴油或低标号汽油，”他说，“我实在懒得排队。”他所说的低标号汽油，是指政府为应对燃料短缺而允许销售的质量较低的燃油。",
+      "score": 40,
+      "original_title": "",
+      "translated": false,
+      "priority": 15,
+      "uid": "430927f3ebe8"
     },
     {
       "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
@@ -122,56 +122,30 @@
       "uid": "3e19fb34e13c"
     },
     {
-      "title": "神舟二十三号乘组太空过双节：开展人在多任务状态下的大脑与人机适配研究",
-      "link": "https://www.ithome.com/1/009/630.htm",
+      "title": "华米 Amazfit 智能手表 T-Rex Dual Solar 上架：双面太阳能充电系统，4499 元",
+      "link": "https://www.ithome.com/1/009/794.htm",
       "source": "IT之家·出行",
       "category": "健康生活",
-      "published": "2026-10-04T03:43:09+00:00",
-      "summary": "IT之家 10 月 4 日消息，据央视新闻报道，国庆假期，太空出差三人组 —— 神二十三乘组航天员朱杨柱、张志远、黎家盈仍在中国空间站值守。三名航天员在轨驻留已四月有余，中秋国庆期间，他们将站内环境布置得温馨喜庆，同时，空间科学实（试）验、空间站组合体平台照料、健康管理等各项工作有序推进。乘组使用太空拉曼光谱仪对尿液样本中的代谢组分进行检测，开展菌群与营养代谢研究，并按计划开展人在多任务状态下的大脑与人机适配研究。测试数据用于揭示航天特殊环境对航天员认知控制的影响规律、脑功能机制及其认知计算原理 ，同时调整舱内灯光进行绩效测试，探究光环境对心理感知与工作效率的影响。在微重力物理科学领域，乘组完成了在线维修装调操作柜内惯性粒子实验模块安装、流体物理实验柜内样品更换、轴心机构电极维护等。此外，乘组对生命生态实验柜进行在轨维护，更换了湿度控制单元模块。",
+      "published": "2026-10-05T04:55:25+00:00",
+      "summary": "IT之家 10 月 5 日消息，华米 Amazfit 智能手表 T-Rex Dual Solar 现已上架电商平台，标价 4499 元。 该产品搭载 双面太阳能充电系统 ，为长距离多日户外探险设计；典型使用场景续航可达 25 天，在每日 3 小时 50000lux 光照条件下，续航天数可提升至 34 天（正面接触光照） / 51 天（背面接触光照）。 这款手表采用硬朗户外风格设计，表框采用 5 级钛合金材质，配备蓝宝石玻璃表镜；背面搭载玻璃陶瓷（Glass-Ceramic）背板，集成大尺寸太阳能板，正背两面都可收集太阳能。 IT之家获悉，这款手表搭载 1.32 英寸 AMOLED 显示屏，峰值亮度 3000nits，具备 10 ATM 防水等级；支持离线地貌图和路径规划功能；配备光学心率传感器，可全天候监测心率等健康数据。 京东 AMAZFIT 华米 T-Rex Dual Solar 玄武黑 4499 元 直达链接",
       "score": 15,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "3b334c71c057"
+      "uid": "b3eb4c5b13e7"
     },
     {
-      "title": "比亚迪腾势宣布进军印度市场，D9、Z9 GT 有望成为首批车型",
-      "link": "https://www.ithome.com/1/009/628.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-10-04T03:13:17+00:00",
-      "summary": "IT之家 10 月 4 日消息，比亚迪旗下豪华汽车品牌腾势 10 月 1 日发布预告，宣布即将进入印度市场，并表示将为印度市场带来“高端、高性能”的电动车体验。 此前印度当地媒体已多次报道称，腾势正在为进入印度市场筹备销售网络。腾势此次将以独立品牌身份进入印度，定位高于比亚迪现有产品线。印度媒体普遍认为，腾势将首先在印度推出 D9 和 Z9 GT 两款车型。 腾势 Z9 GT 搭载 122.5 千瓦时电池和三电机四驱系统，综合最大功率为 1156 马力，百公里加速时间为 2.7 秒，WLTP 工况续航里程为 600 公里。 腾势 D9 则是一款大型豪华 MPV，印度市场版本预计采用 103 千瓦时电池和前置电机，最大功率 313 马力，WLTP 续航约 520 公里。 目前，腾势品牌已在中国、东南亚、澳大利亚、欧洲及拉丁美洲等市场销售车型。IT之家后续将保持关注。",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "d67195702057"
-    },
-    {
-      "title": "伊朗战争展示了阿布扎比国家石油公司的人工智能真正能做什么",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Showing-What-ADNOCs-AI-Can-Really-Do.html",
+      "title": "五角大楼支持从太空发射太阳能的雄心勃勃的计划",
+      "link": "https://oilprice.com/Energy/Energy-General/Pentagon-Backs-Ambitious-Plan-to-Beam-Solar-Power-From-Space.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-03T23:00:00+00:00",
-      "summary": "石油公司多年来一直在使用人工智能来加快钻探速度、预测设备故障并从现有油田中榨取更多产量。 阿联酋国营石油巨头阿布扎比国家石油公司 (ADNOC) 目前正在研究，当问题不是效率，而是一场战争时，同样的技术可以发挥什么作用，这场战争最初使阿联酋石油出口量减少了约三分之二，从冲突前的每天约 5. 10 万桶降至仅 1. 10 万桶。",
+      "published": "2026-10-04T19:00:00+00:00",
+      "summary": "天基太阳能刚刚获得了另一张强有力的信任票。 根据Interesting Engineering的一份全新报告，美国国防部刚刚与太阳能公司Overview Energy签署了一份合同，“设计、建造和测试一个寻的信标，使其天基太阳能系统能够准确地将电力从轨道发射到地球上的太阳能电池阵列”。",
       "score": 15,
-      "original_title": "The Iran War Is Showing What ADNOC’s AI Can Really Do",
+      "original_title": "Pentagon Backs Ambitious Plan to Beam Solar Power From Space",
       "translated": true,
       "priority": 0,
-      "uid": "47b5c8cfb7cc"
-    },
-    {
-      "title": "伊朗正在失去对霍尔木兹海峡的部分影响力",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-Is-Losing-Some-of-Its-Leverage-Over-the-Strait-of-Hormuz.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-03T19:00:00+00:00",
-      "summary": "来自波斯湾的原油流量已恢复到接近战前的水平，但最新数据显示，大部分石油正在通过战前不存在的航线和运输安排到达市场，这引发了伊朗是否正在失去在霍尔木兹海峡的影响力的问题。 至少 16 个。",
-      "score": 15,
-      "original_title": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz",
-      "translated": true,
-      "priority": 0,
-      "uid": "981d5b00c89f"
+      "uid": "d13d159747f4"
     },
     {
       "title": "高科技车辆正在推高商店和消费者的汽车维修成本",
@@ -239,17 +213,30 @@
       "uid": "25c3f7b3a6fe"
     },
     {
-      "title": "白氢能在绿氢失败的地方取得成功吗？",
-      "link": "https://oilprice.com/Energy/Energy-General/Could-White-Hydrogen-Succeed-Where-Green-Hydrogen-Stumbled.html",
+      "title": "燃油价格冲击导致全球燃气汽车销量首次跌破 50%",
+      "link": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-03T21:00:00+00:00",
-      "summary": "绿色氢的炒作几乎已经停滞——但白色氢能否取代它的位置，成为脱碳领域的下一个重大事件？ 地质氢，即所谓的“白”氢，有可能绕过扩大氢使用的最关键障碍，而不会显着扩大该行业的碳足迹。 虽然这项技术仍处于萌芽阶段，但有一天它可能会使世界上一些最难脱碳的地区...",
+      "published": "2026-10-04T23:00:00+00:00",
+      "summary": "由于霍尔木兹地震和由此产生的创纪录高油价加速了中国以外地区此前缓慢的向电动汽车的转变，汽油车在全球汽车销量中的份额首次跌破50%。 几年前，中国混合动力和电动汽车突破了所有汽车销量 50% 的门槛，目前这一比例约为 55%。 但世界其他地区并没有效仿，直到伊朗战争扰乱了...",
       "score": 10,
-      "original_title": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
+      "original_title": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
       "translated": true,
       "priority": 0,
-      "uid": "ac257e8c38a2"
+      "uid": "cead9f2cd53b"
+    },
+    {
+      "title": "欧洲的柴油危机变得更加严重",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Europes-Diesel-Woes-Just-Got-Even-Worse.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-04T21:00:00+00:00",
+      "summary": "中国本周宣布，本月将暂停所有燃料出口，以保持国内市场供应。 同样在本周，唐纳德·特朗普总统要求德国和法国释放其储存的 1.2 亿桶柴油，否则将受到美国柴油出口禁令的打击。 欧洲已经没有办法保持关键燃料的充足供应。 柴油是任何经济体赖以运行的燃料。",
+      "score": 10,
+      "original_title": "Europe’s Diesel Woes Just Got Even Worse",
+      "translated": true,
+      "priority": 0,
+      "uid": "89370723fbe6"
     }
   ],
   "market": {
@@ -365,37 +352,16 @@
     ],
     "sectors": [
       {
-        "name": "新能源/光伏 · 光伏主材",
-        "pct": 3.5,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 1.11,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 燃料电池",
-        "pct": 2.51,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.12,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 银行",
-        "pct": 1.46,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -0.87,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 银行Ⅱ",
-        "pct": 1.46,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -0.87,
-        "source": "东财行业"
-      },
-      {
         "name": "电力/公用 · 电力行业",
         "pct": 1.1634034618347,
         "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "金融/银行 · 金融行业",
+        "pct": 0.99424992128855,
+        "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
@@ -422,42 +388,17 @@
       }
     ],
     "policy_news": [],
-    "industry_news": [
-      {
-        "title": "韩国一储蓄银行遭黑客攻击，约4万客户数据泄露",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-inityimv0522961.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "美国银行团体起诉货币监理署 指控其越权向加密公司发放信托牌照",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxspz3933313.shtml",
-        "level": "中",
-        "tag": "行业"
-      }
-    ],
+    "industry_news": [],
     "market_news": [
       {
-        "title": "A股前三季度新股上市首日零破发，4只“大肉签”浮盈超30万",
-        "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-04/doc-initzkxm4061998.shtml",
+        "title": "展望四季度A股行情，私募看好这些方向",
+        "link": "https://finance.sina.com.cn/jjxw/2026-10-05/doc-iniucuei3037924.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "美国9月非农意外“爆冷”，节后A股会迎来“开门红”吗？",
-        "link": "https://finance.sina.com.cn/stock/bxjj/2026-10-04/doc-initzkxi0172210.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "机构研判A股节后大概率回暖",
-        "link": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzkxf3376621.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "报道：特朗普指示动用纳税人资金投放颂扬其总统任期的广告",
-        "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4434728.shtml",
+        "title": "港股光通信板块强势，摩根士丹利：FCC限制非全面封杀",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-05/doc-iniucuep6568163.shtml",
         "level": "中",
         "tag": "股市"
       }
@@ -467,22 +408,25 @@
     "total_amount_yi": 14379.89,
     "bias": "震荡",
     "volume_note": "量能：两市合计约 14380 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 光伏主材、燃料电池、银行；偏弱 电子器件",
-    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
-    "errors": []
+    "sector_note": "行业分化：偏强 电力行业、金融行业、煤炭行业；偏弱 电子器件",
+    "tip": "板块轮动是常态，不要追高换仓",
+    "errors": [
+      "东财行业板块失败: HTTP Error 502: Bad Gateway"
+    ]
   },
   "learning": {
-    "title": "股息率",
-    "body": "股息率 = 每股分红 ÷ 股价。偏防守时，高于约4%常被看作有一定现金回报缓冲。神华、工行的观察重点之一就是分红是否稳定。",
+    "title": "ETF 适合新手的原因",
+    "body": "ETF（交易型开放式指数基金）一篮子持股，分散单家公司暴雷风险。半导体/新能源这种高波动行业，用 ETF 比赌单票更适合学习仓。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "定额套用",
-    "text": "今儿聊【定额套用】。451跟陕西安装定额放一块，像俩表亲开会：看着都姓定，细问各算各的。你刚把边界理清，人家说“这块能不能合并”——合并的是定额，分裂的是头发。社会经验：重复计取这事，定额怕，审计更怕，最怕的是你自己半夜突然想起来。"
+    "topic": "Android 编译",
+    "text": "今儿聊【Android 编译】。Gradle一转，茶凉了；再转，饭糊了；还转，人傻了。你写驱动模式、均衡器、歌词翻译，它回你一个依赖冲突，态度比产品经理还硬。社会经验：能跑的别乱动，能动的别升级——升级这词在编程圈跟“改造”在装修圈一个味儿。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
+    "东财行业板块失败: HTTP Error 502: Bad Gateway",
     "36氪: 解析失败 (<unknown>:10:542: not well-formed (invalid token))"
   ]
 }
