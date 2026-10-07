@@ -1,15 +1,15 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-10-06T13:50:36.377025+08:00",
+  "generated_at": "2026-10-07T13:22:59.531400+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 17,
+  "count": 18,
   "items": [
     {
       "title": "克劳德前沿学院：1 亿美元培训 10,000 名工程师",
       "link": "https://www.anthropic.com/news/claude-frontier-academy",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-06T05:50:58+00:00",
+      "published": "2026-10-07T05:23:15+00:00",
       "summary": "Anthropic 投资 1 亿美元培训 10,000 名工程师，解决企业人工智能人才缺口。首个学院采用与 Anthropic 自己的工程师相同的技能标准来培训前沿部署工程师，培训对象来自埃森哲、贝恩、凯捷、澳大利亚联邦银行、德勤、麦肯锡、摩根士丹利、诺和诺德等公司。",
       "score": 65,
       "original_title": "Claude Frontier Academy: $100M to train 10,000 engineers",
@@ -18,17 +18,17 @@
       "uid": "fba94b1414d1"
     },
     {
-      "title": "为人们使用人工智能的方式制作广告",
-      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模",
+      "link": "https://openai.com/index/jump-trading",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-10-05T10:00:00+00:00",
-      "summary": "OpenAI 在 ChatGPT 中引入了一种新的视觉广告格式，并为广告商扩展了衡量工具、归因合作伙伴关系和品牌适合度。",
+      "published": "2026-10-06T12:00:00+00:00",
+      "summary": "Jump Trading 使用 OpenAI 来扩展定量研究。 了解运行时间较长的 AI 工作流程如何将多个数据源与人工审核相结合。",
       "score": 65,
-      "original_title": "Building advertising for the way people use AI",
+      "original_title": "How Jump Trading is scaling quant research with ChatGPT",
       "translated": true,
       "priority": 0,
-      "uid": "85e0e863eca2"
+      "uid": "5165d8b7b885"
     },
     {
       "title": "Gemini 4 Argon：我们的下一个前沿情报时代",
@@ -44,129 +44,155 @@
       "uid": "0908094c9952"
     },
     {
-      "title": "华为余承东官宣鸿蒙出海：正在考虑未来逐步将 HarmonyOS 推向全球市场",
-      "link": "https://www.ithome.com/1/009/974.htm",
+      "title": "内存持续短缺之际，AMD CEO 苏姿丰将与三星芯片部门负责人会面",
+      "link": "https://www.ithome.com/1/010/180.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-06T04:20:14+00:00",
-      "summary": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要 。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。余承东表示，自己于 1993 年加入华为，那是 33 年前的事了。当时，公司只有几百名员工。目前，华为拥有超过 20 万名员工，其中近一半从事研发工作。2007 年至 2025 年底，华为在研发方面投入了超过 1.8 万亿元人民币。早期，华为将约 10% 的年收入再投资于研发；近年来，这一比例已跃升至 20% 以上 。余承东还提到，自 2019 年以来，华为克服了许多困难以求生存。华为与国内供应链合作，依靠本土技术和能力制造先进芯片、自行设计了操作系统、开发了基础工具和软件，逐步建立起国内供应链。",
-      "score": 60,
+      "published": "2026-10-07T03:41:15+00:00",
+      "summary": "IT之家 10 月 7 日消息，据彭博社报道，消息人士透露，AMD 首席执行官苏姿丰（Lisa Su）计划于周三与三星电子半导体业务负责人举行会晤，这是人工智能行业两位关键人物又一次面对面会谈。知情人士称，苏姿丰在访问韩国期间，将会见负责三星核心芯片部门的副董事长全永铉（Jun Young‑hyun）。当前各类存储产品普遍紧缺，给全球电子行业带来压力，也制约着 AI 基础设施与服务的扩张。存储芯片价格持续飙升，已经成为数据中心运营商最主要的成本项之一。早在今年 3 月，AMD 就已经和三星达成供货协议，合作方向包含新一代高带宽内存（HBM）以及先进存储芯片。这是七个月之内苏姿丰第二次到访首尔。韩国在全球科技生态当中地位十分关键，既是 AI 硬件的重要供应方，同时也是重要消费市场。韩国正在统筹推动包括三星及本土同行 SK 海力士在内的企业，合计投入 8,800 亿美元 （IT之家注：现汇率约合 5.",
+      "score": 85,
       "original_title": "",
       "translated": false,
-      "priority": 40,
-      "uid": "0a211dc5d253"
+      "priority": 50,
+      "uid": "53800662f3d4"
     },
     {
-      "title": "Anthropic / Claude：巴克莱扩大 Claude 规模以升级运营并改善客户体验",
-      "link": "https://www.anthropic.com/news/barclays-scales-claude",
+      "title": "Anthropic / Claude：扩大网络验证计划",
+      "link": "https://www.anthropic.com/news/cyber-verification-program",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-06T05:50:58+00:00",
-      "summary": "巴克莱 (Barclays) 扩大 Claude 规模，以升级运营并改善客户体验 英国全能银行巴克莱 (Barclays) 正在扩大与 Anthropic 的战略合作，以在其全球运营中集成安全的企业级人工智能系统。 巴克莱正在将 Claude 扩展到整个银行，以加速软件开发、实现遗留系统的现代化并提高运营效率。",
+      "published": "2026-10-07T05:23:15+00:00",
+      "summary": "扩展网络验证计划我们正在推出新的扩展版本的网络验证计划 (CVP)，它为合格的安全专业人员提供先进的网络功能和减少的阻止分类器。 该计划现在由三个访问层组成，允许安全团队申请最适合其工作的访问级别。",
       "score": 60,
-      "original_title": "Anthropic / Claude：Barclays scales Claude to upgrade operations and improve client experience",
+      "original_title": "Anthropic / Claude：Expanding the Cyber Verification Program",
       "translated": true,
       "priority": 0,
-      "uid": "f012418f8c4f"
+      "uid": "7e18c717c5a4"
     },
     {
-      "title": "我们对欧盟文本来源规则的处理方法",
-      "link": "https://openai.com/index/eu-text-provenance",
+      "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
+      "link": "https://openai.com/index/atlassian-partnership",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-10-05T15:00:00+00:00",
-      "summary": "OpenAI 如何根据欧盟规则处理文本水印。 了解水印的适用位置、检测的工作原理以及为什么访问从研究人员开始。",
+      "published": "2026-10-06T16:00:00+00:00",
+      "summary": "Atlassian 和 OpenAI 正在扩大合作伙伴关系，将前沿模型与企业知识联系起来，并帮助团队规划、构建和交付工作。",
       "score": 60,
-      "original_title": "Our approach to EU text provenance rules",
+      "original_title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "translated": true,
       "priority": 0,
-      "uid": "e8fdac9148ea"
+      "uid": "215232bcdf47"
     },
     {
-      "title": "华为余承东谈内存压力：每部手机成本大增 200 美元，为保公司生存不得不涨价",
-      "link": "https://www.ithome.com/1/009/978.htm",
+      "title": "阅后即焚功能惹祸，英国通信管理局依据《网络安全法》对 Meta 启动首次正式调查",
+      "link": "https://www.ithome.com/1/010/157.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-06T04:51:49+00:00",
-      "summary": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。在谈到内存成本上涨话题时，余承东坦言，内存组件价格的急剧上涨导致每部手机额外增加了 超过 200 美元 （IT之家注：现汇率约合 1,343 元人民币） 成本 。由于华为的手机内存配置比其他手机更高，成本上涨也更多。“总体来说，这无疑是整个行业面临的巨大挑战。我们看到许多手机制造商在提高价格。我们以非常缓慢的速度涨价， 因为我们试图自己承担成本 ，这样消费者就不必承担这些成本。但说实话，我们的整体利润率正在急剧下降。展望未来，我们也不得不（have to）提高价格 。",
-      "score": 30,
+      "published": "2026-10-07T01:42:02+00:00",
+      "summary": "IT之家 10 月 7 日消息，据路透社报道，英国通信管理局于当地时间周二依据《网络安全法》，针对 Meta 启动了首次正式调查，核查该公司在五月份推出 Instagram 的 Instants 功能之前，是否已经对这项功能所带来的风险开展充分评估。Instants 这项功能允许用户在 Instagram 上发布的内容被浏览之后随即自动消失。英国通信管理局（Ofcom）表示，本次调查旨在确认 Meta 在上线该功能前，有没有针对该功能上出现非法内容的风险，以及该功能可能给儿童带来的各类风险完成“恰当且充分”的风险评估。英国通信管理局执法部门主管乔治 · 拉斯蒂（George Lusty）指出：“我国的网络安全相关法律规定十分明确 —— 平台如果做出重大功能改动，上线之前就必须完成风险评估。” 他还表示，安全性应当在产品设计之初就予以植入，而不是后期临时追加。",
+      "score": 50,
       "original_title": "",
       "translated": false,
-      "priority": 15,
-      "uid": "f54103b7824a"
+      "priority": 35,
+      "uid": "1256b65befe0"
     },
     {
-      "title": "余承东回应苹果入局折叠屏：欢迎同行加入竞争，iPhone Duo 发布后华为 Pura X Max 销量大增 76%",
-      "link": "https://www.ithome.com/1/009/976.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-06T04:39:03+00:00",
-      "summary": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。有记者询问华为 Mate XT 2 三折叠手机的具体销售或出货量数据。此外，苹果也首次推出了其折叠形态产品，记者询问余承东如何看待这对华为在折叠屏手机行业地位的影响。余承东回答称，Mate XT 2 是华为三折叠手机产品的第二代。第一代及其改款型号的销量超过 100 万部。第二代于 9 月 7 日上市 。截至 9 月 29 日，Mate XT 2 已出货近 10 万台， 预计总出货量也将超过 100 万部 。余承东表示， 会逐步将 Mate XT 2 推向海外市场 。",
-      "score": 30,
-      "original_title": "",
-      "translated": false,
-      "priority": 15,
-      "uid": "7652f1722f1a"
-    },
-    {
-      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
-      "link": "https://sspai.com/post/115197",
-      "source": "少数派",
+      "title": "谷歌 Fitbit Edge 手环再曝光：内置 AI 健身教练，4 种配色组合",
+      "link": "https://www.ithome.com/1/010/172.htm",
+      "source": "IT之家·出行",
       "category": "健康生活",
-      "published": "2026-09-29T23:39:21+00:00",
-      "summary": "OpenAI DevDay 2026 资讯汇总 9 月 29 日，OpenAI 举行 DevDay 2026 并发布超过 20 项更新。其中 OpenAI Dot 定位为全天候自主智能体，由 GPT‑6 Astra 驱动并运行于独立的云端电脑，配备专属浏览器与独立访问身份，支持自主编写、测试代码及处理多任务；支持跨 ChatGPT（包括网页端、桌面端和移动端）、短信、Slack 和 Teams 同步交互与语音通话，并可通过插件生态接入 4000 多款应用。安全与架构方面，Dot 默认开启恶意指令防护与操作自动审核，敏感操作需人工确认，主动研究阶段仅限受限工具且不直接使用其内容训练模型；企业端正联合微软将其与 Agent 365 治理及访问控制集成，开放专职 Dot 试点。发售与定价方面，Dot 即日起在符合条件的市场逐步面向 Pro 与 Business Premium 用户开放，首个 Dot 已包含在套餐内无需额外付费，发布首月提供更高的深度工作额度；",
+      "published": "2026-10-07T03:02:40+00:00",
+      "summary": "IT之家 10 月 7 日消息，科技媒体 dealabs 昨日（10 月 6 日）发布博文，爆料称谷歌新款手环 Fitbit Edge 欧洲售价为 179 欧元 （IT之家注：现汇率约合 1,352 元人民币） ，较 Fitbit Charge 6 高 20 欧元 （现汇率约合 151 元人民币） ， 配备 Gemini 个性化教练。IT之家注：原文称该手环“电池支持用户更换”，但没有提供具体细节。IT之家此前援引科技媒体 Android Headline 报道， 分享了谷歌 Fitbit Edge 的渲染图等内容 ，而在最新爆料中，新消息源补充了售价、颜色、Gemini AI 等相关细节。外观方面，谷歌 Fitbit Edge 手环配备 1.34 英寸 AMOLED 屏幕，支持常亮显示（Always-on），开启后最长为 2 天；",
+      "score": 35,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "f116b2cb82fc"
+    },
+    {
+      "title": "宏景科技声明：所有算力设备均通过合规商业渠道采购",
+      "link": "https://www.ithome.com/1/010/191.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-10-07T05:20:56+00:00",
+      "summary": "IT之家 10 月 7 日消息，宏景科技股份有限公司今日发布《关于对公司经营活动的相关不实报道的严正声明》， 表示所有算力设备均通过合规商业渠道采购 。IT之家附声明全文如下： 近日，公司关注到海外个别媒体涉及到公司经营活动的相关不实报道，为避免相关内容对市场认知造成干扰，公司特此郑重声明： 公司始终坚守合规经营的基本原则，所有算力设备均通过合规商业渠道采购，始终严格遵守市场规则与法律法规开展各项业务。一直以来，公司坚持可持续发展的长期商业经营模式，密切跟踪行业技术发展趋势，结合市场变化持续优化战略布局，已建立成熟、稳定的多元化供应链体系，有力保障了主营业务平稳、健康发展。截至目前，公司整体生产经营情况一切正常，各项业务均稳步有序推进。对个别主体编造不实信息、误导市场的行为，公司将持续关注相关舆情进展，并保留依法追究其全部法律责任的权利，坚决维护公司合法权益、企业声誉及广大投资者的正当利益。",
       "score": 25,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "3e19fb34e13c"
+      "uid": "fc078273ede4"
     },
     {
-      "title": "由于价格触及 6.32 美元，特朗普推迟对染色柴油征收联邦燃油税",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Defers-Federal-Fuel-Tax-on-Dyed-Diesel-as-Prices-Hit-632.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-06T05:15:08+00:00",
-      "summary": "欧洲央行面临着一个困难……新加坡正在权衡核裂变……在特朗普总统周一晚些时候签署了一项行政命令后，美国司机将获得更广泛的机会获得所谓的红染柴油，这种柴油的税收较少，使其更加负担得起。",
-      "score": 15,
-      "original_title": "Trump Defers Federal Fuel Tax on Dyed Diesel as Prices Hit $6.32",
-      "translated": true,
+      "title": "AI 聊天机器人会成为意识形态回音室",
+      "link": "https://www.solidot.org/story?sid=85534",
+      "source": "Solidot·通信",
+      "category": "通信与安防",
+      "published": "2026-10-04T16:10:02+00:00",
+      "summary": "巴西国立坎皮纳斯州立大学（UNICAMP）的研究人员发现，当你给聊天机器人输入不同政治观点时，机器人会改变其回答。研究人员警告称，用户可能会将这种迎合性的附和，误认为是中立的客观评估，从而可能加剧社会极化。研究人员测试了若干模型，让它们针对112项陈述进行“同意\"或者“不同意”的判断。测试内容共涉及巴西政治七大领域（包括经济、公共安全、社会福利、腐败和环境等）。测试设计的三个场景是：不提供用户政治倾向；用户持左翼观点；用户持右翼观点。在第一个情景下，21个模型中，有20个给出的答案落在了研究人员设定的政治坐标系的左侧，只有几个模型的位置接近中间地带。Grok 4.1是唯一落在右侧的模型。尽管初始条件各不相同，但所有模型在面对提示信息时，都会将回答向提示中描述的政治倾向靠拢。研究人员将这些模型形容为“意识形态变色龙”，并发明了一个“变色龙指数”，衡量各模型的偏移程度。Meta的Llama 3.1 8B和DeepSeek V3.2的回答变化幅度最小；Google的Gemma 3 27B和OpenAI的GPT-5 Nano则表现出最大的偏移幅度。",
+      "score": 25,
+      "original_title": "",
+      "translated": false,
       "priority": 0,
-      "uid": "2bbcae6ed795"
+      "uid": "6c0057a3774e"
     },
     {
-      "title": "渣打银行称霍尔木兹石油流量远非正常",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Says-Hormuz-Oil-Flows-Are-Far-From-Normal.html",
+      "title": "胡塞武装袭击沙特基础设施，布伦特原油价格重回 100 美元上方",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Back-Above-100-as-Houthis-Hit-Saudi-Infrastructure.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-06T00:00:00+00:00",
-      "summary": "尽管通过霍尔木兹海峡的交通量仍远低于正常水平，但流经中东的石油流量出现了令人印象深刻的反弹，出口量恢复到接近战前的水平。 渣打银行估计，除伊朗外，包括富查伊拉和红海等绕行航线在内，海湾地区的原油和凝析油出口量约为 16。",
+      "published": "2026-10-07T05:00:00+00:00",
+      "summary": "更多来自 Oilprice.com 的热门读物 SpaceX 斥资 750 亿美元首次亮相四个月后，IPO 市场陷入停滞 欧洲电网的数字化速度快于监管机构的跟上速度 G7 的 1 亿桶产量大部分已被定价",
       "score": 15,
-      "original_title": "Standard Chartered Says Hormuz Oil Flows Are Far From Normal",
+      "original_title": "Brent Back Above $100 as Houthis Hit Saudi Infrastructure",
       "translated": true,
       "priority": 0,
-      "uid": "abcc2b0007f9"
+      "uid": "2a7bc3853a3c"
     },
     {
-      "title": "G7石油库存的释放是破碎燃料市场的创可贴",
-      "link": "https://oilprice.com/Energy/Energy-General/G7-Oil-Stocks-Release-Is-A-Band-Aid-Fix-in-Broken-Fuel-Market.html",
+      "title": "为什么100美元的石油难以消灭",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-05T22:00:00+00:00",
-      "summary": "上周末，七国集团成员国宣布在四个月内释放 1 亿桶石油库存，其中包括七国集团成员和合作伙伴在前 20 天内提前释放大量柴油，原油价格和中间馏分油裂解价下跌。 市场对这一发布消息表示欢迎，油价走低。 美国汽油和柴油价格也有所下降...",
+      "published": "2026-10-07T00:00:00+00:00",
+      "summary": "尽管最近几周油轮跟踪服务机构和投资银行发布了大量报告和数据，显示来自霍尔木兹海峡的原油流量已经恢复，甚至超过了战前水平，但布伦特原油价格在过去一个月的大部分时间里一直保持在每桶 100 美元以上。 但如果如此多的原油再次离开中东，为什么布伦特原油价格继续徘徊在每桶 100 美元大关附近，并上涨……",
       "score": 15,
-      "original_title": "G7 Oil Stocks Release Is A Band-Aid Fix in Broken Fuel Market",
+      "original_title": "Why $100 Oil Is Hard to Kill",
       "translated": true,
       "priority": 0,
-      "uid": "42b34400cd3b"
+      "uid": "9dde6ab0c225"
+    },
+    {
+      "title": "5只从霍尔木兹海峡对峙中获利的天然气股",
+      "link": "https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-06T23:00:00+00:00",
+      "summary": "当伊朗三月份袭击卡塔尔的拉斯拉凡综合设施并摧毁该国 17% 的液化天然气出口能力时，贸易似乎相当简单。 收购美国出口商，坐等欧洲和亚洲前来采购不需要通过霍尔木兹海峡的货物。 Cheniere 的表现完全符合大家的预期，比一年前运输了更多液化天然气，并提高了 2026 年的目标......",
+      "score": 15,
+      "original_title": "5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff",
+      "translated": true,
+      "priority": 0,
+      "uid": "b82e1a3a1695"
+    },
+    {
+      "title": "英国航空计划在空客 A380 大型喷气式飞机上提供创纪录的 106 座商务舱",
+      "link": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-10-06T20:02:00+00:00",
+      "summary": "英国航空公司正在建造所谓的“世界上最大”的商务舱，并拆除了数十个经济舱座位，这是航空公司将未来押注于高消费旅客的最鲜明例子。 这些变化是英国航空机队及其地面服务（包括伦敦希思罗机场休息室）大规模检修的一部分。",
+      "score": 15,
+      "original_title": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets",
+      "translated": true,
+      "priority": 0,
+      "uid": "b986d5a2b84f"
     },
     {
       "title": "这些是今年 11 月最便宜和最贵的美国航班",
       "link": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-10-05T17:59:51+00:00",
-      "summary": "今年秋季国内机票多少钱？ 这取决于您飞行的地点和时间。 根据航班跟踪网站 Hopper 的“划算”票价统计，今年感恩节机票价格比去年上涨了 30% 以上，因为航空公司将今年飙升的航空燃油价格更多地转嫁给了乘客。 但在该时段之外，某些航线的价格有些便宜，而另一些航线则价格极高。",
+      "published": "2026-10-06T11:07:57+00:00",
+      "summary": "今年秋季国内机票多少钱？ 这取决于您飞行的地点和时间。 根据航班跟踪网站 Hopper 的“划算”票价统计，今年感恩节票价比去年上涨了 30% 以上，而节日票价总体上涨了 23% 以上，因为航空公司将今年航空燃油价格上涨的大部分转嫁给了乘客。 但在那段时间之外，对于某些溃败来说，还有一些讨价还价的机会......",
       "score": 15,
       "original_title": "These are the cheapest and most expensive U.S. flights this November",
       "translated": true,
@@ -185,19 +211,6 @@
       "translated": true,
       "priority": 0,
       "uid": "eaecd9aea8a2"
-    },
-    {
-      "title": "高科技车辆正在推高商店和消费者的汽车维修成本",
-      "link": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-10-03T12:00:01+00:00",
-      "summary": "日益复杂的车辆迫使维修店在计算机、软件和校准设备上投入更多资金——机械师称这些成本正在影响消费者。 纽约布鲁克林的汽车修理工拉尔夫·蔡斯勒表示，技术变革的快速发展迫使他投入更多的时间和金钱来进行基本的维修，而他不得不将这些成本转嫁给消费者。",
-      "score": 15,
-      "original_title": "High-tech vehicles are driving up auto repair costs for shops and consumers",
-      "translated": true,
-      "priority": 0,
-      "uid": "5e4b94708b73"
     },
     {
       "title": "我们于 2026 年 9 月公布的最新 AI 新闻",
@@ -398,22 +411,22 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "AMD首席执行官：未来数年芯片需求将“非常高”",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhitp5774988.shtml",
+        "title": "港股午评：恒指跌0.53% 科指跌0.91% 科网股低迷 半导体板块下挫",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniuknsf8219662.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "9月A股回购图谱：中际旭创近50亿元回购火速完成，PCB概念股满坤科技单月股价上涨近70%！",
-        "link": "https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhitp5767437.shtml",
+        "title": "高盛交易台：三星电子受财报与 ETF 资金流动影响，股价或将大幅波动",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuknsp4819226.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "达利欧再敲警钟：中日资金可能不再接盘美债，未来三年美国或陷债务危机",
-        "link": "https://finance.sina.com.cn/money/smjj/smgd/2026-10-06/doc-iniuhcmn7169530.shtml",
+        "title": "大金重工午前涨近5% 造船板块正式进入主流船舶建造市场",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniuknsk6091544.shtml",
         "level": "中",
         "tag": "股市"
       }
@@ -424,18 +437,18 @@
     "bias": "震荡",
     "volume_note": "量能：两市合计约 14380 亿元（接口口径），成交偏活跃",
     "sector_note": "行业分化：偏强 光伏主材、燃料电池、银行；偏弱 电子器件",
-    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
+    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
     "errors": []
   },
   "learning": {
-    "title": "T+1 是什么",
-    "body": "A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？",
+    "title": "满仓的代价",
+    "body": "现金几乎为0时，回调里没有子弹加仓。新手版仓位：核心防御60–70%，成长卫星20–30%，现金尽量留10–20%。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "血压小计",
-    "text": "今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。"
+    "topic": "机油保养",
+    "text": "今儿聊【机油保养】。NWG150说明书写六千公里一换，你心里写“再挺挺”。车不说话，缸里知道；等它说话，说话的方式通常是异响。社会经验：省下的机油钱，最后都会变成修理厂的茶位费。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
