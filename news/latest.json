@@ -1,16 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-10-09T13:35:48.417798+08:00",
+  "generated_at": "2026-10-10T13:19:39.742134+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "title": "Anthropic / Claude：拓展网络验证计划",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-09T05:36:11+00:00",
-      "summary": "扩展网络验证计划 我们正在推出全新、扩展版的网络验证计划（CVP），该计划向符合条件的安全专业人员提供高级网络能力和减少阻塞分类器的权限。该计划现在包括三个访问等级，使安全团队可以申请最适合其工作的访问级别。",
+      "published": "2026-10-10T05:19:59+00:00",
+      "summary": "扩展网络验证计划 我们正在推出网络验证计划（CVP）的新扩展版本，该版本向符合条件的安全专业人员提供先进的网络能力和减少阻止分类器的功能。该计划现在包含三个访问级别，允许安全团队申请最适合其工作的访问级别。",
       "score": 60,
       "original_title": "Anthropic / Claude：Expanding the Cyber Verification Program",
       "translated": true,
@@ -18,25 +18,25 @@
       "uid": "7e18c717c5a4"
     },
     {
-      "title": "Pollo AI 利用 OpenAI 将创意点子转化为活动",
-      "link": "https://openai.com/index/pollo-ai",
+      "title": "Sophos通过OpenAI Daybreak将威胁调查时间缩短了96%",
+      "link": "https://openai.com/index/sophos",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-10-08T12:00:00+00:00",
-      "summary": "有了 GPT-5.6、GPT-6 Astra 和 GPT‑Image‑2.5，Pollo AI 帮助创作者将大胆的想法转化为详细的图像和电影级视频广告。",
+      "published": "2026-10-09T07:00:00+00:00",
+      "summary": "了解 Sophos 如何使用 OpenAI 的 Daybreak 将网络威胁调查时间缩短 96%，并在保持人工监督的同时自动处理 52% 的 MDR 案例。",
       "score": 60,
-      "original_title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "original_title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "translated": true,
       "priority": 0,
-      "uid": "1b0469a6c42c"
+      "uid": "a2b657e034b6"
     },
     {
-      "title": "双子座4号 氩：我们下一时代的前沿智能",
+      "title": "双子座4氩：我们下一个前沿智能时代",
       "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-09-30T20:01:45+00:00",
-      "summary": "双子座4号氩：我们前沿智能的下一个时代 今天，我们宣布推出我们的新前沿模型——双子座4号氩，该模型将通过我们的Fairwind计划向一组可信的网络防御者推出。Argon旨在在复杂、长期的工作流程中维持深度推理，从根本上改变了我们在谷歌的工作和建设方式。",
+      "summary": "双子座4号氩：我们下一时代的前沿智能 今天，我们宣布我们的新前沿模型——双子座4号氩，该模型正通过我们的Fairwind计划向一组受信任的网络防御者推出。Argon旨在在复杂、长期的工作流程中维持深度推理，从根本上改变了我们在谷歌的工作和建设方式。",
       "score": 45,
       "original_title": "Gemini 4 Argon: our next era of frontier intelligence",
       "translated": true,
@@ -57,25 +57,12 @@
       "uid": "fe0e01ee52a4"
     },
     {
-      "title": "黑客利用 AI 攻击韩国银行",
-      "link": "https://www.solidot.org/story?sid=85546",
-      "source": "Solidot·通信",
-      "category": "通信与安防",
-      "published": "2026-10-08T07:51:18+00:00",
-      "summary": "韩国新韩银行、KB国民银行、韩亚银行等 7家 金融企业遭遇黑客攻击，多处发现同一攻击者利用了开源渗透测试工具“ARTEX-自主渗透测试控制台”实施攻击的迹象。CrowdStrike 公布分析报告显示，嫌疑人可能为居住在广东的 26 岁人员。但这只是‌根据目前情况‌作出的推测，嫌疑人身份尚未确定。攻击者使用生成式 AI 编码工具 Claude Code 的过程中暴露了这条线索，即攻击者利用 Claude Code 制作包含其渗透测试成果的网络安全研究人员简历，在此过程中输入自己名字的首字母、社交平台电报账号、学历和居住地等个人信息。此人的电报账号同样出现在‌其他网络黑客攻击事件中。",
-      "score": 65,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "bf9d4d5ff37e"
-    },
-    {
       "title": "Anthropic / Claude：2026 使用政策更新",
       "link": "https://www.anthropic.com/news/2026-usage-policy-update",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-09T05:36:11+00:00",
-      "summary": "2026 使用政策更新 每年，Anthropic 会根据模型能力的发展以及我们从客户那里收到的反馈更新其使用政策。今天我们发布了政策的新版本。在这篇文章中，我们总结了所做的更改。最新版本的大多数更新旨在澄清现有规则。",
+      "published": "2026-10-10T05:19:59+00:00",
+      "summary": "2026 使用政策更新 每年，Anthropic 会根据模型能力的发展以及我们从客户那里收到的反馈更新其使用政策。今天，我们发布了政策的新版本。在这篇文章中，我们总结了所做的更改。最新版本的大多数更新旨在澄清现有规则。",
       "score": 60,
       "original_title": "Anthropic / Claude：2026 Usage Policy update",
       "translated": true,
@@ -83,82 +70,121 @@
       "uid": "4786d1007c01"
     },
     {
-      "title": "破坏人工智能支持的“虚假前线”行动",
-      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "title": "Pollo AI 将创意想法与 OpenAI 转化为活动",
+      "link": "https://openai.com/index/pollo-ai",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-10-08T00:00:00+00:00",
-      "summary": "OpenAI 扰乱了两个利用虚假记者和智库传播地缘政治信息的 AI 支持的影响行动。",
+      "published": "2026-10-08T12:00:00+00:00",
+      "summary": "有了 GPT-5.6、GPT-6 Astra 和 GPT‑Image‑2.5，Pollo AI 帮助创作者将大胆的想法转化为详细的图像和电影级视频广告。",
       "score": 60,
-      "original_title": "Disrupting AI-enabled “false front” operations",
+      "original_title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "translated": true,
       "priority": 0,
-      "uid": "58d924a529fd"
+      "uid": "1b0469a6c42c"
     },
     {
-      "title": "对标苹果 AirPods Max：三星 Galaxy Studio 曝光，时隔 11 年重返头戴式耳机市场",
-      "link": "https://www.ithome.com/1/010/895.htm",
+      "title": "iQOO Pad Pro 8.8 英寸小平板开启预约：搭载第五代骁龙 8 至尊版、自研电竞芯片 Q3",
+      "link": "https://www.ithome.com/1/011/260.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-09T04:20:17+00:00",
-      "summary": "IT之家 10 月 9 日消息，消息源 @evowizz 昨日（10 月 8 日）在 X 平台发布推文， 爆料称三星首款头戴式耳机名为 Galaxy Studio，上市后将会和苹果的 AirPods Max 正面竞争。 IT之家查询公开资料，@evowizz 在爆料方面相对不是很活跃，不过他此前曾精准爆料三星首款耳夹式耳机名为 Galaxy Buds On，可信度较高，目前海外 9to5Google、Android Authority 和 Android Headline 等诸多主流安卓媒体已采信跟进报道。 在头戴式耳机方面，三星曾于 2015 年推出 Level Over 与 Level On 耳机，而此次 Galaxy Studio 新品意味着三星时隔约 11 年重新进入该产品类别。 三星最早于 2026 年 8 月透露重返头戴式耳机市场的迹象。相关线索包括软件代码字符串、内部代号及应用内图形。当时的资料显示，该产品将采用无线头戴式设计。",
-      "score": 20,
+      "published": "2026-10-10T02:47:46+00:00",
+      "summary": "IT之家 10 月 10 日消息，iQOO 手机官方今日宣布，8.8 英寸新成员 iQOO Pad Pro 小平板全渠道开启预约。 IT之家注意到，维沃移动通信有限公司 iQOO Neo 产品经理 @iQOO慧慧子 此前透露，iQOO Pad Pro 小平板采用 骁龙 8E5 处理器 （第五代骁龙 8 至尊版）和 自研电竞芯片 Q3 ，性能定位会和 Ultra 形成梯度。 目前官方暂未公布有关这款小平板的更多信息，作为参考， iQOO Pad Ultra 小平板于 9 月 29 日正式发布 ，10 月 5 日全渠道正式开售，搭载第六代骁龙 8 超级至尊版和自研电竞芯片 Q4， 首销价 5999 元起 ： 12GB+256GB：6499 元，首销优惠价 5999 元，国补后 5499 元 16GB+256GB：7199 元 16GB+512GB：7999 元 16GB+1TB：8999 元 京东 iQOO Pad Pro 8.8 英寸 新品福袋（此商品非平板，可退） 1 元 直达链接",
+      "score": 50,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "6abf1747d2ea"
+    },
+    {
+      "title": "ARTEX 从 GitHub 下架",
+      "link": "https://www.solidot.org/story?sid=85561",
+      "source": "Solidot·通信",
+      "category": "通信与安防",
+      "published": "2026-10-09T08:23:00+00:00",
+      "summary": "在被黑客利用攻击韩国银行之后，ARTEX 开发者 Autumn-27 宣布该工具闭源，但整个软件库随后下架。Autumn-27 在一份公开声明中表示：“近期，注意到 ARTEX 工具被部分恶意行为者滥用，用于发起网络攻击。作为 ARTEX 的作者，我在此郑重声明： 一、本次恶意攻击事件与工具作者无关。ARTEX 的设计初衷是出于学习与研究目的，旨在帮助企业、组织在获得授权的资产范围内进行安全风险测试，提升安全防护能力。 二、该工具被恶意利用，完全违背了作者的初衷。对于任何未经授权、违反法律法规的使用行为，作者不承担任何责任，并予以强烈谴责。 三、鉴于工具被滥用的现实情况，ARTEX 项目将不再更新，并转为闭源。后续不再对外发布任何版本或维护支持。 感谢大家一直以来的关注与支持。也提醒每一位使用者：技术应当用于正途，请务必遵守法律法规，切勿以身试法。”",
+      "score": 50,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "9dd8939ad8a2"
+    },
+    {
+      "title": "威刚 XPG 龙耀 D600G 内存模组上市：无限镜光效，16GB×2 套条 5499 元",
+      "link": "https://www.ithome.com/1/011/311.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-10T03:44:54+00:00",
+      "summary": "IT之家 10 月 10 日消息，威刚 (ADATA) 现已在中国大陆市场销售旗下电竞品牌 XPG 的龙耀 D600G 内存模组。这一产品在全球市场的称呼是 NOVAKEY RGB DDR5 ，拥有独特的无限镜面光学效果。 龙耀 D600G 当前市售型号为采用 SK 海力士 \"A Die\" DRAM 的 32GB (16GB×2) 套条 ， 传输速率 6000MT/s ， 时序 CL26 ，价格方面则是 5,499 元。 京东 XPG D600G 内存 16GB×2 6000CL26 5499 元 直达链接 龙耀 D600G 采用 10 层 PCB，搭配未锁定电压上限的 PMIC 芯片，支持 Intel XMP 3.0 & AMD EXPO 内存超频规范。其支持 ARGB 灯控，合金散热马甲下部为哑光黑色。 IT之家了解到，该内存模组外壳 采用了 85% 回收塑料和 50% 回收铝材 ，在性能表现优异的同时也兼顾环保。",
+      "score": 45,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "7ba7e5090556"
+    },
+    {
+      "title": "小米智能存储升级 1.0.9.462 版本：移动端 App 界面焕新，硬盘健康度可定期检测",
+      "link": "https://www.ithome.com/1/011/292.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-10-10T03:26:08+00:00",
+      "summary": "IT之家 10 月 10 日消息，小米智能生态官微今天（10 日）宣布，小米智能存储迎来升级，固件版本号为 1.0.9.462。 IT之家汇总此次更新主要内容如下： 移动端“首页”界面全面焕新：优化背景与图标设计、重新优化卡片样式 影音相册支持归类管理：电影新增合集功能，字幕开关支持记忆，宝宝相册支持照片自动识别添加更新 硬盘健康度支持定期自动完整检测：可深度检查硬盘健康状况，还可查看历史自动检测记录，了解健康度变化 软媒旗下网站： IT之家 最会买 - 返利返现优惠券 iPhone之家 Win7之家 Win10之家 Win11之家 软媒旗下软件： 软媒手机APP应用 魔方 最会买 要知",
+      "score": 15,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "b960ac1c4cc6"
+      "uid": "e24da4959e7e"
     },
     {
-      "title": "华为上调 nova 16 系列手机部分版本价格：SE 涨 200 元，标准版 / Pro 涨 400 元",
-      "link": "https://www.ithome.com/1/010/849.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-09T03:27:36+00:00",
-      "summary": "IT之家 10 月 9 日消息，华为官网显示，华为上调了 nova 16 系列手机部分版本价格。",
-      "score": 20,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "3ae66443a7c8"
-    },
-    {
-      "title": "随着霍尔木兹海峡油轮交通降至两个月低点，布伦特油价维持在100美元以上",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Holds-Above-100-as-Hormuz-Tanker-Traffic-Hits-Two-Month-Low.html",
+      "title": "为什么创纪录的原油产量无法解决美国柴油危机",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Why-Record-Crude-Output-Cant-Solve-Americas-Diesel-Crisis.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-09T05:03:51+00:00",
-      "summary": "分析人士怀疑伊朗可能会……新加坡正在考虑核裂变……由于霍尔木兹海峡及其外部频繁发生油轮攻击，今天早些时候原油价格有望实现本周涨幅。引用特朗普总统称与伊朗正在进行富有成效的谈判的报道未能缓解推动基准油价走高的担忧。截至撰写本文时，布伦特原油交易价格为102美元。",
+      "published": "2026-10-09T22:00:00+00:00",
+      "summary": "美国的原油产量比以往任何时候都高。据能源信息署称，美国的原油产量预计在2026年将达到平均每天1380万桶的创纪录水平，超过去年创下的前一纪录。然而，柴油价格最近攀升至历史高位，而馏分油库存仍然异常低。",
       "score": 15,
-      "original_title": "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low",
+      "original_title": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
       "translated": true,
       "priority": 0,
-      "uid": "db1476feb50d"
+      "uid": "bcd84f3534e9"
     },
     {
-      "title": "世界顶级原油交易商暂未排除200美元油价的可能性",
-      "link": "https://oilprice.com/Energy/Oil-Prices/Worlds-Top-Crude-Trader-Isnt-Ruling-Out-200-Oil-Just-Yet.html",
+      "title": "随着燃料市场争相抢购原油，俄罗斯和德国增加柴油供应",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Germany-Add-Diesel-Supply-as-Fuel-Market-Scrambles-for-Barrels.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-09T00:00:00+00:00",
-      "summary": "根据全球最大的独立石油交易商Vitol集团首席执行官Russell Hardy的说法，在阿曼湾进行的船对船转运保持了来自中东的石油供应，为海湾产油国和石油市场提供了生命线。Hardy本周在伦敦的能源情报论坛上表示：“如果没有它，你确实会出现每桶200美元的情景，因此它继续进行非常重要。”",
+      "published": "2026-10-09T21:30:00+00:00",
+      "summary": "Vitol 警告石油可能会飙升……Constellation 将投资超过……俄罗斯和德国正在向一个已经花了数月时间几乎在任何地方寻找桶装石油的全球市场投入更多柴油。唐纳德·特朗普总统周五表示，俄罗斯总统弗拉基米尔·普京已同意立即向美供应超过 30 万公吨的柴油。",
       "score": 15,
-      "original_title": "World’s Top Crude Trader Isn’t Ruling Out $200 Oil Just Yet",
+      "original_title": "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
       "translated": true,
       "priority": 0,
-      "uid": "b269ab9a8e9f"
+      "uid": "05e60ddc66bb"
     },
     {
-      "title": "伊朗战争能源冲击使氢能重新被提上议程",
-      "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Energy-Shock-Puts-Hydrogen-Back-on-the-Table.html",
+      "title": "飓风伊萨亚斯导致美国墨西哥湾71%的石油生产停产",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hurricane-Isaias-Shuts-In-71-of-US-Gulf-Oil-Production.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-08T21:00:00+00:00",
-      "summary": "今年的全球能源危机重新引发了国际社会对氢能在从钢铁制造到航运等广泛工业应用中取代化石燃料潜力的关注。绿色氢气的生产成本仍然非常高，降低了其商业规模化的潜力，而灰氢和蓝氢则依赖于许多国际市场正试图摆脱的同样化石燃料。",
+      "published": "2026-10-09T20:30:00+00:00",
+      "summary": "马可·卢比奥警告乌克兰……波斯湾原油出口已经……飓风伊萨亚斯现在已导致美国墨西哥湾每日近146万桶的石油生产停产，这一迅速的停产始于三天前仅185,120桶/日。海洋矿产管理局周五表示，运营商已关闭1,458,814桶/日，占当前墨西哥湾石油产量的71.51%，以及1。",
       "score": 15,
-      "original_title": "Iran War Energy Shock Puts Hydrogen Back on the Table",
+      "original_title": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
       "translated": true,
       "priority": 0,
-      "uid": "bb3cfbdf4dd7"
+      "uid": "cfa4c61d8710"
+    },
+    {
+      "title": "达美航空因燃油价格飙升下调2026年预测，但首席执行官表示需求仍然强劲",
+      "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-10-09T15:07:46+00:00",
+      "summary": "由于高油价持续，达美航空下调了其2026年的利润预期，但首席执行官埃德·巴斯蒂安表示，更高的票价并未让旅客望而却步。达美航空周五预计全年每股收益在调整后为5.10美元至5.60美元，而7月份的预期（当时油价较低）为每股6.50美元至7.50美元。公司第四季度的指引也低于分析师的预期。",
+      "score": 15,
+      "original_title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+      "translated": true,
+      "priority": 0,
+      "uid": "fe9bac8ccd33"
     },
     {
       "title": "Modelo 的所有者 Constellation 正在发挥创意，以在整体需求减弱的情况下吸引啤酒消费者回归",
@@ -166,7 +192,7 @@
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-10-07T19:14:03+00:00",
-      "summary": "康斯特雷申品牌公司（Constellation Brands）季度盈利和收入均超出预期，其啤酒品牌市场份额增加，但持续的消费者谨慎情绪抑制了业绩。在面对高昂的食品和燃料价格以及挑剔的消费者时，康斯特雷申正转向特殊场合和多元化策略以推动销售。这家生产Modelo Especial、Corona和Pacifico的公司于周二公布了财政第二季度的调整后盈利...",
+      "summary": "康斯特雷申品牌公司（Constellation Brands）季度盈利和收入超出预期，其啤酒品牌市场份额有所增加，但持续的消费者谨慎态度抑制了业绩。在面对高昂的食品和燃料价格以及挑剔的消费者时，康斯特雷申正转向特殊场合和多元化策略以推动销售。这家生产Modelo Especial、Corona和Pacifico的公司于周二公布了财政第二季度的调整后盈利...",
       "score": 15,
       "original_title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
       "translated": true,
@@ -174,25 +200,12 @@
       "uid": "8d6a640bd886"
     },
     {
-      "title": "Disney+ 将播放即将到来的超级碗",
-      "link": "https://www.cnbc.com/2026/10/07/disney-stream-super-bowl-2027.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-10-07T16:36:26+00:00",
-      "summary": "迪士尼周三宣布，其流媒体服务 Disney+ 将在二月份播出即将到来的超级碗。2027 年的冠军赛，以及超级碗前的两场周一夜橄榄球赛，将对所有 Disney+ 订阅者开放。迪士尼此前宣布，其 ESPN 体育部门将首次制作 2027 年的超级碗。",
-      "score": 15,
-      "original_title": "Disney+ to stream upcoming Super Bowl",
-      "translated": true,
-      "priority": 0,
-      "uid": "fbbb08c79d1c"
-    },
-    {
-      "title": "我们在2026年9月宣布的最新人工智能新闻",
+      "title": "我们在2026年9月发布的最新人工智能新闻",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-02T15:00:00+00:00",
-      "summary": "我们在2026年9月宣布的最新人工智能新闻：二十多年来，我们一直在投资机器学习和人工智能的研究、工具以及基础设施，以构建让更多人日常生活更美好的产品。谷歌各团队正在探索在医疗、危机应对和教育等广泛领域释放人工智能的潜力。为了让您了解我们的进展，我们会定期进行更新...",
+      "summary": "我们在2026年9月公布的最新人工智能新闻：二十多年来，我们一直在投资机器学习和人工智能的研究、工具以及基础设施，以构建让更多人日常生活更美好的产品。谷歌各团队正在探索在医疗、危机应对和教育等广泛领域释放人工智能的潜力。为了让您了解我们的进展，我们会定期进行更新...",
       "score": 15,
       "original_title": "The latest AI news we announced in September 2026",
       "translated": true,
@@ -205,7 +218,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-07T12:00:00+00:00",
-      "summary": "介绍 Playground：创建和游玩自定义游戏 游戏是最具创造性的表达形式之一，并且游戏社区在不断壮大。但游戏创作历来只限于拥有技术经验和复杂游戏引擎知识的少数人群。今天，我们推出了 Playground，这是一个实验性游戏平台，让你能够创建、游玩和分享自定义游戏。",
+      "summary": "介绍 Playground：创建和游玩自定义游戏 游戏是最具创造性的表达形式之一，并且游戏社区在不断壮大。但游戏创作历来只限于拥有技术经验和复杂游戏引擎知识的少数人群。今天，我们推出了 Playground，这是一个实验性游戏平台，让你可以创建、游玩和分享自定义游戏。",
       "score": 10,
       "original_title": "Introducing Playground: Create and play custom games",
       "translated": true,
@@ -217,31 +230,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3806.9838,
-        "change": -4.9205,
-        "pct": -0.13,
-        "amount_yi": 6631.93
+        "price": 3813.7913,
+        "change": 1.887,
+        "pct": 0.05,
+        "amount_yi": 8885.61
       },
       {
         "name": "深证成指",
-        "price": 12559.88,
-        "change": -61.021,
-        "pct": -0.48,
-        "amount_yi": 7518.18
+        "price": 12641.86,
+        "change": 20.961,
+        "pct": 0.17,
+        "amount_yi": 10119.79
       },
       {
         "name": "创业板指",
-        "price": 3017.16,
-        "change": -19.497,
-        "pct": -0.64,
-        "amount_yi": 1522.35
+        "price": 3043.33,
+        "change": 6.677,
+        "pct": 0.22,
+        "amount_yi": 2005.97
       },
       {
         "name": "沪深300",
-        "price": 4308.6922,
-        "change": -1.5843,
-        "pct": -0.04,
-        "amount_yi": 3715.78
+        "price": 4317.2549,
+        "change": 6.9784,
+        "pct": 0.16,
+        "amount_yi": 4961.79
       }
     ],
     "holdings": [
@@ -250,10 +263,10 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 48.43,
-        "market_value": 4843.0,
-        "pnl": 1670.36,
-        "pnl_pct": 52.65,
+        "price": 48.4,
+        "market_value": 4840.0,
+        "pnl": 1667.36,
+        "pnl_pct": 52.55,
         "weight_hint": "44.6%",
         "note": "",
         "available": true
@@ -263,10 +276,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 29.04,
-        "market_value": 2904.0,
-        "pnl": 207.59,
-        "pnl_pct": 7.7,
+        "price": 28.99,
+        "market_value": 2899.0,
+        "pnl": 202.59,
+        "pnl_pct": 7.51,
         "weight_hint": "26.7%",
         "note": "",
         "available": true
@@ -276,11 +289,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.27,
-        "market_value": 2481.0,
-        "pnl": 603.48,
-        "pnl_pct": 32.14,
-        "weight_hint": "22.8%",
+        "price": 8.22,
+        "market_value": 2466.0,
+        "pnl": 588.48,
+        "pnl_pct": 31.34,
+        "weight_hint": "22.7%",
         "note": "",
         "available": true
       },
@@ -289,10 +302,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.991,
-        "market_value": 198.2,
-        "pnl": -119.8,
-        "pnl_pct": -37.67,
+        "price": 0.999,
+        "market_value": 199.8,
+        "pnl": -118.2,
+        "pnl_pct": -37.17,
         "weight_hint": "1.8%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -302,10 +315,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.38,
-        "market_value": 438.0,
-        "pnl": -59.0,
-        "pnl_pct": -11.87,
+        "price": 4.385,
+        "market_value": 438.5,
+        "pnl": -58.5,
+        "pnl_pct": -11.77,
         "weight_hint": "4.0%",
         "note": "",
         "available": true
@@ -326,118 +339,106 @@
     ],
     "sectors": [
       {
-        "name": "新能源/光伏 · 蓄电池及其他电池",
-        "pct": 3.35,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": -0.57,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 电池化学品",
-        "pct": 2.45,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 27.43,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 金融控股",
-        "pct": 1.88,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 0.66,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 非银金融",
-        "pct": 1.72,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 6.73,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭",
-        "pct": 1.27,
+        "name": "煤炭 · 煤炭行业",
+        "pct": 1.0938079347423,
         "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 2.34,
-        "source": "东财行业"
+        "main_flow_yi": null,
+        "source": "新浪行业"
       },
       {
-        "name": "煤炭 · 煤炭开采",
-        "pct": 1.17,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 1.57,
-        "source": "东财行业"
+        "name": "金融/银行 · 金融行业",
+        "pct": 0.62483513584806,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": null,
+        "source": "新浪行业"
       },
       {
-        "name": "电力/公用 · 电力行业",
-        "pct": -0.45840742936179,
+        "name": "电力/公用 · 供水供气",
+        "pct": 0.36550482042589,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": -1.3159559660888,
+        "pct": -0.45552321903075,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "半导体/电子 · 电子器件",
-        "pct": -2.490025018181,
+        "pct": -1.6358689395492,
         "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
     "policy_news": [],
-    "industry_news": [],
+    "industry_news": [
+      {
+        "title": "最高年化22%？多家香港银行推出限时高息定存 业内提醒：不建议内地投资者专门换汇套利",
+        "link": "https://finance.sina.com.cn/roll/2026-10-10/doc-iniutkci6067088.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "透视光伏企业应付困局|协鑫集成账期大增80%居首 48亿定增夭折负债率升至95%新高",
+        "link": "https://finance.sina.com.cn/stock/observe/2026-10-10/doc-iniutcvq0695307.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "复旦张江认购1.50亿元中国银行结构性存款产品",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-10/doc-iniutcvm6146105.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "中广核新能源于10月9日斥资158.05万港元回购74万股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-10/doc-iniutcvm6113836.shtml",
+        "level": "中",
+        "tag": "行业"
+      }
+    ],
     "market_news": [
       {
-        "title": "宽基ETF持续放量：创业板ETF易方达成交超55亿元，中证1000ETF南方等成交额超昨日全天",
-        "link": "https://finance.sina.com.cn/money/fund/etf/2026-10-09/doc-iniuqywr7921649.shtml",
+        "title": "9月A股新开户191万户",
+        "link": "https://finance.sina.com.cn/stock/marketresearch/2026-10-10/doc-iniutkcp7384906.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "早盘就动手！多只宽基ETF突然放量，中小盘ETF成交额已超昨日全天",
-        "link": "https://finance.sina.com.cn/stock/marketresearch/2026-10-09/doc-iniuqywr7919488.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "软银寻求向海湾投资者筹集至多1000亿美元资金",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniuqywr7905270.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "港股年内募资3856亿港元 389宗项目候场 每四家就有一家来自A股",
-        "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-09/doc-iniuqywq1132353.shtml",
+        "title": "龙旗科技于10月9日斥资1284.25万元回购37.85万股A股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-10/doc-iniutcvq0604212.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10864.2,
-    "total_pnl": 2302.63,
-    "total_amount_yi": 14150.11,
+    "total_market_value": 10843.3,
+    "total_pnl": 2281.73,
+    "total_amount_yi": 19005.4,
     "bias": "震荡",
-    "volume_note": "量能：两市合计约 14150 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 蓄电池及其他电池、电池化学品、金融控股；偏弱 电力行业、石油行业、电子器件",
-    "tip": "一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向",
-    "errors": []
+    "volume_note": "量能：两市合计约 19005 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 煤炭行业、金融行业、供水供气；偏弱 石油行业、电子器件",
+    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
+    "errors": [
+      "东财行业板块失败: HTTP Error 502: Bad Gateway"
+    ]
   },
   "learning": {
-    "title": "净息差（银行）",
-    "body": "净息差 = 贷款利率与存款利率的差距，是银行赚钱能力的核心之一。工行观察点：净息差是否继续收窄，以及不良贷款率。",
+    "title": "护城河（初识）",
+    "body": "护城河指公司难以被抢走的优势。长电的水电资产、神华的煤电一体，都是“不好复制”的例子——但护城河也会随产业政策变化。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "AI 工具",
-    "text": "今儿聊【AI 工具】。大模型像特别能干的实习生：秒出三千字，里头三分真七分顺嘴。你让它写可研，它写得比你快；你让它对定额，它比你敢。社会经验：AI能提效，不能替你背锅——锅永远有编制，编制在你工号上。"
+    "topic": "绿茶黑咖啡",
+    "text": "今儿聊【绿茶黑咖啡】。上午绿茶续命，下午咖啡续命，晚上想着早睡，躺下开始续念头。念头一续就到两点，两点一过，第二天的方案开始穿睡衣上班。社会经验：提神饮品解决不了睡眠债，只能把欠条写得更工整。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
-    "36氪: 解析失败 (<unknown>:10:542: not well-formed (invalid token))"
+    "东财行业板块失败: HTTP Error 502: Bad Gateway",
+    "36氪: 解析失败 (<unknown>:11:168: not well-formed (invalid token))"
   ]
 }
