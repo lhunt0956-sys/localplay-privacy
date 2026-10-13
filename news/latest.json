@@ -1,16 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-10-12T13:24:33.474097+08:00",
+  "generated_at": "2026-10-13T14:22:39.989505+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 17,
+  "count": 15,
   "items": [
     {
-      "title": "Anthropic / Claude：扩大网络验证计划",
+      "title": "Anthropic / Claude：拓展网络验证计划",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-12T05:24:52+00:00",
-      "summary": "扩展网络验证计划我们正在推出新的扩展版本的网络验证计划 (CVP)，它为合格的安全专业人员提供先进的网络功能和减少的阻止分类器。 该计划现在由三个访问层组成，允许安全团队申请最适合其工作的访问级别。",
+      "published": "2026-10-13T06:22:59+00:00",
+      "summary": "扩展网络验证计划 我们正在推出全新的、扩展版网络验证计划（CVP），向符合条件的安全专业人员提供先进的网络能力和减少阻止分类器的功能。该计划现在包含三个访问等级，允许安全团队申请最适合其工作的访问级别。",
       "score": 60,
       "original_title": "Anthropic / Claude：Expanding the Cyber Verification Program",
       "translated": true,
@@ -18,12 +18,12 @@
       "uid": "7e18c717c5a4"
     },
     {
-      "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
+      "title": "Sophos通过OpenAI Daybreak将威胁调查时间缩短了96%",
       "link": "https://openai.com/index/sophos",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-10-09T07:00:00+00:00",
-      "summary": "了解 Sophos 如何使用 OpenAI 的 Daybreak 将网络威胁调查时间缩短 96%，并自动处理 52% 的 MDR 案例，同时保留人工监督。",
+      "summary": "了解 Sophos 如何使用 OpenAI 的 Daybreak 将网络威胁调查时间缩短 96%，并在保持人工监督的同时自动处理 52% 的 MDR 案例。",
       "score": 60,
       "original_title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "translated": true,
@@ -31,12 +31,12 @@
       "uid": "a2b657e034b6"
     },
     {
-      "title": "EmbeddingGemma 2：开放、轻量级的多模态嵌入模型",
+      "title": "EmbeddingGemma 2：一个开放的、轻量级的多模态嵌入模型",
       "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-10-06T19:57:04+00:00",
-      "summary": "EmbeddingGemma 2：开放、轻量级的多模式嵌入模型 我们去年推出了 EmbeddingGemma，为高质量文本嵌入提供轻量级选项，帮助您的应用程序直接在消​​费类硬件上组织、搜索和连接信息。 开发者社区的反应超出了我们的预期。",
+      "summary": "EmbeddingGemma 2：一个开放的、轻量级的多模态嵌入模型 我们去年推出了 EmbeddingGemma，以提供一个轻量级的高质量文本嵌入方案，帮助你的应用程序在消费级硬件上直接组织、搜索和连接信息。开发者社区的反响远超我们的预期。",
       "score": 40,
       "original_title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "translated": true,
@@ -44,25 +44,51 @@
       "uid": "54713a520258"
     },
     {
-      "title": "无问芯穹完成 23 亿元 C 轮融资，单轮及累计融资额均创中国 AI 原生基础设施赛道最高纪录",
-      "link": "https://www.ithome.com/1/011/849.htm",
+      "title": "华为徐松余：下一代麒麟 2027 芯片就绪，未来 10 年（逻辑折叠）演进可持续",
+      "link": "https://www.ithome.com/1/012/289.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-12T04:08:12+00:00",
-      "summary": "IT之家 10 月 12 日消息，据证券时报消息，人工智能基础设施（AI Infra）企业 无问芯穹已完成 23 亿元的 C 轮融资 ，其成立以来的累计融资额达 43 亿元，单轮及累计融资额均创下中国 AI 原生基础设施赛道最高纪录。公开信息显示，无问芯穹成立于 2023 年，是清华大学和上海交通大学两大高校的科技成果转化企业。IT之家注意到，据彭博社本月引述知情人士消息，无问芯穹最近几个月已以保密形式向港交所递交 IPO 申请，计划募资数亿美元，目标最快于 2027 年上半年挂牌上市。延伸阅读 无问芯穹全称上海无问芯穹智能科技股份有限公司，成立于 2023 年 5 月，由清华大学电子工程系 NICS-EFC 实验室团队孵化，同时也是清华大学和上海交通大学的科技成果转化企业。团队方面，联合创始人兼 CEO 夏立雪是清华大学博士，师从清华大学电子工程系主任汪玉教授，曾入选 AI2000 人工智能全球最具影响力学者榜单（芯片方向 Top100）；",
-      "score": 105,
+      "published": "2026-10-13T05:26:06+00:00",
+      "summary": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。 徐松余今日首次公布逻辑折叠韬芯片麒麟 9050 Pro 详细架构图，包括新一代灵犀 CPU、马良 GPU、达芬奇架构 NPU、麒麟 AI ISP、Balong AI Modem、FFTS 函数流任务调度器、音视频处理器、安全处理器和灵犀微核协同工作。 IT之家注意到，徐松余还透露， 下一代麒麟 2027 芯片也已经就绪，到目前为止，所有的测试结果都符合预期 ，因此在未来 10 年（逻辑折叠）的演进是可持续的。至于具体到哪个阶段，每个点需要用什么样的技术，可能需要逐步再开展和讨论。 相关阅读： 《 华为首次公布麒麟 9050 Pro 芯片详细架构图：在中国半导体业界支持下成功量产，未来属于开放合作 》 《 华为徐松余：麒麟 9050 Pro 马良 GPU 性能提升 40%，搭载业界首个 2 亿高像素融合 ISP 》",
+      "score": 80,
       "original_title": "",
       "translated": false,
       "priority": 50,
-      "uid": "fa87d544e356"
+      "uid": "545485018a20"
     },
     {
-      "title": "Anthropic/Claude:2026使用政策更新",
+      "title": "华为：逻辑折叠技术不是简单把几颗芯片叠在一起，而是最初就以三维视角进行系统设计",
+      "link": "https://www.ithome.com/1/012/331.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-13T06:11:22+00:00",
+      "summary": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲，并首次公布麒麟 9050 Pro 芯片详细架构图（发布会上为简要版本）。IT之家注意到，华为官方今日还详细介绍了韬定律与逻辑折叠之间的关联： 随着工艺逼近物理极限，几何缩微收益越来越小。华为提出”韬定律”（τ scaling）—— 以“时间 (τ) 缩微”替代“几何缩微”，作为半导体与电子系统演进的新指导原则 —— 通过逻辑折叠等创新技术，持续压缩信号传播时延，不断提升晶体管密度，从而实现半导体与电子系统的持续演进 。其核心思想是让数据少绕路，让计算不用等，花更少的时间完成更多的任务。在麒麟 9050 系列上，逻辑折叠技术首次实现产品化落地。",
+      "score": 75,
+      "original_title": "",
+      "translated": false,
+      "priority": 50,
+      "uid": "4cc595e48504"
+    },
+    {
+      "title": "华为：2023 年以来，基于麒麟芯片的终端产品累计发货已经过亿",
+      "link": "https://www.ithome.com/1/012/327.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-13T05:58:18+00:00",
+      "summary": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。 徐松余谈到了麒麟 9050 系列的一些性能规格，并首次公布麒麟 9050 Pro 芯片详细架构图。他表示，首款逻辑折叠韬芯片 —— 麒麟 9050 系列在中国半导体产业界的支持下成功量产，但韬路径未来的发展还有众多挑战，包括工具链和方法论、工艺差异补偿、跨层互联开销优化、能耗控制、基准测试方法等。 华为官方称，麒麟近年走过了一段并不平坦的路。2023 年 8 月，在半导体产业界的支持下，麒麟重新回到消费者身边，并持续支撑 Mate、Pura、nova、畅享等多款华为终端产品上市。 IT之家从华为官方了解到， 2023 年以来，基于麒麟芯片的终端产品累计发货已经过亿 。麒麟 9050 系列的推出，是麒麟回归之后面向未来持续演进的重要一步。",
+      "score": 75,
+      "original_title": "",
+      "translated": false,
+      "priority": 50,
+      "uid": "37d87cfa8854"
+    },
+    {
+      "title": "Anthropic / Claude：2026 使用政策更新",
       "link": "https://www.anthropic.com/news/2026-usage-policy-update",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-12T05:24:52+00:00",
-      "summary": "2026 年使用政策更新 Anthropic 每年都会更新其使用政策，以响应我们模型不断发展的功能以及我们从客户那里收到的反馈。 我们今天发布了该政策的新版本。 在这篇文章中，我们总结了我们所做的更改。 最新版本中的大部分更新旨在澄清现有规则。",
+      "published": "2026-10-13T06:22:59+00:00",
+      "summary": "2026 使用政策更新 每年，Anthropic 会根据模型能力的发展以及我们从客户那里收到的反馈更新其使用政策。今天，我们发布了政策的新版本。在这篇文章中，我们总结了所做的更改。最新版本的大部分更新旨在澄清现有规则。",
       "score": 60,
       "original_title": "Anthropic / Claude：2026 Usage Policy update",
       "translated": true,
@@ -70,12 +96,12 @@
       "uid": "4786d1007c01"
     },
     {
-      "title": "Pollo AI 通过 OpenAI 将创意转化为活动",
+      "title": "Pollo AI 利用 OpenAI 将创意点子转化为活动",
       "link": "https://openai.com/index/pollo-ai",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-10-08T12:00:00+00:00",
-      "summary": "借助 GPT-5.6、GPT-6 Astra 和 GPT‑Image‑2.5，Pollo AI 帮助创作者将大胆的想法转化为详细的图像和电影视频广告。",
+      "summary": "有了 GPT-5.6、GPT-6 Astra 和 GPT‑Image‑2.5，Pollo AI 帮助创作者将大胆的想法转化为详细的图像和电影级视频广告。",
       "score": 60,
       "original_title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "translated": true,
@@ -83,142 +109,90 @@
       "uid": "1b0469a6c42c"
     },
     {
-      "title": "华为首发星迹定位技术，支持车道亚米级 / 室内车位级导航、专业跑步精准轨迹等",
-      "link": "https://www.ithome.com/1/011/847.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-12T04:01:17+00:00",
-      "summary": "IT之家 10 月 12 日现场消息，在今天的华为终端创新技术沟通会上，华为终端 BG CTO、华为终端 BG 硬件工程与产品开发管理部部长李小龙分享了华为星迹定位技术的核心亮点。随着隧道、跑步、地库、滑雪、室内、高架 / 运动场等场景的拓展，李小龙表示，传统定位技术已无法满足消费者复杂场景需求，因此华为首发了星迹定位技术。针对高架行驶时没有高精度导航无法及时变道这一痛点，华为采用海思短距芯片 + GNSS 载波相位测量， 实现测距精度提升超 10 倍 。值得一提的是， 华为星迹定位技术在车道级导航下能实现亚米级的定位精度 。另外，通过 RTK+AI-PDR 融合，华为 Mate 90 系列手机首发支持 运动场跑道级导航 。针对隧道导航仅靠惯导定位不够准确这一痛点，华为精准 AI 速度估算 + 地磁匹配定位，不受隧道长度和行驶时间限制， 让星迹定位技术业界唯一实现隧道内车道级定位 。",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "c147bbd75ef5"
-    },
-    {
-      "title": "本田中国 9 月汽车销量 25564 辆，同比下降 53.1%",
-      "link": "https://www.ithome.com/1/011/833.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-12T03:35:26+00:00",
-      "summary": "IT之家 10 月 12 日消息，据新浪汽车今日报道，本田中国 9 月汽车销量为 25,564 辆，同比下降 53.1%。 据车云报道，本田技研工业（中国）投资有限公司总经理、本田技研科技（中国）有限公司总经理五十岚雅行明确表态，中国市场的意义早已不止于销售，更是推进电动化与智能化变革的重要市场， 立场今后也不会改变，未来本田将一如既往深耕中国 。 据悉，本田在智能化领域已选定 Momenta 与华为，双方分别签署战略合作协议，Momenta 的领航辅助驾驶技术与华为的鸿蒙座舱将从 2027 年上市车型起陆续导入 。 此外，官方计划在 2028 年上市的车型上，大幅提升本土供应商的使用率，现地采购率将达到 99% 以上。 IT之家从报道获悉，未来本田将陆续推出基于东风集团和广汽集团各自平台研发的产品，2027 年推出首款搭载包括动力单元在内的合作伙伴技术的新能源汽车，此后快速扩充阵容。研发体系采用中方合作伙伴、合资公司与本田三方联合开发模式。",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "18c3020466ca"
-    },
-    {
-      "title": "3只股票将推动核能热潮",
-      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/3-Stocks-To-Play-The-Nuclear-Energy-Boom.html",
+      "title": "随着沙特承诺保持出口流动，油价回落",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Retreat-as-Saudi-Arabia-Pledges-to-Keep-Exports-Flowing.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-11T23:00:00+00:00",
-      "summary": "尽管科技公司投入数十亿美元来确保人工智能数据中心的核电供应，但核能股在过去一年中遭受了严重损失。 Global X Uranium ETF (URA) 在过去 12 个月内下跌了 20% 以上，而能源精选行业 SPDR 基金 (XLE) 的涨幅则超过 40%。",
-      "score": 20,
-      "original_title": "3 Stocks To Play The Nuclear Energy Boom",
+      "published": "2026-10-13T05:38:59+00:00",
+      "summary": "更广泛的石油市场仍然……分析人士怀疑伊朗可能会……昨日突破每桶106美元的原油价格今天有所回落，因为交易员在消化最新的胡塞武装对沙特的袭击及其对能源供应的相关风险，同时也在等待观察俄罗斯柴油交易是否会影响最终价格。在撰写本文时，布伦特原油的交易价格为105美元。",
+      "score": 15,
+      "original_title": "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing",
       "translated": true,
       "priority": 0,
-      "uid": "68f46ae44f31"
+      "uid": "3012146a7812"
     },
     {
-      "title": "本田宣布下一代混动系统命名 Honda Hybrid，首发车型 2027 年全球推出",
-      "link": "https://www.ithome.com/1/011/838.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-10-12T03:46:00+00:00",
-      "summary": "IT之家 10 月 12 日消息，本田 10 月 9 日宣布其下一代混合动力系统命名为 Honda Hybrid 。 为了快速响应全球对混合动力汽车日益增长的需求，本田已将开发和生产资源重新分配到混合动力业务，以配合公司于 2026 年 5 月宣布的汽车业务重建路线图。作为这一方向的一部分，本田对其混合动力系统进行了改进，并开发了本田混合动力车， 该车型将于 2027 年起在全球范围内推出 。 IT之家从本田官方公告获悉，本田计划在截至 2030 年 3 月 31 日的财年截止前， 在全球范围内推出 15 款配备 Honda Hybrid 的次世代混合动力车型 ，主要在北美地区推广。通过多项改进，如延长发动机高效续航里程、提升效率和驱动单元缩小，本田正努力提升下一代混合动力车型的燃油经济性。 此外，配备本田 Honda Hybrid 系统的下一代混合动力车型将基于新开发的平台打造，通过采用全新的车身刚性管理方法，实现了优化刚性和减重，提升了路面抓地性能。此外，新车型将搭载新增的运动管理系统、新开发的电动全轮驱动系统（e-AWD）。",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "54bc14b37016"
-    },
-    {
-      "title": "特朗普的俄罗斯-乌克兰能源停火可能只涵盖炼油厂",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-Russia-Ukraine-Energy-Ceasefire-May-Only-Cover-Oil-Refineries.html",
+      "title": "这种超稀有气体可能成为加拿大手中的王牌",
+      "link": "https://oilprice.com/Energy/Energy-General/This-Ultra-Rare-Gas-Could-Become-An-Ace-In-Canadas-Hands.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-12T01:01:00+00:00",
-      "summary": "虚拟发电厂连接家园……超级油轮费率创历史新高……特朗普总统宣布的俄罗斯和乌克兰之间的能源停火似乎比最初建议的范围要小得多，一位白宫官员告诉 Axios，该提议仅涵盖对炼油厂的攻击，且尚未得到莫斯科的官方确认。",
+      "published": "2026-10-13T00:00:00+00:00",
+      "summary": "回到七月份，美国对包括乳制品、酒精和水泥在内的广泛加拿大出口产品额外征收了50%的关税，特朗普政府声称这是因为加拿大对美国的各种贸易歧视。作为回应，卡尼总理的政府实施了按美元对美元的反制关税，针对美国的钢铁、铝材、电器和电子产品等商品进行报复。",
       "score": 15,
-      "original_title": "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries",
+      "original_title": "This Ultra-Rare Gas Could Become An Ace In Canada’s Hands",
       "translated": true,
       "priority": 0,
-      "uid": "0b7c4be803f0"
+      "uid": "44314a1fba6d"
     },
     {
-      "title": "从 BJ’s 到 Lululemon，零售商正在削减产品种类以促进业务",
-      "link": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
+      "title": "特朗普限制农民获得能源项目资金的渠道",
+      "link": "https://oilprice.com/Energy/Energy-General/Trump-Curbs-Farmers-Access-to-Funding-for-Energy-Projects.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-12T23:00:00+00:00",
+      "summary": "特朗普政府正在限制农民获得联邦农村能源项目的机会，这是对可再生能源的又一项打击。但分析人士表示，对农业部的农村能源美国计划（REAP）进行的这一重大变动——取消前期资金——将使许多农民无法获得节能项目和更便宜的能源。",
+      "score": 15,
+      "original_title": "Trump Curbs Farmers’ Access to Funding for Energy Projects",
+      "translated": true,
+      "priority": 0,
+      "uid": "16b93e9ab0eb"
+    },
+    {
+      "title": "在袭击事件后，美国联邦航空管理局警告美国航空公司沙特阿拉伯存在安全风险",
+      "link": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-10-11T17:08:30+00:00",
-      "summary": "零售商正在削减产品种类，以清理资产负债表。 随着消费者在汽油和食品价格高涨的情况下削减支出，企业采取了更多杠杆措施来提高盈利能力并安抚投资者。 在今年的财报电话会议上，许多零售商都强调了减少销售商品数量的努力，这些商品通常被称为库存单位（SKU）。",
+      "published": "2026-10-12T16:50:44+00:00",
+      "summary": "在也门伊朗支持的胡塞武装宣称发起致命袭击并导致沙特首都机场关闭后，美国联邦航空管理局（FAA）告诫美国航空公司在沙特阿拉伯及其周边地区飞行时要保持谨慎。截至周一，沙特阿拉伯利雅得的哈立德国王国际机场仍然关闭，此次关闭始于上周的袭击。",
       "score": 15,
-      "original_title": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
+      "original_title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
       "translated": true,
       "priority": 0,
-      "uid": "41bfe18b548c"
+      "uid": "428777fa27d3"
     },
     {
-      "title": "美俄达成柴油交易后 欧洲盟友誓言支持乌克兰",
-      "link": "https://www.ftchinese.com/story/001111075",
+      "title": "泽连斯基：俄罗斯无视特朗普“能源停火”协议",
+      "link": "https://www.ftchinese.com/story/001111086",
       "source": "FT 中文网",
       "category": "A股与宏观",
-      "published": "2026-10-11T16:00:00+00:00",
-      "summary": "急于在中期选举前降低能源价格的特朗普，在与普京达成柴油协议后猛轰泽连斯基，称乌克兰应该换一位总统，以便与俄罗斯达成和平协议。",
+      "published": "2026-10-12T16:00:00+00:00",
+      "summary": "乌克兰总统指出，普京“显然不看”美国总统在真相社交平台上宣布的俄乌“能源停火”，因为俄罗斯继续袭击乌克兰的能源基础设施。",
       "score": 15,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "0cf93ea36889"
+      "uid": "8e98b3928978"
     },
     {
-      "title": "达美航空下调 2026 年燃油激增预测，但首席执行官表示需求依然强劲",
-      "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+      "title": "在利雅得机场遭遇袭击后，达美推迟沙特阿拉伯航线首航至三月",
+      "link": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-10-09T15:07:46+00:00",
-      "summary": "由于燃油价格持续高企，达美航空大幅下调了 2026 年利润预期，但首席执行官埃德·巴斯蒂安 (Ed Bastian) 表示，票价上涨并没有让旅客望而却步。 达美航空周五预测全年每股收益为 5 美元。 10 美元和 5 美元。 调整后的 60 美元，与 7 月份燃油价格较低时的预期相比为 6 美元。 50 至 7 美元。 50股。 该公司第四季度的指导也低于分析师的预期。",
+      "published": "2026-10-12T15:48:28+00:00",
+      "summary": "达美航空表示，由于该市机场遭遇多起致命袭击，原定于10月23日开始的亚特兰大至沙特首都利雅得的直飞航班将推迟至明年3月。达美计划使用空客A350-900宽体飞机运营该航线，这将成为美国航空公司首次运营的美国与沙特之间的直达商业航班。",
       "score": 15,
-      "original_title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+      "original_title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks",
       "translated": true,
       "priority": 0,
-      "uid": "fe9bac8ccd33"
+      "uid": "f1fd32807669"
     },
     {
-      "title": "我们于 2026 年 9 月公布的最新 AI 新闻",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-10-02T15:00:00+00:00",
-      "summary": "我们于 2026 年 9 月宣布的最新人工智能新闻 20 多年来，我们一直投资于机器学习和人工智能研究、工具和基础设施，以打造让更多人的日常生活变得更美好的产品。 Google 的团队正在研究如何释放人工智能在医疗保健、危机应对和教育等广泛领域的优势。 为了让您随时了解我们的进展，我们正在进行定期循环......",
-      "score": 15,
-      "original_title": "The latest AI news we announced in September 2026",
-      "translated": true,
-      "priority": 0,
-      "uid": "9597b6bcc54c"
-    },
-    {
-      "title": "战略石油储备实际上能降到多低？",
-      "link": "https://oilprice.com/Energy/Crude-Oil/How-Low-Can-the-Strategic-Petroleum-Reserve-Actually-Go.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-11T19:00:00+00:00",
-      "summary": "据路透社报道，截至 9 月底，战略石油储备仅持有 2.83 亿桶石油，这是自 1982 年 10 月以来的最低水平，当时该储备仍在首次填充。 这是一个看起来很可怕的数字，大多数报道都是这样对待的。 但桶数是这个故事中最简单的部分。 石油从墨西哥湾沿岸的盐洞中快速流出，因为那正是......",
-      "score": 10,
-      "original_title": "How Low Can the Strategic Petroleum Reserve Actually Go?",
-      "translated": true,
-      "priority": 0,
-      "uid": "43969a80a53e"
-    },
-    {
-      "title": "Playground 简介：创建和玩自定义游戏",
+      "title": "介绍 PlayGround：创建并玩自定义游戏",
       "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-07T12:00:00+00:00",
-      "summary": "Playground 简介：创建和玩自定义游戏 游戏是最具创意的表达形式之一，并且游戏社区不断发展。 但游戏创作历来仅限于拥有复杂游戏引擎技术经验和知识的精选人群。 今天，我们将推出 Playground，这是一个实验性游戏平台，可让您创建、玩和共享自定义游戏。",
+      "summary": "介绍 Playground：创建和游玩自定义游戏 游戏是最具创造性的表达形式之一，并且游戏社区不断发展壮大。但游戏创作历来只限于拥有技术经验和复杂游戏引擎知识的少数人群。今天，我们推出了 Playground，这是一个实验性游戏平台，让你可以创建、游玩和分享自定义游戏。",
       "score": 10,
       "original_title": "Introducing Playground: Create and play custom games",
       "translated": true,
@@ -230,31 +204,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3809.1761,
-        "change": -4.6152,
-        "pct": -0.12,
-        "amount_yi": 5103.17
+        "price": 3799.74,
+        "change": 2.4976,
+        "pct": 0.07,
+        "amount_yi": 6869.77
       },
       {
         "name": "深证成指",
-        "price": 12482.77,
-        "change": -159.091,
-        "pct": -1.26,
-        "amount_yi": 5962.11
+        "price": 12385.68,
+        "change": 0.812,
+        "pct": 0.01,
+        "amount_yi": 7951.58
       },
       {
         "name": "创业板指",
-        "price": 2997.57,
-        "change": -45.766,
-        "pct": -1.5,
-        "amount_yi": 1075.75
+        "price": 2970.02,
+        "change": 6.197,
+        "pct": 0.21,
+        "amount_yi": 1584.83
       },
       {
         "name": "沪深300",
-        "price": 4305.8535,
-        "change": -11.4014,
-        "pct": -0.26,
-        "amount_yi": 2788.58
+        "price": 4277.8823,
+        "change": -10.0975,
+        "pct": -0.24,
+        "amount_yi": 3873.6
       }
     ],
     "holdings": [
@@ -263,11 +237,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 49.19,
-        "market_value": 4919.0,
-        "pnl": 1746.36,
-        "pnl_pct": 55.04,
-        "weight_hint": "44.7%",
+        "price": 49.4,
+        "market_value": 4940.0,
+        "pnl": 1767.36,
+        "pnl_pct": 55.71,
+        "weight_hint": "44.9%",
         "note": "",
         "available": true
       },
@@ -276,11 +250,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 29.34,
-        "market_value": 2934.0,
-        "pnl": 237.59,
-        "pnl_pct": 8.81,
-        "weight_hint": "26.6%",
+        "price": 29.0,
+        "market_value": 2900.0,
+        "pnl": 203.59,
+        "pnl_pct": 7.55,
+        "weight_hint": "26.4%",
         "note": "",
         "available": true
       },
@@ -289,11 +263,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.42,
-        "market_value": 2526.0,
-        "pnl": 648.48,
-        "pnl_pct": 34.54,
-        "weight_hint": "22.9%",
+        "price": 8.45,
+        "market_value": 2535.0,
+        "pnl": 657.48,
+        "pnl_pct": 35.02,
+        "weight_hint": "23.0%",
         "note": "",
         "available": true
       },
@@ -302,10 +276,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.985,
-        "market_value": 197.0,
-        "pnl": -121.0,
-        "pnl_pct": -38.05,
+        "price": 0.976,
+        "market_value": 195.2,
+        "pnl": -122.8,
+        "pnl_pct": -38.62,
         "weight_hint": "1.8%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -315,10 +289,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.376,
-        "market_value": 437.6,
-        "pnl": -59.4,
-        "pnl_pct": -11.95,
+        "price": 4.349,
+        "market_value": 434.9,
+        "pnl": -62.1,
+        "pnl_pct": -12.49,
         "weight_hint": "4.0%",
         "note": "",
         "available": true
@@ -339,72 +313,51 @@
     ],
     "sectors": [
       {
-        "name": "新能源/光伏 · 风电零部件",
-        "pct": 3.37,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 7.27,
-        "source": "东财行业"
+        "name": "半导体/电子 · 电子信息",
+        "pct": 1.6712167473753,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": null,
+        "source": "新浪行业"
       },
       {
-        "name": "新能源/光伏 · 风电设备",
-        "pct": 2.91,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 7.24,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 国有大型银行Ⅲ",
-        "pct": 2.43,
+        "name": "金融/银行 · 金融控股",
+        "pct": 1.52,
         "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 4.25,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 股份制银行Ⅲ",
-        "pct": 1.81,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 4.12,
+        "main_flow_yi": 1.82,
         "source": "东财行业"
       },
       {
         "name": "半导体/电子 · 半导体设备",
-        "pct": 1.25,
+        "pct": 1.29,
         "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 15.45,
+        "main_flow_yi": 3.58,
         "source": "东财行业"
       },
       {
-        "name": "电力/公用 · 综合电力设备商",
-        "pct": 0.3,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": 0.28,
+        "name": "金融/银行 · 多元金融",
+        "pct": 1.25,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": 2.48,
         "source": "东财行业"
       },
       {
-        "name": "电力/公用 · 供水供气",
-        "pct": -1.310851524922,
-        "why": "对应长江电力，关注来水与股息稳定性",
+        "name": "石油 · 石油行业",
+        "pct": 0.88611749261569,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "煤炭 · 煤炭行业",
-        "pct": -2.0768384375573,
+        "pct": 0.55000587613116,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子器件",
-        "pct": -2.1013896977379,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "石油 · 石油行业",
-        "pct": -2.7392907080208,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "name": "电力/公用 · 电力行业",
+        "pct": -0.63858234718924,
+        "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
@@ -412,43 +365,56 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "江西莲花农商银行获批以盈余公积转增注册资本476.17万元，转增后注册资本为1.63亿元",
-        "link": "https://finance.sina.com.cn/money/insurance/bxfg/2026-10-12/doc-iniuxwip8505461.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "买新能源车挑花了眼？先把这些维权的门道摸清楚",
-        "link": "https://finance.sina.com.cn/consume/xiaofei/2026-10-12/doc-iniuxrzp7309687.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "银行股逆势走强，红利低波ETF华泰柏瑞（512890）半日成交5.49亿领跑同类",
-        "link": "https://finance.sina.com.cn/money/fund/original/2026-10-12/doc-iniuxrzr8587238.shtml",
+        "title": "华为披露下一代麒麟芯片进展，已进入测试阶段",
+        "link": "https://finance.sina.com.cn/roll/2026-10-13/doc-inivafqm8091935.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
-    "market_news": [],
-    "total_market_value": 11013.6,
-    "total_pnl": 2452.03,
-    "total_amount_yi": 11065.28,
-    "bias": "偏空",
-    "volume_note": "量能：两市合计约 11065 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 风电零部件、风电设备、国有大型银行Ⅲ；偏弱 供水供气、煤炭行业、电子器件",
-    "tip": "板块轮动是常态，不要追高换仓",
+    "market_news": [
+      {
+        "title": "逆转！业绩高增长预期驱动，光模块龙头快速反弹，高“光”创业板人工智能ETF（159363）标的指数涨超3%",
+        "link": "https://finance.sina.com.cn/money/fund/etf/2026-10-13/doc-inivafqp8827825.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "高盛：AI改写中国股市格局",
+        "link": "https://finance.sina.com.cn/stock/roll/2026-10-13/doc-inivafqh0436137.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "美债抛售潮中，机构开始抄底：593亿美元资金创纪录涌入",
+        "link": "https://finance.sina.com.cn/world/gjcj/2026-10-13/doc-inivafqm8090228.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "三大指数午后翻红 创业板指涨1.02%",
+        "link": "https://finance.sina.com.cn/stock/roll/2026-10-13/doc-inivafqh0418046.shtml",
+        "level": "中",
+        "tag": "股市"
+      }
+    ],
+    "total_market_value": 11005.1,
+    "total_pnl": 2443.53,
+    "total_amount_yi": 14821.35,
+    "bias": "震荡",
+    "volume_note": "量能：两市合计约 14821 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 电子信息、金融控股、半导体设备；偏弱 电力行业",
+    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
     "errors": []
   },
   "learning": {
-    "title": "PE（市盈率）",
-    "body": "PE = 股价 ÷ 每股收益，粗看股票贵不贵。银行/能源股常见区间更低；神华这类更常结合股息率一起看，别只看PE。",
+    "title": "PB（市净率）",
+    "body": "PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "A股开盘",
-    "text": "今儿聊【A股开盘】。早盘像相亲：看着挺热闹，真心没几个。神华长江电力坐那儿跟老干部似的，不吵不闹，偶尔点个头；主题炒作跟广场舞大妈似的，音箱一响全场跟。社会经验：能吃息的先吃息，能睡觉的别盯盘——盯盘不涨，只涨血压。"
+    "topic": "视频监控方案",
+    "text": "今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
