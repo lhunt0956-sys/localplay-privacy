@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年10月15日 12:06 · 共 18 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 偏空；量能：两市合计约 9818 亿元（接口口径），成交中等；行业分化：偏强 暂无；偏弱 非银金融、股份制银行Ⅲ、供水供气</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3692.65 <span style='color:#b42318'>-1.98%</span> · 约4575亿</li><li><strong>深证成指</strong> 11773.46 <span style='color:#b42318'>-2.78%</span> · 约5242亿</li><li><strong>创业板指</strong> 2768.63 <span style='color:#b42318'>-3.42%</span> · 约968亿</li><li><strong>沪深300</strong> 4133.46 <span style='color:#b42318'>-2.00%</span> · 约2644亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>金融/银行 · 非银金融</strong> <span style='color:#b42318'>-0.85%</span> · 净流入约-3.95亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>金融/银行 · 股份制银行Ⅲ</strong> <span style='color:#b42318'>-1.05%</span> · 净流入约-1.45亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>电力/公用 · 供水供气</strong> <span style='color:#b42318'>-2.09%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>半导体/电子 · 电子器件</strong> <span style='color:#b42318'>-2.38%</span><div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#b42318'>-3.68%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#b42318'>-4.24%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 49.950 · 盈亏 <span style='color:#0e7c66'>+1822.36（+57.44%）</span> · 仓位约 45.1%</li><li><strong>长江电力</strong>（600900） 现价 29.390 · 盈亏 <span style='color:#0e7c66'>+242.59（+9.00%）</span> · 仓位约 26.6%</li><li><strong>工商银行</strong>（601398） 现价 8.430 · 盈亏 <span style='color:#0e7c66'>+651.48（+34.70%）</span> · 仓位约 22.9%</li><li><strong>半导体ETF</strong>（159995） 现价 0.911 · 盈亏 <span style='color:#b42318'>-135.80（-42.70%）</span> · 仓位约 1.6%</li><li><strong>300ETF</strong>（510300） 现价 4.205 · 盈亏 <span style='color:#b42318'>-76.50（-15.39%）</span> · 仓位约 3.8%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 11065.70 元，浮动盈亏约 +2504.13 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>【高】<a href='https://finance.sina.com.cn/money/bank/bank_yhfg/2026-10-15/doc-inivhpnp8122265.shtml' target='_blank' rel='noopener'>中国人民银行上海总部：前三季度人民币各项存款增加1.36万亿元，同比少增3341亿元</a></li><li>【高】<a href='https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-15/doc-inivhpnm7354671.shtml' target='_blank' rel='noopener'>林州重机虚增业绩面临证监会的处罚，适格股民可索赔损失！</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhpnu1348403.shtml' target='_blank' rel='noopener'>日本经济产业大臣：日美就5500亿美元投资计划下首个芯片项目达成一致</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhpnu1327622.shtml' target='_blank' rel='noopener'>日本和美国就5500亿美元投资计划下首个芯片项目达成一致</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhpnm7398837.shtml' target='_blank' rel='noopener'>韩国股市暴跌8%触发熔断 投资者争相削减AI敞口</a></li></ul><p class='sum'>新手提醒：板块轮动是常态，不要追高换仓</p></section>
+    
+    <section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html" target="_blank" rel="noopener">美国银行雇佣了1000名承包商来修补Anthropic的Mythos暴露的软件漏洞</a><div class="meta">CNBC · 10-15 04:06</div><p class="sum">美国银行已雇佣大量外部承包商来帮助其修补由包括Anthropic的Mythos在内的先进人工智能模型揭示的软件漏洞，该行首席执行官布赖恩·莫伊尼汉（Brian Moynihan）周三告诉CNBC。在银行发布第三季度财报后的采访中，莫伊尼汉表示，今年早些时候，公司急于加强其内部和供应商代码的广泛领域……</p></li><li><a href="https://www.ftchinese.com/story/001111109" target="_blank" rel="noopener">苹果诉OpenAI窃取商业机密案首次举行听证会</a><div class="meta">FT 中文网 · 10-15 00:00</div><p class="sum">苹果指控OpenAI及两名前苹果员工窃取其商业机密。这起震动硅谷的重磅诉讼首次举行实质性公开听证会。双方曾在两年前结成合作伙伴关系。</p></li><li><a href="https://www.cnbc.com/2026/10/14/netflix-layoffs.html" target="_blank" rel="noopener">Netflix将裁员约1,000名员工，占员工总数的6%</a><div class="meta">CNBC · 10-14 23:03</div><p class="sum">Netflix周三表示，将裁员约6%的员工，即大约1000名员工，根据CNBC获得的一份备忘录。此次裁员将主要影响产品、技术、法律和人力资源团队。Netflix联合首席执行官Ted Sarandos和Greg Peters在信中写道：“我们的使命——娱乐全世界——是雄心勃勃的，要实现这一目标，我们必须对人员和资源的优先排序保持纪律性。”</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Energy/Energy-General/Brookfield-NextEra-to-Build-100-Billion-AI-Hub-on-Cold-War-Nuclear-Site.html" target="_blank" rel="noopener">布鲁克菲尔德、NextEra将在冷战核基地建设价值1000亿美元的人工智能中心</a><div class="meta">OilPrice · 10-15 08:00</div><p class="sum">能源部（DoE）宣布了一项具有里程碑意义的1000亿美元私人投资计划，将位于肯塔基州西部的前铀浓缩厂改造成新的帕杜卡美国能源中心，这标志着肯塔基州历史上最大的一些经济发展项目之一。由U领导。</p></li><li><a href="https://oilprice.com/Energy/Crude-Oil/Oil-Market-Tightens-as-Tanker-Attacks-and-Inventory-Draws-Mount.html" target="_blank" rel="noopener">随着油轮袭击和库存减少增加，石油市场趋紧</a><div class="meta">OilPrice · 10-15 07:00</div><p class="sum">布伦特原油再次超过106美元，伊朗正在加大对霍尔木兹海峡油轮的攻击力度，全球库存正在减少，而OPEC刚刚预测明年的需求将更强。六个月前，总统特朗普在TruthSocial上发的一条及时的帖子本可以安抚交易员。现在，这已不再起作用，因为基本面胜过言辞。在美国与以色列及伊朗之间的战争早期，U。</p></li><li><a href="https://oilprice.com/Energy/Crude-Oil/White-House-Turns-to-Korean-War-Era-Law-as-Diesel-Prices-Stay-Above-6.html" target="_blank" rel="noopener">白宫转向朝鲜战争时期的法律，因为柴油价格维持在每加仑6美元以上</a><div class="meta">OilPrice · 10-15 06:00</div><p class="sum">美国副总统JD·范斯周二表示，美国利用1950年的一项权力来帮助提高德克萨斯州一家小型炼油厂的燃料产量，因为特朗普政府在降低创纪录高燃料价格方面已用尽手段。“我很高兴地宣布，特朗普政府与德莱克炼油厂合作，已动用《国防生产法》，我们将在泰勒就在这里扩大炼油厂规模，...</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/013/279.htm" target="_blank" rel="noopener">消息称字节跳动洽谈采购联发科 AI 芯片用于数据中心，或成其 ASIC 业务第二大客户</a><div class="meta">IT之家·通信安防 · 10-15 11:49</div><p class="sum">IT之家 10 月 15 日消息，据彭博社报道，字节跳动即将达成协议，采购联发科的数据中心芯片。这笔交易既能为字节跳动拿到关键算力元器件，也能帮助联发科与高通展开竞争。知情人士透露，字节跳动正与联发科深入洽谈定制芯片供货事宜，这批芯片将用于支撑字节跳动数据中心运行。联发科将提供数量待定的专用集成电路（ASIC），也就是为客户平台量身定制的芯片。如果交易落地，字节跳动或将成为联发科 ASIC 业务继谷歌（Alphabet）之后的第二大客户。字节跳动正大举增加硬件投入，押注人工智能作为下一增长引擎。但和国内同行阿里巴巴、腾讯一样，其无法采购英伟达等厂商最顶尖的 AI 芯片；而华为等本土芯片厂商也难以完全满足其全部算力需求。因此字节跳动正在寻找替代方案，包括和芯片设计公司合作。在当前美国出口管制规则下，只要中国企业采购的 AI 算力不超过特定阈值，这类合作模式是允许的。</p></li><li><a href="https://www.solidot.org/story?sid=85604" target="_blank" rel="noopener">Ledger 证实其硬件钱包被植入间谍芯片</a><div class="meta">Solidot·通信 · 10-14 14:12</div><p class="sum">提供硬件和软件钱包的 Ledger 公司证实由 CryptoBilis 经销的部分硬件钱包被植入间谍芯片，导致客户钱包里的加密货币被盗，它已经要求 CryptoBilis 停止销售硬件钱包。CryptoBilis 是一家总部位于马来西亚、业务遍及东南亚的大型硬件钱包零售商。CryptoBilis 经销的部分被篡改 Ledger X 钱包售价仅是原型号的一半，Tibane Labs 的安全研究人员对其进行的分析发现，原装电池被替换为体积更小的电池，以腾出空间安装恶意电路。该电池同时为间谍芯片和 Ledger X 供电。恶意电路是一颗基于 Arm Cortex-M4 架构、配备 128 KB 闪存以及采用 UFQFPN32 封装的 ST STM32G431KBU6 芯片，位于电池和天线下方。攻击者在微控制器单元（MCU）旁边安装了一个微型 eSIM，使用一个屏蔽式 LTE 模块发送信号。</p></li><li><a href="https://www.ithome.com/1/013/264.htm" target="_blank" rel="noopener">华硕发布 ExpertBook A7 (14&quot; AMD) 商务轻薄本：锐龙 AI 300 + OLED</a><div class="meta">IT之家·通信安防 · 10-15 11:12</div><p class="sum">IT之家 10 月 15 日消息，华硕 (ASUS) 昨日宣布推出 ExpertBook A7 (14&quot; AMD) 商务轻薄笔记本电脑，型号为 AM7406CKA。 这两款产品 拥有铝合金一体成型机身 ，内置 65Whr 电池，厚度 10.0~11.85mm，起始质量 1.2kg； 配备力反馈玻璃触控板 、1.0mm 键程键盘，集成 FHD 摄像头、指纹识别传感器、2 个 2W 扬声器、2 个阵列麦克风。 其 可选 AMD 锐龙 AI 5 330 / 7 345 处理器 ，板载 12/16GB LPDDR5X 内存，提供至多 512GB M.2 2230 PCIe SSD 存储， 搭配 14&quot; 2880×1800 120Hz 的 True Black 600 认证 OLED 屏幕 （可选雾面 / 镜面）。 该机型支持 Wi-Fi 6E；提供 3 个全功能 USB-C 40Gbps、1 个 USB-A 5Gbps、1 个 HDMI 2.1b (TMDS)、1 个 3.5mm 音频插孔，1 个 Kensington Nano 安全锁孔。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://openai.com/index/amp-beyond-coding" target="_blank" rel="noopener">Amp 利用 OpenAI 模型让 AI 代理在代码之外工作</a><div class="meta">OpenAI / ChatGPT · 10-14 20:00</div><p class="sum">看看 Amp 如何通过 GPT-6 Astra、Ultrafast、GPT-Live-1 和 ChatGPT 登录推动代理的能力边界。</p></li><li><a href="https://www.anthropic.com/news/cyber-verification-program" target="_blank" rel="noopener">Anthropic / Claude：拓展网络验证计划</a><div class="meta">Anthropic / Claude · 10-15 12:06</div><p class="sum">扩展网络验证计划 我们正在启动我们网络验证计划（CVP）的一个新的扩展版本，该版本使符合条件的安全专业人员能够使用高级网络功能和减少阻塞的分类器。该计划现在包含三个访问等级，允许安全团队申请最适合其工作的访问级别。</p></li><li><a href="https://deepmind.google/blog/on-device-ai-scam-detection-mddi/" target="_blank" rel="noopener">Google DeepMind 与新加坡政府合作建立用于诈骗检测的微调人工智能模型</a><div class="meta">Google DeepMind · 10-14 10:00</div><p class="sum">谷歌深度思维（Google DeepMind）与新加坡政府合作构建用于诈骗检测的微调AI模型，与新加坡政府科技局（GovTech Singapore）合作，在不影响隐私的前提下保护用户。投资诈骗、虚假工作机会和冒充公职人员等诈骗行为占新加坡报告的犯罪案件的一半以上，并造成超过40亿新加坡元的损失……</p></li><li><a href="https://www.anthropic.com/news/2026-us-midterms" target="_blank" rel="noopener">Anthropic / Claude：为2026年美国中期选举做准备</a><div class="meta">Anthropic / Claude · 10-15 12:06</div><p class="sum">为2026年美国中期选举做准备 今年早些时候，我们分享了关于选举保障的更新，其中描述了我们如何衡量和防止政治偏见、检测滥用行为以及引导人们获取准确的投票信息。以下内容概述了我们如何在此基础上进一步工作，并在今年美国中期选举之前继续加强我们的选举保障。</p></li><li><a href="https://openai.com/index/sentinelone" target="_blank" rel="noopener">SentinelOne将恶意软件分析时间从数周缩短到数小时</a><div class="meta">OpenAI / ChatGPT · 10-14 20:00</div><p class="sum">通过 OpenAI Daybreak，SentinelOne 将恶意软件分析时间从数周缩短到数小时，从而创造了调查更多威胁的能力。</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/" target="_blank" rel="noopener">双子座4氩气：旨在解决您最困难的问题</a><div class="meta">Google AI Blog · 10-14 00:00</div><p class="sum">双子座 4 Argon：为解决您最困难的问题而打造 双子座 4 Argon 现已通过 AI Studio 和 Gemini 平台的 API 面向全球开发者和企业提供，Google AI Ultra 订阅者可在 Google Antigravity 使用，Google AI Ultra 和 Pro 订阅者可在 Gemini 应用和搜索中的 AI 模式使用。Argon 擅长在包括编程、金融、法律等领域的复杂现实任务中进行深度工作。</p></li><li><a href="https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/" target="_blank" rel="noopener">介绍 PlayGround：创建并玩自定义游戏</a><div class="meta">Google AI Blog · 10-07 20:00</div><p class="sum">介绍 Playground：创建和游玩自定义游戏 游戏是最具创造性的表达形式之一，且游戏社区不断发展壮大。但游戏制作历来仅限于拥有技术经验和复杂游戏引擎知识的特定群体。今天，我们推出 Playground，这是一个实验性的游戏平台，让你可以创建、游玩并分享自定义游戏。</p></li></ul></section><section class="cat"><h2>健康生活</h2><ul><li><a href="https://sspai.com/post/116138" target="_blank" rel="noopener">派早报：苹果发布 HomePod mini 2、HomeView 等新品</a><div class="meta">少数派 · 10-14 08:40</div><p class="sum">Apple 发布 HomePod mini 2、HomeView 等新品 10 月 13 日，Apple 宣布推出新一代智能扬声器 HomePod mini 2。HomePod mini 2 搭载 Apple S10 芯片与计算音频技术，支持基于声学表现实时分析和优化的 360 度音响体验，支持单只使用、立体声组合或多房间音频配置，可作为配备 Wi-Fi 6E 或更高版本 Mac 电脑的默认扬声器；智能交互与安全方面，HomePod mini 2 支持 Siri 语音控制且默认不存储语音请求，可用作家居中枢操控配件及运行自动化，内置烟雾与一氧化碳警报声音识别推送通知，支持联动配件的面容识别；外观方面，HomePod mini 2 提供粉色、绿色、蓝色、白色与午夜色 5 种配色，售价 1099 元，即日起在中国、美国等超过 23 个国家和地区开启预购，10 月 30 日正式发售。</p></li><li><a href="https://sspai.com/post/92653" target="_blank" rel="noopener">已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒</a><div class="meta">少数派 · 10-14 10:00</div><p class="sum">2024 年 9 月，Apple Watch Series 10 发布时，苹果带来了它在健康监测领域的又一尝试。Apple Watch Series 9、Ultra 2 与 SE 3 及更新型号可以在睡眠监测中发现用户呼吸节律的异常，并提醒用户疑似出现夜间呼吸暂停，当然也包括了最新发布的 Apple Watch Series 12 和 Apple Watch Ultra 4。2026 年 9 月 4 日，“移动睡眠呼吸暂停迹象提示软件”获得国家药监局批准，功能于 10 月 14 日在中国大陆正式上线。Apple Watch 为什么要发展这个功能？它和之前的睡眠监测有什么区别？为什么是睡眠呼吸暂停？谁不认识几个睡觉打鼾的人呢？你的家人、室友，澡堂里养神的大爷、上课趴着倒下的同桌，在睡梦中都有可能发出巨大声响——这件事我们曾在《打鼾：你熟悉的夜间惊雷，究竟是什么？</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>ETF 适合新手的原因</strong>：ETF（交易型开放式指数基金）一篮子持股，分散单家公司暴雷风险。半导体/新能源这种高波动行业，用 ETF 比赌单票更适合学习仓。</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【Android 编译】。Gradle一转，茶凉了；再转，饭糊了；还转，人傻了。你写驱动模式、均衡器、歌词翻译，它回你一个依赖冲突，态度比产品经理还硬。社会经验：能跑的别乱动，能动的别升级——升级这词在编程圈跟“改造”在装修圈一个味儿。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>
