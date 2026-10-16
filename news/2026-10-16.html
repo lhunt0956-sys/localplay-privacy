@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年10月16日 12:02 · 共 17 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 偏多；量能：两市合计约 9626 亿元（接口口径），成交中等；行业分化：偏强 燃料电池、风电零部件、石油行业；偏弱 暂无</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3742.66 <span style='color:#0e7c66'>+0.95%</span> · 约4454亿</li><li><strong>深证成指</strong> 11957.07 <span style='color:#0e7c66'>+1.19%</span> · 约5171亿</li><li><strong>创业板指</strong> 2809.90 <span style='color:#0e7c66'>+0.96%</span> · 约884亿</li><li><strong>沪深300</strong> 4197.46 <span style='color:#0e7c66'>+0.75%</span> · 约2392亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>新能源/光伏 · 燃料电池</strong> <span style='color:#0e7c66'>+9.83%</span> · 净流入约0.00亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>新能源/光伏 · 风电零部件</strong> <span style='color:#0e7c66'>+3.53%</span> · 净流入约1.91亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#0e7c66'>+2.18%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>半导体/电子 · 电子信息</strong> <span style='color:#0e7c66'>+1.49%</span><div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>电力/公用 · 供水供气</strong> <span style='color:#0e7c66'>+1.31%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#0e7c66'>+1.00%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>金融/银行 · 金融行业</strong> <span style='color:#0e7c66'>+0.00%</span><div class='meta'>对应工商银行，关注净息差与分红</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 50.320 · 盈亏 <span style='color:#0e7c66'>+1859.36（+58.61%）</span> · 仓位约 45.2%</li><li><strong>长江电力</strong>（600900） 现价 29.370 · 盈亏 <span style='color:#0e7c66'>+240.59（+8.92%）</span> · 仓位约 26.4%</li><li><strong>工商银行</strong>（601398） 现价 8.460 · 盈亏 <span style='color:#0e7c66'>+660.48（+35.18%）</span> · 仓位约 22.8%</li><li><strong>半导体ETF</strong>（159995） 现价 0.935 · 盈亏 <span style='color:#b42318'>-131.00（-41.19%）</span> · 仓位约 1.7%</li><li><strong>300ETF</strong>（510300） 现价 4.270 · 盈亏 <span style='color:#b42318'>-70.00（-14.08%）</span> · 仓位约 3.8%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 11121.00 元，浮动盈亏约 +2559.43 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>今日暂无高相关条目</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/money/fund/jjh/2026-10-16/doc-inivksmm7100215.shtml' target='_blank' rel='noopener'>震荡市看核心宽基！沪深300ETF华泰柏瑞（510300）交投踊跃</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivksmv8273019.shtml' target='_blank' rel='noopener'>韩国业绩领先的基金经理看好AI价值链中的非存储芯片股</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivkwtm7719021.shtml' target='_blank' rel='noopener'>港股午评：恒指涨1.21% 科指涨2.09% 科网股普涨 生物技术板块大涨</a></li></ul><p class='sum'>新手提醒：今天涨不代表明天涨，A股短期走势受情绪影响很大</p></section>
+    
+    <section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html" target="_blank" rel="noopener">美国银行雇佣了 1,000 名承包商来修补 Anthropic 神话暴露的软件缺陷</a><div class="meta">CNBC · 10-15 04:06</div><p class="sum">美国银行首席执行官布莱恩·莫伊尼汉 (Brian Moynihan) 周三向 CNBC 表示，美国银行已聘请了一批外部承包商来帮助其修复由 Anthropic 的 Mythos 等先进人工智能模型暴露的软件漏洞。 在该银行第三季度收益发布后接受采访时，莫伊尼汉表示，今年早些时候，该公司急于加强其内部和供应商代码的广泛范围......</p></li><li><a href="https://www.ftchinese.com/story/001111109" target="_blank" rel="noopener">苹果诉OpenAI窃取商业机密案首次举行听证会</a><div class="meta">FT 中文网 · 10-15 00:00</div><p class="sum">苹果指控OpenAI及两名前苹果员工窃取其商业机密。这起震动硅谷的重磅诉讼首次举行实质性公开听证会。双方曾在两年前结成合作伙伴关系。</p></li><li><a href="https://www.cnbc.com/2026/10/14/netflix-layoffs.html" target="_blank" rel="noopener">Netflix 将裁员约 1,000 名员工，占员工总数的 6%</a><div class="meta">CNBC · 10-14 23:03</div><p class="sum">根据 CNBC 获得的一份备忘录，Netflix 周三表示，将裁员约 6% 的员工，即约 1,000 名员工。 裁员将在很大程度上影响产品、技术、法律和人力资源团队。 Netflix 联合首席执行官特德·萨兰多斯 (Ted Sarandos) 和格雷格·彼得斯 (Greg Peters) 在信中写道：“我们的使命——娱乐世界——雄心勃勃，要实现这一使命，我们需要严格遵守人员和资源的优先顺序。”</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Energy/Energy-General/WTI-Outpaces-Brent-as-US-Crude-Draw-Ignites-Fresh-Buying.html" target="_blank" rel="noopener">由于美国原油供应引发新的买盘，WTI 价格超过布伦特原油</a><div class="meta">OilPrice · 10-16 11:10</div><p class="sum">由于美国库存消耗超过了供应救济，原油价格上涨 11 月 WTI 原油期货截至周四晚间的一周大幅上涨。 这一收益并非来自一个标题。 市场本周一直在应对霍尔木兹海峡附近的油轮袭击、俄罗斯炼油厂再次遭受袭击、紧急库存释放以及有关在先前受制裁的船只上运输合法石油的新讨论。</p></li><li><a href="https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Trumps-Russian-Diesel-Wont-Add-New-Supply.html" target="_blank" rel="noopener">渣打银行：特朗普的俄罗斯柴油机不会增加新供应</a><div class="meta">OilPrice · 10-16 08:00</div><p class="sum">周四交易时段油价涨跌互现，美国放松对俄罗斯原油限制的前景有助于缓解国际基准，而中东船只遇袭则提供支撑。 美国东部时间下午 2 点 49 分，12 月交割的布伦特原油下跌 0. 2%，至每桶 106 美元，而 11 月交割的 WTI 原油则上涨 3. %。</p></li><li><a href="https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crunch-Will-Persist-Well-into-2027.html" target="_blank" rel="noopener">柴油紧缺将持续到 2027 年</a><div class="meta">OilPrice · 10-16 07:00</div><p class="sum">最近从霍尔木兹海峡流出的原油流量增加并没有解决世界上最紧迫的燃料问题——柴油紧缩和创纪录的柴油价格开始影响更广泛的经济。 虽然中东原油流量接近战前水平，但由于中东和俄罗斯炼油厂的限制，全球柴油供应量要低得多，而世界其他地区无法抵消。</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/013/822.htm" target="_blank" rel="noopener">第九届进博会 11 月 5 日在上海开幕，首发首展首秀数量创新高、场馆实现 Wi-Fi 7 网络全覆盖</a><div class="meta">IT之家·通信安防 · 10-16 11:26</div><p class="sum">IT之家 10 月 16 日消息，国务院新闻办公室今日举行新闻发布会，介绍第九届中国国际进口博览会筹备情况，并答记者问。据央视新闻报道，发布会上介绍， 第九届进博会将于 11 月 5 日至 10 日在上海举办 ，虹桥论坛将同期举办。目前，各项筹备基本就绪，将有 162 个国家、地区和国际组织参与，4,142 家境外企业参展， 整体面积首次超过 44 万平方米 。发布会上介绍，第九届进博会多项数据再创新高： 从规模看，企业展面积首次突破 37 万平方米。从展商看， 世界 500 强和行业龙头企业首次超过 300 家 ，九届“全勤”的企业和机构近 200 家；首次参展的“新面孔”企业超 2,000 家。从展品看，截至目前，全球首发、亚洲首展、中国首秀的代表性展品 超过 480 件，创历年新高 。另一方面，多项举措首次实施： 首次推出主宾国和“出口中国”年度主题国专属“权益包”，量身打造支持举措与服务，协同场馆周边商圈开展主宾国主题日活动，创新策划“馆内 + 馆外”展城联动；</p></li><li><a href="https://www.ithome.com/1/013/813.htm" target="_blank" rel="noopener">全球首次，爱立信、Verizon 宣布完成室外 6G 通话测试</a><div class="meta">IT之家·通信安防 · 10-16 11:22</div><p class="sum">IT之家 10 月 16 日消息，美国电信运营商 Verizon 与爱立信宣布，双方在加利福尼亚州康科德市的一处 Verizon 商用网络站点，利用 7GHz 频段完成了 全球首次 6G 预标准技术现场通话测试 。根据爱立信当地时间 15 日发布的新闻稿，爱立信的 6G 概念验证设备完成现场部署并通过验证，让 6G 技术 走出实验室 ，进入真实环境接受测试。双方不仅能够评估室外网络性能，还可以研究无线信号穿过建筑物进入室内后的表现。IT之家注：“预标准 6G 技术”指 正式技术标准尚未确定、仍处于早期研发和测试阶段 的 6G 技术。此次测试使用的爱立信 6G 概念验证设备，位于 Verizon 位于康科德市的商用网络站点。基站设在机房内，用户终端则放置在一座长约 3.7m、宽约 2.4m 的移动小屋中，可支持室内外两种固定无线测试配置。</p></li><li><a href="https://www.solidot.org/story?sid=85616" target="_blank" rel="noopener">美国八个州起诉 OpenAI 称 ChatGPT 伤害年轻用户</a><div class="meta">Solidot·通信 · 10-15 14:12</div><p class="sum">堪萨斯州、亚利桑那州和蒙大拿州等美国八个州对 OpenAI 提起诉讼，指控 ChatGPT 诱导儿童自我伤害。八个州要求 OpenAI 改变其产品与年轻用户互动的方式，没收由此产生的利润。诉讼指出 ChatGPT 的设计初衷是通过表现得随和、善于互动去赢得用户信任。但诉讼称聊天机器人会强化妄想、鼓励危险行为，协助用户策划诸如大规模枪击之类的暴力行为。诉讼指控 OpenAI 在 ChatGPT 的安全性上误导用户，违反了各州的消费者保护法。它们还指控 OpenAI 因危及当地居民的健康而构成了公害。诉讼要求法院下令强制 OpenAI 对其产品 ChatGPT 的工作方式进行整改。其中一项要求是除非 OpenAI 能确保其 AI 模型符合人类价值观，否则应禁止其开发具备自我完善能力的 AI 模型。这些州还寻求对 OpenAI 违反州法的行为处以民事罚款，要求对损害赔偿。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://openai.com/index/amp-beyond-coding" target="_blank" rel="noopener">Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作</a><div class="meta">OpenAI / ChatGPT · 10-14 20:00</div><p class="sum">了解 Amp 如何利用 GPT-6 Astra、Ultrafast、GPT-Live-1 和 ChatGPT 登录来拓展代理功能的前沿。</p></li><li><a href="https://www.anthropic.com/news/cyber-verification-program" target="_blank" rel="noopener">Anthropic / Claude：扩大网络验证计划</a><div class="meta">Anthropic / Claude · 10-16 12:02</div><p class="sum">扩展网络验证计划我们正在推出新的扩展版本的网络验证计划 (CVP)，它为合格的安全专业人员提供先进的网络功能和减少的阻止分类器。 该计划现在由三个访问层组成，允许安全团队申请最适合其工作的访问级别。</p></li><li><a href="https://deepmind.google/blog/on-device-ai-scam-detection-mddi/" target="_blank" rel="noopener">Google DeepMind 与新加坡政府合作构建用于诈骗检测的微调人工智能模型</a><div class="meta">Google DeepMind · 10-14 10:00</div><p class="sum">Google DeepMind 和新加坡政府合作构建用于诈骗检测的微调 AI 模型 与新加坡政府技术局 (GovTech Singapore) 合作，在不损害隐私的情况下保护用户。 投资欺诈、虚假工作机会和冒充公职人员等诈骗行为占新加坡举报犯罪的一半以上，造成的损失超过 40 亿新元……</p></li><li><a href="https://www.anthropic.com/news/2026-us-midterms" target="_blank" rel="noopener">Anthropic / 克劳德：为2026年美国中期选举做准备</a><div class="meta">Anthropic / Claude · 10-16 12:02</div><p class="sum">为 2026 年美国中期选举做准备 今年早些时候，我们分享了选举保障措施的最新信息，其中描述了我们如何衡量和防止政治偏见、发现滥用行为以及引导人们获取准确的投票信息。 下面，我们概述了我们如何在这项工作的基础上继续加强我们在今年美国中期选举之前的选举保障措施。</p></li><li><a href="https://openai.com/index/sullivan-cromwell" target="_blank" rel="noopener">沙利文克伦威尔将法律专业知识纳入协议审查</a><div class="meta">OpenAI / ChatGPT · 10-15 08:00</div><p class="sum">Sullivan &amp; Cromwell 与 OpenAI 合作开发了协议分析器，这是一种用于识别协议草案中问题的人工智能工具。</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/" target="_blank" rel="noopener">Gemini 4 Argon：专为解决您最棘手的问题而打造</a><div class="meta">Google AI Blog · 10-14 00:00</div><p class="sum">Gemini 4 Argon：专为解决您最棘手的问题而打造 Gemini 4 Argon 现已在全球范围内通过 AI Studio 和 Gemini 平台中的 API、Google Antigravity 中的 Google AI Ultra 订阅者、Gemini 应用程序中的 Google AI Ultra 和 Pro 订阅者以及搜索中的 AI 模式向全球开放。 Argon 擅长跨领域复杂的现实任务的深度工作，包括编码、金融、法律……</p></li><li><a href="https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/" target="_blank" rel="noopener">Playground 简介：创建和玩自定义游戏</a><div class="meta">Google AI Blog · 10-07 20:00</div><p class="sum">Playground 简介：创建和玩自定义游戏 游戏是最具创意的表达形式之一，并且游戏社区不断发展。 但游戏创作历来仅限于拥有复杂游戏引擎技术经验和知识的精选人群。 今天，我们将推出 Playground，这是一个实验性游戏平台，可让您创建、玩和共享自定义游戏。</p></li></ul></section><section class="cat"><h2>健康生活</h2><ul><li><a href="https://sspai.com/post/116182" target="_blank" rel="noopener">学得会的快捷指令，零基础入门苹果效率魔法</a><div class="meta">少数派 · 10-15 14:30</div><p class="sum">快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在 iPhone / Mac 上频繁手动操作，可以节省大量时间。然而想要熟练掌握快捷指令，并非易事。尽管自诞生起就因可视化编程的理念，降低了入门门槛，被苹果收购后更是大幅提升模块的易用性，但快捷指令的底色一直是编程类工具，需要用户掌握类似变量、判断、循环等基本编程语法和思维。现有不少的快捷指令教程，则偏重展示其功能的强大，甚至部分快捷指令的构成有走向“炫技”，忽视了想入门用户的真实需求——弄懂核心模块的使用逻辑，学会写出一条对自己有用的快捷指令——更是进一步提升了入门的难度。这些用户从入坑到放弃的经历，逐渐演变成了“人人都夸快捷指令强大，为什么我就是觉得不好用”的困惑。少数派一直是中文互联网内讨论快捷指令的聚集地，我们有专门的页面提供快捷指令下载，会员中的“曲径通幽”栏目，也一直在更新高质量的快捷指令内容。</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>T+1 是什么</strong>：A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>
