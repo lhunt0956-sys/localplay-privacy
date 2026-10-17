@@ -1,29 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-10-16T12:02:36.488511+08:00",
+  "generated_at": "2026-10-17T11:53:15.819334+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 17,
+  "count": 18,
   "items": [
     {
-      "title": "Amp 让 AI 代理能够通过 OpenAI 模型超越代码进行工作",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-10-14T12:00:00+00:00",
-      "summary": "了解 Amp 如何利用 GPT-6 Astra、Ultrafast、GPT-Live-1 和 ChatGPT 登录来拓展代理功能的前沿。",
-      "score": 65,
-      "original_title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "translated": true,
-      "priority": 0,
-      "uid": "d257200d7f9b"
-    },
-    {
-      "title": "Anthropic / Claude：扩大网络验证计划",
+      "title": "Anthropic / Claude：拓展网络验证计划",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-16T04:02:55+00:00",
-      "summary": "扩展网络验证计划我们正在推出新的扩展版本的网络验证计划 (CVP)，它为合格的安全专业人员提供先进的网络功能和减少的阻止分类器。 该计划现在由三个访问层组成，允许安全团队申请最适合其工作的访问级别。",
+      "published": "2026-10-17T03:53:32+00:00",
+      "summary": "扩展网络验证计划 我们正在推出我们网络验证计划（CVP）的一个新的扩展版本，该版本使符合条件的安全专业人员能够使用高级网络功能和减少阻塞的分类器。该计划现在包含三个访问等级，允许安全团队申请最适合其工作的访问级别。",
       "score": 60,
       "original_title": "Anthropic / Claude：Expanding the Cyber Verification Program",
       "translated": true,
@@ -31,12 +18,25 @@
       "uid": "7e18c717c5a4"
     },
     {
+      "title": "Itaú 如何为其整个客户群构建生成式人工智能",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-10-16T19:00:00+00:00",
+      "summary": "通过 ia.i 对话界面和 IARA 治理平台，Itaú 正在将其 AI First 战略应用于客户和员工——在巴西监管最严格的行业之一。",
+      "score": 55,
+      "original_title": "How Itaú is building generative AI for its entire customer base",
+      "translated": true,
+      "priority": 0,
+      "uid": "1779c240f89f"
+    },
+    {
       "title": "Google DeepMind 与新加坡政府合作构建用于诈骗检测的微调人工智能模型",
       "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-10-14T02:00:14+00:00",
-      "summary": "Google DeepMind 和新加坡政府合作构建用于诈骗检测的微调 AI 模型 与新加坡政府技术局 (GovTech Singapore) 合作，在不损害隐私的情况下保护用户。 投资欺诈、虚假工作机会和冒充公职人员等诈骗行为占新加坡举报犯罪的一半以上，造成的损失超过 40 亿新元……",
+      "summary": "谷歌DeepMind与新加坡政府合作构建用于诈骗检测的微调人工智能模型，与新加坡政府科技局（GovTech Singapore）合作，在不影响隐私的前提下保护用户。投资欺诈、虚假职位提供以及冒充公职人员等诈骗行为占新加坡报告犯罪的一半以上，并造成超过40亿新元的损失……",
       "score": 50,
       "original_title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "translated": true,
@@ -44,12 +44,38 @@
       "uid": "6d8fd330d7b2"
     },
     {
-      "title": "Anthropic / 克劳德：为2026年美国中期选举做准备",
+      "title": "纯血鸿蒙智行再进化？曝智界独立造车资质备案中，通过后新车尾标将变更为“智界汽车”",
+      "link": "https://www.ithome.com/1/014/253.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-17T03:01:09+00:00",
+      "summary": "IT之家 10 月 17 日消息，工信部昨晚发布了《道路机动车辆生产企业及产品公告》（第 412 批）拟发布的新准入车辆生产企业及已准入企业变更信息清单，安徽智界新能源汽车有限公司在列。据博主 @未来的学习笔记 解读，智界的独立造车资质已经在备案中了，通过之后， 新车尾标就会变成“智界汽车” 。作为参考，现阶段智界汽车的尾标为“奇瑞汽车”。据IT之家此前报道，去年 7 月，智界产品总监 @智界海蓝天 发文，提出了“纯血鸿蒙智行”概念。该产品总监表示，2025 年发布的全新智界 R7 / S7 是智界品牌战略 2.0 首发之作、100% 纯血鸿蒙智行， 由华为全栈技术深度赋能 。另外，奇瑞汽车去年 8 月与华为在深圳进行了智界品牌战略 2.0 合作协议签约。随后，智界汽车官方微博发文宣布： 智界品牌正式进入 2.",
+      "score": 85,
+      "original_title": "",
+      "translated": false,
+      "priority": 60,
+      "uid": "8afac710fbb3"
+    },
+    {
+      "title": "“台积电的获利能力没有上限”，魏哲家称 AI 需求持续升温、供需缺口仍大",
+      "link": "https://www.ithome.com/1/014/249.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-17T02:42:06+00:00",
+      "summary": "IT之家 10 月 17 日消息，据台媒经济日报昨日报道，台积电董事长兼总裁魏哲家在 15 日举行的说法会上， 高喊 AI 需求持续升温，供需缺口仍大 ，并表示台积电本季度美元营收继续创新高，全年美元营收同比增长约 44%。 魏哲家强调，台积电全力以赴扩产，市场需求非常强劲且持续成长，“ 台积电的获利能力没有上限 ”，但也不会一蹴可几，台积电的理念和策略始终是与客户合作，希望帮助客户成功，然后才能实现自身价值。 魏哲家表示，AI 应用正由聊天机器人走向 AI 助理，AI 智能体使用率增加，开源模型普及也有助提升效率、降低使用门槛，带动更多先进芯片需求。除了 AI 加速器，AI 中央处理器（CPU）与网络通信芯片需求也持续增加，为台积电与客户创造更多商机。 据IT之家此前报道， 台积电 2026 年第三季度净利润 7,630.6 亿元新台币 （IT之家注：现汇率约合 1,577.25 亿元人民币） ，同比增长 68.7%；台积电第三季度毛利率为 66.4%，营业利润率为 58.7%，净利润率为 51.1%。",
+      "score": 70,
+      "original_title": "",
+      "translated": false,
+      "priority": 40,
+      "uid": "49ba6f87e4a2"
+    },
+    {
+      "title": "Anthropic / Claude：为2026年美国中期选举做准备",
       "link": "https://www.anthropic.com/news/2026-us-midterms",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-16T04:02:55+00:00",
-      "summary": "为 2026 年美国中期选举做准备 今年早些时候，我们分享了选举保障措施的最新信息，其中描述了我们如何衡量和防止政治偏见、发现滥用行为以及引导人们获取准确的投票信息。 下面，我们概述了我们如何在这项工作的基础上继续加强我们在今年美国中期选举之前的选举保障措施。",
+      "published": "2026-10-17T03:53:32+00:00",
+      "summary": "为2026年美国中期选举做准备 今年早些时候，我们分享了关于选举保障的更新，其中描述了我们如何衡量和防止政治偏见、检测滥用行为以及引导人们获取准确的投票信息。以下内容概述了我们如何在此基础上进一步工作，并在今年美国中期选举之前继续加强我们的选举保障。",
       "score": 60,
       "original_title": "Anthropic / Claude：Preparing for the 2026 US midterms",
       "translated": true,
@@ -57,64 +83,51 @@
       "uid": "1e88e048d713"
     },
     {
-      "title": "沙利文克伦威尔将法律专业知识纳入协议审查",
-      "link": "https://openai.com/index/sullivan-cromwell",
+      "title": "工信部副部长熊继军：上半年储能电池产量超 420GWh，坚决防范“内卷式”竞争",
+      "link": "https://www.ithome.com/1/014/252.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-10-17T02:57:15+00:00",
+      "summary": "IT之家 10 月 17 日消息，10 月 15 日，2026 世界储能大会在福建宁德开幕。世界储能大会已在宁德举办三届，累计吸引 50 余个国家和地区的政府部门、知名专家、企业高管及行业机构等代表参会。 据中证金牛座报道，工业和信息化部副部长熊继军在致辞中表示，我国新型储能产业发展成效显著，下一步将统筹发展与安全，强化技术创新，坚持需求牵引，共建全球生态， 坚决防范“内卷式”竞争 ，推动行业从规模扩张向创新引领转变。 据介绍，从产业规模看， 2026 年上半年储能电池产量超过 420 吉瓦时（GWh） ，同比增长 110%；截至 2026 年 6 月底，新型储能累计装机超过 1.53 亿千瓦，较“十四五”初期增长 50 倍。 IT之家注意到，官方已经多次强调治理“内卷式”竞争，今年 4 月， 工信部等四部门召开动力及储能电池行业企业座谈会 ，强调 坚决抵制不合理、不正当竞争行为 ，维护健康有序市场环境。",
+      "score": 55,
+      "original_title": "",
+      "translated": false,
+      "priority": 35,
+      "uid": "b8a8a4f64e87"
+    },
+    {
+      "title": "针对代理的 Stack Overflow 通过 ChatGPT 插件实现注册量三倍增长",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-10-15T00:00:00+00:00",
-      "summary": "Sullivan & Cromwell 与 OpenAI 合作开发了协议分析器，这是一种用于识别协议草案中问题的人工智能工具。",
-      "score": 60,
-      "original_title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "两名工程师在几周内使用 Codex 推出了 Stack Overflow for Agents，其 ChatGPT 插件帮助推动了最多 10 倍的代理创建增长。",
+      "score": 55,
+      "original_title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "translated": true,
       "priority": 0,
-      "uid": "b5361f00b4cc"
+      "uid": "81c659edf9c3"
     },
     {
-      "title": "第九届进博会 11 月 5 日在上海开幕，首发首展首秀数量创新高、场馆实现 Wi-Fi 7 网络全覆盖",
-      "link": "https://www.ithome.com/1/013/822.htm",
+      "title": "行业首个基于确定性网络的智能体互联平台 AXP 在南京发布：支持百万级智能体注册接入、十万级智能体同时运行",
+      "link": "https://www.ithome.com/1/014/259.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-16T03:26:12+00:00",
-      "summary": "IT之家 10 月 16 日消息，国务院新闻办公室今日举行新闻发布会，介绍第九届中国国际进口博览会筹备情况，并答记者问。据央视新闻报道，发布会上介绍， 第九届进博会将于 11 月 5 日至 10 日在上海举办 ，虹桥论坛将同期举办。目前，各项筹备基本就绪，将有 162 个国家、地区和国际组织参与，4,142 家境外企业参展， 整体面积首次超过 44 万平方米 。发布会上介绍，第九届进博会多项数据再创新高： 从规模看，企业展面积首次突破 37 万平方米。从展商看， 世界 500 强和行业龙头企业首次超过 300 家 ，九届“全勤”的企业和机构近 200 家；首次参展的“新面孔”企业超 2,000 家。从展品看，截至目前，全球首发、亚洲首展、中国首秀的代表性展品 超过 480 件，创历年新高 。另一方面，多项举措首次实施： 首次推出主宾国和“出口中国”年度主题国专属“权益包”，量身打造支持举措与服务，协同场馆周边商圈开展主宾国主题日活动，创新策划“馆内 + 馆外”展城联动；",
-      "score": 45,
-      "original_title": "",
-      "translated": false,
-      "priority": 30,
-      "uid": "9406c3276b58"
-    },
-    {
-      "title": "全球首次，爱立信、Verizon 宣布完成室外 6G 通话测试",
-      "link": "https://www.ithome.com/1/013/813.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-16T03:22:50+00:00",
-      "summary": "IT之家 10 月 16 日消息，美国电信运营商 Verizon 与爱立信宣布，双方在加利福尼亚州康科德市的一处 Verizon 商用网络站点，利用 7GHz 频段完成了 全球首次 6G 预标准技术现场通话测试 。根据爱立信当地时间 15 日发布的新闻稿，爱立信的 6G 概念验证设备完成现场部署并通过验证，让 6G 技术 走出实验室 ，进入真实环境接受测试。双方不仅能够评估室外网络性能，还可以研究无线信号穿过建筑物进入室内后的表现。IT之家注：“预标准 6G 技术”指 正式技术标准尚未确定、仍处于早期研发和测试阶段 的 6G 技术。此次测试使用的爱立信 6G 概念验证设备，位于 Verizon 位于康科德市的商用网络站点。基站设在机房内，用户终端则放置在一座长约 3.7m、宽约 2.4m 的移动小屋中，可支持室内外两种固定无线测试配置。",
-      "score": 40,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "adbc83d611f5"
-    },
-    {
-      "title": "美国八个州起诉 OpenAI 称 ChatGPT 伤害年轻用户",
-      "link": "https://www.solidot.org/story?sid=85616",
-      "source": "Solidot·通信",
-      "category": "通信与安防",
-      "published": "2026-10-15T06:12:47+00:00",
-      "summary": "堪萨斯州、亚利桑那州和蒙大拿州等美国八个州对 OpenAI 提起诉讼，指控 ChatGPT 诱导儿童自我伤害。八个州要求 OpenAI 改变其产品与年轻用户互动的方式，没收由此产生的利润。诉讼指出 ChatGPT 的设计初衷是通过表现得随和、善于互动去赢得用户信任。但诉讼称聊天机器人会强化妄想、鼓励危险行为，协助用户策划诸如大规模枪击之类的暴力行为。诉讼指控 OpenAI 在 ChatGPT 的安全性上误导用户，违反了各州的消费者保护法。它们还指控 OpenAI 因危及当地居民的健康而构成了公害。诉讼要求法院下令强制 OpenAI 对其产品 ChatGPT 的工作方式进行整改。其中一项要求是除非 OpenAI 能确保其 AI 模型符合人类价值观，否则应禁止其开发具备自我完善能力的 AI 模型。这些州还寻求对 OpenAI 违反州法的行为处以民事罚款，要求对损害赔偿。",
+      "published": "2026-10-17T03:30:28+00:00",
+      "summary": "IT之家 10 月 17 日消息，10 月 16 日， 第十届未来网络发展大会 在南京上秦淮国际文化交流中心开幕。行业首个基于确定性网络的智能体互联平台 AXP 正式发布。 紫金山实验室联合中国移动、江苏未来网络集团、江苏省未来网络创新研究院联合研发，发布 基于确定性网络 （指在一个网络域内给承载的业务提供确定性业务保证的能力） 的智能体互联平台 AXP ，可实现智算网深度融合调度、异构智能体协议统一转换， 支持百万级智能体注册接入、十万级智能体同时在线运行 ，达成秒级故障感知切换、百毫秒级语义寻址响应。 IT之家获悉，依托国家级未来网络试验设施（CENI），平台可完成 4000 公里以上跨域高精度智能体寻址访问，有效降低 20% 以上端到端任务执行耗时。 目前，紫金山实验室已联合电信运营商、通信设备企业、大型钢铁制造企业等多方主体，开展多场景智能体联合测试与产业化验证。 此次平台的成功发布，标志着我国在智能体互联网新型基础设施建设领域取得关键性技术突破，为人工智能跨域协同、规模化落地应用提供了坚实的网络支撑。",
       "score": 30,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "34ea7a6b1c2d"
+      "uid": "5701b1a6debe"
     },
     {
-      "title": "美国银行雇佣了 1,000 名承包商来修补 Anthropic 神话暴露的软件缺陷",
+      "title": "美国银行雇佣了1000名承包商来修补Anthropic的Mythos暴露的软件漏洞",
       "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-10-14T20:06:28+00:00",
-      "summary": "美国银行首席执行官布莱恩·莫伊尼汉 (Brian Moynihan) 周三向 CNBC 表示，美国银行已聘请了一批外部承包商来帮助其修复由 Anthropic 的 Mythos 等先进人工智能模型暴露的软件漏洞。 在该银行第三季度收益发布后接受采访时，莫伊尼汉表示，今年早些时候，该公司急于加强其内部和供应商代码的广泛范围......",
+      "summary": "美国银行已雇佣大量外部承包商来帮助其修补由包括Anthropic的Mythos在内的先进人工智能模型揭示的软件漏洞，该行首席执行官布赖恩·莫伊尼汉（Brian Moynihan）周三告诉CNBC。在银行发布第三季度财报后的采访中，莫伊尼汉表示，今年早些时候，公司急于加强其内部和供应商代码的广泛范围……",
       "score": 20,
       "original_title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
       "translated": true,
@@ -135,56 +148,56 @@
       "uid": "b293cd415da3"
     },
     {
-      "title": "Netflix 将裁员约 1,000 名员工，占员工总数的 6%",
-      "link": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+      "title": "Rystad表示，全球能源进口依赖预计将在2034年达到峰值",
+      "link": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-16T22:00:00+00:00",
+      "summary": "Rystad Energy 第五版其旗舰年度报告《全球能源情景 (GES) 2026》发现，随着对能源安全的关注加快向电气化转变，全球对进口能源的依赖预计将于 2034 年达到顶峰。在五年内发生两次重大能源危机的背景下，该报告突出了更广泛的可快速部署技术如何帮助能源系统应对不确定性和波动。",
+      "score": 15,
+      "original_title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
+      "translated": true,
+      "priority": 0,
+      "uid": "f3b96f796253"
+    },
+    {
+      "title": "这是 Netflix 刚请来负责内容的人——以及这对该流媒体平台意味着什么",
+      "link": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-10-14T15:03:59+00:00",
-      "summary": "根据 CNBC 获得的一份备忘录，Netflix 周三表示，将裁员约 6% 的员工，即约 1,000 名员工。 裁员将在很大程度上影响产品、技术、法律和人力资源团队。 Netflix 联合首席执行官特德·萨兰多斯 (Ted Sarandos) 和格雷格·彼得斯 (Greg Peters) 在信中写道：“我们的使命——娱乐世界——雄心勃勃，要实现这一使命，我们需要严格遵守人员和资源的优先顺序。”",
-      "score": 20,
-      "original_title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+      "published": "2026-10-16T19:40:00+00:00",
+      "summary": "Netflix 正在重组其高管团队，以努力解决参与度下滑的问题。周四，这家流媒体巨头宣布，前迪士尼高管彼得·赖斯（Peter Rice）将接任公司首席内容官，负责监督全球内容组织，包括有剧情和无剧情系列、电影及直播活动。赖斯将接替在 Netflix 工作了十年的资深人士贝拉·巴贾里亚（Bela Bajaria），她最近领导公司的全球内容部门...",
+      "score": 15,
+      "original_title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
       "translated": true,
       "priority": 0,
-      "uid": "f6c6c6a3ceb5"
+      "uid": "a27ef4369c5e"
     },
     {
-      "title": "由于美国原油供应引发新的买盘，WTI 价格超过布伦特原油",
-      "link": "https://oilprice.com/Energy/Energy-General/WTI-Outpaces-Brent-as-US-Crude-Draw-Ignites-Fresh-Buying.html",
+      "title": "挪威尚未开发的石油和天然气前沿正在吸引新的关注",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-16T03:10:00+00:00",
-      "summary": "由于美国库存消耗超过了供应救济，原油价格上涨 11 月 WTI 原油期货截至周四晚间的一周大幅上涨。 这一收益并非来自一个标题。 市场本周一直在应对霍尔木兹海峡附近的油轮袭击、俄罗斯炼油厂再次遭受袭击、紧急库存释放以及有关在先前受制裁的船只上运输合法石油的新讨论。",
+      "published": "2026-10-16T19:00:00+00:00",
+      "summary": "在挪威开放挪威海部分地区进行石油勘探三十多年后，潜在的重要油气资源仍隐藏在厚厚的火山岩层下。如今，勘探技术的进步和行业兴趣的重新兴起，可能会使欧洲最少开发的海上前沿地区之一重新成为关注焦点。",
       "score": 15,
-      "original_title": "WTI Outpaces Brent as U.S. Crude Draw Ignites Fresh Buying",
+      "original_title": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
       "translated": true,
       "priority": 0,
-      "uid": "f543e26afd18"
+      "uid": "dac2fadc0544"
     },
     {
-      "title": "渣打银行：特朗普的俄罗斯柴油机不会增加新供应",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Trumps-Russian-Diesel-Wont-Add-New-Supply.html",
+      "title": "随着燃料危机加剧，美国又提供了1,700万桶战略石油储备",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "周四交易时段油价涨跌互现，美国放松对俄罗斯原油限制的前景有助于缓解国际基准，而中东船只遇袭则提供支撑。 美国东部时间下午 2 点 49 分，12 月交割的布伦特原油下跌 0. 2%，至每桶 106 美元，而 11 月交割的 WTI 原油则上涨 3. %。",
+      "published": "2026-10-16T18:30:00+00:00",
+      "summary": "全球石油库存处于危险状态……埃斯康迪达和森蒂内拉发生罢工……美国正在提供另外1700万桶战略石油储备原油，就在国际能源署加快紧急库存释放的一天之后，各国政府争相将更多石油和燃料投入紧张市场。",
       "score": 15,
-      "original_title": "Standard Chartered: Trump's Russian Diesel Won't Add New Supply",
+      "original_title": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
       "translated": true,
       "priority": 0,
-      "uid": "f6a1a43b98ef"
-    },
-    {
-      "title": "柴油紧缺将持续到 2027 年",
-      "link": "https://oilprice.com/Energy/Crude-Oil/The-Diesel-Crunch-Will-Persist-Well-into-2027.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-15T23:00:00+00:00",
-      "summary": "最近从霍尔木兹海峡流出的原油流量增加并没有解决世界上最紧迫的燃料问题——柴油紧缩和创纪录的柴油价格开始影响更广泛的经济。 虽然中东原油流量接近战前水平，但由于中东和俄罗斯炼油厂的限制，全球柴油供应量要低得多，而世界其他地区无法抵消。",
-      "score": 15,
-      "original_title": "The Diesel Crunch Will Persist Well into 2027",
-      "translated": true,
-      "priority": 0,
-      "uid": "3210787b1680"
+      "uid": "aae7c3ff719f"
     },
     {
       "title": "学得会的快捷指令，零基础入门苹果效率魔法",
@@ -200,12 +213,12 @@
       "uid": "de53889f24e1"
     },
     {
-      "title": "Gemini 4 Argon：专为解决您最棘手的问题而打造",
+      "title": "双子座4氩气：旨在解决您最棘手的问题",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-13T16:00:00+00:00",
-      "summary": "Gemini 4 Argon：专为解决您最棘手的问题而打造 Gemini 4 Argon 现已在全球范围内通过 AI Studio 和 Gemini 平台中的 API、Google Antigravity 中的 Google AI Ultra 订阅者、Gemini 应用程序中的 Google AI Ultra 和 Pro 订阅者以及搜索中的 AI 模式向全球开放。 Argon 擅长跨领域复杂的现实任务的深度工作，包括编码、金融、法律……",
+      "summary": "双子座 4 Argon：为解决您最困难的问题而打造 双子座 4 Argon 现已通过 AI Studio 和 Gemini 平台的 API 面向全球开发者和企业提供，Google AI Ultra 订阅者可在 Google Antigravity 使用，Google AI Ultra 和 Pro 订阅者可在 Gemini 应用和搜索中的 AI 模式使用。Argon 擅长在包括编程、金融、法律等领域的复杂现实任务中进行深度工作。",
       "score": 15,
       "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
       "translated": true,
@@ -213,12 +226,12 @@
       "uid": "e879be1befb7"
     },
     {
-      "title": "Playground 简介：创建和玩自定义游戏",
+      "title": "介绍 PlayGround：创建并玩自定义游戏",
       "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-07T12:00:00+00:00",
-      "summary": "Playground 简介：创建和玩自定义游戏 游戏是最具创意的表达形式之一，并且游戏社区不断发展。 但游戏创作历来仅限于拥有复杂游戏引擎技术经验和知识的精选人群。 今天，我们将推出 Playground，这是一个实验性游戏平台，可让您创建、玩和共享自定义游戏。",
+      "summary": "介绍 Playground：创建和游玩自定义游戏 游戏是最具创造性的表达形式之一，并且游戏社区在不断壮大。但游戏创作历来只限于拥有技术经验和复杂游戏引擎知识的少数人群。今天，我们推出了 Playground，这是一个实验性游戏平台，让你可以创建、游玩和分享自定义游戏。",
       "score": 10,
       "original_title": "Introducing Playground: Create and play custom games",
       "translated": true,
@@ -230,31 +243,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3742.6561,
-        "change": 35.1801,
-        "pct": 0.95,
-        "amount_yi": 4454.06
+        "price": 3716.2842,
+        "change": 8.8082,
+        "pct": 0.24,
+        "amount_yi": 7324.75
       },
       {
         "name": "深证成指",
-        "price": 11957.07,
-        "change": 140.286,
-        "pct": 1.19,
-        "amount_yi": 5171.44
+        "price": 11802.46,
+        "change": -14.329,
+        "pct": -0.12,
+        "amount_yi": 8229.39
       },
       {
         "name": "创业板指",
-        "price": 2809.9,
-        "change": 26.724,
-        "pct": 0.96,
-        "amount_yi": 884.13
+        "price": 2772.38,
+        "change": -10.791,
+        "pct": -0.39,
+        "amount_yi": 1444.27
       },
       {
         "name": "沪深300",
-        "price": 4197.4609,
-        "change": 31.4485,
-        "pct": 0.75,
-        "amount_yi": 2391.94
+        "price": 4170.6131,
+        "change": 4.6007,
+        "pct": 0.11,
+        "amount_yi": 4137.49
       }
     ],
     "holdings": [
@@ -263,11 +276,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 50.32,
-        "market_value": 5032.0,
-        "pnl": 1859.36,
-        "pnl_pct": 58.61,
-        "weight_hint": "45.2%",
+        "price": 50.98,
+        "market_value": 5098.0,
+        "pnl": 1925.36,
+        "pnl_pct": 60.69,
+        "weight_hint": "45.6%",
         "note": "",
         "available": true
       },
@@ -276,11 +289,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 29.37,
-        "market_value": 2937.0,
-        "pnl": 240.59,
-        "pnl_pct": 8.92,
-        "weight_hint": "26.4%",
+        "price": 29.38,
+        "market_value": 2938.0,
+        "pnl": 241.59,
+        "pnl_pct": 8.96,
+        "weight_hint": "26.3%",
         "note": "",
         "available": true
       },
@@ -289,11 +302,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.46,
-        "market_value": 2538.0,
-        "pnl": 660.48,
-        "pnl_pct": 35.18,
-        "weight_hint": "22.8%",
+        "price": 8.48,
+        "market_value": 2544.0,
+        "pnl": 666.48,
+        "pnl_pct": 35.5,
+        "weight_hint": "22.7%",
         "note": "",
         "available": true
       },
@@ -302,11 +315,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.935,
-        "market_value": 187.0,
-        "pnl": -131.0,
-        "pnl_pct": -41.19,
-        "weight_hint": "1.7%",
+        "price": 0.917,
+        "market_value": 183.4,
+        "pnl": -134.6,
+        "pnl_pct": -42.33,
+        "weight_hint": "1.6%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -315,10 +328,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.27,
-        "market_value": 427.0,
-        "pnl": -70.0,
-        "pnl_pct": -14.08,
+        "price": 4.236,
+        "market_value": 423.6,
+        "pnl": -73.4,
+        "pnl_pct": -14.77,
         "weight_hint": "3.8%",
         "note": "",
         "available": true
@@ -340,50 +353,50 @@
     "sectors": [
       {
         "name": "新能源/光伏 · 燃料电池",
-        "pct": 9.83,
+        "pct": 6.56,
         "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.0,
+        "main_flow_yi": -0.01,
         "source": "东财行业"
       },
       {
-        "name": "新能源/光伏 · 风电零部件",
-        "pct": 3.53,
+        "name": "新能源/光伏 · 风电整机",
+        "pct": 1.94,
         "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 1.91,
+        "main_flow_yi": 0.29,
         "source": "东财行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": 2.1772626783681,
+        "pct": 1.3063576070208,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子信息",
-        "pct": 1.4936916034928,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "电力/公用 · 供水供气",
-        "pct": 1.3087415097465,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
         "name": "煤炭 · 煤炭行业",
-        "pct": 1.0034809746729,
+        "pct": 0.52094586484216,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
+        "name": "电力/公用 · 电力行业",
+        "pct": 0.4605289970249,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
         "name": "金融/银行 · 金融行业",
-        "pct": 0.0049701789264414,
+        "pct": -0.34956925115971,
         "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "半导体/电子 · 电子器件",
+        "pct": -1.0345550501782,
+        "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
@@ -391,44 +404,44 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "震荡市看核心宽基！沪深300ETF华泰柏瑞（510300）交投踊跃",
-        "link": "https://finance.sina.com.cn/money/fund/jjh/2026-10-16/doc-inivksmm7100215.shtml",
+        "title": "Anthropic在最新一轮芯片融资中向黑石提供两位数收益率",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnvkm6549846.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "韩国业绩领先的基金经理看好AI价值链中的非存储芯片股",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivksmv8273019.shtml",
+        "title": "记者调查：有银行回应称存期不变 但自动转存利率与3年期定存利率相同",
+        "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnvkv8220272.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "港股午评：恒指涨1.21% 科指涨2.09% 科网股普涨 生物技术板块大涨",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivkwtm7719021.shtml",
+        "title": "又砸入100个亿！下周，A股该稳了？",
+        "link": "https://finance.sina.com.cn/stock/roll/2026-10-17/doc-inivnzss1419401.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 11121.0,
-    "total_pnl": 2559.43,
-    "total_amount_yi": 9625.5,
-    "bias": "偏多",
-    "volume_note": "量能：两市合计约 9626 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 燃料电池、风电零部件、石油行业；偏弱 暂无",
-    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
+    "total_market_value": 11187.0,
+    "total_pnl": 2625.43,
+    "total_amount_yi": 15554.14,
+    "bias": "震荡",
+    "volume_note": "量能：两市合计约 15554 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 燃料电池、风电整机、石油行业；偏弱 金融行业、电子器件",
+    "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
   "learning": {
-    "title": "T+1 是什么",
-    "body": "A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？",
+    "title": "满仓的代价",
+    "body": "现金几乎为0时，回调里没有子弹加仓。新手版仓位：核心防御60–70%，成长卫星20–30%，现金尽量留10–20%。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "血压小计",
-    "text": "今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。"
+    "topic": "机油保养",
+    "text": "今儿聊【机油保养】。NWG150说明书写六千公里一换，你心里写“再挺挺”。车不说话，缸里知道；等它说话，说话的方式通常是异响。社会经验：省下的机油钱，最后都会变成修理厂的茶位费。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
