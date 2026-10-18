@@ -1,16 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-10-17T11:53:15.819334+08:00",
+  "generated_at": "2026-10-18T11:59:22.136969+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 17,
   "items": [
     {
       "title": "Anthropic / Claude：拓展网络验证计划",
       "link": "https://www.anthropic.com/news/cyber-verification-program",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-17T03:53:32+00:00",
-      "summary": "扩展网络验证计划 我们正在推出我们网络验证计划（CVP）的一个新的扩展版本，该版本使符合条件的安全专业人员能够使用高级网络功能和减少阻塞的分类器。该计划现在包含三个访问等级，允许安全团队申请最适合其工作的访问级别。",
+      "published": "2026-10-18T03:59:45+00:00",
+      "summary": "扩展网络验证计划 我们正在推出网络验证计划（CVP）的新扩展版本，该计划向符合条件的安全专业人员提供先进的网络能力和减少阻止分类器的功能。该计划现在包含三个访问级别，允许安全团队申请最适合其工作的访问级别。",
       "score": 60,
       "original_title": "Anthropic / Claude：Expanding the Cyber Verification Program",
       "translated": true,
@@ -18,7 +18,7 @@
       "uid": "7e18c717c5a4"
     },
     {
-      "title": "Itaú 如何为其整个客户群构建生成式人工智能",
+      "title": "伊塔乌如何为其所有客户群构建生成式人工智能",
       "link": "https://openai.com/index/itau-generative-ai",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
@@ -31,7 +31,7 @@
       "uid": "1779c240f89f"
     },
     {
-      "title": "Google DeepMind 与新加坡政府合作构建用于诈骗检测的微调人工智能模型",
+      "title": "谷歌 DeepMind 与新加坡政府合作构建用于诈骗检测的微调 AI 模型",
       "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
@@ -44,56 +44,17 @@
       "uid": "6d8fd330d7b2"
     },
     {
-      "title": "纯血鸿蒙智行再进化？曝智界独立造车资质备案中，通过后新车尾标将变更为“智界汽车”",
-      "link": "https://www.ithome.com/1/014/253.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-17T03:01:09+00:00",
-      "summary": "IT之家 10 月 17 日消息，工信部昨晚发布了《道路机动车辆生产企业及产品公告》（第 412 批）拟发布的新准入车辆生产企业及已准入企业变更信息清单，安徽智界新能源汽车有限公司在列。据博主 @未来的学习笔记 解读，智界的独立造车资质已经在备案中了，通过之后， 新车尾标就会变成“智界汽车” 。作为参考，现阶段智界汽车的尾标为“奇瑞汽车”。据IT之家此前报道，去年 7 月，智界产品总监 @智界海蓝天 发文，提出了“纯血鸿蒙智行”概念。该产品总监表示，2025 年发布的全新智界 R7 / S7 是智界品牌战略 2.0 首发之作、100% 纯血鸿蒙智行， 由华为全栈技术深度赋能 。另外，奇瑞汽车去年 8 月与华为在深圳进行了智界品牌战略 2.0 合作协议签约。随后，智界汽车官方微博发文宣布： 智界品牌正式进入 2.",
-      "score": 85,
-      "original_title": "",
-      "translated": false,
-      "priority": 60,
-      "uid": "8afac710fbb3"
-    },
-    {
-      "title": "“台积电的获利能力没有上限”，魏哲家称 AI 需求持续升温、供需缺口仍大",
-      "link": "https://www.ithome.com/1/014/249.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-17T02:42:06+00:00",
-      "summary": "IT之家 10 月 17 日消息，据台媒经济日报昨日报道，台积电董事长兼总裁魏哲家在 15 日举行的说法会上， 高喊 AI 需求持续升温，供需缺口仍大 ，并表示台积电本季度美元营收继续创新高，全年美元营收同比增长约 44%。 魏哲家强调，台积电全力以赴扩产，市场需求非常强劲且持续成长，“ 台积电的获利能力没有上限 ”，但也不会一蹴可几，台积电的理念和策略始终是与客户合作，希望帮助客户成功，然后才能实现自身价值。 魏哲家表示，AI 应用正由聊天机器人走向 AI 助理，AI 智能体使用率增加，开源模型普及也有助提升效率、降低使用门槛，带动更多先进芯片需求。除了 AI 加速器，AI 中央处理器（CPU）与网络通信芯片需求也持续增加，为台积电与客户创造更多商机。 据IT之家此前报道， 台积电 2026 年第三季度净利润 7,630.6 亿元新台币 （IT之家注：现汇率约合 1,577.25 亿元人民币） ，同比增长 68.7%；台积电第三季度毛利率为 66.4%，营业利润率为 58.7%，净利润率为 51.1%。",
-      "score": 70,
-      "original_title": "",
-      "translated": false,
-      "priority": 40,
-      "uid": "49ba6f87e4a2"
-    },
-    {
       "title": "Anthropic / Claude：为2026年美国中期选举做准备",
       "link": "https://www.anthropic.com/news/2026-us-midterms",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-17T03:53:32+00:00",
+      "published": "2026-10-18T03:59:45+00:00",
       "summary": "为2026年美国中期选举做准备 今年早些时候，我们分享了关于选举保障的更新，其中描述了我们如何衡量和防止政治偏见、检测滥用行为以及引导人们获取准确的投票信息。以下内容概述了我们如何在此基础上进一步工作，并在今年美国中期选举之前继续加强我们的选举保障。",
       "score": 60,
       "original_title": "Anthropic / Claude：Preparing for the 2026 US midterms",
       "translated": true,
       "priority": 0,
       "uid": "1e88e048d713"
-    },
-    {
-      "title": "工信部副部长熊继军：上半年储能电池产量超 420GWh，坚决防范“内卷式”竞争",
-      "link": "https://www.ithome.com/1/014/252.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-10-17T02:57:15+00:00",
-      "summary": "IT之家 10 月 17 日消息，10 月 15 日，2026 世界储能大会在福建宁德开幕。世界储能大会已在宁德举办三届，累计吸引 50 余个国家和地区的政府部门、知名专家、企业高管及行业机构等代表参会。 据中证金牛座报道，工业和信息化部副部长熊继军在致辞中表示，我国新型储能产业发展成效显著，下一步将统筹发展与安全，强化技术创新，坚持需求牵引，共建全球生态， 坚决防范“内卷式”竞争 ，推动行业从规模扩张向创新引领转变。 据介绍，从产业规模看， 2026 年上半年储能电池产量超过 420 吉瓦时（GWh） ，同比增长 110%；截至 2026 年 6 月底，新型储能累计装机超过 1.53 亿千瓦，较“十四五”初期增长 50 倍。 IT之家注意到，官方已经多次强调治理“内卷式”竞争，今年 4 月， 工信部等四部门召开动力及储能电池行业企业座谈会 ，强调 坚决抵制不合理、不正当竞争行为 ，维护健康有序市场环境。",
-      "score": 55,
-      "original_title": "",
-      "translated": false,
-      "priority": 35,
-      "uid": "b8a8a4f64e87"
     },
     {
       "title": "针对代理的 Stack Overflow 通过 ChatGPT 插件实现注册量三倍增长",
@@ -109,56 +70,95 @@
       "uid": "81c659edf9c3"
     },
     {
-      "title": "行业首个基于确定性网络的智能体互联平台 AXP 在南京发布：支持百万级智能体注册接入、十万级智能体同时运行",
-      "link": "https://www.ithome.com/1/014/259.htm",
+      "title": "iQOO Neo12 手机官宣搭载旗舰 16 机型同款超感触控芯片，支持至高 5000Hz 瞬时触控采样率",
+      "link": "https://www.ithome.com/1/014/461.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-17T03:30:28+00:00",
-      "summary": "IT之家 10 月 17 日消息，10 月 16 日， 第十届未来网络发展大会 在南京上秦淮国际文化交流中心开幕。行业首个基于确定性网络的智能体互联平台 AXP 正式发布。 紫金山实验室联合中国移动、江苏未来网络集团、江苏省未来网络创新研究院联合研发，发布 基于确定性网络 （指在一个网络域内给承载的业务提供确定性业务保证的能力） 的智能体互联平台 AXP ，可实现智算网深度融合调度、异构智能体协议统一转换， 支持百万级智能体注册接入、十万级智能体同时在线运行 ，达成秒级故障感知切换、百毫秒级语义寻址响应。 IT之家获悉，依托国家级未来网络试验设施（CENI），平台可完成 4000 公里以上跨域高精度智能体寻址访问，有效降低 20% 以上端到端任务执行耗时。 目前，紫金山实验室已联合电信运营商、通信设备企业、大型钢铁制造企业等多方主体，开展多场景智能体联合测试与产业化验证。 此次平台的成功发布，标志着我国在智能体互联网新型基础设施建设领域取得关键性技术突破，为人工智能跨域协同、规模化落地应用提供了坚实的网络支撑。",
-      "score": 30,
+      "published": "2026-10-18T02:24:08+00:00",
+      "summary": "IT之家 10 月 18 日消息，在 10 月 14 日的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 产品副总裁罗峰现场宣布，iQOO Neo12“十月底见”（PPT 显示十月见）。维沃移动通信有限公司 iQOO Neo 产品经理罗佳慧发文介绍称，iQOO Neo12 将搭载 2K 185Hz 超冠屏、自研电竞芯片 Q3， 行业首发 2K 185FPS 超分超帧并发 ，还适配超 50 款原生 185 帧游戏。罗佳慧透露，新机还搭载了 iQOO 16 同款 Q-flex 操控技术、同款超感触控芯片， 支持至高 5000Hz 瞬时触控采样率以及至高 500Hz 多指触控采样率 。",
+      "score": 50,
       "original_title": "",
       "translated": false,
-      "priority": 0,
-      "uid": "5701b1a6debe"
+      "priority": 25,
+      "uid": "96e710856722"
     },
     {
-      "title": "美国银行雇佣了1000名承包商来修补Anthropic的Mythos暴露的软件漏洞",
-      "link": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-10-14T20:06:28+00:00",
-      "summary": "美国银行已雇佣大量外部承包商来帮助其修补由包括Anthropic的Mythos在内的先进人工智能模型揭示的软件漏洞，该行首席执行官布赖恩·莫伊尼汉（Brian Moynihan）周三告诉CNBC。在银行发布第三季度财报后的采访中，莫伊尼汉表示，今年早些时候，公司急于加强其内部和供应商代码的广泛范围……",
-      "score": 20,
-      "original_title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "translated": true,
-      "priority": 0,
-      "uid": "ce17e4486dcc"
-    },
-    {
-      "title": "苹果诉OpenAI窃取商业机密案首次举行听证会",
-      "link": "https://www.ftchinese.com/story/001111109",
-      "source": "FT 中文网",
-      "category": "A股与宏观",
-      "published": "2026-10-14T16:00:00+00:00",
-      "summary": "苹果指控OpenAI及两名前苹果员工窃取其商业机密。这起震动硅谷的重磅诉讼首次举行实质性公开听证会。双方曾在两年前结成合作伙伴关系。",
-      "score": 20,
+      "title": "荣耀 WIN 2 系列手机官宣搭载荣耀鸿燕通信，配备全新自研射频增强芯片 HONOR C3",
+      "link": "https://www.ithome.com/1/014/458.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-18T02:15:08+00:00",
+      "summary": "IT之家 10 月 18 日消息，荣耀手机官方微博今日正持续预热 WIN 系列新机。据介绍，系列新机将搭载荣耀鸿燕通信， 配备全新自研射频增强芯片 HONOR C3 ，可强化复杂网络环境通信性能。荣耀官方表示，在弱网、拥塞高压场景，新机游戏延时更低、卡顿更少，抢网更快一步；关键团战，连接始终在线，操作稳定跟手。据IT之家今日早些时候报道， 系列新机还会搭载全新电竞 WIN 键 ，支持 3 档可调震动、3 档响应灵敏度，搭配 5 种响应光效与无极按键透明度；支持游戏内自由映射键位。海报显示，电竞 WIN 键仅荣耀 WIN2 手机支持。值得一提的是，维信诺此前还宣布， 维信诺与荣耀全球首发 2K 185Hz 电竞屏 ，荣耀 WIN2 系列手机全系搭载。海报显示，维信诺作为荣耀 WIN2 系列屏幕唯一战略供应伙伴，联合定制全球首款 2K 185Hz 电竞护眼屏。",
+      "score": 50,
       "original_title": "",
       "translated": false,
-      "priority": 0,
-      "uid": "b293cd415da3"
+      "priority": 25,
+      "uid": "36376d668af7"
     },
     {
-      "title": "Rystad表示，全球能源进口依赖预计将在2034年达到峰值",
-      "link": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
+      "title": "山灵流媒体解码前级耳放一体机 SM50 开售：ES9039Q2M DAC 芯片，首发 2598 元",
+      "link": "https://www.ithome.com/1/014/465.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-18T02:37:54+00:00",
+      "summary": "IT之家 10 月 18 日消息，山灵流媒体解码前级耳放一体机 SM50 今日正式开售，零售价 2698 元， 首发价 2598 元 。该机是集网络串流、本地播放、蓝牙接收、USB DAC、数字解码、耳机放大及前级 / 线路输出于一体的全能一体机；搭载 ES9039Q2M DAC 芯片 ，配备 3.5mm 与 4.4mm 双耳机输出，其中 3.5mm 输出功率达 182mW @32Ω，4.4mm 平衡输出功率达 700mW @32Ω，并提供高、低两档增益选择。该机预留了丰富的输入输出接口：音源输入支持串流播放、蓝牙、本地及 NAS、 USB DAC；数字输出支持 USB 、同轴；模拟输出支持 RCA、XLR；网络接口支持有线 LAN 、双频 WiFi。无线方面采用双天线方案，支持蓝牙 5.",
+      "score": 45,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "fcf5fbe11700"
+    },
+    {
+      "title": "华为 nova 12 / 13 系列手机推 HarmonyOS 7 花粉 Beta 尝鲜升级，新增远程分享、直连供电等功能",
+      "link": "https://www.ithome.com/1/014/453.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-10-18T01:41:46+00:00",
+      "summary": "IT之家 10 月 18 日消息，华为官网在 10 月 16 日更新了鸿蒙 7 系统最新适配清单，华为 nova 12 系列、nova 13 系列手机开启了 HarmonyOS 7 花粉 Beta 尝鲜升级。IT之家注意到，华为官方宣布，华为 nova 12 系列、nova 13 系列手机已开启 HarmonyOS 7 花粉 Beta 尝鲜版本的升级推送，新增远程分享、智能录音等功能。适配机型 HUAWEI nova 13（BLK-AL80） HUAWEI nova 13 Pro（MIS-AL00） HUAWEI nova 12（BLK-AL00） HUAWEI nova 12 Pro（ADA-AL00） HUAWEI nova 12 Ultra（ADA-AL00U） HUAWEI nova 12 Ultra 星耀版（ADA-AL10U） ▲ IT之家图赏：华为 nova 13 系列真机实拍 版本更新日志 6.",
+      "score": 35,
+      "original_title": "",
+      "translated": false,
+      "priority": 15,
+      "uid": "748ba8f9b40a"
+    },
+    {
+      "title": "尽管霍尔木兹危机，中东化工仍保持成本优势",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Middle-East-Chemicals-Keep-Their-Cost-Edge-Despite-Hormuz-Crisis.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-16T22:00:00+00:00",
-      "summary": "Rystad Energy 第五版其旗舰年度报告《全球能源情景 (GES) 2026》发现，随着对能源安全的关注加快向电气化转变，全球对进口能源的依赖预计将于 2034 年达到顶峰。在五年内发生两次重大能源危机的背景下，该报告突出了更广泛的可快速部署技术如何帮助能源系统应对不确定性和波动。",
+      "published": "2026-10-17T21:00:00+00:00",
+      "summary": "尽管伊朗战争和霍尔木兹危机的影响，中东低成本化工生产仍将保持其对其他地区的长期优势。由于当前波斯湾工业基础的限制，聚合物采购在短期内正在发生变化，这对美国化工公司有利。",
       "score": 15,
-      "original_title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
+      "original_title": "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
       "translated": true,
       "priority": 0,
-      "uid": "f3b96f796253"
+      "uid": "9bca43cf164a"
+    },
+    {
+      "title": "德克萨斯州研究人员称二叠纪废水可为人工智能数据中心降温",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Texas-Researchers-Say-Permian-Wastewater-Could-Cool-AI-Data-Centers.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-17T17:00:00+00:00",
+      "summary": "人工智能热潮正在给世界的水资源和能源带来危险的压力。随着超大规模公司以极快的速度建设资源消耗巨大的数据中心，对这些有限资源的需求预测正以比政策制定者跟上更快的速度飙升。",
+      "score": 15,
+      "original_title": "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers",
+      "translated": true,
+      "priority": 0,
+      "uid": "937a968c3887"
+    },
+    {
+      "title": "随着天然气储备减少，欧洲为冬季能源危机做准备",
+      "link": "https://oilprice.com/Energy/Energy-General/Europe-Braces-for-a-Winter-Energy-Crisis-as-Gas-Reserves-Run-Low.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-17T17:00:00+00:00",
+      "summary": "在经历了数月的高能源价格后，欧洲可以预期随着需求的增长，燃料成本将在冬季几个月继续上升。预计中东地区持续的能源贸易限制和对能源基础设施的威胁将限制全球能源供应，并继续推动价格上涨，对消费者造成严重影响，除非政府进行干预。",
+      "score": 15,
+      "original_title": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
+      "translated": true,
+      "priority": 0,
+      "uid": "487fc570a7ce"
     },
     {
       "title": "这是 Netflix 刚请来负责内容的人——以及这对该流媒体平台意味着什么",
@@ -166,7 +166,7 @@
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-10-16T19:40:00+00:00",
-      "summary": "Netflix 正在重组其高管团队，以努力解决参与度下滑的问题。周四，这家流媒体巨头宣布，前迪士尼高管彼得·赖斯（Peter Rice）将接任公司首席内容官，负责监督全球内容组织，包括有剧情和无剧情系列、电影及直播活动。赖斯将接替在 Netflix 工作了十年的资深人士贝拉·巴贾里亚（Bela Bajaria），她最近领导公司的全球内容部门...",
+      "summary": "Netflix 正在重组其高管团队，以努力解决参与度下滑的问题。周四，这家流媒体巨头宣布，前迪士尼高管彼得·赖斯（Peter Rice）将接任公司首席内容官，负责监督全球内容组织，包括有剧情和无剧情系列、电影以及直播活动。赖斯将接替在 Netflix 工作了十年的资深人士贝拉·巴贾里亚（Bela Bajaria），她最近领导公司的全球内容部门...",
       "score": 15,
       "original_title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
       "translated": true,
@@ -174,30 +174,30 @@
       "uid": "a27ef4369c5e"
     },
     {
-      "title": "挪威尚未开发的石油和天然气前沿正在吸引新的关注",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-16T19:00:00+00:00",
-      "summary": "在挪威开放挪威海部分地区进行石油勘探三十多年后，潜在的重要油气资源仍隐藏在厚厚的火山岩层下。如今，勘探技术的进步和行业兴趣的重新兴起，可能会使欧洲最少开发的海上前沿地区之一重新成为关注焦点。",
+      "title": "耐克的印度园区是在转型中的长期增长押注",
+      "link": "https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-10-16T11:00:01+00:00",
+      "summary": "耐克正在对印度进行重大押注。这家零售商在首席执行官埃利奥特·希尔的领导下一直在努力振兴业务并重新获得动力，希望世界上人口最多的国家能够帮助其扭转业绩局面。在10月1日公布其财政第一季度收益时，公司宣布将作为其增长战略的一部分，在印度班加罗尔建立一个新的全球园区。",
       "score": 15,
-      "original_title": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
+      "original_title": "Nike's India campus is a long-term growth bet amid turnaround",
       "translated": true,
       "priority": 0,
-      "uid": "dac2fadc0544"
+      "uid": "4afdbf85a1e5"
     },
     {
-      "title": "随着燃料危机加剧，美国又提供了1,700万桶战略石油储备",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-16T18:30:00+00:00",
-      "summary": "全球石油库存处于危险状态……埃斯康迪达和森蒂内拉发生罢工……美国正在提供另外1700万桶战略石油储备原油，就在国际能源署加快紧急库存释放的一天之后，各国政府争相将更多石油和燃料投入紧张市场。",
+      "title": "捷蓝航空的新国内头等舱，BlueFirst，现在开售了",
+      "link": "https://www.cnbc.com/2026/10/15/jetblue-bluefirst-first-class.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-10-15T16:13:33+00:00",
+      "summary": "捷蓝航空周四表示，捷蓝航空的新国内头等舱——BlueFirst，现在已可以预订超过30条航线的航班。该选项将适用于目前未提供该航空公司平躺Mint商务舱的国内航班，该商务舱配置用于较长航线。",
       "score": 15,
-      "original_title": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
+      "original_title": "JetBlue’s new domestic first class, BlueFirst, is now on sale",
       "translated": true,
       "priority": 0,
-      "uid": "aae7c3ff719f"
+      "uid": "c581fdfda179"
     },
     {
       "title": "学得会的快捷指令，零基础入门苹果效率魔法",
@@ -213,30 +213,17 @@
       "uid": "de53889f24e1"
     },
     {
-      "title": "双子座4氩气：旨在解决您最棘手的问题",
+      "title": "双子座4氩气：为解决您最棘手的问题而打造",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-13T16:00:00+00:00",
-      "summary": "双子座 4 Argon：为解决您最困难的问题而打造 双子座 4 Argon 现已通过 AI Studio 和 Gemini 平台的 API 面向全球开发者和企业提供，Google AI Ultra 订阅者可在 Google Antigravity 使用，Google AI Ultra 和 Pro 订阅者可在 Gemini 应用和搜索中的 AI 模式使用。Argon 擅长在包括编程、金融、法律等领域的复杂现实任务中进行深度工作。",
+      "summary": "双子座 4 Argon：为解决您最困难的问题而构建 双子座 4 Argon 现在通过 AI Studio 和 Gemini 平台的 API 面向开发者和企业全球提供，Google AI Ultra 订阅者可在 Google Antigravity 使用，Gemini 应用中的 Google AI Ultra 和 Pro 订阅者，以及搜索中的 AI 模式均可使用。Argon 擅长在复杂的真实世界任务中进行深入工作，应用领域包括编码、金融、法律等。",
       "score": 15,
       "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
       "translated": true,
       "priority": 0,
       "uid": "e879be1befb7"
-    },
-    {
-      "title": "介绍 PlayGround：创建并玩自定义游戏",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-10-07T12:00:00+00:00",
-      "summary": "介绍 Playground：创建和游玩自定义游戏 游戏是最具创造性的表达形式之一，并且游戏社区在不断壮大。但游戏创作历来只限于拥有技术经验和复杂游戏引擎知识的少数人群。今天，我们推出了 Playground，这是一个实验性游戏平台，让你可以创建、游玩和分享自定义游戏。",
-      "score": 10,
-      "original_title": "Introducing Playground: Create and play custom games",
-      "translated": true,
-      "priority": 0,
-      "uid": "bc50a9fecbec"
     }
   ],
   "market": {
@@ -404,22 +391,34 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "Anthropic在最新一轮芯片融资中向黑石提供两位数收益率",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnvkm6549846.shtml",
+        "title": "韩国财长：半导体市场景气至少维持至明年",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivrert7843032.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "记者调查：有银行回应称存期不变 但自动转存利率与3年期定存利率相同",
-        "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnvkv8220272.shtml",
+        "title": "2029年将现内存“红海”？韩财长发声：半导体繁荣至少持续至明年",
+        "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivqyiu1158593.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "又砸入100个亿！下周，A股该稳了？",
-        "link": "https://finance.sina.com.cn/stock/roll/2026-10-17/doc-inivnzss1419401.shtml",
+        "title": "国民养老保险总经理黄涛：保险资金以往重点配置的非标资产正发生较大变化",
+        "link": "https://finance.sina.com.cn/jryx/insurance/2026-10-18/doc-inivrert7891237.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "生益科技，预计净利翻倍！A股龙头公司，业绩利好",
+        "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-18/doc-inivrers1097581.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "利好！2700亿巨头净利预增超160%！多家A股龙头公司业绩预告报喜",
+        "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-18/doc-inivrerm6752666.shtml",
         "level": "中",
         "tag": "股市"
       }
@@ -434,14 +433,14 @@
     "errors": []
   },
   "learning": {
-    "title": "满仓的代价",
-    "body": "现金几乎为0时，回调里没有子弹加仓。新手版仓位：核心防御60–70%，成长卫星20–30%，现金尽量留10–20%。",
+    "title": "板块轮动",
+    "body": "资金常在行业间切换，不是“好公司永远天天涨”。追昨天上涨板块，容易买在情绪高点；先看逻辑，再看价格。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "机油保养",
-    "text": "今儿聊【机油保养】。NWG150说明书写六千公里一换，你心里写“再挺挺”。车不说话，缸里知道；等它说话，说话的方式通常是异响。社会经验：省下的机油钱，最后都会变成修理厂的茶位费。"
+    "topic": "标书加班",
+    "text": "今儿聊【标书加班】。标书这东西，白天像散文，夜里像刑法。格式错一个空格，废一宿；价格错一个零，废一年。社会经验：投标不是写作文，是把自己活成附件——附件越全，人越空。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
