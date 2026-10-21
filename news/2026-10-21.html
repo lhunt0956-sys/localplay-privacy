@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年10月21日 12:10 · 共 17 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 偏空；量能：两市合计约 9393 亿元（接口口径），成交中等；行业分化：偏强 金融信息服务、燃料电池、电子信息；偏弱 石油行业、金融行业、煤炭行业</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3723.95 <span style='color:#b42318'>-0.31%</span> · 约4166亿</li><li><strong>深证成指</strong> 11764.97 <span style='color:#b42318'>-0.31%</span> · 约5227亿</li><li><strong>创业板指</strong> 2709.96 <span style='color:#b42318'>-1.07%</span> · 约1168亿</li><li><strong>沪深300</strong> 4125.22 <span style='color:#b42318'>-0.65%</span> · 约2469亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>金融/银行 · 金融信息服务</strong> <span style='color:#0e7c66'>+2.73%</span> · 净流入约0.27亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>新能源/光伏 · 燃料电池</strong> <span style='color:#0e7c66'>+1.91%</span> · 净流入约-0.00亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>半导体/电子 · 电子信息</strong> <span style='color:#0e7c66'>+1.67%</span><div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>半导体/电子 · 数字芯片设计</strong> <span style='color:#0e7c66'>+1.38%</span> · 净流入约20.86亿<div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>电力/公用 · 供水供气</strong> <span style='color:#0e7c66'>+0.23%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#b42318'>-0.07%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>金融/银行 · 金融行业</strong> <span style='color:#b42318'>-0.36%</span><div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#b42318'>-0.37%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 49.490 · 盈亏 <span style='color:#0e7c66'>+1776.36（+55.99%）</span> · 仓位约 44.9%</li><li><strong>长江电力</strong>（600900） 现价 29.420 · 盈亏 <span style='color:#0e7c66'>+245.59（+9.11%）</span> · 仓位约 26.7%</li><li><strong>工商银行</strong>（601398） 现价 8.400 · 盈亏 <span style='color:#0e7c66'>+642.48（+34.22%）</span> · 仓位约 22.9%</li><li><strong>半导体ETF</strong>（159995） 现价 0.908 · 盈亏 <span style='color:#b42318'>-136.40（-42.89%）</span> · 仓位约 1.6%</li><li><strong>300ETF</strong>（510300） 现价 4.197 · 盈亏 <span style='color:#b42318'>-77.30（-15.55%）</span> · 仓位约 3.8%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 11012.30 元，浮动盈亏约 +2450.73 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>今日暂无高相关条目</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/jryx/bank/2026-10-21/doc-inivyaaw4842211.shtml' target='_blank' rel='noopener'>责扬天下总裁管竹笋：绿色电力正在重塑工业体系的发展逻辑</a></li><li>【中】<a href='https://finance.sina.com.cn/jryx/bank/2026-10-21/doc-inivyaaw4825304.shtml' target='_blank' rel='noopener'>协鑫能科赵斌：电力和Token交易将是算电协同核心价值引擎</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>今日暂无高相关条目</li></ul><p class='sum'>新手提醒：一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向</p></section>
+    
+    <section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html" target="_blank" rel="noopener">Netflix 发布第三季度盈利超预期，但因广告和收入指引股价下跌</a><div class="meta">CNBC · 10-21 06:29</div><p class="sum">Netflix 在周二公布了第三季度财报，盈利超过分析师预期，收入符合预期，因为华尔街关注公司的用户参与度和广告指标。以下是 Netflix 截至 9 月 30 日期间的表现，与 LSEG 调查的分析师预测相比：- 每股收益：0.87 美元，对比预期的 0.82 美元 - 收入：12 美元。</p></li><li><a href="https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html" target="_blank" rel="noopener">联合航空因燃油价格下调2026年盈利预期，但尽管票价上涨，旅客仍继续预订</a><div class="meta">CNBC · 10-21 04:23</div><p class="sum">联合航空公司正在削减其全年利润预测，因为燃料成本持续上升，但该航空公司表示乘客仍在持续预订。联合航空周二表示，预计第四季度每股调整后收益将在0.50美元至1.50美元之间，远低于华尔街分析师预计的每股1.76美元。在该范围的高端，这将使联合航空2026年的调整后收益最多为…</p></li><li><a href="https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html" target="_blank" rel="noopener">通用汽车超出华尔街第三季度收益预期，并收窄全年指导</a><div class="meta">CNBC · 10-21 04:08</div><p class="sum">底特律 — 通用汽车在第三季度超出华尔街预期后，收窄了2026年的盈利预期，并提高了自由现金流预期。这家底特律汽车制造商还宣布了一项新的多年度200亿美元股票回购计划，此前通用汽车已完成今年一月宣布的60亿美元股票回购计划。通用汽车未披露完成该计划的具体时间。</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Energy/Energy-General/How-Bad-Would-It-Get-If-China-Blocks-Rare-Earths-to-America.html" target="_blank" rel="noopener">如果中国禁止向美国出口稀土，会有多严重？</a><div class="meta">OilPrice · 10-21 08:00</div><p class="sum">台湾是下一个将测试中国稀土金属武器化的压力点。当日本表示在台湾冲突中不会保持中立时，北京随即大幅限制了几种重稀土材料的出口，包括镝和铽。日本是试验案例。- 中美紧张局势升级，一场对抗可能很快导致对中国稀土的立即封锁...</p></li><li><a href="https://oilprice.com/Energy/Energy-General/Petrobras-Deepwater-Push-Sets-Off-a-Race-for-Offshore-Vessels.html" target="_blank" rel="noopener">巴西国家石油公司深水推进引发海上船舶竞赛</a><div class="meta">OilPrice · 10-21 07:30</div><p class="sum">最近，我们报道说，中东冲突及随后霍尔木兹海峡的关闭引发了前所未有的运费和运输费率飙升，超大型原油油轮（VLCC）的现货运费现已超过每日 100 万美元。这一急剧的飙升正在重新塑造石油流向，并迫使生产商降价，以帮助买家抵消额外的运输成本。</p></li><li><a href="https://oilprice.com/Alternative-Energy/Solar-Energy/Mexico-Poised-to-Approve-125-Billion-in-Renewable-Energy-Projects.html" target="_blank" rel="noopener">墨西哥准备批准125亿美元的可再生能源项目</a><div class="meta">OilPrice · 10-21 07:00</div><p class="sum">据一位向彭博社透露的匿名消息人士称，墨西哥的国家电力公司今天预计将批准多达60个替代能源项目，其中大多数是太阳能，这些项目将为该国的总发电容量新增8.2吉瓦。 这些项目的总投资可能达到125亿美元。</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/015/702.htm" target="_blank" rel="noopener">消息称亚马逊 AWS 面临数据中心供电瓶颈，AI 算力机架无法按时启用</a><div class="meta">IT之家·通信安防 · 10-21 10:31</div><p class="sum">IT之家 10 月 21 日消息，外媒 Business Inside 北京时间本月 19 日报道称，亚马逊云科技 (AWS) 旗下部分数据中心面临供电能力瓶颈，导致 订购的机架级 AI 算力系统无法按时启用 。 AWS 在今年 8 月预计，其每个月将收到价值 30 亿美元 （IT之家注：现汇率约合 200.74 亿元人民币） 左右的机架。知情人士透露， 其中部分设备因供电不足只能暂时存放在临时仓库 。AWS 正密切监控其数据中心供电进程，综合各种手段加速电力就绪。 AWS 还调整了其“货到付款”的惯例， 在供应链的早期阶段就取得机架的所有权 。这有利于 AWS 确保算力资源的供应，但也意味着其需要承担机架投运延误带来的损失。</p></li><li><a href="https://www.ithome.com/1/015/788.htm" target="_blank" rel="noopener">小米米家车载吸尘器便携版开启众筹：20000Pa 大吸力，众筹价 189 元</a><div class="meta">IT之家·通信安防 · 10-21 11:46</div><p class="sum">IT之家 10 月 21 日消息，小米米家车载吸尘器便携版今日开启众筹，众筹价 189 元，建议零售价为 269 元。作为一款主打“强劲吸净、折叠随行”的车载清洁新品，该产品凭借 20000Pa 大吸力、轻巧折叠机身与丰富配件，瞄准车内及日常多场景清洁需求。IT之家注意到，米家车载吸尘器便携版搭载转速高达 15000 转 / 分钟的 35mm 高速无刷电机，在纤巧机身内迸发澎湃动力，可提供 20000Pa 大吸力。新品采用机身折叠设计，整机重量仅 446g，单手可轻松握持，减轻长时间清洁的手部负担；折叠后体积更加紧凑，日常收纳不占空间。机身展开后呈现纤长形态，握持顺手，清理车内座椅底部、后备箱等低处积尘区域无需弯腰，轻吸即净。产品内置 3 节 2500mAh 大容量锂电池，满电状态下节能挡续航可达 40 分钟，切换强力挡后可持续工作 16 分钟。</p></li><li><a href="https://www.ithome.com/1/015/691.htm" target="_blank" rel="noopener">6 年更新承诺：微软 Surface Laptop Ultra 驱动 / 固件将支持至 2032 年</a><div class="meta">IT之家·通信安防 · 10-21 10:05</div><p class="sum">IT之家 10 月 21 日消息，科技媒体 Windows Central 昨日（10 月 20 日）发布博文， 报道称微软 Surface Laptop Ultra 官方承诺 6 年更新，驱动程序和固件更新将持续到 2032 年 10 月 16 日。驱动程序和固件虽不像系统大版本那样显眼，却直接影响笔记本的稳定性、续航、外设兼容性与安全修复。固件内置于硬件组件中，驱动则负责让 Windows 与处理器、显卡、电池、接口等硬件正常通信。按照微软现行政策，2021 年 1 月 1 日及之后发布的 Surface 设备，通常可获得至少六年的驱动与固件支持，Surface Laptop Ultra 的支持周期与这一标准一致。驱动与固件支持到期，并不意味着设备立即“报废”。微软表示，即便达到驱动和固件生命周期终点，Surface Laptop Ultra 仍可继续接收 Windows 11 系统更新。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://openai.com/index/low-resource-programming-languages" target="_blank" rel="noopener">推进低资源编程语言的编码</a><div class="meta">OpenAI / ChatGPT · 10-19 20:00</div><p class="sum">了解 OpenAI 如何在低资源编程语言中改进 ChatGPT，并对软件工程、SQLite 和 COBOL 迁移进行新的评估。</p></li><li><a href="https://www.anthropic.com/news/announcements" target="_blank" rel="noopener">Anthropic / Claude：公告</a><div class="meta">Anthropic / Claude · 10-21 12:10</div><p class="sum">公告 - 2026年10月2日 Anthropic投资1亿美元培训1万名工程师，应对企业AI人才短缺 Anthropic正在向Claude Frontier学院投资1亿美元，计划到2027年底培训1万名前沿部署工程师，目前来自埃森哲、贝恩、CBA、德勤、麦肯锡、摩根士丹利和诺和诺德的培训班已在进行中。</p></li><li><a href="https://deepmind.google/blog/on-device-ai-scam-detection-mddi/" target="_blank" rel="noopener">Google DeepMind 与新加坡政府合作建立用于诈骗检测的微调人工智能模型</a><div class="meta">Google DeepMind · 10-14 10:00</div><p class="sum">谷歌DeepMind与新加坡政府合作构建用于诈骗检测的微调人工智能模型，与新加坡政府科技局（GovTech Singapore）合作，在不影响隐私的前提下保护用户。投资欺诈、虚假职位提供以及冒充公职人员等诈骗行为占新加坡报告犯罪的一半以上，并造成超过40亿新元的损失……</p></li><li><a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank" rel="noopener">Anthropic / Claude：投资于公共利益</a><div class="meta">Anthropic / Claude · 10-21 12:10</div><p class="sum">今天，我们将承诺将部分Anthropic的股份捐赠给Anthropic公益基金，这是一个新实体，其结构会随着公司发展而增加股份。经股东批准后，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%股份。</p></li><li><a href="https://openai.com/index/openai-to-acquire-orchestra-bio" target="_blank" rel="noopener">OpenAI 收购 Orchestra Bio</a><div class="meta">OpenAI / ChatGPT · 10-20 08:00</div><p class="sum">OpenAI正在收购Orchestra Bio，以将人工智能驱动的运营引入生命科学研发，帮助生物制药团队加速药物开发并推进新疗法。</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/" target="_blank" rel="noopener">东南亚的数字经济将达到3680亿美元</a><div class="meta">Google AI Blog · 10-21 12:00</div><p class="sum">由谷歌、淡马锡和贝恩公司发布的《e-Conomy SEA 2026》报告的封面图像，标题为《建设智能经济》。一幅3D插图展示了一个发光的黄色星星，周围环绕着代表数字行业的微型场景，包括数据中心</p></li><li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/" target="_blank" rel="noopener">双子座4氩气：为解决您最棘手的问题而打造</a><div class="meta">Google AI Blog · 10-14 00:00</div><p class="sum">双子座 4 Argon：为解决您最困难的问题而构建 双子座 4 Argon 现在通过 AI Studio 和 Gemini 平台的 API 面向开发者和企业全球提供，Google AI Ultra 订阅者可在 Google Antigravity 使用，Gemini 应用中的 Google AI Ultra 和 Pro 订阅者以及搜索中的 AI 模式同样可使用。Argon 擅长在复杂的真实世界任务中进行深度工作，涵盖编码、金融、法律等领域...</p></li></ul></section><section class="cat"><h2>健康生活</h2><ul><li><a href="https://www.ithome.com/1/015/787.htm" target="_blank" rel="noopener">等级森严：梅赛德斯-AMG 高性能电动车划分声浪，GT 53 听直六、GT 63 吼 V8</a><div class="meta">IT之家·出行 · 10-21 11:44</div><p class="sum">IT之家 10 月 21 日消息，汽车媒体 CarBuzz 昨日（10 月 20 日）发布博文，报道称梅赛德斯-AMG 正为其首批高性能电动车打造新的声浪系统， 但因为高低等级配置而引发媒体和车主的争议。 在即将推出的 AMG GT SUV 与 GT 四门轿跑上，梅赛德斯-AMG 为弥补电动车缺少内燃机轰鸣的体验，计划引入名为 AMGForce Sport+ 的模拟声浪与换挡体感系统， 不过会按车型“分层定制”。 具体而言，入门版 GT 53 采用双电机、536 马力， 模拟 AMG 调校的直列六缸发动机声浪 ；而定位更高的 GT 55 和 GT 63 分别拥有 805 马力和 1153 马力， 则独家搭载 V8 发动机声浪。 奔驰方面解释称，这种设计是为了延续 AMG 既有的产品层级：53 系列历来与六缸动力相关，55 和 63 系列则与 V8 动力绑定，声浪体验因此应与各车型的性格保持一致。IT之家附上相关视频如下： 不过该媒体认为从技术角度看，模拟声浪本质上只是数字音频文件和程序代码，理论上几乎不需要额外硬件成本。</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>什么是指数</strong>：沪深300（Shanghai-Shenzhen 300 Index，沪深两市规模大、流动性好的300家公司）像“大盘平均分”。你买的300ETF，本质上就是在跟踪这个平均分。</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【通信铁塔】。这铁塔往山上一立，跟个钢筋仙鹤似的，鹤不飞，人得爬。领导说“顺便看看点位”，这顺便俩字一出，你就知道中午泡面泡不上了。缆没拉上先拉上脸色，链路没通先把汇报通了。社会经验：凡写着“现场简单勘察”的，背包里都得备双袜子。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>
