@@ -1,29 +1,29 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-10-21T12:10:39.251993+08:00",
+  "generated_at": "2026-10-22T12:10:53.955104+08:00",
   "timezone": "Asia/Shanghai",
   "count": 17,
   "items": [
     {
-      "title": "推进低资源编程语言的编码",
-      "link": "https://openai.com/index/low-resource-programming-languages",
+      "title": "OpenAI 模型即将登陆谷歌云",
+      "link": "https://openai.com/index/openai-models-google-cloud",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-10-19T12:00:00+00:00",
-      "summary": "了解 OpenAI 如何在低资源编程语言中改进 ChatGPT，并对软件工程、SQLite 和 COBOL 迁移进行新的评估。",
+      "published": "2026-10-21T12:00:00+00:00",
+      "summary": "OpenAI 和 Google Cloud 正在将前沿模型和 Codex 工作流引入 Gemini 的模型花园，通过 Google Cloud Marketplace 提供。",
       "score": 65,
-      "original_title": "Advancing coding in low‑resource programming languages",
+      "original_title": "OpenAI models are coming to Google Cloud",
       "translated": true,
       "priority": 0,
-      "uid": "6873fff27d90"
+      "uid": "137073120917"
     },
     {
       "title": "Anthropic / Claude：公告",
       "link": "https://www.anthropic.com/news/announcements",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-21T04:10:59+00:00",
-      "summary": "公告 - 2026年10月2日 Anthropic投资1亿美元培训1万名工程师，应对企业AI人才短缺 Anthropic正在向Claude Frontier学院投资1亿美元，计划到2027年底培训1万名前沿部署工程师，目前来自埃森哲、贝恩、CBA、德勤、麦肯锡、摩根士丹利和诺和诺德的培训班已在进行中。",
+      "published": "2026-10-22T04:11:10+00:00",
+      "summary": "公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了在天文观测宇宙学和精密测量领域数十年的科学专长。",
       "score": 60,
       "original_title": "Anthropic / Claude：Announcements",
       "translated": true,
@@ -31,7 +31,7 @@
       "uid": "1c262b0ddbb0"
     },
     {
-      "title": "Google DeepMind 与新加坡政府合作建立用于诈骗检测的微调人工智能模型",
+      "title": "谷歌 DeepMind 与新加坡政府合作构建用于诈骗检测的微调 AI 模型",
       "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
@@ -48,8 +48,8 @@
       "link": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-21T04:10:59+00:00",
-      "summary": "今天，我们将承诺将部分Anthropic的股份捐赠给Anthropic公益基金，这是一个新实体，其结构会随着公司发展而增加股份。经股东批准后，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%股份。",
+      "published": "2026-10-22T04:11:10+00:00",
+      "summary": "今天，我们将将Anthropic公司的一部分股份投入到Anthropic公益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加持股比例。经股东批准后，今天将承诺Anthropic公司5%的股份，并且在公司价值超过设定基准每增加50%时，董事会可自行决定再增加2%的股份。",
       "score": 60,
       "original_title": "Anthropic / Claude：Investing in the public benefit",
       "translated": true,
@@ -57,69 +57,134 @@
       "uid": "c34aebdbb449"
     },
     {
-      "title": "OpenAI 收购 Orchestra Bio",
-      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "title": "通过一致的标准实现广泛访问",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-10-20T00:00:00+00:00",
-      "summary": "OpenAI正在收购Orchestra Bio，以将人工智能驱动的运营引入生命科学研发，帮助生物制药团队加速药物开发并推进新疗法。",
+      "published": "2026-10-21T21:00:00+00:00",
+      "summary": "OpenAI 如何与分销合作伙伴合作，以维护一致的安全措施、支持负责任的访问，并在我们的使用政策中明确期望。",
       "score": 60,
-      "original_title": "OpenAI acquires Orchestra Bio",
+      "original_title": "Broad access through consistent standards",
       "translated": true,
       "priority": 0,
-      "uid": "c32234807adb"
+      "uid": "8e2a8d1d3ad2"
     },
     {
-      "title": "消息称亚马逊 AWS 面临数据中心供电瓶颈，AI 算力机架无法按时启用",
-      "link": "https://www.ithome.com/1/015/702.htm",
+      "title": "华为 Pura90 Plus 手机曝光：6.8 英寸 1.5K 大屏，今年唯一 50Mp 1 英寸 RYYB 可变光圈主摄",
+      "link": "https://www.ithome.com/1/016/267.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-21T02:31:43+00:00",
-      "summary": "IT之家 10 月 21 日消息，外媒 Business Inside 北京时间本月 19 日报道称，亚马逊云科技 (AWS) 旗下部分数据中心面临供电能力瓶颈，导致 订购的机架级 AI 算力系统无法按时启用 。 AWS 在今年 8 月预计，其每个月将收到价值 30 亿美元 （IT之家注：现汇率约合 200.74 亿元人民币） 左右的机架。知情人士透露， 其中部分设备因供电不足只能暂时存放在临时仓库 。AWS 正密切监控其数据中心供电进程，综合各种手段加速电力就绪。 AWS 还调整了其“货到付款”的惯例， 在供应链的早期阶段就取得机架的所有权 。这有利于 AWS 确保算力资源的供应，但也意味着其需要承担机架投运延误带来的损失。",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "0d723f7dde8e"
-    },
-    {
-      "title": "小米米家车载吸尘器便携版开启众筹：20000Pa 大吸力，众筹价 189 元",
-      "link": "https://www.ithome.com/1/015/788.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-21T03:46:26+00:00",
-      "summary": "IT之家 10 月 21 日消息，小米米家车载吸尘器便携版今日开启众筹，众筹价 189 元，建议零售价为 269 元。作为一款主打“强劲吸净、折叠随行”的车载清洁新品，该产品凭借 20000Pa 大吸力、轻巧折叠机身与丰富配件，瞄准车内及日常多场景清洁需求。IT之家注意到，米家车载吸尘器便携版搭载转速高达 15000 转 / 分钟的 35mm 高速无刷电机，在纤巧机身内迸发澎湃动力，可提供 20000Pa 大吸力。新品采用机身折叠设计，整机重量仅 446g，单手可轻松握持，减轻长时间清洁的手部负担；折叠后体积更加紧凑，日常收纳不占空间。机身展开后呈现纤长形态，握持顺手，清理车内座椅底部、后备箱等低处积尘区域无需弯腰，轻吸即净。产品内置 3 节 2500mAh 大容量锂电池，满电状态下节能挡续航可达 40 分钟，切换强力挡后可持续工作 16 分钟。",
+      "published": "2026-10-22T03:11:25+00:00",
+      "summary": "IT之家 10 月 22 日消息，博主 @数码闲聊站 今日爆料了 华为 Pura90 Plus 手机 ： 内部代号 Lucia，6.8 英寸 1.5K 大屏，左上角三角形三摄镜组，配色曜石黑 / 雪域白 / 晨曦金 / 霞光紫，核心出装 —— 今年唯一 50Mp 1 英寸 RYYB 可变光圈主摄 有网友询问“那个 6.1 几的什么时候落地”，博主回复称“ 预计明年下半年 ，开屏了”。 今年 4 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Pura 90 系列手机。 IT之家附参考配置，华为 Pura 90 标准版搭载海思麒麟 9010S 芯片，后置全新三角标 Deco，并搭载 50MP 超聚光主摄 + 50MP 超聚光潜望长焦 + 12.5MP 超广角镜头， 并系列独占前后红枫原色摄像头 。",
       "score": 45,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "dbe8617303cc"
+      "uid": "99ee999dcc95"
     },
     {
-      "title": "6 年更新承诺：微软 Surface Laptop Ultra 驱动 / 固件将支持至 2032 年",
-      "link": "https://www.ithome.com/1/015/691.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-21T02:05:09+00:00",
-      "summary": "IT之家 10 月 21 日消息，科技媒体 Windows Central 昨日（10 月 20 日）发布博文， 报道称微软 Surface Laptop Ultra 官方承诺 6 年更新，驱动程序和固件更新将持续到 2032 年 10 月 16 日。驱动程序和固件虽不像系统大版本那样显眼，却直接影响笔记本的稳定性、续航、外设兼容性与安全修复。固件内置于硬件组件中，驱动则负责让 Windows 与处理器、显卡、电池、接口等硬件正常通信。按照微软现行政策，2021 年 1 月 1 日及之后发布的 Surface 设备，通常可获得至少六年的驱动与固件支持，Surface Laptop Ultra 的支持周期与这一标准一致。驱动与固件支持到期，并不意味着设备立即“报废”。微软表示，即便达到驱动和固件生命周期终点，Surface Laptop Ultra 仍可继续接收 Windows 11 系统更新。",
-      "score": 30,
+      "title": "王腾详解今日宜休 ISHO iFlow AI 温控系统：无感监测、智能控温、双区独立",
+      "link": "https://www.ithome.com/1/016/324.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-10-22T03:52:32+00:00",
+      "summary": "IT之家 10 月 22 日消息，今天（22 日）上午，今日宜休科技公司创始人 @王腾Thomas 发文详细介绍了今日宜休的第二款产品 ——ISHO iFlow AI 温控系统。王腾表示，该产品可实现 无感监测、智能控温、双区独立 ，将提供从无感监测到睡眠干预的全新解决方案。其中，床笠负责感知用户睡眠状态和实时温度，主机负责计算和调温，再通过水循环来调节床笠表面温度。不同睡眠阶段匹配不同的温控策略，使得每个用户可以 入睡更快、深睡更深、浅睡更稳 。无需更换现有床垫，套上即用。根据王腾今天早些时候的介绍，该产品 为深睡与精力恢复而生 ，能够实现睡眠的主动进化，带来从无感监测到睡眠干预的全新解决方案。“不习惯佩戴设备入睡的朋友，以及想更好提升深睡质量精力恢复水平的朋友，可以关注一下。ISHO Flow 智能温控系统想做的，不是简单制冷、制热，而是让温控跟随完整睡眠周期动态适配，减少夜里温度带来的打扰，帮大家睡得更安稳。",
+      "score": 20,
       "original_title": "",
       "translated": false,
-      "priority": 15,
-      "uid": "dcb7b8498635"
+      "priority": 0,
+      "uid": "ce69bb6eb69e"
     },
     {
-      "title": "Netflix 发布第三季度盈利超预期，但因广告和收入指引股价下跌",
-      "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+      "title": "微软给 8GB 内存电脑“减负”：Win11 26H2 开机少占约 1.7GB 内存",
+      "link": "https://www.ithome.com/1/016/230.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-22T02:10:59+00:00",
+      "summary": "IT之家 10 月 22 日消息，科技媒体 Windows Latest 昨日（10 月 21 日）发布博文，在一台 8GB DDR4 内存配置的笔记本电脑上，测试运行 Windows 11 26H2 系统，发现相比 25H2 版本开机占用下降约 1.任务管理器（重启后） 25H2（升级前） 26H2（升级后） 已使用（当前实际占用的物理内存） 5.0 GB（63%） 3.3 GB（42%） 可用（可立即分配给新程序或进程的内存） 2.6 GB 已压缩（被 Windows 压缩存储、以减少物理内存占用的数据量） 324 MB 62.7 MB 已提交（系统已承诺分配给进程的虚拟内存总量） 4.8 GB / 10 GB 2.",
+      "score": 20,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "a3a89a9d3f98"
+    },
+    {
+      "title": "Netflix 已经涉足影院领域。它准备好全面进入了吗？",
+      "link": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-10-20T22:29:45+00:00",
-      "summary": "Netflix 在周二公布了第三季度财报，盈利超过分析师预期，收入符合预期，因为华尔街关注公司的用户参与度和广告指标。以下是 Netflix 截至 9 月 30 日期间的表现，与 LSEG 调查的分析师预测相比：- 每股收益：0.87 美元，对比预期的 0.82 美元 - 收入：12 美元。",
+      "published": "2026-10-21T18:32:12+00:00",
+      "summary": "Netflix 正在明确自己的定位：它是一家以流媒体为首的公司。在公司周二的第三季度财报电话会议上，联合首席执行官 Ted Sarandos 重申了这家流媒体巨头长期坚持的立场，即其内容（去年花费了 200 亿美元）是为其订阅者准备的，因此应尽快通过其流媒体平台传递给客户。",
       "score": 20,
-      "original_title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+      "original_title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
       "translated": true,
       "priority": 0,
-      "uid": "5fb791e7e52d"
+      "uid": "d39cd04b0570"
+    },
+    {
+      "title": "极摩客推出 NucBox G3 Ultra 迷你主机，基于英特尔奔腾 Gold 7505",
+      "link": "https://www.ithome.com/1/016/305.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-22T03:41:10+00:00",
+      "summary": "IT之家 10 月 22 日消息，极摩客 (GMKtec) 近日宣布推出 NucBox G3 Ultra 迷你主机。该型号基于英特尔奔腾 Gold 7505，这是一款双核 \"Tiger Lake\" 处理器。NucBox G3 Ultra 三维 114×106×44 (mm)，内置支持 15W 性能释放的单风扇单热管散热， 集成 16GB LPDDR4-3200 内存 ，提供 2 个 M.2 2280 SSD 盘位，支持 Wi-Fi 6 & 蓝牙 5.其正面提供 2 个 USB-A 10Gbps；反面提供 1 个 USB-A 10Gbps、1 个 USB-A 480Mbps、2 个 HDMI 2.1 (TMDS)、1 个 3.5mm 二合一音频插孔、1 个 1GbE RJ-45。该型号还兼容 VESA 壁挂规范。",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "a9b2568ac58b"
+    },
+    {
+      "title": "铝放弃其战争溢价，铜保持高位",
+      "link": "https://oilprice.com/Metals/Commodities/Aluminium-Gives-Up-Its-War-Premium-Copper-Stays-Elevated.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-22T00:00:00+00:00",
+      "summary": "2026年伦敦金属交易周于周一在伦敦拉开帷幕，行业领导者关注基础金属的宏观经济前景、人工智能与能源转型需求，以及关键矿产供应链的韧性。今年的讨论正值伦敦金属交易所状况良好，从一月至九月，平均日交易量同比增长了16%。",
+      "score": 15,
+      "original_title": "Aluminium Gives Up Its War Premium, Copper Stays Elevated",
+      "translated": true,
+      "priority": 0,
+      "uid": "9a56ca8022d8"
+    },
+    {
+      "title": "西南航空因燃料成本上升下调2026年利润预测",
+      "link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-10-21T21:07:11+00:00",
+      "summary": "由于燃油价格上涨，西南航空本月成为第三家下调2026年利润预测的大型美国航空公司，但首席执行官鲍勃·乔丹表示，尽管票价上涨，旅客仍在继续预订。该航空公司预计今年按调整后每股盈利将在2.60美元至2.85美元之间，低于其7月份预测的每股3.25美元至最高4.25美元之间的水平。",
+      "score": 15,
+      "original_title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+      "translated": true,
+      "priority": 0,
+      "uid": "bfaca607eb00"
+    },
+    {
+      "title": "标普全球警告霍尔木兹能源冲击可能演变成全球粮食危机",
+      "link": "https://oilprice.com/Energy/Energy-General/SP-Global-Warns-Hormuz-Energy-Shock-Could-Become-a-Global-Food-Crisis.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-21T21:00:00+00:00",
+      "summary": "世界持续的能源危机正迅速演变为全球粮食安全危机。一些世界最重要经济体在两个主要战线上持续的冲突——俄罗斯在乌克兰的战争以及美国和以色列在伊朗的战争——正在通过关键的全球贸易路线产生地缘政治冲击，并威胁人类最基本的一些商品，从石油和天然气到谷物……",
+      "score": 15,
+      "original_title": "S&P Global Warns Hormuz Energy Shock Could Become a Global Food Crisis",
+      "translated": true,
+      "priority": 0,
+      "uid": "cae3aa6733b0"
+    },
+    {
+      "title": "通用计划借助人工智能和软件推动，在短短两年内开发车辆",
+      "link": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-10-21T20:14:36+00:00",
+      "summary": "纽约——通用汽车计划在未来的发展中依靠人工智能和车辆软件，以应对来自中国汽车制造商的国际竞争以及美国市场日益严峻的挑战。这家底特律汽车制造商周三分享了其即将在OnStar品牌下推出的专有人工智能代理的新细节、第四代更高效全电动车的计划，以及削减其…的目标。",
+      "score": 15,
+      "original_title": "GM aims to develop vehicles in as little as two years with AI, software push",
+      "translated": true,
+      "priority": 0,
+      "uid": "bc753578ae57"
     },
     {
       "title": "东南亚的数字经济将达到3680亿美元",
@@ -127,7 +192,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-21T04:00:00+00:00",
-      "summary": "由谷歌、淡马锡和贝恩公司发布的《e-Conomy SEA 2026》报告的封面图像，标题为《建设智能经济》。一幅3D插图展示了一个发光的黄色星星，周围环绕着代表数字行业的微型场景，包括数据中心",
+      "summary": "《e-Conomy SEA 2026》报告封面图，由谷歌、淡马锡和贝恩公司发布，标题为《构建智能经济》。一幅3D插图展示了一个发光的黄色星星，周围环绕着代表数字行业的小场景，包括数据中心",
       "score": 15,
       "original_title": "Southeast Asia’s digital economy to hit $368 billion",
       "translated": true,
@@ -135,126 +200,61 @@
       "uid": "af3f5180566e"
     },
     {
-      "title": "等级森严：梅赛德斯-AMG 高性能电动车划分声浪，GT 53 听直六、GT 63 吼 V8",
-      "link": "https://www.ithome.com/1/015/787.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-10-21T03:44:43+00:00",
-      "summary": "IT之家 10 月 21 日消息，汽车媒体 CarBuzz 昨日（10 月 20 日）发布博文，报道称梅赛德斯-AMG 正为其首批高性能电动车打造新的声浪系统， 但因为高低等级配置而引发媒体和车主的争议。 在即将推出的 AMG GT SUV 与 GT 四门轿跑上，梅赛德斯-AMG 为弥补电动车缺少内燃机轰鸣的体验，计划引入名为 AMGForce Sport+ 的模拟声浪与换挡体感系统， 不过会按车型“分层定制”。 具体而言，入门版 GT 53 采用双电机、536 马力， 模拟 AMG 调校的直列六缸发动机声浪 ；而定位更高的 GT 55 和 GT 63 分别拥有 805 马力和 1153 马力， 则独家搭载 V8 发动机声浪。 奔驰方面解释称，这种设计是为了延续 AMG 既有的产品层级：53 系列历来与六缸动力相关，55 和 63 系列则与 V8 动力绑定，声浪体验因此应与各车型的性格保持一致。IT之家附上相关视频如下： 不过该媒体认为从技术角度看，模拟声浪本质上只是数字音频文件和程序代码，理论上几乎不需要额外硬件成本。",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "cfb54ec79fd4"
-    },
-    {
-      "title": "如果中国禁止向美国出口稀土，会有多严重？",
-      "link": "https://oilprice.com/Energy/Energy-General/How-Bad-Would-It-Get-If-China-Blocks-Rare-Earths-to-America.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-21T00:00:00+00:00",
-      "summary": "台湾是下一个将测试中国稀土金属武器化的压力点。当日本表示在台湾冲突中不会保持中立时，北京随即大幅限制了几种重稀土材料的出口，包括镝和铽。日本是试验案例。- 中美紧张局势升级，一场对抗可能很快导致对中国稀土的立即封锁...",
-      "score": 15,
-      "original_title": "How Bad Would It Get If China Blocks Rare Earths to America?",
-      "translated": true,
-      "priority": 0,
-      "uid": "262ed2e241a5"
-    },
-    {
-      "title": "巴西国家石油公司深水推进引发海上船舶竞赛",
-      "link": "https://oilprice.com/Energy/Energy-General/Petrobras-Deepwater-Push-Sets-Off-a-Race-for-Offshore-Vessels.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-20T23:30:00+00:00",
-      "summary": "最近，我们报道说，中东冲突及随后霍尔木兹海峡的关闭引发了前所未有的运费和运输费率飙升，超大型原油油轮（VLCC）的现货运费现已超过每日 100 万美元。这一急剧的飙升正在重新塑造石油流向，并迫使生产商降价，以帮助买家抵消额外的运输成本。",
-      "score": 15,
-      "original_title": "Petrobras' Deepwater Push Sets Off a Race for Offshore Vessels",
-      "translated": true,
-      "priority": 0,
-      "uid": "7092f0384430"
-    },
-    {
-      "title": "墨西哥准备批准125亿美元的可再生能源项目",
-      "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Mexico-Poised-to-Approve-125-Billion-in-Renewable-Energy-Projects.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-20T23:00:00+00:00",
-      "summary": "据一位向彭博社透露的匿名消息人士称，墨西哥的国家电力公司今天预计将批准多达60个替代能源项目，其中大多数是太阳能，这些项目将为该国的总发电容量新增8.2吉瓦。 这些项目的总投资可能达到125亿美元。",
-      "score": 15,
-      "original_title": "Mexico Poised to Approve $12.5 Billion in Renewable Energy Projects",
-      "translated": true,
-      "priority": 0,
-      "uid": "716d2bba94c3"
-    },
-    {
-      "title": "联合航空因燃油价格下调2026年盈利预期，但尽管票价上涨，旅客仍继续预订",
-      "link": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-10-20T20:23:58+00:00",
-      "summary": "联合航空公司正在削减其全年利润预测，因为燃料成本持续上升，但该航空公司表示乘客仍在持续预订。联合航空周二表示，预计第四季度每股调整后收益将在0.50美元至1.50美元之间，远低于华尔街分析师预计的每股1.76美元。在该范围的高端，这将使联合航空2026年的调整后收益最多为…",
-      "score": 15,
-      "original_title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-      "translated": true,
-      "priority": 0,
-      "uid": "05b86be23520"
-    },
-    {
-      "title": "通用汽车超出华尔街第三季度收益预期，并收窄全年指导",
-      "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-10-20T20:08:44+00:00",
-      "summary": "底特律 — 通用汽车在第三季度超出华尔街预期后，收窄了2026年的盈利预期，并提高了自由现金流预期。这家底特律汽车制造商还宣布了一项新的多年度200亿美元股票回购计划，此前通用汽车已完成今年一月宣布的60亿美元股票回购计划。通用汽车未披露完成该计划的具体时间。",
-      "score": 15,
-      "original_title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-      "translated": true,
-      "priority": 0,
-      "uid": "467b04185d09"
-    },
-    {
       "title": "双子座4氩气：为解决您最棘手的问题而打造",
       "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-13T16:00:00+00:00",
-      "summary": "双子座 4 Argon：为解决您最困难的问题而构建 双子座 4 Argon 现在通过 AI Studio 和 Gemini 平台的 API 面向开发者和企业全球提供，Google AI Ultra 订阅者可在 Google Antigravity 使用，Gemini 应用中的 Google AI Ultra 和 Pro 订阅者以及搜索中的 AI 模式同样可使用。Argon 擅长在复杂的真实世界任务中进行深度工作，涵盖编码、金融、法律等领域...",
+      "summary": "双子座 4 Argon：为解决您最困难的问题而构建 双子座 4 Argon 现在通过 AI Studio 和 Gemini 平台的 API 面向开发者和企业全球提供，Google AI Ultra 订阅者可在 Google Antigravity 使用，Google AI Ultra 和 Pro 订阅者可在 Gemini 应用和搜索中的 AI 模式使用。Argon 擅长在包括编程、金融、法律等领域的复杂现实任务中进行深度工作。",
       "score": 15,
       "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
       "translated": true,
       "priority": 0,
       "uid": "e879be1befb7"
+    },
+    {
+      "title": "大型石油公司瞄准创纪录利润，但仍保持谨慎开支",
+      "link": "https://oilprice.com/Energy/Energy-General/Big-Oil-Eyes-Record-Profits-but-Keeps-Spending-in-Check.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-21T23:00:00+00:00",
+      "summary": "自从中东战争爆发以来，石油超级巨头一直在赚大钱。即使在他们运营的一些地区计划对其征收意外之财税时，他们现在也准备报告另一个强劲的季度业绩。现在的问题是，大型石油公司将如何使用这些利润。答案是：可能不会大肆消费。他们当然有资金进行狂买狂花。",
+      "score": 10,
+      "original_title": "Big Oil Eyes Record Profits but Keeps Spending in Check",
+      "translated": true,
+      "priority": 0,
+      "uid": "116cf10f7a39"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3723.9518,
-        "change": -11.4186,
-        "pct": -0.31,
-        "amount_yi": 4165.96
+        "price": 3679.8569,
+        "change": -33.1708,
+        "pct": -0.89,
+        "amount_yi": 4111.56
       },
       {
         "name": "深证成指",
-        "price": 11764.97,
-        "change": -36.319,
-        "pct": -0.31,
-        "amount_yi": 5227.44
+        "price": 11496.07,
+        "change": -208.281,
+        "pct": -1.78,
+        "amount_yi": 5081.37
       },
       {
         "name": "创业板指",
-        "price": 2709.96,
-        "change": -29.246,
-        "pct": -1.07,
-        "amount_yi": 1167.95
+        "price": 2620.04,
+        "change": -74.673,
+        "pct": -2.77,
+        "amount_yi": 1080.23
       },
       {
         "name": "沪深300",
-        "price": 4125.2248,
-        "change": -26.8828,
-        "pct": -0.65,
-        "amount_yi": 2468.72
+        "price": 4060.1925,
+        "change": -51.74,
+        "pct": -1.26,
+        "amount_yi": 2373.98
       }
     ],
     "holdings": [
@@ -263,11 +263,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 49.49,
-        "market_value": 4949.0,
-        "pnl": 1776.36,
-        "pnl_pct": 55.99,
-        "weight_hint": "44.9%",
+        "price": 49.76,
+        "market_value": 4976.0,
+        "pnl": 1803.36,
+        "pnl_pct": 56.84,
+        "weight_hint": "44.8%",
         "note": "",
         "available": true
       },
@@ -276,11 +276,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 29.42,
-        "market_value": 2942.0,
-        "pnl": 245.59,
-        "pnl_pct": 9.11,
-        "weight_hint": "26.7%",
+        "price": 29.78,
+        "market_value": 2978.0,
+        "pnl": 281.59,
+        "pnl_pct": 10.44,
+        "weight_hint": "26.8%",
         "note": "",
         "available": true
       },
@@ -289,11 +289,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.4,
-        "market_value": 2520.0,
-        "pnl": 642.48,
-        "pnl_pct": 34.22,
-        "weight_hint": "22.9%",
+        "price": 8.53,
+        "market_value": 2559.0,
+        "pnl": 681.48,
+        "pnl_pct": 36.3,
+        "weight_hint": "23.0%",
         "note": "",
         "available": true
       },
@@ -302,10 +302,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.908,
-        "market_value": 181.6,
-        "pnl": -136.4,
-        "pnl_pct": -42.89,
+        "price": 0.888,
+        "market_value": 177.6,
+        "pnl": -140.4,
+        "pnl_pct": -44.15,
         "weight_hint": "1.6%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -315,11 +315,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.197,
-        "market_value": 419.7,
-        "pnl": -77.3,
-        "pnl_pct": -15.55,
-        "weight_hint": "3.8%",
+        "price": 4.136,
+        "market_value": 413.6,
+        "pnl": -83.4,
+        "pnl_pct": -16.78,
+        "weight_hint": "3.7%",
         "note": "",
         "available": true
       },
@@ -339,99 +339,127 @@
     ],
     "sectors": [
       {
-        "name": "金融/银行 · 金融信息服务",
-        "pct": 2.73,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 0.27,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 燃料电池",
-        "pct": 1.91,
+        "name": "新能源/光伏 · 光伏主材",
+        "pct": 1.13,
         "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": -0.0,
+        "main_flow_yi": 1.35,
         "source": "东财行业"
       },
       {
-        "name": "半导体/电子 · 电子信息",
-        "pct": 1.6740691138693,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "半导体/电子 · 数字芯片设计",
-        "pct": 1.38,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 20.86,
+        "name": "新能源/光伏 · 风电整机",
+        "pct": 0.52,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": -0.29,
         "source": "东财行业"
       },
       {
-        "name": "电力/公用 · 供水供气",
-        "pct": 0.22889682894149,
+        "name": "金融/银行 · 国有大型银行Ⅲ",
+        "pct": 0.15,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": -3.3,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 电力设备",
+        "pct": -0.16,
         "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": -21.97,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 金融行业",
+        "pct": -0.5993091537133,
+        "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": -0.072278073460806,
+        "pct": -0.69971615288138,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "金融/银行 · 金融行业",
-        "pct": -0.3562436843818,
-        "why": "对应工商银行，关注净息差与分红",
+        "name": "电力/公用 · 电力行业",
+        "pct": -1.4194129815865,
+        "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "煤炭 · 煤炭行业",
-        "pct": -0.37029022097189,
+        "pct": -1.778143850384,
         "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "半导体/电子 · 电子器件",
+        "pct": -1.922679220953,
+        "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
-    "policy_news": [],
+    "policy_news": [
+      {
+        "title": "央行拟切换隔夜逆回购！红利低波ETF华泰柏瑞（512890）成交4.58亿元领跑同类",
+        "link": "https://finance.sina.com.cn/money/fund/original/2026-10-22/doc-iniwamip5186825.shtml",
+        "level": "高",
+        "tag": "政策"
+      }
+    ],
     "industry_news": [
       {
-        "title": "责扬天下总裁管竹笋：绿色电力正在重塑工业体系的发展逻辑",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-10-21/doc-inivyaaw4842211.shtml",
+        "title": "里昂：澜起科技第三季度净利润指引中位数同比增长164% 互连芯片带动毛利率改善",
+        "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-22/doc-iniwamip5178843.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "协鑫能科赵斌：电力和Token交易将是算电协同核心价值引擎",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-10-21/doc-inivyaaw4825304.shtml",
+        "title": "华尔街银行应对AI成本飙升 从“空白支票”转向精打细算",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwamir5902089.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "小摩：招商银行目标价上调至63港元 维持“增持”评级",
+        "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-22/doc-iniwamip5166793.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
-    "market_news": [],
-    "total_market_value": 11012.3,
-    "total_pnl": 2450.73,
-    "total_amount_yi": 9393.4,
+    "market_news": [
+      {
+        "title": "港股午评：恒指跌2.87%失守23000点 科指跌4.64% 科网股低迷 光通信板块下挫 联想跌超8%",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-22/doc-iniwamip5185638.shtml",
+        "level": "中",
+        "tag": "股市"
+      }
+    ],
+    "total_market_value": 11104.2,
+    "total_pnl": 2542.63,
+    "total_amount_yi": 9192.93,
     "bias": "偏空",
-    "volume_note": "量能：两市合计约 9393 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 金融信息服务、燃料电池、电子信息；偏弱 石油行业、金融行业、煤炭行业",
-    "tip": "一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向",
+    "volume_note": "量能：两市合计约 9193 亿元（接口口径），成交中等",
+    "sector_note": "行业分化：偏强 光伏主材、风电整机、国有大型银行Ⅲ；偏弱 电力设备、金融行业、石油行业",
+    "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
   "learning": {
-    "title": "什么是指数",
-    "body": "沪深300（Shanghai-Shenzhen 300 Index，沪深两市规模大、流动性好的300家公司）像“大盘平均分”。你买的300ETF，本质上就是在跟踪这个平均分。",
+    "title": "PE（市盈率）",
+    "body": "PE = 股价 ÷ 每股收益，粗看股票贵不贵。银行/能源股常见区间更低；神华这类更常结合股息率一起看，别只看PE。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "通信铁塔",
-    "text": "今儿聊【通信铁塔】。这铁塔往山上一立，跟个钢筋仙鹤似的，鹤不飞，人得爬。领导说“顺便看看点位”，这顺便俩字一出，你就知道中午泡面泡不上了。缆没拉上先拉上脸色，链路没通先把汇报通了。社会经验：凡写着“现场简单勘察”的，背包里都得备双袜子。"
+    "topic": "A股开盘",
+    "text": "今儿聊【A股开盘】。早盘像相亲：看着挺热闹，真心没几个。神华长江电力坐那儿跟老干部似的，不吵不闹，偶尔点个头；主题炒作跟广场舞大妈似的，音箱一响全场跟。社会经验：能吃息的先吃息，能睡觉的别盯盘——盯盘不涨，只涨血压。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
+    "Solidot·通信: 解析失败 (<urlopen error [Errno 111] Connection refused>)",
     "36氪: 解析失败 (<unknown>:11:168: not well-formed (invalid token))"
   ]
 }

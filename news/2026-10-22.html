@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年10月22日 12:10 · 共 17 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 偏空；量能：两市合计约 9193 亿元（接口口径），成交中等；行业分化：偏强 光伏主材、风电整机、国有大型银行Ⅲ；偏弱 电力设备、金融行业、石油行业</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3679.86 <span style='color:#b42318'>-0.89%</span> · 约4112亿</li><li><strong>深证成指</strong> 11496.07 <span style='color:#b42318'>-1.78%</span> · 约5081亿</li><li><strong>创业板指</strong> 2620.04 <span style='color:#b42318'>-2.77%</span> · 约1080亿</li><li><strong>沪深300</strong> 4060.19 <span style='color:#b42318'>-1.26%</span> · 约2374亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>新能源/光伏 · 光伏主材</strong> <span style='color:#0e7c66'>+1.13%</span> · 净流入约1.35亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>新能源/光伏 · 风电整机</strong> <span style='color:#0e7c66'>+0.52%</span> · 净流入约-0.29亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>金融/银行 · 国有大型银行Ⅲ</strong> <span style='color:#0e7c66'>+0.15%</span> · 净流入约-3.30亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>电力/公用 · 电力设备</strong> <span style='color:#b42318'>-0.16%</span> · 净流入约-21.97亿<div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>金融/银行 · 金融行业</strong> <span style='color:#b42318'>-0.60%</span><div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#b42318'>-0.70%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>电力/公用 · 电力行业</strong> <span style='color:#b42318'>-1.42%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#b42318'>-1.78%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>半导体/电子 · 电子器件</strong> <span style='color:#b42318'>-1.92%</span><div class='meta'>对应半导体ETF，关注景气与政策</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 49.760 · 盈亏 <span style='color:#0e7c66'>+1803.36（+56.84%）</span> · 仓位约 44.8%</li><li><strong>长江电力</strong>（600900） 现价 29.780 · 盈亏 <span style='color:#0e7c66'>+281.59（+10.44%）</span> · 仓位约 26.8%</li><li><strong>工商银行</strong>（601398） 现价 8.530 · 盈亏 <span style='color:#0e7c66'>+681.48（+36.30%）</span> · 仓位约 23.0%</li><li><strong>半导体ETF</strong>（159995） 现价 0.888 · 盈亏 <span style='color:#b42318'>-140.40（-44.15%）</span> · 仓位约 1.6%</li><li><strong>300ETF</strong>（510300） 现价 4.136 · 盈亏 <span style='color:#b42318'>-83.40（-16.78%）</span> · 仓位约 3.7%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 11104.20 元，浮动盈亏约 +2542.63 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>【高】<a href='https://finance.sina.com.cn/money/fund/original/2026-10-22/doc-iniwamip5186825.shtml' target='_blank' rel='noopener'>央行拟切换隔夜逆回购！红利低波ETF华泰柏瑞（512890）成交4.58亿元领跑同类</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-22/doc-iniwamip5178843.shtml' target='_blank' rel='noopener'>里昂：澜起科技第三季度净利润指引中位数同比增长164% 互连芯片带动毛利率改善</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwamir5902089.shtml' target='_blank' rel='noopener'>华尔街银行应对AI成本飙升 从“空白支票”转向精打细算</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-22/doc-iniwamip5166793.shtml' target='_blank' rel='noopener'>小摩：招商银行目标价上调至63港元 维持“增持”评级</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-22/doc-iniwamip5185638.shtml' target='_blank' rel='noopener'>港股午评：恒指跌2.87%失守23000点 科指跌4.64% 科网股低迷 光通信板块下挫 联想跌超8%</a></li></ul><p class='sum'>新手提醒：板块轮动是常态，不要追高换仓</p></section>
+    
+    <section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html" target="_blank" rel="noopener">Netflix 已经涉足影院领域。它准备好全面进入了吗？</a><div class="meta">CNBC · 10-22 02:32</div><p class="sum">Netflix 正在明确自己的定位：它是一家以流媒体为首的公司。在公司周二的第三季度财报电话会议上，联合首席执行官 Ted Sarandos 重申了这家流媒体巨头长期坚持的立场，即其内容（去年花费了 200 亿美元）是为其订阅者准备的，因此应尽快通过其流媒体平台传递给客户。</p></li><li><a href="https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html" target="_blank" rel="noopener">西南航空因燃料成本上升下调2026年利润预测</a><div class="meta">CNBC · 10-22 05:07</div><p class="sum">由于燃油价格上涨，西南航空本月成为第三家下调2026年利润预测的大型美国航空公司，但首席执行官鲍勃·乔丹表示，尽管票价上涨，旅客仍在继续预订。该航空公司预计今年按调整后每股盈利将在2.60美元至2.85美元之间，低于其7月份预测的每股3.25美元至最高4.25美元之间的水平。</p></li><li><a href="https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html" target="_blank" rel="noopener">通用计划借助人工智能和软件推动，在短短两年内开发车辆</a><div class="meta">CNBC · 10-22 04:14</div><p class="sum">纽约——通用汽车计划在未来的发展中依靠人工智能和车辆软件，以应对来自中国汽车制造商的国际竞争以及美国市场日益严峻的挑战。这家底特律汽车制造商周三分享了其即将在OnStar品牌下推出的专有人工智能代理的新细节、第四代更高效全电动车的计划，以及削减其…的目标。</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Metals/Commodities/Aluminium-Gives-Up-Its-War-Premium-Copper-Stays-Elevated.html" target="_blank" rel="noopener">铝放弃其战争溢价，铜保持高位</a><div class="meta">OilPrice · 10-22 08:00</div><p class="sum">2026年伦敦金属交易周于周一在伦敦拉开帷幕，行业领导者关注基础金属的宏观经济前景、人工智能与能源转型需求，以及关键矿产供应链的韧性。今年的讨论正值伦敦金属交易所状况良好，从一月至九月，平均日交易量同比增长了16%。</p></li><li><a href="https://oilprice.com/Energy/Energy-General/SP-Global-Warns-Hormuz-Energy-Shock-Could-Become-a-Global-Food-Crisis.html" target="_blank" rel="noopener">标普全球警告霍尔木兹能源冲击可能演变成全球粮食危机</a><div class="meta">OilPrice · 10-22 05:00</div><p class="sum">世界持续的能源危机正迅速演变为全球粮食安全危机。一些世界最重要经济体在两个主要战线上持续的冲突——俄罗斯在乌克兰的战争以及美国和以色列在伊朗的战争——正在通过关键的全球贸易路线产生地缘政治冲击，并威胁人类最基本的一些商品，从石油和天然气到谷物……</p></li><li><a href="https://oilprice.com/Energy/Energy-General/Big-Oil-Eyes-Record-Profits-but-Keeps-Spending-in-Check.html" target="_blank" rel="noopener">大型石油公司瞄准创纪录利润，但仍保持谨慎开支</a><div class="meta">OilPrice · 10-22 07:00</div><p class="sum">自从中东战争爆发以来，石油超级巨头一直在赚大钱。即使在他们运营的一些地区计划对其征收意外之财税时，他们现在也准备报告另一个强劲的季度业绩。现在的问题是，大型石油公司将如何使用这些利润。答案是：可能不会大肆消费。他们当然有资金进行狂买狂花。</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/016/267.htm" target="_blank" rel="noopener">华为 Pura90 Plus 手机曝光：6.8 英寸 1.5K 大屏，今年唯一 50Mp 1 英寸 RYYB 可变光圈主摄</a><div class="meta">IT之家·通信安防 · 10-22 11:11</div><p class="sum">IT之家 10 月 22 日消息，博主 @数码闲聊站 今日爆料了 华为 Pura90 Plus 手机 ： 内部代号 Lucia，6.8 英寸 1.5K 大屏，左上角三角形三摄镜组，配色曜石黑 / 雪域白 / 晨曦金 / 霞光紫，核心出装 —— 今年唯一 50Mp 1 英寸 RYYB 可变光圈主摄 有网友询问“那个 6.1 几的什么时候落地”，博主回复称“ 预计明年下半年 ，开屏了”。 今年 4 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Pura 90 系列手机。 IT之家附参考配置，华为 Pura 90 标准版搭载海思麒麟 9010S 芯片，后置全新三角标 Deco，并搭载 50MP 超聚光主摄 + 50MP 超聚光潜望长焦 + 12.5MP 超广角镜头， 并系列独占前后红枫原色摄像头 。</p></li><li><a href="https://www.ithome.com/1/016/230.htm" target="_blank" rel="noopener">微软给 8GB 内存电脑“减负”：Win11 26H2 开机少占约 1.7GB 内存</a><div class="meta">IT之家·通信安防 · 10-22 10:10</div><p class="sum">IT之家 10 月 22 日消息，科技媒体 Windows Latest 昨日（10 月 21 日）发布博文，在一台 8GB DDR4 内存配置的笔记本电脑上，测试运行 Windows 11 26H2 系统，发现相比 25H2 版本开机占用下降约 1.任务管理器（重启后） 25H2（升级前） 26H2（升级后） 已使用（当前实际占用的物理内存） 5.0 GB（63%） 3.3 GB（42%） 可用（可立即分配给新程序或进程的内存） 2.6 GB 已压缩（被 Windows 压缩存储、以减少物理内存占用的数据量） 324 MB 62.7 MB 已提交（系统已承诺分配给进程的虚拟内存总量） 4.8 GB / 10 GB 2.</p></li><li><a href="https://www.ithome.com/1/016/305.htm" target="_blank" rel="noopener">极摩客推出 NucBox G3 Ultra 迷你主机，基于英特尔奔腾 Gold 7505</a><div class="meta">IT之家·通信安防 · 10-22 11:41</div><p class="sum">IT之家 10 月 22 日消息，极摩客 (GMKtec) 近日宣布推出 NucBox G3 Ultra 迷你主机。该型号基于英特尔奔腾 Gold 7505，这是一款双核 &quot;Tiger Lake&quot; 处理器。NucBox G3 Ultra 三维 114×106×44 (mm)，内置支持 15W 性能释放的单风扇单热管散热， 集成 16GB LPDDR4-3200 内存 ，提供 2 个 M.2 2280 SSD 盘位，支持 Wi-Fi 6 &amp; 蓝牙 5.其正面提供 2 个 USB-A 10Gbps；反面提供 1 个 USB-A 10Gbps、1 个 USB-A 480Mbps、2 个 HDMI 2.1 (TMDS)、1 个 3.5mm 二合一音频插孔、1 个 1GbE RJ-45。该型号还兼容 VESA 壁挂规范。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://openai.com/index/openai-models-google-cloud" target="_blank" rel="noopener">OpenAI 模型即将登陆谷歌云</a><div class="meta">OpenAI / ChatGPT · 10-21 20:00</div><p class="sum">OpenAI 和 Google Cloud 正在将前沿模型和 Codex 工作流引入 Gemini 的模型花园，通过 Google Cloud Marketplace 提供。</p></li><li><a href="https://www.anthropic.com/news/announcements" target="_blank" rel="noopener">Anthropic / Claude：公告</a><div class="meta">Anthropic / Claude · 10-22 12:11</div><p class="sum">公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了在天文观测宇宙学和精密测量领域数十年的科学专长。</p></li><li><a href="https://deepmind.google/blog/on-device-ai-scam-detection-mddi/" target="_blank" rel="noopener">谷歌 DeepMind 与新加坡政府合作构建用于诈骗检测的微调 AI 模型</a><div class="meta">Google DeepMind · 10-14 10:00</div><p class="sum">谷歌DeepMind与新加坡政府合作构建用于诈骗检测的微调人工智能模型，与新加坡政府科技局（GovTech Singapore）合作，在不影响隐私的前提下保护用户。投资欺诈、虚假职位提供以及冒充公职人员等诈骗行为占新加坡报告犯罪的一半以上，并造成超过40亿新元的损失……</p></li><li><a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank" rel="noopener">Anthropic / Claude：投资于公共利益</a><div class="meta">Anthropic / Claude · 10-22 12:11</div><p class="sum">今天，我们将将Anthropic公司的一部分股份投入到Anthropic公益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加持股比例。经股东批准后，今天将承诺Anthropic公司5%的股份，并且在公司价值超过设定基准每增加50%时，董事会可自行决定再增加2%的股份。</p></li><li><a href="https://openai.com/index/broad-access-through-consistent-standards" target="_blank" rel="noopener">通过一致的标准实现广泛访问</a><div class="meta">OpenAI / ChatGPT · 10-22 05:00</div><p class="sum">OpenAI 如何与分销合作伙伴合作，以维护一致的安全措施、支持负责任的访问，并在我们的使用政策中明确期望。</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/" target="_blank" rel="noopener">东南亚的数字经济将达到3680亿美元</a><div class="meta">Google AI Blog · 10-21 12:00</div><p class="sum">《e-Conomy SEA 2026》报告封面图，由谷歌、淡马锡和贝恩公司发布，标题为《构建智能经济》。一幅3D插图展示了一个发光的黄色星星，周围环绕着代表数字行业的小场景，包括数据中心</p></li><li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/" target="_blank" rel="noopener">双子座4氩气：为解决您最棘手的问题而打造</a><div class="meta">Google AI Blog · 10-14 00:00</div><p class="sum">双子座 4 Argon：为解决您最困难的问题而构建 双子座 4 Argon 现在通过 AI Studio 和 Gemini 平台的 API 面向开发者和企业全球提供，Google AI Ultra 订阅者可在 Google Antigravity 使用，Google AI Ultra 和 Pro 订阅者可在 Gemini 应用和搜索中的 AI 模式使用。Argon 擅长在包括编程、金融、法律等领域的复杂现实任务中进行深度工作。</p></li></ul></section><section class="cat"><h2>健康生活</h2><ul><li><a href="https://www.ithome.com/1/016/324.htm" target="_blank" rel="noopener">王腾详解今日宜休 ISHO iFlow AI 温控系统：无感监测、智能控温、双区独立</a><div class="meta">IT之家·出行 · 10-22 11:52</div><p class="sum">IT之家 10 月 22 日消息，今天（22 日）上午，今日宜休科技公司创始人 @王腾Thomas 发文详细介绍了今日宜休的第二款产品 ——ISHO iFlow AI 温控系统。王腾表示，该产品可实现 无感监测、智能控温、双区独立 ，将提供从无感监测到睡眠干预的全新解决方案。其中，床笠负责感知用户睡眠状态和实时温度，主机负责计算和调温，再通过水循环来调节床笠表面温度。不同睡眠阶段匹配不同的温控策略，使得每个用户可以 入睡更快、深睡更深、浅睡更稳 。无需更换现有床垫，套上即用。根据王腾今天早些时候的介绍，该产品 为深睡与精力恢复而生 ，能够实现睡眠的主动进化，带来从无感监测到睡眠干预的全新解决方案。“不习惯佩戴设备入睡的朋友，以及想更好提升深睡质量精力恢复水平的朋友，可以关注一下。ISHO Flow 智能温控系统想做的，不是简单制冷、制热，而是让温控跟随完整睡眠周期动态适配，减少夜里温度带来的打扰，帮大家睡得更安稳。</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>PE（市盈率）</strong>：PE = 股价 ÷ 每股收益，粗看股票贵不贵。银行/能源股常见区间更低；神华这类更常结合股息率一起看，别只看PE。</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【A股开盘】。早盘像相亲：看着挺热闹，真心没几个。神华长江电力坐那儿跟老干部似的，不吵不闹，偶尔点个头；主题炒作跟广场舞大妈似的，音箱一响全场跟。社会经验：能吃息的先吃息，能睡觉的别盯盘——盯盘不涨，只涨血压。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>Solidot·通信: 解析失败 (&lt;urlopen error [Errno 111] Connection refused&gt;)</li><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>
