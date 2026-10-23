@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年10月23日 12:14 · 共 17 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 偏空；量能：两市合计约 10680 亿元（接口口径），成交中等；行业分化：偏强 暂无；偏弱 光伏主材、非银金融、综合电力设备商</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3614.12 <span style='color:#b42318'>-1.20%</span> · 约4875亿</li><li><strong>深证成指</strong> 11175.85 <span style='color:#b42318'>-1.60%</span> · 约5805亿</li><li><strong>创业板指</strong> 2521.77 <span style='color:#b42318'>-2.14%</span> · 约1140亿</li><li><strong>沪深300</strong> 4014.60 <span style='color:#b42318'>-0.54%</span> · 约2896亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>新能源/光伏 · 光伏主材</strong> <span style='color:#b42318'>-0.27%</span> · 净流入约-0.62亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>金融/银行 · 非银金融</strong> <span style='color:#b42318'>-0.79%</span> · 净流入约-5.83亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>电力/公用 · 综合电力设备商</strong> <span style='color:#b42318'>-1.03%</span> · 净流入约-0.48亿<div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>新能源/光伏 · 综合电力设备商</strong> <span style='color:#b42318'>-1.03%</span> · 净流入约-0.48亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>煤炭 · 煤炭</strong> <span style='color:#b42318'>-1.31%</span> · 净流入约-1.62亿<div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#b42318'>-1.31%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>金融/银行 · 金融控股</strong> <span style='color:#b42318'>-1.46%</span> · 净流入约-0.19亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>电力/公用 · 电力行业</strong> <span style='color:#b42318'>-2.67%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#b42318'>-3.05%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>半导体/电子 · 电子器件</strong> <span style='color:#b42318'>-4.17%</span><div class='meta'>对应半导体ETF，关注景气与政策</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 50.080 · 盈亏 <span style='color:#0e7c66'>+1835.36（+57.85%）</span> · 仓位约 44.9%</li><li><strong>长江电力</strong>（600900） 现价 29.850 · 盈亏 <span style='color:#0e7c66'>+288.59（+10.70%）</span> · 仓位约 26.8%</li><li><strong>工商银行</strong>（601398） 现价 8.600 · 盈亏 <span style='color:#0e7c66'>+702.48（+37.42%）</span> · 仓位约 23.1%</li><li><strong>半导体ETF</strong>（159995） 现价 0.857 · 盈亏 <span style='color:#b42318'>-146.60（-46.10%）</span> · 仓位约 1.5%</li><li><strong>300ETF</strong>（510300） 现价 4.086 · 盈亏 <span style='color:#b42318'>-88.40（-17.79%）</span> · 仓位约 3.7%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 11153.00 元，浮动盈亏约 +2591.43 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>今日暂无高相关条目</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/money/fund/original/2026-10-23/doc-iniweqhs8217100.shtml' target='_blank' rel='noopener'>震荡市中压舱石：红利低波ETF华泰柏瑞（512890）半日成交4.78亿元居同类首位 近5年回报50.17%</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-23/doc-iniweqhw2046043.shtml' target='_blank' rel='noopener'>港股午评：恒指涨0.58% 科指涨0.86% 汽车股走强 锂电池股回暖</a></li><li>【中】<a href='https://finance.sina.com.cn/money/fund/jjh/2026-10-23/doc-iniweqhw2037806.shtml' target='_blank' rel='noopener'>洞察红利价值！景顺长城基金走进江苏银行连云港分行</a></li><li>【中】<a href='https://finance.sina.com.cn/jryx/bank/2026-10-23/doc-iniweqhs8189003.shtml' target='_blank' rel='noopener'>农业银行咸阳分行被罚14.3万元：违反国库集中收付管理相关规定</a></li><li>【中】<a href='https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweqhr5661685.shtml' target='_blank' rel='noopener'>半日主力资金丨加仓电力设备板块 抛售通信板块</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/money/fund/etf/2026-10-23/doc-iniweqhu4937763.shtml' target='_blank' rel='noopener'>股票ETF上午整体大幅放量，半日成交额超1248亿元</a></li><li>【中】<a href='https://finance.sina.com.cn/money/nmetal/gjshz/2026-10-23/doc-iniweqhs8154447.shtml' target='_blank' rel='noopener'>光大期货1023黄金点评：黄金创三个月新低，市场关注资金流动性</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniweqhw1986203.shtml' target='_blank' rel='noopener'>现货黄金一度跌破4,000美元 股市跌势加剧引发市场动荡</a></li></ul><p class='sum'>新手提醒：一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向</p></section>
+    
+    <section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.ftchinese.com/story/001111174" target="_blank" rel="noopener">伊朗战争爆发以来首次出台宽松政策，土耳其央行降息100基点</a><div class="meta">FT 中文网 · 10-23 00:00</div><p class="sum">统一认知，降低决策偏差 在跨部门、跨地区协作中，信息不一致往往是决策失误的重要来源。 FT中文网强调事实、数据与多角度分析，为组织提供共同的信息基础。 在复杂环境中，可靠的信息体系是长期竞争力的一部分。</p></li><li><a href="https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html" target="_blank" rel="noopener">埃隆·马斯克向Skydance投资约10亿美元</a><div class="meta">CNBC · 10-23 03:34</div><p class="sum">据一位不愿透露姓名的知情人士称，埃隆·马斯克对Skydance进行了大约10亿美元的投资，因为该人士未被授权公开发言。这笔资金注入正值公司寻求削减成本之际。派拉蒙于10月6日完成了对华纳兄弟探索公司的收购，并将合并后的实体命名为Skydance。</p></li><li><a href="https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html" target="_blank" rel="noopener">David&#x27;s Bridal 计划将 AI 平台 Pearl 分拆为上市公司</a><div class="meta">CNBC · 10-23 03:02</div><p class="sum">CNBC独家获悉，大卫婚礼计划将其人工智能平台Pearl拆分为一家独立的上市公司，目标估值约为3.5亿美元。该公司预计该交易将在2027年上半年完成。大卫婚礼于周四提交了一份非约束性意向书，以分离Pearl。</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Energy/Energy-General/Electric-Giants-Say-They-Already-Have-the-Tools-to-Fix-the-AI-Power-Crunch.html" target="_blank" rel="noopener">电力巨头称他们已经拥有解决人工智能用电紧张的工具</a><div class="meta">OilPrice · 10-23 05:00</div><p class="sum">人工智能时代推动的能源需求激增正对全球能源基础设施造成前所未有的压力。不仅是世界的能源生产能力——尤其是清洁能源生产能力——在未来几年预测的数据中心能源需求曲线面前显得微不足道，而且建设和维持前所未有的电气化速度所需的物理基础设施也面临挑战……</p></li><li><a href="https://oilprice.com/Energy/Energy-General/Why-Trump-Cant-Afford-to-Lose-The-Rare-Earth-Race.html" target="_blank" rel="noopener">为什么特朗普输不起稀土竞赛</a><div class="meta">OilPrice · 10-23 10:00</div><p class="sum">多年来，西方一直在寻找从稀土矿中脱身的技术出路。工程师们开发了新的电机设计、替代磁体化学成分以及可以减少甚至消除对某些关键矿物需求的材料。每当中国收紧出口管制时，这些努力就会再次受到关注。它们值得继续推进。但它们并没有回答制造商必须面对的问题……</p></li><li><a href="https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html" target="_blank" rel="noopener">随着亚洲将目光投向海湾以外，加拿大液化天然气产能翻倍</a><div class="meta">OilPrice · 10-23 08:00</div><p class="sum">上个月，壳牌（纽交所代码：SHEL）与马来西亚的国家石油公司（PETRONAS）、中国的中国石油、三菱商社和韩国天然气公司（KOGAS）共同正式批准了加拿大液化天然气二期扩建项目的最终投资决定（FID），将设施的产能翻倍至每年2800万吨（mtpa），并加强了该国作为长期向亚洲市场供应的重要潜力。</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/016/885.htm" target="_blank" rel="noopener">苹果首款折叠 iPhone Duo 今日开售，库克称重新定义 iPhone 的可能</a><div class="meta">IT之家·通信安防 · 10-23 12:00</div><p class="sum">IT之家 10 月 23 日消息，在苹果首款折叠手机 iPhone Duo 发售日（10 月 23 日），公司现任首席执行官约翰 · 特努斯（John Ternus）发布微博，直言“迫不及待”。前任首席执行官蒂姆 · 库克（Tim Cook）转发该微博，并表示“重新定义 iPhone 的可能！” 在特努斯发布的微博中，还分享了一张 Apple 静安零售店现场照片，展示了 iPhone Duo 巨型雕塑。IT之家昨日在现场全程跟进揭幕首秀，相关报道可以访问《 苹果 Apple Store 零售店 iPhone Duo 巨型雕塑揭幕首秀：全球四家店展出，中国有一家 》。苹果首款折叠屏手机 iPhone Duo 今天在官方渠道开售： 256GB 版本 15,999 元 512GB 版本 17,999 元 1TB 版本、21,499 元 2TB 版本 26,499 元 苹果中国官网显示，每位顾客限购 2 部 iPhone Duo。</p></li><li><a href="https://www.ithome.com/1/016/871.htm" target="_blank" rel="noopener">西藏那曲发生 7.0 级地震，苹果 CEO 特努斯宣布 Apple 将捐款支持在当地开展救援工作的组织</a><div class="meta">IT之家·通信安防 · 10-23 11:39</div><p class="sum">IT之家 10 月 23 日消息，10 月 22 日 22 时 33 分许，西藏那曲市巴青县发生 7.0 级地震，造成重大人员伤亡。苹果新任首席执行官约翰 · 特努斯（John Ternus）今日在微博发文，宣布将捐款支持在当地开展救援工作的组织。那曲市的地震灾情令人痛心。Apple 将捐款支持在当地开展救援工作的组织 ，为受灾社区提供帮助。It&#x27;s heartbreaking to see the damage from the earthquake in Nagqu City.Apple will make a donation to support organizations responding on the ground.IT之家了解到，昨天，西藏那曲市巴青县发生 7.监控画面显示，镜头剧烈摇晃，屋内物品掉落在地，民众纷纷跑到户外避险。</p></li><li><a href="https://www.ithome.com/1/016/876.htm" target="_blank" rel="noopener">报告称 2026 年国内大模型均价翻倍，每秒吞吐量也翻倍</a><div class="meta">IT之家·通信安防 · 10-23 11:51</div><p class="sum">IT之家 10 月 23 日消息，中国信息通信研究院（简称“中国信通院”）人工智能研究所、人工智能大模型及软硬件评测工业和信息化部重点实验室和中国人工智能产业发展联盟，今日（10 月 23 日）联合发布《大模型词元服务性能监测报告（2026 年）》。报告称，随着大模型技术的迅速迭代，词元（Token）服务成为从技术走向应用的关键点，我国日均词元调用量持续攀升， 2026 年 6 月，国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍 。产业中越来越多的 MaaS（Model as a Service，模型即服务）平台厂商通过公有云 API 方式供给大模型词元服务。然而用户对词元服务性能缺乏直观的判断依据， 且面临选型困难等各类问题 。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://openai.com/index/uber-chatgpt-work-rollout" target="_blank" rel="noopener">优步将 ChatGPT 工作带给所有员工，借助 OpenAI</a><div class="meta">OpenAI / ChatGPT · 10-22 08:00</div><p class="sum">优步正在向三万多名员工推出 ChatGPT Work，帮助团队进行研究、分析数据、制作演示文稿以及完成复杂的工作流程。</p></li><li><a href="https://www.anthropic.com/news/announcements" target="_blank" rel="noopener">Anthropic / Claude：公告</a><div class="meta">Anthropic / Claude · 10-23 12:15</div><p class="sum">公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了在天文观测宇宙学和精密测量领域数十年的科学专长。</p></li><li><a href="https://deepmind.google/blog/on-device-ai-scam-detection-mddi/" target="_blank" rel="noopener">谷歌 DeepMind 与新加坡政府合作构建用于诈骗检测的微调 AI 模型</a><div class="meta">Google DeepMind · 10-14 10:00</div><p class="sum">谷歌DeepMind与新加坡政府合作构建用于诈骗检测的微调人工智能模型，与新加坡政府科技局（GovTech Singapore）合作，在不影响隐私的前提下保护用户。投资欺诈、虚假职位提供以及冒充公职人员等诈骗行为占新加坡报告犯罪的一半以上，并造成超过40亿新元的损失……</p></li><li><a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank" rel="noopener">Anthropic / Claude：投资于公共利益</a><div class="meta">Anthropic / Claude · 10-23 12:15</div><p class="sum">今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。</p></li><li><a href="https://openai.com/index/forward-deployed-engineering-means" target="_blank" rel="noopener">FDE 在 OpenAI 的意思</a><div class="meta">OpenAI / ChatGPT · 10-22 14:00</div><p class="sum">OpenAI 的前置部署工程意味着什么</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/" target="_blank" rel="noopener">东南亚的数字经济将达到3680亿美元</a><div class="meta">Google AI Blog · 10-21 12:00</div><p class="sum">《e-Conomy SEA 2026》报告封面图，由谷歌、淡马锡和贝恩公司发布，标题为《构建智能经济》。一幅3D插图展示了一个发光的黄色星星，周围环绕着代表数字行业的小场景，包括数据中心</p></li><li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/" target="_blank" rel="noopener">双子座4氩气：为解决您最棘手的问题而打造</a><div class="meta">Google AI Blog · 10-14 00:00</div><p class="sum">双子座 4 Argon：为解决您最困难的问题而构建 双子座 4 Argon 现在通过 AI Studio 和 Gemini 平台的 API 面向开发者和企业全球提供，Google AI Ultra 订阅者可在 Google Antigravity 使用，Gemini 应用中的 Google AI Ultra 和 Pro 订阅者以及搜索中的 AI 模式同样可使用。Argon 擅长在复杂的真实世界任务中进行深度工作，涵盖编码、金融、法律等领域...</p></li></ul></section><section class="cat"><h2>健康生活</h2><ul><li><a href="https://www.ithome.com/1/016/869.htm" target="_blank" rel="noopener">倍思飓风 3 号 160W 氮化镓屏显充电器上架预约：搭载主动散热，399 元</a><div class="meta">IT之家·出行 · 10-23 11:37</div><p class="sum">IT之家 10 月 23 日消息，倍思飓风 3 号 160W 全协议氮化镓屏显充电器现已上架预约，定价为 399 元。京东 倍思飓风 3 号 160W 氮化镓屏显充电器 399 元 直达链接 该充电器创新性搭载主动散热系统，采用电竞级风冷架构，独创环绕式超级风道，散热效率跃升 35%，可实现 72 小时持久满功率不降速，打破传统大功率快充高温降频的痛点，持续满载强劲输出。其配备直流离心高速涡扇，实现更小体积、更强风量、更低风阻：磁悬浮马达转速可达 12500 RPM，最大风量 0.96 CFM，相比传统设计风量提升 128%，支持睡眠模式，可手动关闭风扇，满足夜间充电低噪音需求。该充电器支持 AI 自适应主动控温，配备 2584mm² 石墨烯导热面积 ，无死角覆盖热源，从根源杜绝单点积热，实测满血充电 10 分钟温度立降 18℃，最终充电温度 可控制在 66℃ ，相比传统被动散热的普通高功率充电器低 15℃。</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>PB（市净率）</strong>：PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>
