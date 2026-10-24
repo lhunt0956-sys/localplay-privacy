@@ -1,28 +1,28 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-10-23T12:14:47.979125+08:00",
+  "generated_at": "2026-10-24T12:06:05.273850+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 17,
+  "count": 15,
   "items": [
     {
-      "title": "优步将 ChatGPT 工作带给所有员工，借助 OpenAI",
-      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "title": "快速扩展在线存储以服务超过10亿ChatGPT用户（第二部分）",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-10-22T00:00:00+00:00",
-      "summary": "优步正在向三万多名员工推出 ChatGPT Work，帮助团队进行研究、分析数据、制作演示文稿以及完成复杂的工作流程。",
+      "published": "2026-10-23T17:00:00+00:00",
+      "summary": "了解 OpenAI 如何通过可靠的多租户、全球缓存和 Azure Cosmos DB 扩展 Habitat，为 ChatGPT 提供 12 倍更快的读取速度。",
       "score": 65,
-      "original_title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "translated": true,
       "priority": 0,
-      "uid": "26a49ac84168"
+      "uid": "e1a2d44d6cf2"
     },
     {
       "title": "Anthropic / Claude：公告",
       "link": "https://www.anthropic.com/news/announcements",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-23T04:15:09+00:00",
+      "published": "2026-10-24T04:06:24+00:00",
       "summary": "公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了在天文观测宇宙学和精密测量领域数十年的科学专长。",
       "score": 60,
       "original_title": "Anthropic / Claude：Announcements",
@@ -31,17 +31,17 @@
       "uid": "1c262b0ddbb0"
     },
     {
-      "title": "谷歌 DeepMind 与新加坡政府合作构建用于诈骗检测的微调 AI 模型",
-      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "title": "超越树木覆盖：绘制世界森林类型地图",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
-      "published": "2026-10-14T02:00:14+00:00",
-      "summary": "谷歌DeepMind与新加坡政府合作构建用于诈骗检测的微调人工智能模型，与新加坡政府科技局（GovTech Singapore）合作，在不影响隐私的前提下保护用户。投资欺诈、虚假职位提供以及冒充公职人员等诈骗行为占新加坡报告犯罪的一半以上，并造成超过40亿新元的损失……",
-      "score": 50,
-      "original_title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "published": "2026-10-22T14:30:24+00:00",
+      "summary": "超越树木覆盖：绘制世界森林类型地图 一张新的10米分辨率地图显示了世界上的森林是自然的、人工种植的还是农用的，以及它们随时间的变化情况。保护地球的森林从一个简单的问题开始：我们看到的是什么类型的森林？从太空中看，原始雨林、尤加利种植园和油棕种植园可能看起来都是一片绿色的区域。",
+      "score": 40,
+      "original_title": "Beyond tree cover: mapping the world’s forest types",
       "translated": true,
       "priority": 0,
-      "uid": "6d8fd330d7b2"
+      "uid": "c8c57c740639"
     },
     {
       "title": "伊朗战争爆发以来首次出台宽松政策，土耳其央行降息100基点",
@@ -49,7 +49,7 @@
       "source": "FT 中文网",
       "category": "A股与宏观",
       "published": "2026-10-22T16:00:00+00:00",
-      "summary": "统一认知，降低决策偏差 在跨部门、跨地区协作中，信息不一致往往是决策失误的重要来源。 FT中文网强调事实、数据与多角度分析，为组织提供共同的信息基础。 在复杂环境中，可靠的信息体系是长期竞争力的一部分。",
+      "summary": "通胀放缓和消费者信心减弱为政策制定者带来放宽货币政策的空间，尽管油价高企仍对通胀构成上行风险。",
       "score": 175,
       "original_title": "",
       "translated": false,
@@ -57,24 +57,11 @@
       "uid": "66bce3537dcd"
     },
     {
-      "title": "苹果首款折叠 iPhone Duo 今日开售，库克称重新定义 iPhone 的可能",
-      "link": "https://www.ithome.com/1/016/885.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-23T04:00:19+00:00",
-      "summary": "IT之家 10 月 23 日消息，在苹果首款折叠手机 iPhone Duo 发售日（10 月 23 日），公司现任首席执行官约翰 · 特努斯（John Ternus）发布微博，直言“迫不及待”。前任首席执行官蒂姆 · 库克（Tim Cook）转发该微博，并表示“重新定义 iPhone 的可能！” 在特努斯发布的微博中，还分享了一张 Apple 静安零售店现场照片，展示了 iPhone Duo 巨型雕塑。IT之家昨日在现场全程跟进揭幕首秀，相关报道可以访问《 苹果 Apple Store 零售店 iPhone Duo 巨型雕塑揭幕首秀：全球四家店展出，中国有一家 》。苹果首款折叠屏手机 iPhone Duo 今天在官方渠道开售： 256GB 版本 15,999 元 512GB 版本 17,999 元 1TB 版本、21,499 元 2TB 版本 26,499 元 苹果中国官网显示，每位顾客限购 2 部 iPhone Duo。",
-      "score": 60,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "2e8d3706b4e1"
-    },
-    {
       "title": "Anthropic / Claude：投资于公共利益",
       "link": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-23T04:15:09+00:00",
+      "published": "2026-10-24T04:06:24+00:00",
       "summary": "今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。",
       "score": 60,
       "original_title": "Anthropic / Claude：Investing in the public benefit",
@@ -83,95 +70,121 @@
       "uid": "c34aebdbb449"
     },
     {
-      "title": "FDE 在 OpenAI 的意思",
-      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "title": "保护我们的前沿模型训练环境",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-10-22T06:00:00+00:00",
-      "summary": "OpenAI 的前置部署工程意味着什么",
+      "published": "2026-10-23T10:00:00+00:00",
+      "summary": "OpenAI 解释了我们如何加强前沿模型训练和评估的控制，包括离线环境和高计算量的红队测试。",
       "score": 60,
-      "original_title": "What FDE means at OpenAI",
+      "original_title": "Securing our frontier model training environment",
       "translated": true,
       "priority": 0,
-      "uid": "aaa0d5a4066b"
+      "uid": "601a16deb460"
     },
     {
-      "title": "西藏那曲发生 7.0 级地震，苹果 CEO 特努斯宣布 Apple 将捐款支持在当地开展救援工作的组织",
-      "link": "https://www.ithome.com/1/016/871.htm",
+      "title": "美国拟推新规：自动驾驶汽车要用青绿色灯光“自报家门”",
+      "link": "https://www.ithome.com/1/017/334.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-23T03:39:02+00:00",
-      "summary": "IT之家 10 月 23 日消息，10 月 22 日 22 时 33 分许，西藏那曲市巴青县发生 7.0 级地震，造成重大人员伤亡。苹果新任首席执行官约翰 · 特努斯（John Ternus）今日在微博发文，宣布将捐款支持在当地开展救援工作的组织。那曲市的地震灾情令人痛心。Apple 将捐款支持在当地开展救援工作的组织 ，为受灾社区提供帮助。It's heartbreaking to see the damage from the earthquake in Nagqu City.Apple will make a donation to support organizations responding on the ground.IT之家了解到，昨天，西藏那曲市巴青县发生 7.监控画面显示，镜头剧烈摇晃，屋内物品掉落在地，民众纷纷跑到户外避险。",
-      "score": 35,
+      "published": "2026-10-24T03:48:36+00:00",
+      "summary": "IT之家 10 月 24 日消息，科技媒体 The Verge 昨日（10 月 23 日）发布博文，报道称美国国家公路交通安全管理局（NHTSA）正推动新提案， 为自动驾驶汽车引入统一的青绿色（蓝绿色）外部标识灯，让行人、其他驾驶员和执法人员能一眼识别“车辆正由自动驾驶系统操控”。美国国家公路交通安全管理局最新发布联邦机动车安全标准第 108 号（FMVSS 108）的修订提案，目前处于征求意见阶段，公众可在《联邦公报》正式发布后 30 天内提交意见。IT之家援引博文介绍，青色自动驾驶标识灯并非强制安装，但一旦车企选择配备，其颜色、亮度、数量、安装位置和激活方式都须遵循统一标准，以避免不同厂商使用混乱、易混淆的外部信号。美国国家公路交通安全管理局认为，青色可避开已被刹车灯、转向灯、前照灯及应急车辆广泛使用的红、琥珀、白、蓝红闪烁等颜色，从而降低误读风险。",
+      "score": 50,
       "original_title": "",
       "translated": false,
-      "priority": 15,
-      "uid": "1ae556ed2c92"
+      "priority": 35,
+      "uid": "30df5240dcf2"
     },
     {
-      "title": "报告称 2026 年国内大模型均价翻倍，每秒吞吐量也翻倍",
-      "link": "https://www.ithome.com/1/016/876.htm",
+      "title": "悉尼一男子告诉 Claude“自己想枪击托儿所”，被警方逮捕",
+      "link": "https://www.ithome.com/1/017/325.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-23T03:51:58+00:00",
-      "summary": "IT之家 10 月 23 日消息，中国信息通信研究院（简称“中国信通院”）人工智能研究所、人工智能大模型及软硬件评测工业和信息化部重点实验室和中国人工智能产业发展联盟，今日（10 月 23 日）联合发布《大模型词元服务性能监测报告（2026 年）》。报告称，随着大模型技术的迅速迭代，词元（Token）服务成为从技术走向应用的关键点，我国日均词元调用量持续攀升， 2026 年 6 月，国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍 。产业中越来越多的 MaaS（Model as a Service，模型即服务）平台厂商通过公有云 API 方式供给大模型词元服务。然而用户对词元服务性能缺乏直观的判断依据， 且面临选型困难等各类问题 。",
+      "published": "2026-10-24T02:54:58+00:00",
+      "summary": "IT之家 10 月 24 日消息，澳大利亚悉尼一名男子戴维 · 兰 · 萨克雷向 Anthropic 的聊天机器人 Claude 透露，自己想杀害住所附近一家托儿所的儿童，随后被警方逮捕。据《悉尼先驱晨报》报道，29 岁的萨克雷与 Claude 的对话 引起了国际刑警组织注意 ，随后于当地时间 18 日被警方拘留。警方指控他利用通信服务实施骚扰、恐吓或冒犯行为，涉嫌违反澳大利亚刑法。检方提交的文件显示，萨克雷曾对 Claude 说：“我现在就想去附近的韦斯特菲尔德购物中心，朝当地的托儿所开枪扫射。” 报道提到，国际刑警组织通过什么途径获取了聊天记录，以及 Anthropic 是否主动向国际刑警组织提供了对话内容，目前均不清楚。萨克雷不仅谈到了袭击当地托儿所、大规模杀害儿童，还在对话中提到了纳维德 · 阿克拉姆。",
       "score": 30,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "4ee0ba4edf27"
+      "uid": "4fe17873baf9"
     },
     {
-      "title": "倍思飓风 3 号 160W 氮化镓屏显充电器上架预约：搭载主动散热，399 元",
-      "link": "https://www.ithome.com/1/016/869.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-10-23T03:37:14+00:00",
-      "summary": "IT之家 10 月 23 日消息，倍思飓风 3 号 160W 全协议氮化镓屏显充电器现已上架预约，定价为 399 元。京东 倍思飓风 3 号 160W 氮化镓屏显充电器 399 元 直达链接 该充电器创新性搭载主动散热系统，采用电竞级风冷架构，独创环绕式超级风道，散热效率跃升 35%，可实现 72 小时持久满功率不降速，打破传统大功率快充高温降频的痛点，持续满载强劲输出。其配备直流离心高速涡扇，实现更小体积、更强风量、更低风阻：磁悬浮马达转速可达 12500 RPM，最大风量 0.96 CFM，相比传统设计风量提升 128%，支持睡眠模式，可手动关闭风扇，满足夜间充电低噪音需求。该充电器支持 AI 自适应主动控温，配备 2584mm² 石墨烯导热面积 ，无死角覆盖热源，从根源杜绝单点积热，实测满血充电 10 分钟温度立降 18℃，最终充电温度 可控制在 66℃ ，相比传统被动散热的普通高功率充电器低 15℃。",
+      "title": "网络安全“隐形基石”升级：OpenSSL 4.1 发布，实时音 / 视频和游戏传输更安全",
+      "link": "https://www.ithome.com/1/017/323.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-24T02:42:43+00:00",
+      "summary": "IT之家 10 月 24 日消息，开源加密基础库 OpenSSL 项目昨日（10 月 23 日）更新至 4.作为保障全球网络通信安全的关键组件，此次更新带来了多项重要功能与性能改进， 其中最受关注的是支持 DTLS 1.IT之家注：OpenSSL 是一个开源的密码学工具库和命令行工具集，为网络通信提供加密、身份认证和数据完整性保护。它最广为人知的用途，是让网站通过 HTTPS 安全传输数据，用户在浏览器地址栏上看到的“锁”图标，背后通常就有 OpenSSL 或类似加密库在工作。在最新 OpenSSL 4.1 版本中，主要新增支持数据报传输层安全协议（DTLS）1.该协议主要用于 UDP 等数据报通信场景。不同于 TCP 方式，UDP 数据包可能出现乱序、丢失或重复，因此 DTLS 需要在不依赖可靠连接的情况下提供类似 TLS 的加密保护。",
       "score": 20,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "80b5799be6c9"
+      "uid": "b21ae3a86e2e"
     },
     {
-      "title": "电力巨头称他们已经拥有解决人工智能用电紧张的工具",
-      "link": "https://oilprice.com/Energy/Energy-General/Electric-Giants-Say-They-Already-Have-the-Tools-to-Fix-the-AI-Power-Crunch.html",
+      "title": "特朗普的反尼克松策略：引入俄罗斯，排斥中国",
+      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-22T21:00:00+00:00",
-      "summary": "人工智能时代推动的能源需求激增正对全球能源基础设施造成前所未有的压力。不仅是世界的能源生产能力——尤其是清洁能源生产能力——在未来几年预测的数据中心能源需求曲线面前显得微不足道，而且建设和维持前所未有的电气化速度所需的物理基础设施也面临挑战……",
+      "published": "2026-10-23T23:00:00+00:00",
+      "summary": "10月9日，在特朗普总统与普京总统通话数小时后，美国财政部发布了为期六个月的豁免，允许俄罗斯柴油在全球市场上销售。官方目标是降低燃料价格，以应对11月3日的中期选举。但我认为这一交易的影响远不止于此。它符合一个更大的战略：即美国控制尽可能多的全球能源供应……",
       "score": 15,
-      "original_title": "Electric Giants Say They Already Have the Tools to Fix the AI Power Crunch",
+      "original_title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
       "translated": true,
       "priority": 0,
-      "uid": "73717a816686"
+      "uid": "127c2ada6613"
     },
     {
-      "title": "埃隆·马斯克向Skydance投资约10亿美元",
-      "link": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-10-22T19:34:46+00:00",
-      "summary": "据一位不愿透露姓名的知情人士称，埃隆·马斯克对Skydance进行了大约10亿美元的投资，因为该人士未被授权公开发言。这笔资金注入正值公司寻求削减成本之际。派拉蒙于10月6日完成了对华纳兄弟探索公司的收购，并将合并后的实体命名为Skydance。",
+      "title": "美国因供应中断再次动用战略石油储备",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-23T22:30:00+00:00",
+      "summary": "英国电网瓶颈存在……大型WCS折扣将持续……美国再次动用战略石油储备，这次是为了在油价攀升至每桶117美元以上时，保持路易斯安那州炼油厂的原油供应。与此同时，储备量已经降至自1982年以来的最低水平。",
       "score": 15,
-      "original_title": "Elon Musk invests about $1 billion in Skydance",
+      "original_title": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
       "translated": true,
       "priority": 0,
-      "uid": "64602892ec90"
+      "uid": "489f523867a3"
     },
     {
-      "title": "David's Bridal 计划将 AI 平台 Pearl 分拆为上市公司",
-      "link": "https://www.cnbc.com/2026/10/22/davids-bridal-pearl-ai-spinoff.html",
+      "title": "美国运通将裁减5%的员工以“为人工智能做准备”",
+      "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-10-22T19:02:59+00:00",
-      "summary": "CNBC独家获悉，大卫婚礼计划将其人工智能平台Pearl拆分为一家独立的上市公司，目标估值约为3.5亿美元。该公司预计该交易将在2027年上半年完成。大卫婚礼于周四提交了一份非约束性意向书，以分离Pearl。",
+      "published": "2026-10-23T18:57:48+00:00",
+      "summary": "美国运通正在裁减数千名员工，因为这家领先的信用卡公司正在为人工智能接管更多内部流程做准备。首席执行官斯蒂芬·斯克里（Stephen Squeri）在周五公司第三季度财报电话会议上告诉分析师，Amex将裁减全球员工的5%，并承担3.36亿美元的重组费用。截至2025年底，该公司拥有近77,000名员工。",
       "score": 15,
-      "original_title": "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
+      "original_title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
       "translated": true,
       "priority": 0,
-      "uid": "42788f0d5e72"
+      "uid": "0e8844869bfc"
+    },
+    {
+      "title": "两分钟内600万桶引发CFTC关注",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/6-Million-Barrels-in-Two-Minutes-Draws-CFTC-Scrutiny.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-23T17:20:00+00:00",
+      "summary": "加拿大即将达到……华盛顿面临政治和……石油交易商在3月23日仅两分钟内就卖出了相当于至少600万桶原油的期货，时值唐纳德·特朗普总统刚刚放弃对伊朗发电厂进行打击的威胁。现在，负责监管这些交易的联邦监管机构表示，它一直在调查这项活动。",
+      "score": 15,
+      "original_title": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
+      "translated": true,
+      "priority": 0,
+      "uid": "0fc793ffeff0"
+    },
+    {
+      "title": "随着机票价格飙升，乘飞机的人变少了。这就是航空公司不担心的原因",
+      "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-10-23T16:51:21+00:00",
+      "summary": "今年飞行的人减少了，但由于机票价格这么高而且还在上涨，航空公司高管表示这完全没问题。在美国各检查站接受安检的人数正朝着自2020年以来的首次年度下降的趋势发展。主要美国航空公司表示，提高票价比完全填满飞机或运送创纪录数量的旅客更为重要。“我们正积极优先考虑收益率而非客座率和乘客人数……”",
+      "score": 15,
+      "original_title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+      "translated": true,
+      "priority": 0,
+      "uid": "2b039b74e7a3"
     },
     {
       "title": "东南亚的数字经济将达到3680亿美元",
@@ -179,82 +192,43 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-21T04:00:00+00:00",
-      "summary": "《e-Conomy SEA 2026》报告封面图，由谷歌、淡马锡和贝恩公司发布，标题为《构建智能经济》。一幅3D插图展示了一个发光的黄色星星，周围环绕着代表数字行业的小场景，包括数据中心",
+      "summary": "由谷歌、淡马锡和贝恩公司发布的《e-Conomy SEA 2026》报告的封面图像，标题为《建设智能经济》。一幅3D插图展示了一个发光的黄色星星，周围环绕着代表数字行业的微型场景，包括数据中心",
       "score": 15,
       "original_title": "Southeast Asia’s digital economy to hit $368 billion",
       "translated": true,
       "priority": 0,
       "uid": "af3f5180566e"
-    },
-    {
-      "title": "双子座4氩气：为解决您最棘手的问题而打造",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-10-13T16:00:00+00:00",
-      "summary": "双子座 4 Argon：为解决您最困难的问题而构建 双子座 4 Argon 现在通过 AI Studio 和 Gemini 平台的 API 面向开发者和企业全球提供，Google AI Ultra 订阅者可在 Google Antigravity 使用，Gemini 应用中的 Google AI Ultra 和 Pro 订阅者以及搜索中的 AI 模式同样可使用。Argon 擅长在复杂的真实世界任务中进行深度工作，涵盖编码、金融、法律等领域...",
-      "score": 15,
-      "original_title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "translated": true,
-      "priority": 0,
-      "uid": "e879be1befb7"
-    },
-    {
-      "title": "为什么特朗普输不起稀土竞赛",
-      "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-Cant-Afford-to-Lose-The-Rare-Earth-Race.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-23T02:00:00+00:00",
-      "summary": "多年来，西方一直在寻找从稀土矿中脱身的技术出路。工程师们开发了新的电机设计、替代磁体化学成分以及可以减少甚至消除对某些关键矿物需求的材料。每当中国收紧出口管制时，这些努力就会再次受到关注。它们值得继续推进。但它们并没有回答制造商必须面对的问题……",
-      "score": 10,
-      "original_title": "Why Trump Can't Afford to Lose The Rare Earth Race",
-      "translated": true,
-      "priority": 0,
-      "uid": "a7bf8925a29c"
-    },
-    {
-      "title": "随着亚洲将目光投向海湾以外，加拿大液化天然气产能翻倍",
-      "link": "https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-23T00:00:00+00:00",
-      "summary": "上个月，壳牌（纽交所代码：SHEL）与马来西亚的国家石油公司（PETRONAS）、中国的中国石油、三菱商社和韩国天然气公司（KOGAS）共同正式批准了加拿大液化天然气二期扩建项目的最终投资决定（FID），将设施的产能翻倍至每年2800万吨（mtpa），并加强了该国作为长期向亚洲市场供应的重要潜力。",
-      "score": 10,
-      "original_title": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
-      "translated": true,
-      "priority": 0,
-      "uid": "f64f81f2d649"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3614.1231,
-        "change": -43.9025,
-        "pct": -1.2,
-        "amount_yi": 4875.06
+        "price": 3690.4753,
+        "change": 32.4497,
+        "pct": 0.89,
+        "amount_yi": 8986.67
       },
       {
         "name": "深证成指",
-        "price": 11175.85,
-        "change": -181.467,
-        "pct": -1.6,
-        "amount_yi": 5804.88
+        "price": 11673.83,
+        "change": 316.507,
+        "pct": 2.79,
+        "amount_yi": 10575.91
       },
       {
         "name": "创业板指",
-        "price": 2521.77,
-        "change": -55.132,
-        "pct": -2.14,
-        "amount_yi": 1139.6
+        "price": 2684.1,
+        "change": 107.196,
+        "pct": 4.16,
+        "amount_yi": 2301.22
       },
       {
         "name": "沪深300",
-        "price": 4014.6002,
-        "change": -21.6964,
-        "pct": -0.54,
-        "amount_yi": 2895.72
+        "price": 4105.3286,
+        "change": 69.032,
+        "pct": 1.71,
+        "amount_yi": 5582.05
       }
     ],
     "holdings": [
@@ -263,11 +237,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 50.08,
-        "market_value": 5008.0,
-        "pnl": 1835.36,
-        "pnl_pct": 57.85,
-        "weight_hint": "44.9%",
+        "price": 50.2,
+        "market_value": 5020.0,
+        "pnl": 1847.36,
+        "pnl_pct": 58.23,
+        "weight_hint": "45.4%",
         "note": "",
         "available": true
       },
@@ -276,11 +250,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 29.85,
-        "market_value": 2985.0,
-        "pnl": 288.59,
-        "pnl_pct": 10.7,
-        "weight_hint": "26.8%",
+        "price": 29.45,
+        "market_value": 2945.0,
+        "pnl": 248.59,
+        "pnl_pct": 9.22,
+        "weight_hint": "26.6%",
         "note": "",
         "available": true
       },
@@ -289,11 +263,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.6,
-        "market_value": 2580.0,
-        "pnl": 702.48,
-        "pnl_pct": 37.42,
-        "weight_hint": "23.1%",
+        "price": 8.32,
+        "market_value": 2496.0,
+        "pnl": 618.48,
+        "pnl_pct": 32.94,
+        "weight_hint": "22.6%",
         "note": "",
         "available": true
       },
@@ -302,11 +276,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.857,
-        "market_value": 171.4,
-        "pnl": -146.6,
-        "pnl_pct": -46.1,
-        "weight_hint": "1.5%",
+        "price": 0.909,
+        "market_value": 181.8,
+        "pnl": -136.2,
+        "pnl_pct": -42.83,
+        "weight_hint": "1.6%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -315,11 +289,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.086,
-        "market_value": 408.6,
-        "pnl": -88.4,
-        "pnl_pct": -17.79,
-        "weight_hint": "3.7%",
+        "price": 4.178,
+        "market_value": 417.8,
+        "pnl": -79.2,
+        "pnl_pct": -15.94,
+        "weight_hint": "3.8%",
         "note": "",
         "available": true
       },
@@ -339,147 +313,104 @@
     ],
     "sectors": [
       {
-        "name": "新能源/光伏 · 光伏主材",
-        "pct": -0.27,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": -0.62,
+        "name": "半导体/电子 · 数字芯片设计",
+        "pct": 5.27,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 62.46,
         "source": "东财行业"
       },
       {
-        "name": "金融/银行 · 非银金融",
-        "pct": -0.79,
+        "name": "半导体/电子 · 模拟芯片设计",
+        "pct": 5.01,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 4.83,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 燃料电池",
+        "pct": 3.78,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": -0.01,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 电池",
+        "pct": 3.57,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 11.25,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 金融信息服务",
+        "pct": 2.84,
         "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -5.83,
+        "main_flow_yi": -0.73,
         "source": "东财行业"
       },
       {
-        "name": "电力/公用 · 综合电力设备商",
-        "pct": -1.03,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": -0.48,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 综合电力设备商",
-        "pct": -1.03,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": -0.48,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭",
-        "pct": -1.31,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": -1.62,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭行业",
-        "pct": -1.3138831992806,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "name": "金融/银行 · 金融行业",
+        "pct": 0.49910997870929,
+        "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "金融/银行 · 金融控股",
-        "pct": -1.46,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -0.19,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 电力行业",
-        "pct": -2.6659115697626,
-        "why": "对应长江电力，关注来水与股息稳定性",
+        "name": "煤炭 · 煤炭行业",
+        "pct": 0.48708597691962,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": -3.0460228784251,
+        "pct": -0.63846767757382,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子器件",
-        "pct": -4.1732671248561,
-        "why": "对应半导体ETF，关注景气与政策",
+        "name": "电力/公用 · 电力行业",
+        "pct": -0.92289621612551,
+        "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
-    "policy_news": [],
+    "policy_news": [
+      {
+        "title": "操纵股价，香港证监会出手！严查三高管",
+        "link": "https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwhtfy2253506.shtml",
+        "level": "高",
+        "tag": "政策"
+      }
+    ],
     "industry_news": [
       {
-        "title": "震荡市中压舱石：红利低波ETF华泰柏瑞（512890）半日成交4.78亿元居同类首位 近5年回报50.17%",
-        "link": "https://finance.sina.com.cn/money/fund/original/2026-10-23/doc-iniweqhs8217100.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "港股午评：恒指涨0.58% 科指涨0.86% 汽车股走强 锂电池股回暖",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-23/doc-iniweqhw2046043.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "洞察红利价值！景顺长城基金走进江苏银行连云港分行",
-        "link": "https://finance.sina.com.cn/money/fund/jjh/2026-10-23/doc-iniweqhw2037806.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "农业银行咸阳分行被罚14.3万元：违反国库集中收付管理相关规定",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-10-23/doc-iniweqhs8189003.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "半日主力资金丨加仓电力设备板块 抛售通信板块",
-        "link": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniweqhr5661685.shtml",
+        "title": "视频 | 大成基金拟发红利ETF!拟任经理任职回报全部亏损，红利策略能否扭转?",
+        "link": "https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwhxpw2148676.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
-    "market_news": [
-      {
-        "title": "股票ETF上午整体大幅放量，半日成交额超1248亿元",
-        "link": "https://finance.sina.com.cn/money/fund/etf/2026-10-23/doc-iniweqhu4937763.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "光大期货1023黄金点评：黄金创三个月新低，市场关注资金流动性",
-        "link": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-10-23/doc-iniweqhs8154447.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "现货黄金一度跌破4,000美元 股市跌势加剧引发市场动荡",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniweqhw1986203.shtml",
-        "level": "中",
-        "tag": "股市"
-      }
-    ],
-    "total_market_value": 11153.0,
-    "total_pnl": 2591.43,
-    "total_amount_yi": 10679.94,
-    "bias": "偏空",
-    "volume_note": "量能：两市合计约 10680 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 暂无；偏弱 光伏主材、非银金融、综合电力设备商",
-    "tip": "一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向",
+    "market_news": [],
+    "total_market_value": 11060.6,
+    "total_pnl": 2499.03,
+    "total_amount_yi": 19562.58,
+    "bias": "偏多",
+    "volume_note": "量能：两市合计约 19563 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 数字芯片设计、模拟芯片设计、燃料电池；偏弱 石油行业、电力行业",
+    "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
   "learning": {
-    "title": "PB（市净率）",
-    "body": "PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。",
+    "title": "股息率",
+    "body": "股息率 = 每股分红 ÷ 股价。偏防守时，高于约4%常被看作有一定现金回报缓冲。神华、工行的观察重点之一就是分红是否稳定。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "视频监控方案",
-    "text": "今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。"
+    "topic": "定额套用",
+    "text": "今儿聊【定额套用】。451跟陕西安装定额放一块，像俩表亲开会：看着都姓定，细问各算各的。你刚把边界理清，人家说“这块能不能合并”——合并的是定额，分裂的是头发。社会经验：重复计取这事，定额怕，审计更怕，最怕的是你自己半夜突然想起来。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年10月24日 12:06 · 共 15 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 偏多；量能：两市合计约 19563 亿元（接口口径），成交偏活跃；行业分化：偏强 数字芯片设计、模拟芯片设计、燃料电池；偏弱 石油行业、电力行业</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3690.48 <span style='color:#0e7c66'>+0.89%</span> · 约8987亿</li><li><strong>深证成指</strong> 11673.83 <span style='color:#0e7c66'>+2.79%</span> · 约10576亿</li><li><strong>创业板指</strong> 2684.10 <span style='color:#0e7c66'>+4.16%</span> · 约2301亿</li><li><strong>沪深300</strong> 4105.33 <span style='color:#0e7c66'>+1.71%</span> · 约5582亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>半导体/电子 · 数字芯片设计</strong> <span style='color:#0e7c66'>+5.27%</span> · 净流入约62.46亿<div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>半导体/电子 · 模拟芯片设计</strong> <span style='color:#0e7c66'>+5.01%</span> · 净流入约4.83亿<div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>新能源/光伏 · 燃料电池</strong> <span style='color:#0e7c66'>+3.78%</span> · 净流入约-0.01亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>新能源/光伏 · 电池</strong> <span style='color:#0e7c66'>+3.57%</span> · 净流入约11.25亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>金融/银行 · 金融信息服务</strong> <span style='color:#0e7c66'>+2.84%</span> · 净流入约-0.73亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>金融/银行 · 金融行业</strong> <span style='color:#0e7c66'>+0.50%</span><div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#0e7c66'>+0.49%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#b42318'>-0.64%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>电力/公用 · 电力行业</strong> <span style='color:#b42318'>-0.92%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 50.200 · 盈亏 <span style='color:#0e7c66'>+1847.36（+58.23%）</span> · 仓位约 45.4%</li><li><strong>长江电力</strong>（600900） 现价 29.450 · 盈亏 <span style='color:#0e7c66'>+248.59（+9.22%）</span> · 仓位约 26.6%</li><li><strong>工商银行</strong>（601398） 现价 8.320 · 盈亏 <span style='color:#0e7c66'>+618.48（+32.94%）</span> · 仓位约 22.6%</li><li><strong>半导体ETF</strong>（159995） 现价 0.909 · 盈亏 <span style='color:#b42318'>-136.20（-42.83%）</span> · 仓位约 1.6%</li><li><strong>300ETF</strong>（510300） 现价 4.178 · 盈亏 <span style='color:#b42318'>-79.20（-15.94%）</span> · 仓位约 3.8%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 11060.60 元，浮动盈亏约 +2499.03 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>【高】<a href='https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwhtfy2253506.shtml' target='_blank' rel='noopener'>操纵股价，香港证监会出手！严查三高管</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/marketresearch/2026-10-24/doc-iniwhxpw2148676.shtml' target='_blank' rel='noopener'>视频 | 大成基金拟发红利ETF!拟任经理任职回报全部亏损，红利策略能否扭转?</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>今日暂无高相关条目</li></ul><p class='sum'>新手提醒：板块轮动是常态，不要追高换仓</p></section>
+    
+    <section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.ftchinese.com/story/001111174" target="_blank" rel="noopener">伊朗战争爆发以来首次出台宽松政策，土耳其央行降息100基点</a><div class="meta">FT 中文网 · 10-23 00:00</div><p class="sum">通胀放缓和消费者信心减弱为政策制定者带来放宽货币政策的空间，尽管油价高企仍对通胀构成上行风险。</p></li><li><a href="https://www.cnbc.com/2026/10/23/american-express-job-cuts.html" target="_blank" rel="noopener">美国运通将裁减5%的员工以“为人工智能做准备”</a><div class="meta">CNBC · 10-24 02:57</div><p class="sum">美国运通正在裁减数千名员工，因为这家领先的信用卡公司正在为人工智能接管更多内部流程做准备。首席执行官斯蒂芬·斯克里（Stephen Squeri）在周五公司第三季度财报电话会议上告诉分析师，Amex将裁减全球员工的5%，并承担3.36亿美元的重组费用。截至2025年底，该公司拥有近77,000名员工。</p></li><li><a href="https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html" target="_blank" rel="noopener">随着机票价格飙升，乘飞机的人变少了。这就是航空公司不担心的原因</a><div class="meta">CNBC · 10-24 00:51</div><p class="sum">今年飞行的人减少了，但由于机票价格这么高而且还在上涨，航空公司高管表示这完全没问题。在美国各检查站接受安检的人数正朝着自2020年以来的首次年度下降的趋势发展。主要美国航空公司表示，提高票价比完全填满飞机或运送创纪录数量的旅客更为重要。“我们正积极优先考虑收益率而非客座率和乘客人数……”</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html" target="_blank" rel="noopener">特朗普的反尼克松策略：引入俄罗斯，排斥中国</a><div class="meta">OilPrice · 10-24 07:00</div><p class="sum">10月9日，在特朗普总统与普京总统通话数小时后，美国财政部发布了为期六个月的豁免，允许俄罗斯柴油在全球市场上销售。官方目标是降低燃料价格，以应对11月3日的中期选举。但我认为这一交易的影响远不止于此。它符合一个更大的战略：即美国控制尽可能多的全球能源供应……</p></li><li><a href="https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html" target="_blank" rel="noopener">美国因供应中断再次动用战略石油储备</a><div class="meta">OilPrice · 10-24 06:30</div><p class="sum">英国电网瓶颈存在……大型WCS折扣将持续……美国再次动用战略石油储备，这次是为了在油价攀升至每桶117美元以上时，保持路易斯安那州炼油厂的原油供应。与此同时，储备量已经降至自1982年以来的最低水平。</p></li><li><a href="https://oilprice.com/Latest-Energy-News/World-News/6-Million-Barrels-in-Two-Minutes-Draws-CFTC-Scrutiny.html" target="_blank" rel="noopener">两分钟内600万桶引发CFTC关注</a><div class="meta">OilPrice · 10-24 01:20</div><p class="sum">加拿大即将达到……华盛顿面临政治和……石油交易商在3月23日仅两分钟内就卖出了相当于至少600万桶原油的期货，时值唐纳德·特朗普总统刚刚放弃对伊朗发电厂进行打击的威胁。现在，负责监管这些交易的联邦监管机构表示，它一直在调查这项活动。</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/017/334.htm" target="_blank" rel="noopener">美国拟推新规：自动驾驶汽车要用青绿色灯光“自报家门”</a><div class="meta">IT之家·通信安防 · 10-24 11:48</div><p class="sum">IT之家 10 月 24 日消息，科技媒体 The Verge 昨日（10 月 23 日）发布博文，报道称美国国家公路交通安全管理局（NHTSA）正推动新提案， 为自动驾驶汽车引入统一的青绿色（蓝绿色）外部标识灯，让行人、其他驾驶员和执法人员能一眼识别“车辆正由自动驾驶系统操控”。美国国家公路交通安全管理局最新发布联邦机动车安全标准第 108 号（FMVSS 108）的修订提案，目前处于征求意见阶段，公众可在《联邦公报》正式发布后 30 天内提交意见。IT之家援引博文介绍，青色自动驾驶标识灯并非强制安装，但一旦车企选择配备，其颜色、亮度、数量、安装位置和激活方式都须遵循统一标准，以避免不同厂商使用混乱、易混淆的外部信号。美国国家公路交通安全管理局认为，青色可避开已被刹车灯、转向灯、前照灯及应急车辆广泛使用的红、琥珀、白、蓝红闪烁等颜色，从而降低误读风险。</p></li><li><a href="https://www.ithome.com/1/017/325.htm" target="_blank" rel="noopener">悉尼一男子告诉 Claude“自己想枪击托儿所”，被警方逮捕</a><div class="meta">IT之家·通信安防 · 10-24 10:54</div><p class="sum">IT之家 10 月 24 日消息，澳大利亚悉尼一名男子戴维 · 兰 · 萨克雷向 Anthropic 的聊天机器人 Claude 透露，自己想杀害住所附近一家托儿所的儿童，随后被警方逮捕。据《悉尼先驱晨报》报道，29 岁的萨克雷与 Claude 的对话 引起了国际刑警组织注意 ，随后于当地时间 18 日被警方拘留。警方指控他利用通信服务实施骚扰、恐吓或冒犯行为，涉嫌违反澳大利亚刑法。检方提交的文件显示，萨克雷曾对 Claude 说：“我现在就想去附近的韦斯特菲尔德购物中心，朝当地的托儿所开枪扫射。” 报道提到，国际刑警组织通过什么途径获取了聊天记录，以及 Anthropic 是否主动向国际刑警组织提供了对话内容，目前均不清楚。萨克雷不仅谈到了袭击当地托儿所、大规模杀害儿童，还在对话中提到了纳维德 · 阿克拉姆。</p></li><li><a href="https://www.ithome.com/1/017/323.htm" target="_blank" rel="noopener">网络安全“隐形基石”升级：OpenSSL 4.1 发布，实时音 / 视频和游戏传输更安全</a><div class="meta">IT之家·通信安防 · 10-24 10:42</div><p class="sum">IT之家 10 月 24 日消息，开源加密基础库 OpenSSL 项目昨日（10 月 23 日）更新至 4.作为保障全球网络通信安全的关键组件，此次更新带来了多项重要功能与性能改进， 其中最受关注的是支持 DTLS 1.IT之家注：OpenSSL 是一个开源的密码学工具库和命令行工具集，为网络通信提供加密、身份认证和数据完整性保护。它最广为人知的用途，是让网站通过 HTTPS 安全传输数据，用户在浏览器地址栏上看到的“锁”图标，背后通常就有 OpenSSL 或类似加密库在工作。在最新 OpenSSL 4.1 版本中，主要新增支持数据报传输层安全协议（DTLS）1.该协议主要用于 UDP 等数据报通信场景。不同于 TCP 方式，UDP 数据包可能出现乱序、丢失或重复，因此 DTLS 需要在不依赖可靠连接的情况下提供类似 TLS 的加密保护。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://openai.com/index/scaling-storage-one-billion-users-part-two" target="_blank" rel="noopener">快速扩展在线存储以服务超过10亿ChatGPT用户（第二部分）</a><div class="meta">OpenAI / ChatGPT · 10-24 01:00</div><p class="sum">了解 OpenAI 如何通过可靠的多租户、全球缓存和 Azure Cosmos DB 扩展 Habitat，为 ChatGPT 提供 12 倍更快的读取速度。</p></li><li><a href="https://www.anthropic.com/news/announcements" target="_blank" rel="noopener">Anthropic / Claude：公告</a><div class="meta">Anthropic / Claude · 10-24 12:06</div><p class="sum">公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了在天文观测宇宙学和精密测量领域数十年的科学专长。</p></li><li><a href="https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/" target="_blank" rel="noopener">超越树木覆盖：绘制世界森林类型地图</a><div class="meta">Google DeepMind · 10-22 22:30</div><p class="sum">超越树木覆盖：绘制世界森林类型地图 一张新的10米分辨率地图显示了世界上的森林是自然的、人工种植的还是农用的，以及它们随时间的变化情况。保护地球的森林从一个简单的问题开始：我们看到的是什么类型的森林？从太空中看，原始雨林、尤加利种植园和油棕种植园可能看起来都是一片绿色的区域。</p></li><li><a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank" rel="noopener">Anthropic / Claude：投资于公共利益</a><div class="meta">Anthropic / Claude · 10-24 12:06</div><p class="sum">今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。</p></li><li><a href="https://openai.com/index/securing-our-frontier-model-training-environment" target="_blank" rel="noopener">保护我们的前沿模型训练环境</a><div class="meta">OpenAI / ChatGPT · 10-23 18:00</div><p class="sum">OpenAI 解释了我们如何加强前沿模型训练和评估的控制，包括离线环境和高计算量的红队测试。</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/" target="_blank" rel="noopener">东南亚的数字经济将达到3680亿美元</a><div class="meta">Google AI Blog · 10-21 12:00</div><p class="sum">由谷歌、淡马锡和贝恩公司发布的《e-Conomy SEA 2026》报告的封面图像，标题为《建设智能经济》。一幅3D插图展示了一个发光的黄色星星，周围环绕着代表数字行业的微型场景，包括数据中心</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>股息率</strong>：股息率 = 每股分红 ÷ 股价。偏防守时，高于约4%常被看作有一定现金回报缓冲。神华、工行的观察重点之一就是分红是否稳定。</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【定额套用】。451跟陕西安装定额放一块，像俩表亲开会：看着都姓定，细问各算各的。你刚把边界理清，人家说“这块能不能合并”——合并的是定额，分裂的是头发。社会经验：重复计取这事，定额怕，审计更怕，最怕的是你自己半夜突然想起来。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>
