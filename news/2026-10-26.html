@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年10月26日 12:12 · 共 17 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 偏空；量能：两市合计约 10061 亿元（接口口径），成交中等；行业分化：偏强 石油行业、蓄电池及其他电池、国有大型银行Ⅲ；偏弱 煤炭行业、电子器件</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3683.92 <span style='color:#b42318'>-0.18%</span> · 约4541亿</li><li><strong>深证成指</strong> 11551.72 <span style='color:#b42318'>-1.05%</span> · 约5520亿</li><li><strong>创业板指</strong> 2639.85 <span style='color:#b42318'>-1.65%</span> · 约1078亿</li><li><strong>沪深300</strong> 4083.14 <span style='color:#b42318'>-0.54%</span> · 约2600亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>石油 · 石油行业</strong> <span style='color:#0e7c66'>+1.18%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>新能源/光伏 · 蓄电池及其他电池</strong> <span style='color:#0e7c66'>+0.91%</span> · 净流入约-0.14亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>金融/银行 · 国有大型银行Ⅲ</strong> <span style='color:#0e7c66'>+0.87%</span> · 净流入约4.62亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>新能源/光伏 · 光伏主材</strong> <span style='color:#0e7c66'>+0.84%</span> · 净流入约0.41亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>石油 · 石油石化</strong> <span style='color:#0e7c66'>+0.83%</span> · 净流入约4.97亿<div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>电力/公用 · 供水供气</strong> <span style='color:#0e7c66'>+0.59%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>金融/银行 · 金融行业</strong> <span style='color:#0e7c66'>+0.30%</span><div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#b42318'>-0.62%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>半导体/电子 · 电子器件</strong> <span style='color:#b42318'>-2.93%</span><div class='meta'>对应半导体ETF，关注景气与政策</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 48.960 · 盈亏 <span style='color:#0e7c66'>+1723.36（+54.32%）</span> · 仓位约 44.5%</li><li><strong>长江电力</strong>（600900） 现价 29.680 · 盈亏 <span style='color:#0e7c66'>+271.59（+10.07%）</span> · 仓位约 27.0%</li><li><strong>工商银行</strong>（601398） 现价 8.460 · 盈亏 <span style='color:#0e7c66'>+660.48（+35.18%）</span> · 仓位约 23.1%</li><li><strong>半导体ETF</strong>（159995） 现价 0.882 · 盈亏 <span style='color:#b42318'>-141.60（-44.53%）</span> · 仓位约 1.6%</li><li><strong>300ETF</strong>（510300） 现价 4.153 · 盈亏 <span style='color:#b42318'>-81.70（-16.44%）</span> · 仓位约 3.8%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 10993.70 元，浮动盈亏约 +2432.13 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>今日暂无高相关条目</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/money/bank/2026-10-26/doc-iniwpmtv9264705.shtml' target='_blank' rel='noopener'>苏商银行受邀出席2026可持续全球领导者大会，分享产业与金融双向共生的可持续实践</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-26/doc-iniwpmtx5588013.shtml' target='_blank' rel='noopener'>中国神华早盘涨逾3% 前三季度归母净利润473.17亿元同比增长2.1%</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpmtu2463023.shtml' target='_blank' rel='noopener'>星展银行：避险需求升温 美国10年期国债收益率或降至4.8%</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/marketresearch/2026-10-26/doc-iniwpmtx5604599.shtml' target='_blank' rel='noopener'>帕西尼正式启动A股IPO：注册地刚迁至北京，三星比亚迪押注的具身感知龙头</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/marketresearch/2026-10-26/doc-iniwpmtz2371781.shtml' target='_blank' rel='noopener'>成交放量期权波动率拉升后，短期不宜再过度悲观——银华投顾每日观点2026.10.23</a></li></ul><p class='sum'>新手提醒：成交量放大+上涨，比缩量上涨更有参考价值</p></section>
+    
+    <section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html" target="_blank" rel="noopener">随着机票价格飙升，乘飞机的人变少了。这就是航空公司不担心的原因</a><div class="meta">CNBC · 10-24 23:53</div><p class="sum">今年飞行的人更少了，但航空公司高管表示，在机票价格如此之高并且还在上涨的情况下，这完全没问题。星期五晚上，在曼哈顿中城的纽约希尔顿酒店，航空业举办了年度翅膀俱乐部晚会，表彰利润领先的达美航空首席执行官埃德·巴斯蒂安。参加这场黑领带晚会的北美航空公司首席执行官和其他高管告诉CNBC，需求趋势并不令人担忧，但……</p></li><li><a href="https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html" target="_blank" rel="noopener">为什么受欢迎的飞机会提前多年报废</a><div class="meta">CNBC · 10-24 23:18</div><p class="sum">亚利桑那州古迪尔 —— 一架空客 A320neo，这是世界上最受欢迎的飞机之一，于2022年7月从阿拉巴马州莫比尔的工厂下线，涂上了明亮的黄色，准备前往它的下一个目的地：精灵航空公司。它被设计为可以飞行数十年。但今年五月，不到四年时间，它就被拆解出售价值数百万的零部件并压碎，挖掘机的钢齿在郊外的设施中撕裂着它的机身……</p></li><li><a href="https://www.cnbc.com/2026/10/23/american-express-job-cuts.html" target="_blank" rel="noopener">美国运通将裁减5%的员工以“为人工智能做准备”</a><div class="meta">CNBC · 10-24 02:57</div><p class="sum">美国运通正在裁减数千名员工，因为这家领先的信用卡公司正为人工智能接管更多内部流程做准备。首席执行官斯蒂芬·斯克里（Stephen Squeri）在周五公司第三季度财报电话会议上告诉分析师，Amex将裁减全球员工的5%，并承担3.36亿美元的重组费用。截至2025年底，该公司拥有近77,000名员工。</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Energy/Energy-General/The-Pentagons-Rare-Earth-Deadline-Is-Almost-Here-Is-Anyone-Ready.html" target="_blank" rel="noopener">五角大楼的稀土截止日期快到了。有人准备好了吗？</a><div class="meta">OilPrice · 10-26 08:00</div><p class="sum">多年来，稀土行业一直在谈论2027年1月1日这个将改变一切的日期。如今，这个日期距离我们不到75天。1月1日，新的五角大楼采购规定将生效，这些规定将限制在美国武器系统中使用中国来源的稀土材料。限制涵盖整个供应链，从开采和精炼到分离、熔炼和生产。</p></li><li><a href="https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html" target="_blank" rel="noopener">尽管中东出口恢复，油价仍上涨</a><div class="meta">OilPrice · 10-26 07:00</div><p class="sum">过去几周，有关波斯湾和红海石油流恢复的报道占据了头条新闻。然而，油价只是小幅上涨，这表明仅凭桶数并不足以让世界相信一切已经恢复正常。事实上，并非如此。根据最新的Kpler数据，中东地区十月份的石油出口总量实际上比美国之前的水平还要高。</p></li><li><a href="https://oilprice.com/Energy/Energy-General/Britains-Renewable-Energy-Boom-Is-Hitting-a-Grid-Bottleneck.html" target="_blank" rel="noopener">英国的可再生能源繁荣正在遇到电网瓶颈</a><div class="meta">OilPrice · 10-26 03:00</div><p class="sum">近年来，英国在扩大可再生能源产能方面投入了大量资金，以减少对化石燃料的依赖并支持绿色转型。然而，实现这一目标的道路上存在一个主要问题——其电网基础设施尚未准备充分。尽管有几个新的风能和太阳能项目投入运行，但由于电网效率低下，英国仍然严重依赖天然气……</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/017/764.htm" target="_blank" rel="noopener">英伟达瞄准 AI 软件订阅收入，黄仁勋提出每块 GPU 每年约 2000 美元</a><div class="meta">IT之家·通信安防 · 10-26 09:41</div><p class="sum">IT之家 10 月 26 日消息，英伟达首席执行官黄仁勋（Jensen Huang）表示，配套 AI 软件的年度授权费约为每块 GPU 2,000 美元 （IT之家注：现汇率约合 13,355 元人民币） ，用来“运行英伟达提供的、在这些 AI 工厂上支撑 AI 智能体运转的全套软件”。相关发言视频近日流出，按照 FourWeekMBA 给出的一种测算情景，如果付费授权达到 500 万份，这套定价模式五年内有望带来 500 亿美元 （现汇率约合 3,338.72 亿元人民币） 收入。黄仁勋在 10 月 22 日柏林 GTC 大会上谈到了该定价，英伟达也在会上公布了更宏大的规划：打造覆盖芯片、软件以及 AI 智能体安全能力的 AI 基础设施业务。“软件授权会逐渐成为我们业务里非常重要的一块。我们的授权模式大致是这样…… 举个例子，想要运行英伟达全套用于在 AI 工厂上部署智能体的软件，费用大约是每块 GPU 每年 2,000 美元 （现汇率约合 13,355 元人民币） 。</p></li><li><a href="https://www.ithome.com/1/017/767.htm" target="_blank" rel="noopener">华为路由 X2 系列首销：书本设计、Wi‑Fi 7+、AI Mesh 组网，478 元起</a><div class="meta">IT之家·通信安防 · 10-26 09:49</div><p class="sum">IT之家 10 月 26 日消息，华为路由 X2 系列今日 10:08 首销， 售价 478 元起 ： 华为路由 X2（白色）：478 元 华为路由 X2 双支装：888 元 华为路由 X2 Pro（大地棕、橡木白、石纹灰）：588 元 华为路由 X2 Pro 双支装（大地棕 &amp; 橡木白）：1108 元 华为路由 X2 系列支持 Wi-Fi 7+，实现 100% 弱信号区域速率提升，卡顿降低 80%，同时带来星闪电竞专链、星闪蓝牙多模网关功能，支持全屋互联，可适配 3200+ 品牌、 400+ 品类智能设备。华为路由 X2 系列搭载凌霄 760 系列芯片，与华为终端产品实现芯片级底层联调优化，有效降低兼容损耗，释放更强性能；采用 4 通道信号放大设计，自研凌霄芯片搭配 4 颗高性能信号放大器，从底层强化信号穿透力。</p></li><li><a href="https://www.ithome.com/1/017/831.htm" target="_blank" rel="noopener">智界预计还有四款 SUV 出海，消息称后续开发都是按照全球车型（标准）</a><div class="meta">IT之家·通信安防 · 10-26 12:06</div><p class="sum">IT之家 10 月 26 日消息，博主 @未来的学习笔记 今日发文称，智界出海除了前两天公布的 V9 和 RX 的海外版本， 预计还有四款 SUV 车型 。博主表示，从智界 V9 和 RX 可以看出， 智界后续开发的车型都是按照全球车型（标准）来的 。他还透露，后面的四款 SUV 预计会在明年登场。据IT之家此前报道，本月早些时候，智界 V9 和智界 RX 的全球车型曝光。其中，智界 V9 的海外版采用全新外观方案，前脸更换为大尺寸直瀑式格栅，大灯组造型也进行了调整，变为格栅两侧纵置布局；智界 RX 外观与国内版本区别不大，但沿用的是 LUXEED 字母车标设计。延伸阅读 智界是华为与奇瑞合作打造的新能源汽车品牌，隶属鸿蒙智行（HIMA）生态联盟，旗下已有智界 R7、智界 RX 等多款车型，智界 V9 则是该品牌第三款量产车，也是鸿蒙智行旗下首款旗舰 MPV。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://openai.com/index/scaling-storage-one-billion-users-part-two" target="_blank" rel="noopener">快速扩展在线存储以服务超过10亿ChatGPT用户（第二部分）</a><div class="meta">OpenAI / ChatGPT · 10-24 01:00</div><p class="sum">了解 OpenAI 如何通过可靠的多租户、全球缓存和 Azure Cosmos DB 扩展 Habitat，为 ChatGPT 提供 12 倍更快的读取速度。</p></li><li><a href="https://www.anthropic.com/news/announcements" target="_blank" rel="noopener">Anthropic / Claude：公告</a><div class="meta">Anthropic / Claude · 10-26 12:12</div><p class="sum">公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了在天文观测宇宙学和精密测量领域数十年的科学专长。</p></li><li><a href="https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/" target="_blank" rel="noopener">超越树木覆盖：绘制世界森林类型地图</a><div class="meta">Google DeepMind · 10-22 22:30</div><p class="sum">超越树木覆盖：绘制世界森林类型地图 一张新的10米分辨率地图显示了世界上的森林是自然的、人工种植的还是农用的，以及它们随时间的变化情况。保护地球的森林从一个简单的问题开始：我们看到的是什么类型的森林？从太空中看，原始雨林、尤加利种植园和油棕种植园可能看起来都是一片绿色的区域。</p></li><li><a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank" rel="noopener">Anthropic / Claude：投资于公共利益</a><div class="meta">Anthropic / Claude · 10-26 12:12</div><p class="sum">今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。</p></li><li><a href="https://openai.com/index/securing-our-frontier-model-training-environment" target="_blank" rel="noopener">保护我们的前沿模型训练环境</a><div class="meta">OpenAI / ChatGPT · 10-23 18:00</div><p class="sum">OpenAI 解释了我们如何加强前沿模型训练和评估的限制，包括离线环境和高计算量的红队测试。</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/" target="_blank" rel="noopener">东南亚的数字经济将达到3680亿美元</a><div class="meta">Google AI Blog · 10-21 12:00</div><p class="sum">谷歌、淡马锡和贝恩公司联合发布的《e-Conomy SEA 2026》报告的封面图像，标题为《建设智能经济》。一幅3D插图展示了一个发光的黄色星星，周围环绕着代表数字行业的微型场景，包括数据中心</p></li></ul></section><section class="cat"><h2>健康生活</h2><ul><li><a href="https://www.ithome.com/1/017/809.htm" target="_blank" rel="noopener">王腾：ISHO 今日宜休，目标用 5-10 年时间成为全球领先的 AI 睡眠科技品牌</a><div class="meta">IT之家·出行 · 10-26 11:17</div><p class="sum">IT之家 10 月 26 日消息，ISHO 今日宜休今日发布了第一支品牌理念片。公司创始人王腾发文，介绍了对 ISHO 今日宜休品牌和产品的思考。他表示，从决定创业的第一天起，就明确了一件事：ISHO 今日宜休，希望打造一个 AI 睡眠科技生态，帮助更多用户能够更好的恢复和拥有好状态。我们背靠中国优秀的工程师资源和顶级的产业链能力， 目标用 5-10 年的时间成为全球领先的 AI 睡眠科技品牌 。王腾透露， ISHO 在亚洲、北美、欧洲、大洋洲、中东等地的 27 个国家或地区提交了商标注册 ，其中俄罗斯、沙特阿拉伯、阿联酋、新加坡、菲律宾、澳大利亚等多个国家和地区已经获批取得注册， 其余国家品牌落地也在顺利推进中 。他还分享了自己创业之后的感受，称这些年，很多行业都很卷：卷价格、卷效率，也卷工作时间。</p></li><li><a href="https://www.ithome.com/1/017/804.htm" target="_blank" rel="noopener">OPPO 推出 80W 15000mAh、67W 20000mAh 新国标移动电源，269 元</a><div class="meta">IT之家·出行 · 10-26 10:57</div><p class="sum">IT之家 10 月 26 日消息，OPPO 推出了两款新国标移动电源，分别为 80W 15000mAh、67W 20000mAh，现已开售， 售价均为 269 元 。两款新品均通过 2026 新国标 CCC 认证，支持 ColorOS 系统级互联，手机上可直接查看剩余电量、电池健康度、实时温度、循环次数等设备状态信息。IT之家附两款新品主要介绍如下： 这款移动电源容量为 15000mAh（采用 3 颗 5000mAh 电芯串联），支持 80W SUPERVOOC 超级闪充，同时兼容 PD 65W、PPS 55W 输出；配备 USB-A + Type-C 双口设计，双口同充时总功率为 30W；重量约 330g，附赠一条 8A 高密度编织手提充电线。京东 OPPO SUPERVOOC 80W 随行充 超级闪充移动电源 15000 269 元 直达链接 这款移动电源容量为 20000mAh（采用 2 颗 10000mAh 电芯串联），支持 67W SUPERVOOC 超级闪充，同时兼容 PD 45W、PPS 55W 输出；</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>T+1 是什么</strong>：A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>
