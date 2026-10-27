@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年10月27日 12:31 · 共 18 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 震荡；量能：两市合计约 8700 亿元（接口口径），成交中等；行业分化：偏强 煤炭行业；偏弱 金融行业、电力行业、石油行业</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3692.58 <span style='color:#b42318'>-0.13%</span> · 约3883亿</li><li><strong>深证成指</strong> 11496.44 <span style='color:#b42318'>-0.33%</span> · 约4817亿</li><li><strong>创业板指</strong> 2626.31 <span style='color:#b42318'>-0.45%</span> · 约901亿</li><li><strong>沪深300</strong> 4098.17 <span style='color:#b42318'>-0.13%</span> · 约2108亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#0e7c66'>+0.37%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>金融/银行 · 金融行业</strong> <span style='color:#b42318'>-0.29%</span><div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>电力/公用 · 电力行业</strong> <span style='color:#b42318'>-0.56%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#b42318'>-0.70%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>半导体/电子 · 电子信息</strong> <span style='color:#b42318'>-0.95%</span><div class='meta'>对应半导体ETF，关注景气与政策</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 49.900 · 盈亏 <span style='color:#0e7c66'>+1817.36（+57.28%）</span> · 仓位约 44.9%</li><li><strong>长江电力</strong>（600900） 现价 29.640 · 盈亏 <span style='color:#0e7c66'>+267.59（+9.92%）</span> · 仓位约 26.7%</li><li><strong>工商银行</strong>（601398） 现价 8.580 · 盈亏 <span style='color:#0e7c66'>+696.48（+37.10%）</span> · 仓位约 23.2%</li><li><strong>半导体ETF</strong>（159995） 现价 0.866 · 盈亏 <span style='color:#b42318'>-144.80（-45.53%）</span> · 仓位约 1.6%</li><li><strong>300ETF</strong>（510300） 现价 4.175 · 盈亏 <span style='color:#b42318'>-79.50（-16.00%）</span> · 仓位约 3.8%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 11118.70 元，浮动盈亏约 +2557.13 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>今日暂无高相关条目</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/money/fund/original/2026-10-27/doc-iniwruys2072452.shtml' target='_blank' rel='noopener'>三重逻辑支撑银行股走强 红利低波ETF华泰柏瑞（512890）近5年回报52.42%</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-27/doc-iniwrqsz1548999.shtml' target='_blank' rel='noopener'>俊知集团午前涨逾5% 附属预中标中国铁塔2026年电力电缆（铜缆）产品集中采购项目</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwrqsx4756651.shtml' target='_blank' rel='noopener'>纽约梅隆银行严控AI词元成本 让不同模型各尽其用</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/hkstock/hkyx/2026-10-27/doc-iniwruyt8827232.shtml' target='_blank' rel='noopener'>大摩削宁德时代目标价：港股降评级至“与大市同步”及目标价45% A股自首选股剔除</a></li></ul><p class='sum'>新手提醒：成交量放大+上涨，比缩量上涨更有参考价值</p></section>
+    
+    <section class="cat"><h2>持仓相关</h2><ul><li><a href="https://www.ftchinese.com/story/001111205" target="_blank" rel="noopener">Meta拟发股筹集950亿美元AI投资资金</a><div class="meta">FT 中文网 · 10-27 00:00</div><p class="sum">这是大型科技公司借助股市为其AI雄心提供资金的最新事例。芯片制造商英伟达、AMD和博通将作为基石投资者支持这笔交易。</p></li></ul></section><section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html" target="_blank" rel="noopener">捷蓝航空公布燃油成本亏损更大，但首席执行官表示利润率有所改善</a><div class="meta">CNBC · 10-27 05:18</div><p class="sum">捷蓝航空公布第三季度亏损较去年更大，但这家纽约航空公司表示，强劲的旅行需求有助于抵消燃油价格上涨的影响，周一股价跌至新低后，该公司试图安抚投资者。 捷蓝航空股价在周一盘后交易中飙升约 11%。 捷蓝航空周一公布截至 2019 年 9 月 3 日的三个月净亏损 2.57 亿美元。</p></li><li><a href="https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html" target="_blank" rel="noopener">FTC 和 20 个州起诉 Dollar General，指控零售商向购物者收取过高费用</a><div class="meta">CNBC · 10-27 02:37</div><p class="sum">美国联邦贸易委员会周一表示，它与 20 个州一起提起诉讼，指控 Dollar General 向顾客收取的费用高于其在货架、价格标签和广告中显示的价格。 FTC 宣布诉讼后，Dollar General 股价下跌约 4%。</p></li><li><a href="https://www.ftchinese.com/story/001111199" target="_blank" rel="noopener">中国风电制造商为欧洲业务架设“防火墙”</a><div class="meta">FT 中文网 · 10-26 00:00</div><p class="sum">明阳智能表示，与英国章鱼能源组建合资公司并在欧洲成立独立法律实体，有助于让客户相信，从中国无法访问欧洲数据。</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Energy/Crude-Oil/UK-Weighs-Scrapping-Its-Largest-Untapped-Oilfield-With-Oil-Over-100.html" target="_blank" rel="noopener">英国考虑废弃其最大未开发油田 石油价格超过100美元</a><div class="meta">OilPrice · 10-27 08:00</div><p class="sum">英国正在决定是否在石油危机中开采其最大的未开发油田，布伦特原油价格已超过 100，且其 70% 以上的石油已经来自国外。 设得兰群岛以西的罗斯班克 (Rosebank) 票价为 8 英镑。 其运营商表示，耗资 70 亿美元（约 11. 6 亿美元）的开发项目将在高峰时每天开采约 69,000 桶石油，大约是该国预期石油产量的十分之一。</p></li><li><a href="https://oilprice.com/Energy/Energy-General/Asia-Needs-1-Trillion-a-Year-to-Avoid-the-Next-Energy-Shock.html" target="_blank" rel="noopener">亚洲每年需要 1 万亿美元以避免下一次能源冲击</a><div class="meta">OilPrice · 10-27 05:00</div><p class="sum">石油和天然气可能会再次流经霍尔木兹海峡，但长达数月关闭的影响将在未来几年内感受到。 特别是对于亚洲来说，随着整个地区能源需求预测率继续大幅上升，未来几年监管市场和加强能源安全以避免下一次能源冲击将需要数万亿美元。</p></li><li><a href="https://oilprice.com/Energy/Crude-Oil/Iran-War-Pushes-Trumps-Average-Gasoline-Prices-Above-Bidens.html" target="_blank" rel="noopener">伊朗战争使特朗普的平均汽油价格高于拜登</a><div class="meta">OilPrice · 10-27 04:00</div><p class="sum">唐纳德·特朗普总统第二任期内美国人支付的汽油平均价格现已超过乔·拜登总统任期内记录的平均价格，在 11 月 3 日中期选举前几天标志着一个具有政治意义的里程碑。 根据路透社援引的 AAA 数据，普通汽油平均价格为 3 美元。 自特朗普 2025 年 1 月重返办公室以来，油价为每加仑 472 美元，而此前为每加仑 3 美元。</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/018/270.htm" target="_blank" rel="noopener">Anthropic 上市文件披露：当今 AI 产业严重依赖天然气</a><div class="meta">IT之家·通信安防 · 10-27 11:09</div><p class="sum">IT之家 10 月 27 日消息，据外媒 The Verge 今天（27 日）早间报道，准备上市的 Anthropic 在 S-1 注册文件中，揭示了生成式 AI 产业 对甲烷的严重依赖 。文件写道，电力供应以及供电条件良好的数据中心选址，都面临激烈竞争。Anthropic 向美国证券交易委员会提交的文件承认，数据中心越来越依赖主要成分是甲烷的“天然气”。这意味着 Anthropic 建设 AI 数据中心的计划，将受到 燃料涨价和供应链瓶颈 的制约。文件还承认，燃烧化石燃料造成的全球气温上升，也会进一步推高自身运营成本。部分规划中的数据中心需要依靠燃气轮机现场发电。Anthropic 从大型云计算服务商租用算力资源，去年也宣布了一项 500 亿美元 （IT之家注：现汇率约合 3,341.88 亿元人民币） 的投资计划，用于扩大得克萨斯州和纽约州的数据中心规模。</p></li><li><a href="https://www.ithome.com/1/018/341.htm" target="_blank" rel="noopener">全国首个、推动跨品牌互联互通，海尔承建的国家人工智能应用中试基地（家居家电方向）在青岛启动</a><div class="meta">IT之家·通信安防 · 10-27 12:20</div><p class="sum">IT之家 10 月 27 日消息，海尔集团发文宣布，家居家电方向的国家人工智能应用中试基地（以下简称“中试基地”），于今日（10 月 27 日）在青岛举行建设启动仪式。该基地由商务部推荐、国家发改委审批、海尔智家承建，来自家居家电企业、人工智能技术团队、高校院所的 200 多位行业专家代表出席活动。该基地的目标是 打造全球引领的“新一代智慧家电”中试基地 ，让 AI 创新从“单打独斗”走向全行业“联合攻坚”，沉淀可复用的公共能力，推动人工智能规模化、标准化应用。IT之家注：中试，即“中间阶段试验”，是指把处在试制阶段的新产品转化到生产过程的过渡性试验，是产品在实验室研发成功后、正式投入大规模量产前，所进行的较小规模生产试验和优化过程。国家人工智能应用中试基地（家居家电方向）是全国首个家居家电方向的国家人工智能应用中试基地。</p></li><li><a href="https://www.ithome.com/1/018/323.htm" target="_blank" rel="noopener">闪迪哨兵 microSD 存储卡上市：行车记录仪、安防监控双版本</a><div class="meta">IT之家·通信安防 · 10-27 11:33</div><p class="sum">IT之家 10 月 27 日消息，Sandisk（闪迪）此前推出的 SANDISK Guardian 哨兵系列 microSD 存储卡现已上市。这批存储卡分为适合行车记录仪的 Dash Cam 和适合安防监控的 Security Cam 两个分支版本，两者均覆盖 32GB / 64GB / 128GB / 256GB / 512GB 共五个容量点， 享受 2 年质保 闪迪哨兵行车记录仪 microSD 卡专为复杂驾驶环境下实现持续、高耐久性视频录制而设计，能够应对长途驾驶过程中的高温及潮湿，支持从 FHD 至 4K UHD 的高分辨率视频录制。其到手价如下： 32GB：189 元；64GB：219 元；128GB：329 元；256GB：659 元；512GB：1299 元。京东 闪迪哨兵 行车记录仪 microSD 卡 189 元起 直达链接 闪迪哨兵安防监控 microSD 卡具备耐高温、防水、防尘特性，适用于全年运行的户外监控系统，支持从 FHD 至 4K UHD 的高分辨率视频录制及高清画面呈现。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://openai.com/index/chatgpt-expanding-world-of-work" target="_blank" rel="noopener">ChatGPT 不断扩大的工作领域</a><div class="meta">OpenAI / ChatGPT · 10-26 18:00</div><p class="sum">探索 OpenAI Signals 近 100 个国家/地区 165 项工作活动的数据，揭示人们如何使用 ChatGPT 进行工作以及使用情况如何随时间变化。</p></li><li><a href="https://www.anthropic.com/news/announcements" target="_blank" rel="noopener">人类/克劳德：公告</a><div class="meta">Anthropic / Claude · 10-27 12:31</div><p class="sum">公告 - 2026 年 10 月 21 日，物理学家 Christopher Stubbs 加入 Anthropic 的长期利益信托基金 实验物理学家、哈佛大学前科学院长 Christopher Stubbs 博士已加入 Anthropic 的长期利益信托基金。 他为信托基金带来了数十年在观测宇宙学和精密测量方面的科学专业知识。</p></li><li><a href="https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/" target="_blank" rel="noopener">超越树木覆盖：绘制世界森林类型图</a><div class="meta">Google DeepMind · 10-22 22:30</div><p class="sum">超越树木覆盖范围：绘制世界森林类型地图 一张新的 10 米分辨率地图显示了世界上哪些森林是天然森林、人工森林或人工森林，以及它们随时间的变化情况 保护地球森林从一个简单的问题开始：我们正在寻找什么类型的森林？ 从太空中看，古老的雨林、桉树种植园和油棕庄园看起来就像是同一片绿色。</p></li><li><a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank" rel="noopener">Anthropic / 克劳德：投资公益</a><div class="meta">Anthropic / Claude · 10-27 12:31</div><p class="sum">今天，我们将 Anthropic 的部分股份捐赠给 Anthropic 公共福利基金，这是一个新的全资实体，其结构会随着公司的发展而增加股份。 经股东批准，今天将承诺认购 5% 的 Anthropic 股份，公司价值每增加 50%，董事会可酌情增持 2%。</p></li><li><a href="https://openai.com/index/building-scientific-understanding-with-academic-communities" target="_blank" rel="noopener">与学术界合作建立科学理解</a><div class="meta">OpenAI / ChatGPT · 10-26 22:30</div><p class="sum">OpenAI 分享了挂谷猜想、指数时间假说和量子色动力学的模型结果，以及研究人员如何验证和构建它们。</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/" target="_blank" rel="noopener">我们最新的人工智能任务：绘制人类大脑图谱</a><div class="meta">Google AI Blog · 10-27 00:00</div><p class="sum">我们最新的人工智能任务：绘制人类大脑今天，我们推出“极地峰”，这是人工智能任务系列中的第三个任务，由谷歌研究中心和斯坦福学习加速器创建，旨在教导学生人工智能如何工作以及如何负责任地使用它。 AI Quests 邀请 11 至 14 岁的学生扮演 Google 研究人员的角色，解决人类面临的一些最大挑战。</p></li><li><a href="https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/" target="_blank" rel="noopener">东南亚数字经济规模将达3680亿美元</a><div class="meta">Google AI Blog · 10-21 12:00</div><p class="sum">2026 年东南亚电子经济报告的封面图片，标题为 Google、淡马锡和贝恩公司构建智能经济。 3D 插图展示了一颗发光的黄色星星，周围环绕着代表数字部门（包括数据中心）的微型场景</p></li></ul></section><section class="cat"><h2>健康生活</h2><ul><li><a href="https://www.ithome.com/1/018/328.htm" target="_blank" rel="noopener">解决外卖进不了医院问题，顺丰速运、顺丰同城、美团共推骑手“接力送”方案</a><div class="meta">IT之家·出行 · 10-27 11:48</div><p class="sum">IT之家 10 月 27 日消息，据顺丰同城官方 10 月 26 日消息，为推进新就业群体友好场景建设，破解大型综合医院“外卖进不了院、送不上楼”难题，依托顺丰速运、顺丰同城、美团三方共建的医院“骑手（快递）一站式服务中心”， 顺丰同城携手顺丰速运、美团、医院、社区街道推出医院场景“接力送”分段配送方案 ，以取送分离、分段接力、定点交接、专业运营的创新模式，让用户收餐更便捷、骑手配送更高效。据介绍，大型医院是即时配送长期以来的难点场景。部分医院实行封闭管理，外部骑手难以进入院区送餐，餐品只能放在院外指定点位，需要医护职工、患者家属等下楼自取；也有医院允许骑手进入院区，但由于楼栋分散、电梯资源紧张，骑手往往难以快速找到病房或诊室，面临长时间等候的困扰，多方体验受限。“接力送”模式中，依托顺丰速运、顺丰同城、美团三方共建的医院一站式服务中心， 实现外卖集中集散与交接 ： 顺丰速运依托中心内的快递服务中心，为院内医护职工、患者及家属提供快递寄递、存取等便民服务；</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>满仓的代价</strong>：现金几乎为0时，回调里没有子弹加仓。新手版仓位：核心防御60–70%，成长卫星20–30%，现金尽量留10–20%。</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【机油保养】。NWG150说明书写六千公里一换，你心里写“再挺挺”。车不说话，缸里知道；等它说话，说话的方式通常是异响。社会经验：省下的机油钱，最后都会变成修理厂的茶位费。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>东财行业板块失败: HTTP Error 502: Bad Gateway</li><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>

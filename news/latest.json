@@ -1,29 +1,29 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-10-26T12:12:14.492720+08:00",
+  "generated_at": "2026-10-27T12:31:28.414783+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 17,
+  "count": 18,
   "items": [
     {
-      "title": "快速扩展在线存储以服务超过10亿ChatGPT用户（第二部分）",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "title": "ChatGPT 不断扩大的工作领域",
+      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-10-23T17:00:00+00:00",
-      "summary": "了解 OpenAI 如何通过可靠的多租户、全球缓存和 Azure Cosmos DB 扩展 Habitat，为 ChatGPT 提供 12 倍更快的读取速度。",
+      "published": "2026-10-26T10:00:00+00:00",
+      "summary": "探索 OpenAI Signals 近 100 个国家/地区 165 项工作活动的数据，揭示人们如何使用 ChatGPT 进行工作以及使用情况如何随时间变化。",
       "score": 65,
-      "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "original_title": "ChatGPT’s expanding world of work",
       "translated": true,
       "priority": 0,
-      "uid": "e1a2d44d6cf2"
+      "uid": "04984b85a90a"
     },
     {
-      "title": "Anthropic / Claude：公告",
+      "title": "人类/克劳德：公告",
       "link": "https://www.anthropic.com/news/announcements",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-26T04:12:34+00:00",
-      "summary": "公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了在天文观测宇宙学和精密测量领域数十年的科学专长。",
+      "published": "2026-10-27T04:31:48+00:00",
+      "summary": "公告 - 2026 年 10 月 21 日，物理学家 Christopher Stubbs 加入 Anthropic 的长期利益信托基金 实验物理学家、哈佛大学前科学院长 Christopher Stubbs 博士已加入 Anthropic 的长期利益信托基金。 他为信托基金带来了数十年在观测宇宙学和精密测量方面的科学专业知识。",
       "score": 60,
       "original_title": "Anthropic / Claude：Announcements",
       "translated": true,
@@ -31,12 +31,12 @@
       "uid": "1c262b0ddbb0"
     },
     {
-      "title": "超越树木覆盖：绘制世界森林类型地图",
+      "title": "超越树木覆盖：绘制世界森林类型图",
       "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-10-22T14:30:24+00:00",
-      "summary": "超越树木覆盖：绘制世界森林类型地图 一张新的10米分辨率地图显示了世界上的森林是自然的、人工种植的还是农用的，以及它们随时间的变化情况。保护地球的森林从一个简单的问题开始：我们看到的是什么类型的森林？从太空中看，原始雨林、尤加利种植园和油棕种植园可能看起来都是一片绿色的区域。",
+      "summary": "超越树木覆盖范围：绘制世界森林类型地图 一张新的 10 米分辨率地图显示了世界上哪些森林是天然森林、人工森林或人工森林，以及它们随时间的变化情况 保护地球森林从一个简单的问题开始：我们正在寻找什么类型的森林？ 从太空中看，古老的雨林、桉树种植园和油棕庄园看起来就像是同一片绿色。",
       "score": 40,
       "original_title": "Beyond tree cover: mapping the world’s forest types",
       "translated": true,
@@ -44,25 +44,38 @@
       "uid": "c8c57c740639"
     },
     {
-      "title": "英伟达瞄准 AI 软件订阅收入，黄仁勋提出每块 GPU 每年约 2000 美元",
-      "link": "https://www.ithome.com/1/017/764.htm",
+      "title": "Anthropic 上市文件披露：当今 AI 产业严重依赖天然气",
+      "link": "https://www.ithome.com/1/018/270.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-26T01:41:26+00:00",
-      "summary": "IT之家 10 月 26 日消息，英伟达首席执行官黄仁勋（Jensen Huang）表示，配套 AI 软件的年度授权费约为每块 GPU 2,000 美元 （IT之家注：现汇率约合 13,355 元人民币） ，用来“运行英伟达提供的、在这些 AI 工厂上支撑 AI 智能体运转的全套软件”。相关发言视频近日流出，按照 FourWeekMBA 给出的一种测算情景，如果付费授权达到 500 万份，这套定价模式五年内有望带来 500 亿美元 （现汇率约合 3,338.72 亿元人民币） 收入。黄仁勋在 10 月 22 日柏林 GTC 大会上谈到了该定价，英伟达也在会上公布了更宏大的规划：打造覆盖芯片、软件以及 AI 智能体安全能力的 AI 基础设施业务。“软件授权会逐渐成为我们业务里非常重要的一块。我们的授权模式大致是这样…… 举个例子，想要运行英伟达全套用于在 AI 工厂上部署智能体的软件，费用大约是每块 GPU 每年 2,000 美元 （现汇率约合 13,355 元人民币） 。",
+      "published": "2026-10-27T03:09:14+00:00",
+      "summary": "IT之家 10 月 27 日消息，据外媒 The Verge 今天（27 日）早间报道，准备上市的 Anthropic 在 S-1 注册文件中，揭示了生成式 AI 产业 对甲烷的严重依赖 。文件写道，电力供应以及供电条件良好的数据中心选址，都面临激烈竞争。Anthropic 向美国证券交易委员会提交的文件承认，数据中心越来越依赖主要成分是甲烷的“天然气”。这意味着 Anthropic 建设 AI 数据中心的计划，将受到 燃料涨价和供应链瓶颈 的制约。文件还承认，燃烧化石燃料造成的全球气温上升，也会进一步推高自身运营成本。部分规划中的数据中心需要依靠燃气轮机现场发电。Anthropic 从大型云计算服务商租用算力资源，去年也宣布了一项 500 亿美元 （IT之家注：现汇率约合 3,341.88 亿元人民币） 的投资计划，用于扩大得克萨斯州和纽约州的数据中心规模。",
+      "score": 95,
+      "original_title": "",
+      "translated": false,
+      "priority": 60,
+      "uid": "a373888d88c3"
+    },
+    {
+      "title": "全国首个、推动跨品牌互联互通，海尔承建的国家人工智能应用中试基地（家居家电方向）在青岛启动",
+      "link": "https://www.ithome.com/1/018/341.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-27T04:20:49+00:00",
+      "summary": "IT之家 10 月 27 日消息，海尔集团发文宣布，家居家电方向的国家人工智能应用中试基地（以下简称“中试基地”），于今日（10 月 27 日）在青岛举行建设启动仪式。该基地由商务部推荐、国家发改委审批、海尔智家承建，来自家居家电企业、人工智能技术团队、高校院所的 200 多位行业专家代表出席活动。该基地的目标是 打造全球引领的“新一代智慧家电”中试基地 ，让 AI 创新从“单打独斗”走向全行业“联合攻坚”，沉淀可复用的公共能力，推动人工智能规模化、标准化应用。IT之家注：中试，即“中间阶段试验”，是指把处在试制阶段的新产品转化到生产过程的过渡性试验，是产品在实验室研发成功后、正式投入大规模量产前，所进行的较小规模生产试验和优化过程。国家人工智能应用中试基地（家居家电方向）是全国首个家居家电方向的国家人工智能应用中试基地。",
       "score": 65,
       "original_title": "",
       "translated": false,
-      "priority": 25,
-      "uid": "1ae126a75274"
+      "priority": 35,
+      "uid": "00df0319abf1"
     },
     {
-      "title": "Anthropic / Claude：投资于公共利益",
+      "title": "Anthropic / 克劳德：投资公益",
       "link": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-26T04:12:34+00:00",
-      "summary": "今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。",
+      "published": "2026-10-27T04:31:48+00:00",
+      "summary": "今天，我们将 Anthropic 的部分股份捐赠给 Anthropic 公共福利基金，这是一个新的全资实体，其结构会随着公司的发展而增加股份。 经股东批准，今天将承诺认购 5% 的 Anthropic 股份，公司价值每增加 50%，董事会可酌情增持 2%。",
       "score": 60,
       "original_title": "Anthropic / Claude：Investing in the public benefit",
       "translated": true,
@@ -70,155 +83,155 @@
       "uid": "c34aebdbb449"
     },
     {
-      "title": "保护我们的前沿模型训练环境",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "title": "与学术界合作建立科学理解",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-10-23T10:00:00+00:00",
-      "summary": "OpenAI 解释了我们如何加强前沿模型训练和评估的限制，包括离线环境和高计算量的红队测试。",
+      "published": "2026-10-26T14:30:00+00:00",
+      "summary": "OpenAI 分享了挂谷猜想、指数时间假说和量子色动力学的模型结果，以及研究人员如何验证和构建它们。",
       "score": 60,
-      "original_title": "Securing our frontier model training environment",
+      "original_title": "Working with academic communities to build scientific understanding",
       "translated": true,
       "priority": 0,
-      "uid": "601a16deb460"
+      "uid": "7e5ba917980f"
     },
     {
-      "title": "华为路由 X2 系列首销：书本设计、Wi‑Fi 7+、AI Mesh 组网，478 元起",
-      "link": "https://www.ithome.com/1/017/767.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-26T01:49:11+00:00",
-      "summary": "IT之家 10 月 26 日消息，华为路由 X2 系列今日 10:08 首销， 售价 478 元起 ： 华为路由 X2（白色）：478 元 华为路由 X2 双支装：888 元 华为路由 X2 Pro（大地棕、橡木白、石纹灰）：588 元 华为路由 X2 Pro 双支装（大地棕 & 橡木白）：1108 元 华为路由 X2 系列支持 Wi-Fi 7+，实现 100% 弱信号区域速率提升，卡顿降低 80%，同时带来星闪电竞专链、星闪蓝牙多模网关功能，支持全屋互联，可适配 3200+ 品牌、 400+ 品类智能设备。华为路由 X2 系列搭载凌霄 760 系列芯片，与华为终端产品实现芯片级底层联调优化，有效降低兼容损耗，释放更强性能；采用 4 通道信号放大设计，自研凌霄芯片搭配 4 颗高性能信号放大器，从底层强化信号穿透力。",
-      "score": 55,
+      "title": "Meta拟发股筹集950亿美元AI投资资金",
+      "link": "https://www.ftchinese.com/story/001111205",
+      "source": "FT 中文网",
+      "category": "持仓相关",
+      "published": "2026-10-26T16:00:00+00:00",
+      "summary": "这是大型科技公司借助股市为其AI雄心提供资金的最新事例。芯片制造商英伟达、AMD和博通将作为基石投资者支持这笔交易。",
+      "score": 45,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "311ca02246a9"
+      "uid": "649dbc8c5f5b"
     },
     {
-      "title": "智界预计还有四款 SUV 出海，消息称后续开发都是按照全球车型（标准）",
-      "link": "https://www.ithome.com/1/017/831.htm",
+      "title": "解决外卖进不了医院问题，顺丰速运、顺丰同城、美团共推骑手“接力送”方案",
+      "link": "https://www.ithome.com/1/018/328.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-10-27T03:48:28+00:00",
+      "summary": "IT之家 10 月 27 日消息，据顺丰同城官方 10 月 26 日消息，为推进新就业群体友好场景建设，破解大型综合医院“外卖进不了院、送不上楼”难题，依托顺丰速运、顺丰同城、美团三方共建的医院“骑手（快递）一站式服务中心”， 顺丰同城携手顺丰速运、美团、医院、社区街道推出医院场景“接力送”分段配送方案 ，以取送分离、分段接力、定点交接、专业运营的创新模式，让用户收餐更便捷、骑手配送更高效。据介绍，大型医院是即时配送长期以来的难点场景。部分医院实行封闭管理，外部骑手难以进入院区送餐，餐品只能放在院外指定点位，需要医护职工、患者家属等下楼自取；也有医院允许骑手进入院区，但由于楼栋分散、电梯资源紧张，骑手往往难以快速找到病房或诊室，面临长时间等候的困扰，多方体验受限。“接力送”模式中，依托顺丰速运、顺丰同城、美团三方共建的医院一站式服务中心， 实现外卖集中集散与交接 ： 顺丰速运依托中心内的快递服务中心，为院内医护职工、患者及家属提供快递寄递、存取等便民服务；",
+      "score": 30,
+      "original_title": "",
+      "translated": false,
+      "priority": 15,
+      "uid": "065fa264507c"
+    },
+    {
+      "title": "闪迪哨兵 microSD 存储卡上市：行车记录仪、安防监控双版本",
+      "link": "https://www.ithome.com/1/018/323.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-10-26T04:06:34+00:00",
-      "summary": "IT之家 10 月 26 日消息，博主 @未来的学习笔记 今日发文称，智界出海除了前两天公布的 V9 和 RX 的海外版本， 预计还有四款 SUV 车型 。博主表示，从智界 V9 和 RX 可以看出， 智界后续开发的车型都是按照全球车型（标准）来的 。他还透露，后面的四款 SUV 预计会在明年登场。据IT之家此前报道，本月早些时候，智界 V9 和智界 RX 的全球车型曝光。其中，智界 V9 的海外版采用全新外观方案，前脸更换为大尺寸直瀑式格栅，大灯组造型也进行了调整，变为格栅两侧纵置布局；智界 RX 外观与国内版本区别不大，但沿用的是 LUXEED 字母车标设计。延伸阅读 智界是华为与奇瑞合作打造的新能源汽车品牌，隶属鸿蒙智行（HIMA）生态联盟，旗下已有智界 R7、智界 RX 等多款车型，智界 V9 则是该品牌第三款量产车，也是鸿蒙智行旗下首款旗舰 MPV。",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "65d93ff8e06a"
-    },
-    {
-      "title": "王腾：ISHO 今日宜休，目标用 5-10 年时间成为全球领先的 AI 睡眠科技品牌",
-      "link": "https://www.ithome.com/1/017/809.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-10-26T03:17:36+00:00",
-      "summary": "IT之家 10 月 26 日消息，ISHO 今日宜休今日发布了第一支品牌理念片。公司创始人王腾发文，介绍了对 ISHO 今日宜休品牌和产品的思考。他表示，从决定创业的第一天起，就明确了一件事：ISHO 今日宜休，希望打造一个 AI 睡眠科技生态，帮助更多用户能够更好的恢复和拥有好状态。我们背靠中国优秀的工程师资源和顶级的产业链能力， 目标用 5-10 年的时间成为全球领先的 AI 睡眠科技品牌 。王腾透露， ISHO 在亚洲、北美、欧洲、大洋洲、中东等地的 27 个国家或地区提交了商标注册 ，其中俄罗斯、沙特阿拉伯、阿联酋、新加坡、菲律宾、澳大利亚等多个国家和地区已经获批取得注册， 其余国家品牌落地也在顺利推进中 。他还分享了自己创业之后的感受，称这些年，很多行业都很卷：卷价格、卷效率，也卷工作时间。",
-      "score": 20,
+      "published": "2026-10-27T03:33:00+00:00",
+      "summary": "IT之家 10 月 27 日消息，Sandisk（闪迪）此前推出的 SANDISK Guardian 哨兵系列 microSD 存储卡现已上市。这批存储卡分为适合行车记录仪的 Dash Cam 和适合安防监控的 Security Cam 两个分支版本，两者均覆盖 32GB / 64GB / 128GB / 256GB / 512GB 共五个容量点， 享受 2 年质保 闪迪哨兵行车记录仪 microSD 卡专为复杂驾驶环境下实现持续、高耐久性视频录制而设计，能够应对长途驾驶过程中的高温及潮湿，支持从 FHD 至 4K UHD 的高分辨率视频录制。其到手价如下： 32GB：189 元；64GB：219 元；128GB：329 元；256GB：659 元；512GB：1299 元。京东 闪迪哨兵 行车记录仪 microSD 卡 189 元起 直达链接 闪迪哨兵安防监控 microSD 卡具备耐高温、防水、防尘特性，适用于全年运行的户外监控系统，支持从 FHD 至 4K UHD 的高分辨率视频录制及高清画面呈现。",
+      "score": 25,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "f96cc7293fc9"
+      "uid": "d3cee2662ea0"
     },
     {
-      "title": "OPPO 推出 80W 15000mAh、67W 20000mAh 新国标移动电源，269 元",
-      "link": "https://www.ithome.com/1/017/804.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-10-26T02:57:53+00:00",
-      "summary": "IT之家 10 月 26 日消息，OPPO 推出了两款新国标移动电源，分别为 80W 15000mAh、67W 20000mAh，现已开售， 售价均为 269 元 。两款新品均通过 2026 新国标 CCC 认证，支持 ColorOS 系统级互联，手机上可直接查看剩余电量、电池健康度、实时温度、循环次数等设备状态信息。IT之家附两款新品主要介绍如下： 这款移动电源容量为 15000mAh（采用 3 颗 5000mAh 电芯串联），支持 80W SUPERVOOC 超级闪充，同时兼容 PD 65W、PPS 55W 输出；配备 USB-A + Type-C 双口设计，双口同充时总功率为 30W；重量约 330g，附赠一条 8A 高密度编织手提充电线。京东 OPPO SUPERVOOC 80W 随行充 超级闪充移动电源 15000 269 元 直达链接 这款移动电源容量为 20000mAh（采用 2 颗 10000mAh 电芯串联），支持 67W SUPERVOOC 超级闪充，同时兼容 PD 45W、PPS 55W 输出；",
+      "title": "英国考虑废弃其最大未开发油田 石油价格超过100美元",
+      "link": "https://oilprice.com/Energy/Crude-Oil/UK-Weighs-Scrapping-Its-Largest-Untapped-Oilfield-With-Oil-Over-100.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-27T00:00:00+00:00",
+      "summary": "英国正在决定是否在石油危机中开采其最大的未开发油田，布伦特原油价格已超过 100，且其 70% 以上的石油已经来自国外。 设得兰群岛以西的罗斯班克 (Rosebank) 票价为 8 英镑。 其运营商表示，耗资 70 亿美元（约 11. 6 亿美元）的开发项目将在高峰时每天开采约 69,000 桶石油，大约是该国预期石油产量的十分之一。",
+      "score": 15,
+      "original_title": "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
+      "translated": true,
+      "priority": 0,
+      "uid": "e59519875de6"
+    },
+    {
+      "title": "捷蓝航空公布燃油成本亏损更大，但首席执行官表示利润率有所改善",
+      "link": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-10-26T21:18:07+00:00",
+      "summary": "捷蓝航空公布第三季度亏损较去年更大，但这家纽约航空公司表示，强劲的旅行需求有助于抵消燃油价格上涨的影响，周一股价跌至新低后，该公司试图安抚投资者。 捷蓝航空股价在周一盘后交易中飙升约 11%。 捷蓝航空周一公布截至 2019 年 9 月 3 日的三个月净亏损 2.57 亿美元。",
+      "score": 15,
+      "original_title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+      "translated": true,
+      "priority": 0,
+      "uid": "81ce2783c8f6"
+    },
+    {
+      "title": "亚洲每年需要 1 万亿美元以避免下一次能源冲击",
+      "link": "https://oilprice.com/Energy/Energy-General/Asia-Needs-1-Trillion-a-Year-to-Avoid-the-Next-Energy-Shock.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-26T21:00:00+00:00",
+      "summary": "石油和天然气可能会再次流经霍尔木兹海峡，但长达数月关闭的影响将在未来几年内感受到。 特别是对于亚洲来说，随着整个地区能源需求预测率继续大幅上升，未来几年监管市场和加强能源安全以避免下一次能源冲击将需要数万亿美元。",
+      "score": 15,
+      "original_title": "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock",
+      "translated": true,
+      "priority": 0,
+      "uid": "b227a85b5a5d"
+    },
+    {
+      "title": "伊朗战争使特朗普的平均汽油价格高于拜登",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Pushes-Trumps-Average-Gasoline-Prices-Above-Bidens.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-26T20:00:00+00:00",
+      "summary": "唐纳德·特朗普总统第二任期内美国人支付的汽油平均价格现已超过乔·拜登总统任期内记录的平均价格，在 11 月 3 日中期选举前几天标志着一个具有政治意义的里程碑。 根据路透社援引的 AAA 数据，普通汽油平均价格为 3 美元。 自特朗普 2025 年 1 月重返办公室以来，油价为每加仑 472 美元，而此前为每加仑 3 美元。",
+      "score": 15,
+      "original_title": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
+      "translated": true,
+      "priority": 0,
+      "uid": "aa115739aeb5"
+    },
+    {
+      "title": "FTC 和 20 个州起诉 Dollar General，指控零售商向购物者收取过高费用",
+      "link": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-10-26T18:37:01+00:00",
+      "summary": "美国联邦贸易委员会周一表示，它与 20 个州一起提起诉讼，指控 Dollar General 向顾客收取的费用高于其在货架、价格标签和广告中显示的价格。 FTC 宣布诉讼后，Dollar General 股价下跌约 4%。",
+      "score": 15,
+      "original_title": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+      "translated": true,
+      "priority": 0,
+      "uid": "87bf0b776775"
+    },
+    {
+      "title": "我们最新的人工智能任务：绘制人类大脑图谱",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "source": "Google AI Blog",
+      "category": "AI与科技",
+      "published": "2026-10-26T16:00:00+00:00",
+      "summary": "我们最新的人工智能任务：绘制人类大脑今天，我们推出“极地峰”，这是人工智能任务系列中的第三个任务，由谷歌研究中心和斯坦福学习加速器创建，旨在教导学生人工智能如何工作以及如何负责任地使用它。 AI Quests 邀请 11 至 14 岁的学生扮演 Google 研究人员的角色，解决人类面临的一些最大挑战。",
+      "score": 15,
+      "original_title": "Our newest AI Quest: Mapping the human brain",
+      "translated": true,
+      "priority": 0,
+      "uid": "d0c777d088b7"
+    },
+    {
+      "title": "中国风电制造商为欧洲业务架设“防火墙”",
+      "link": "https://www.ftchinese.com/story/001111199",
+      "source": "FT 中文网",
+      "category": "A股与宏观",
+      "published": "2026-10-25T16:00:00+00:00",
+      "summary": "明阳智能表示，与英国章鱼能源组建合资公司并在欧洲成立独立法律实体，有助于让客户相信，从中国无法访问欧洲数据。",
       "score": 15,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "8c1e182b7832"
+      "uid": "e8e4e35c1f81"
     },
     {
-      "title": "五角大楼的稀土截止日期快到了。有人准备好了吗？",
-      "link": "https://oilprice.com/Energy/Energy-General/The-Pentagons-Rare-Earth-Deadline-Is-Almost-Here-Is-Anyone-Ready.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-26T00:00:00+00:00",
-      "summary": "多年来，稀土行业一直在谈论2027年1月1日这个将改变一切的日期。如今，这个日期距离我们不到75天。1月1日，新的五角大楼采购规定将生效，这些规定将限制在美国武器系统中使用中国来源的稀土材料。限制涵盖整个供应链，从开采和精炼到分离、熔炼和生产。",
-      "score": 15,
-      "original_title": "The Pentagon's Rare Earth Deadline Is Almost Here. Is Anyone Ready?",
-      "translated": true,
-      "priority": 0,
-      "uid": "3c5510d3d8da"
-    },
-    {
-      "title": "尽管中东出口恢复，油价仍上涨",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-25T23:00:00+00:00",
-      "summary": "过去几周，有关波斯湾和红海石油流恢复的报道占据了头条新闻。然而，油价只是小幅上涨，这表明仅凭桶数并不足以让世界相信一切已经恢复正常。事实上，并非如此。根据最新的Kpler数据，中东地区十月份的石油出口总量实际上比美国之前的水平还要高。",
-      "score": 15,
-      "original_title": "Oil Prices Rise Despite Middle East Export Recovery",
-      "translated": true,
-      "priority": 0,
-      "uid": "0efbb530f0cc"
-    },
-    {
-      "title": "英国的可再生能源繁荣正在遇到电网瓶颈",
-      "link": "https://oilprice.com/Energy/Energy-General/Britains-Renewable-Energy-Boom-Is-Hitting-a-Grid-Bottleneck.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-25T19:00:00+00:00",
-      "summary": "近年来，英国在扩大可再生能源产能方面投入了大量资金，以减少对化石燃料的依赖并支持绿色转型。然而，实现这一目标的道路上存在一个主要问题——其电网基础设施尚未准备充分。尽管有几个新的风能和太阳能项目投入运行，但由于电网效率低下，英国仍然严重依赖天然气……",
-      "score": 15,
-      "original_title": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck",
-      "translated": true,
-      "priority": 0,
-      "uid": "8428c9fab5e6"
-    },
-    {
-      "title": "随着机票价格飙升，乘飞机的人变少了。这就是航空公司不担心的原因",
-      "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-10-24T15:53:30+00:00",
-      "summary": "今年飞行的人更少了，但航空公司高管表示，在机票价格如此之高并且还在上涨的情况下，这完全没问题。星期五晚上，在曼哈顿中城的纽约希尔顿酒店，航空业举办了年度翅膀俱乐部晚会，表彰利润领先的达美航空首席执行官埃德·巴斯蒂安。参加这场黑领带晚会的北美航空公司首席执行官和其他高管告诉CNBC，需求趋势并不令人担忧，但……",
-      "score": 15,
-      "original_title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-      "translated": true,
-      "priority": 0,
-      "uid": "2b039b74e7a3"
-    },
-    {
-      "title": "为什么受欢迎的飞机会提前多年报废",
-      "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-10-24T15:18:30+00:00",
-      "summary": "亚利桑那州古迪尔 —— 一架空客 A320neo，这是世界上最受欢迎的飞机之一，于2022年7月从阿拉巴马州莫比尔的工厂下线，涂上了明亮的黄色，准备前往它的下一个目的地：精灵航空公司。它被设计为可以飞行数十年。但今年五月，不到四年时间，它就被拆解出售价值数百万的零部件并压碎，挖掘机的钢齿在郊外的设施中撕裂着它的机身……",
-      "score": 15,
-      "original_title": "Why popular airplanes are getting scrapped years early",
-      "translated": true,
-      "priority": 0,
-      "uid": "39328dab74eb"
-    },
-    {
-      "title": "美国运通将裁减5%的员工以“为人工智能做准备”",
-      "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-10-23T18:57:48+00:00",
-      "summary": "美国运通正在裁减数千名员工，因为这家领先的信用卡公司正为人工智能接管更多内部流程做准备。首席执行官斯蒂芬·斯克里（Stephen Squeri）在周五公司第三季度财报电话会议上告诉分析师，Amex将裁减全球员工的5%，并承担3.36亿美元的重组费用。截至2025年底，该公司拥有近77,000名员工。",
-      "score": 15,
-      "original_title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-      "translated": true,
-      "priority": 0,
-      "uid": "0e8844869bfc"
-    },
-    {
-      "title": "东南亚的数字经济将达到3680亿美元",
+      "title": "东南亚数字经济规模将达3680亿美元",
       "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-21T04:00:00+00:00",
-      "summary": "谷歌、淡马锡和贝恩公司联合发布的《e-Conomy SEA 2026》报告的封面图像，标题为《建设智能经济》。一幅3D插图展示了一个发光的黄色星星，周围环绕着代表数字行业的微型场景，包括数据中心",
+      "summary": "2026 年东南亚电子经济报告的封面图片，标题为 Google、淡马锡和贝恩公司构建智能经济。 3D 插图展示了一颗发光的黄色星星，周围环绕着代表数字部门（包括数据中心）的微型场景",
       "score": 15,
       "original_title": "Southeast Asia’s digital economy to hit $368 billion",
       "translated": true,
@@ -230,31 +243,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3683.918,
-        "change": -6.5573,
-        "pct": -0.18,
-        "amount_yi": 4541.1
+        "price": 3692.5825,
+        "change": -4.9374,
+        "pct": -0.13,
+        "amount_yi": 3882.65
       },
       {
         "name": "深证成指",
-        "price": 11551.72,
-        "change": -122.105,
-        "pct": -1.05,
-        "amount_yi": 5520.02
+        "price": 11496.44,
+        "change": -37.937,
+        "pct": -0.33,
+        "amount_yi": 4817.21
       },
       {
         "name": "创业板指",
-        "price": 2639.85,
-        "change": -44.248,
-        "pct": -1.65,
-        "amount_yi": 1078.27
+        "price": 2626.31,
+        "change": -11.921,
+        "pct": -0.45,
+        "amount_yi": 900.81
       },
       {
         "name": "沪深300",
-        "price": 4083.1351,
-        "change": -22.1935,
-        "pct": -0.54,
-        "amount_yi": 2599.97
+        "price": 4098.1734,
+        "change": -5.3698,
+        "pct": -0.13,
+        "amount_yi": 2107.65
       }
     ],
     "holdings": [
@@ -263,11 +276,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 48.96,
-        "market_value": 4896.0,
-        "pnl": 1723.36,
-        "pnl_pct": 54.32,
-        "weight_hint": "44.5%",
+        "price": 49.9,
+        "market_value": 4990.0,
+        "pnl": 1817.36,
+        "pnl_pct": 57.28,
+        "weight_hint": "44.9%",
         "note": "",
         "available": true
       },
@@ -276,11 +289,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 29.68,
-        "market_value": 2968.0,
-        "pnl": 271.59,
-        "pnl_pct": 10.07,
-        "weight_hint": "27.0%",
+        "price": 29.64,
+        "market_value": 2964.0,
+        "pnl": 267.59,
+        "pnl_pct": 9.92,
+        "weight_hint": "26.7%",
         "note": "",
         "available": true
       },
@@ -289,11 +302,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.46,
-        "market_value": 2538.0,
-        "pnl": 660.48,
-        "pnl_pct": 35.18,
-        "weight_hint": "23.1%",
+        "price": 8.58,
+        "market_value": 2574.0,
+        "pnl": 696.48,
+        "pnl_pct": 37.1,
+        "weight_hint": "23.2%",
         "note": "",
         "available": true
       },
@@ -302,10 +315,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.882,
-        "market_value": 176.4,
-        "pnl": -141.6,
-        "pnl_pct": -44.53,
+        "price": 0.866,
+        "market_value": 173.2,
+        "pnl": -144.8,
+        "pnl_pct": -45.53,
         "weight_hint": "1.6%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -315,10 +328,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.153,
-        "market_value": 415.3,
-        "pnl": -81.7,
-        "pnl_pct": -16.44,
+        "price": 4.175,
+        "market_value": 417.5,
+        "pnl": -79.5,
+        "pnl_pct": -16.0,
         "weight_hint": "3.8%",
         "note": "",
         "available": true
@@ -339,64 +352,36 @@
     ],
     "sectors": [
       {
-        "name": "石油 · 石油行业",
-        "pct": 1.1847389558233,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "新能源/光伏 · 蓄电池及其他电池",
-        "pct": 0.91,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": -0.14,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 国有大型银行Ⅲ",
-        "pct": 0.87,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 4.62,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 光伏主材",
-        "pct": 0.84,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.41,
-        "source": "东财行业"
-      },
-      {
-        "name": "石油 · 石油石化",
-        "pct": 0.83,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": 4.97,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 供水供气",
-        "pct": 0.58739663530083,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "金融/银行 · 金融行业",
-        "pct": 0.29693686184622,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
         "name": "煤炭 · 煤炭行业",
-        "pct": -0.62046796740674,
+        "pct": 0.37400887647734,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子器件",
-        "pct": -2.9347189244195,
+        "name": "金融/银行 · 金融行业",
+        "pct": -0.29143023674421,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "电力/公用 · 电力行业",
+        "pct": -0.5639497765482,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "石油 · 石油行业",
+        "pct": -0.6971390989806,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "半导体/电子 · 电子信息",
+        "pct": -0.95465607864476,
         "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
@@ -405,59 +390,56 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "苏商银行受邀出席2026可持续全球领导者大会，分享产业与金融双向共生的可持续实践",
-        "link": "https://finance.sina.com.cn/money/bank/2026-10-26/doc-iniwpmtv9264705.shtml",
+        "title": "三重逻辑支撑银行股走强 红利低波ETF华泰柏瑞（512890）近5年回报52.42%",
+        "link": "https://finance.sina.com.cn/money/fund/original/2026-10-27/doc-iniwruys2072452.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "中国神华早盘涨逾3% 前三季度归母净利润473.17亿元同比增长2.1%",
-        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-26/doc-iniwpmtx5588013.shtml",
+        "title": "俊知集团午前涨逾5% 附属预中标中国铁塔2026年电力电缆（铜缆）产品集中采购项目",
+        "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-27/doc-iniwrqsz1548999.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "星展银行：避险需求升温 美国10年期国债收益率或降至4.8%",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwpmtu2463023.shtml",
+        "title": "纽约梅隆银行严控AI词元成本 让不同模型各尽其用",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwrqsx4756651.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "帕西尼正式启动A股IPO：注册地刚迁至北京，三星比亚迪押注的具身感知龙头",
-        "link": "https://finance.sina.com.cn/stock/marketresearch/2026-10-26/doc-iniwpmtx5604599.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "成交放量期权波动率拉升后，短期不宜再过度悲观——银华投顾每日观点2026.10.23",
-        "link": "https://finance.sina.com.cn/stock/marketresearch/2026-10-26/doc-iniwpmtz2371781.shtml",
+        "title": "大摩削宁德时代目标价：港股降评级至“与大市同步”及目标价45% A股自首选股剔除",
+        "link": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-10-27/doc-iniwruyt8827232.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10993.7,
-    "total_pnl": 2432.13,
-    "total_amount_yi": 10061.12,
-    "bias": "偏空",
-    "volume_note": "量能：两市合计约 10061 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 石油行业、蓄电池及其他电池、国有大型银行Ⅲ；偏弱 煤炭行业、电子器件",
+    "total_market_value": 11118.7,
+    "total_pnl": 2557.13,
+    "total_amount_yi": 8699.86,
+    "bias": "震荡",
+    "volume_note": "量能：两市合计约 8700 亿元（接口口径），成交中等",
+    "sector_note": "行业分化：偏强 煤炭行业；偏弱 金融行业、电力行业、石油行业",
     "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
-    "errors": []
+    "errors": [
+      "东财行业板块失败: HTTP Error 502: Bad Gateway"
+    ]
   },
   "learning": {
-    "title": "T+1 是什么",
-    "body": "A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？",
+    "title": "满仓的代价",
+    "body": "现金几乎为0时，回调里没有子弹加仓。新手版仓位：核心防御60–70%，成长卫星20–30%，现金尽量留10–20%。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "血压小计",
-    "text": "今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。"
+    "topic": "机油保养",
+    "text": "今儿聊【机油保养】。NWG150说明书写六千公里一换，你心里写“再挺挺”。车不说话，缸里知道；等它说话，说话的方式通常是异响。社会经验：省下的机油钱，最后都会变成修理厂的茶位费。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
+    "东财行业板块失败: HTTP Error 502: Bad Gateway",
     "36氪: 解析失败 (<unknown>:11:168: not well-formed (invalid token))"
   ]
 }
