@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年10月28日 13:03 · 共 17 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 偏多；量能：两市合计约 10438 亿元（接口口径），成交中等；行业分化：偏强 模拟芯片设计、数字芯片设计、锂电池；偏弱 金融行业</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3672.16 <span style='color:#0e7c66'>+0.65%</span> · 约4768亿</li><li><strong>深证成指</strong> 11456.06 <span style='color:#0e7c66'>+1.87%</span> · 约5670亿</li><li><strong>创业板指</strong> 2622.65 <span style='color:#0e7c66'>+2.92%</span> · 约1130亿</li><li><strong>沪深300</strong> 4072.20 <span style='color:#0e7c66'>+0.56%</span> · 约2523亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>半导体/电子 · 模拟芯片设计</strong> <span style='color:#0e7c66'>+6.26%</span> · 净流入约1.22亿<div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>半导体/电子 · 数字芯片设计</strong> <span style='color:#0e7c66'>+5.36%</span> · 净流入约29.23亿<div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>新能源/光伏 · 锂电池</strong> <span style='color:#0e7c66'>+2.95%</span> · 净流入约-3.30亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>新能源/光伏 · 光伏加工设备</strong> <span style='color:#0e7c66'>+2.87%</span> · 净流入约-0.32亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#0e7c66'>+1.49%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>电力/公用 · 电力行业</strong> <span style='color:#0e7c66'>+0.59%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#0e7c66'>+0.37%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>金融/银行 · 金融行业</strong> <span style='color:#b42318'>-0.63%</span><div class='meta'>对应工商银行，关注净息差与分红</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 49.290 · 盈亏 <span style='color:#0e7c66'>+1756.36（+55.36%）</span> · 仓位约 44.9%</li><li><strong>长江电力</strong>（600900） 现价 29.230 · 盈亏 <span style='color:#0e7c66'>+226.59（+8.40%）</span> · 仓位约 26.6%</li><li><strong>工商银行</strong>（601398） 现价 8.500 · 盈亏 <span style='color:#0e7c66'>+672.48（+35.82%）</span> · 仓位约 23.2%</li><li><strong>半导体ETF</strong>（159995） 现价 0.864 · 盈亏 <span style='color:#b42318'>-145.20（-45.66%）</span> · 仓位约 1.6%</li><li><strong>300ETF</strong>（510300） 现价 4.149 · 盈亏 <span style='color:#b42318'>-82.10（-16.52%）</span> · 仓位约 3.8%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 10989.70 元，浮动盈亏约 +2428.13 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>今日暂无高相关条目</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-28/doc-iniwtxxy6666886.shtml' target='_blank' rel='noopener'>华能国际电力股份盘中涨超4% 与天成租赁签订天成租赁框架协议</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/wm/2026-10-28/doc-iniwtxya3475761.shtml' target='_blank' rel='noopener'>三大板块掀涨停潮 A股逾4400股上涨</a></li></ul><p class='sum'>新手提醒：今天涨不代表明天涨，A股短期走势受情绪影响很大</p></section>
+    
+    <section class="cat"><h2>持仓相关</h2><ul><li><a href="https://www.ftchinese.com/story/001111205" target="_blank" rel="noopener">Meta拟发股筹集950亿美元AI投资资金</a><div class="meta">FT 中文网 · 10-27 00:00</div><p class="sum">这是大型科技公司借助股市为其AI雄心提供资金的最新事例。芯片制造商英伟达、AMD和博通将作为基石投资者支持这笔交易。</p></li></ul></section><section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html" target="_blank" rel="noopener">波音表示，要到 2027 年底才会大幅提高 737 Max 产量</a><div class="meta">CNBC · 10-28 04:32</div><p class="sum">由于机翼生产速度慢于预期，波音预计在 2027 年下半年之前不会大幅提高其最畅销 737 Max 飞机的产量。 首席执行官凯利·奥特伯格周二在公司季度财报电话会议上表示，波音的目标是 2027 年下半年每月生产 52 架飞机。该公司每月生产约 47 架 737 Max 飞机。</p></li><li><a href="https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html" target="_blank" rel="noopener">公司前景安抚投资者 捷蓝航空股价飙升</a><div class="meta">CNBC · 10-28 04:13</div><p class="sum">捷蓝航空报告称，与去年相比，第三季度亏损更大，但该公司对将恢复盈利的乐观预测似乎安抚了周一暴跌后的投资者，股价飙升。 捷蓝航空股价在前一天触及新低后，周二交易中上涨 18%，原因是投资者对该公司的财务前景感到担忧。</p></li><li><a href="https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html" target="_blank" rel="noopener">美国航空自 2018 年以来首次上调奖励卡年费</a><div class="meta">CNBC · 10-28 00:33</div><p class="sum">美国航空自 2018 年以来首次提高其两张奖励信用卡的年费，并增加了 TSA PreCheck 积分和酒店消费积分等新福利。 Citi AAdvantage Platinum Select World Elite Mastercard 的年费将从 99 美元上涨至 150 美元。 航空公司发言人表示，这是自 2018 年以来首次上调费用，当时该公司将费用从 95 美元提高到 99 美元。</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Houthi-Attacks-Reignite-Saudi-Supply-Fears.html" target="_blank" rel="noopener">胡塞武装袭击重燃沙特供应担忧，油价攀升</a><div class="meta">OilPrice · 10-28 11:53</div><p class="sum">特朗普政府正在寻求……一位逆向投资者认为……周三亚洲早盘油价攀升，因为胡塞武装再次袭击沙特阿拉伯，重新引发了该地区的供应担忧。 库存下降以及有报道称美国正在准备在中期选举后对伊朗发动新的军事行动，这增加了上涨势头。</p></li><li><a href="https://oilprice.com/Energy/Crude-Oil/Americans-Hit-Hardest-by-War-Driven-Oil-Price-Surge.html" target="_blank" rel="noopener">美国受战争驱动的油价飙升打击最严重</a><div class="meta">OilPrice · 10-28 07:00</div><p class="sum">据芬兰一家能源和气候媒体报道，美国人正在为中东战争造成的全球能源价格上涨承担最大部分。 能源和清洁空气研究中心估计全球燃料通胀总额为 4,680 亿美元，其中美国部分为 1,600 亿美元。</p></li><li><a href="https://oilprice.com/Energy/Energy-General/America-Produces-Less-Than-1-of-the-Rare-Earth-Magnets-It-Needs.html" target="_blank" rel="noopener">美国生产的稀土磁铁不足其所需的 1%</a><div class="meta">OilPrice · 10-28 08:00</div><p class="sum">中国正在进行的稀土武器化，现在已得到加强，包括采取措施阻止拥有敏感技术知识的个人离开该国，这使其拥有超过 1 美元的影响力。 5万亿美国民用经济依赖于永磁体。 五角大楼花了数年时间为没有中国稀土的生活做准备，但民用经济却没有。</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/018/779.htm" target="_blank" rel="noopener">AI 推高元器件成本，消息称惠普、华硕、宏碁将部分 PC 产能迁回中国</a><div class="meta">IT之家·通信安防 · 10-28 11:04</div><p class="sum">IT之家 10 月 28 日消息，据《日经亚洲》报道，惠普、华硕、宏碁等主流个人电脑厂商正应对零部件成本暴涨的压力，将部分产能从泰国、越南迁回中国，同时和新一代代工厂展开合作。多名消息人士透露，受人工智能需求拉动，内存与存储芯片供应严重紧缺，整机物料成本上涨，这些 PC 厂商正寻求提升生产效率。中国拥有成熟的产业工人队伍、更低的成本以及完备的供应链体系，零部件获取渠道齐全，仍是电脑生产的最优选择。这些 PC 厂商转而和一些知名度相对较低的中国代工厂合作，因为体量更大的老牌代工厂如今订单重心转向了利润率更高的 AI 数据中心服务器。消息还称，排名第三的美国 PC 厂商戴尔（仅次于联想和惠普）也在评估类似方案。一家为各大 PC 厂商供应芯片的行业高管表示：“这次调整本质上是成本压力推动的。不光是内存芯片，各类零部件价格涨幅巨大，PC 厂商已经很难自行消化成本上涨。</p></li><li><a href="https://www.ithome.com/1/018/778.htm" target="_blank" rel="noopener">索尼网络通信公司通报数据库被攻破，影响约 258 万用户</a><div class="meta">IT之家·通信安防 · 10-28 11:00</div><p class="sum">IT之家 10 月 28 日消息，索尼集团旗下索尼网络通信公司（Sony Network Communications）昨日（10 月 27 日）通报， 其运营的日本互联网服务 So-net 会员数据库遭第三方未经授权访问，2,585,481 名现任及前任用户个人信息被窃取。IT之家援引 cyberkendra 媒体报道，受影响者包括约 2,141,986 名 So-net 会员，以及 443,495 名 NTT Docomo 的“plala (S course)”光纤套餐用户。泄露信息涵盖姓名、电话号码、电子邮箱、出生日期、性别、登录 ID 及网络连接 ID 等。更严重的是，54,401 个附加或旧版邮箱的地址和有效密码同时外泄，攻击者理论上可读取、发送或接收受害者的邮件。报道指出本次入侵发生于 10 月 19 日，索尼直到 10 月 23 日才发现，四天内未察觉异常。</p></li><li><a href="https://www.ithome.com/1/018/881.htm" target="_blank" rel="noopener">全球首展：高通 6G 终端原型机将在第九届进博会正式亮相</a><div class="meta">IT之家·通信安防 · 10-28 12:31</div><p class="sum">IT之家 10 月 28 日消息，据《科创板日报》今天（28 日）午间报道，第九届中国国际进口博览会开幕在即，高通将连续第九年参展，展示 6G、智能体 AI 与多元智能终端成果。 据悉，高通将于本次进博会进行 6G 终端原型机的 全球首展 。该原型机已用于与中国移动、中兴通讯等中国产业伙伴的联合 6G 技术测试和互操作验证。 此外，展台还将集中呈现智能体 AI 与多元智能终端创新，包括 智能体设备、最新旗舰智能手机、AI PC、智能眼镜、汽车和机器人 等多元智能终端，以及 AI 影像、XR 等互动体验。 据IT之家此前报道，今年 9 月 20 日，中国移动、高通共同宣布，双方在中国移动协同创新基地基于 6G 开放众创试验装置， 成功完成全球首个符合 3GPP 最新定义的 U6G 频段 6G 原型基站与终端原型对接测试 ，标志着 6G 关键技术从研究迈入系统化验证的新阶段。 相关阅读： 《 全球首个：中国移动与高通完成基于 U6G 频段 6G 原型基站与终端原型对接测试 》</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://openai.com/index/oracle-apps-in-chatgpt" target="_blank" rel="noopener">OpenAI 扩大与 Oracle 的合作伙伴关系，将其应用程序引入 ChatGPT</a><div class="meta">OpenAI / ChatGPT · 10-27 15:00</div><p class="sum">OpenAI 和 Oracle 正在扩大合作伙伴关系，将业务应用程序和 AI 代理引入 ChatGPT 并为新的 Oracle 产品提供支持。</p></li><li><a href="https://www.anthropic.com/news/announcements" target="_blank" rel="noopener">人类/克劳德：公告</a><div class="meta">Anthropic / Claude · 10-28 13:03</div><p class="sum">公告 - 2026 年 10 月 21 日物理学家 Christopher Stubbs 加入 Anthropic 的长期利益信托 实验物理学家、哈佛大学前科学院长 Christopher Stubbs 博士已加入 Anthropic 的长期利益信托。 他为信托基金带来了数十年在观测宇宙学和精密测量方面的科学专业知识。</p></li><li><a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/" target="_blank" rel="noopener">精灵4：新一代世界模拟</a><div class="meta">Google DeepMind · 10-28 00:01</div><p class="sum">Genie 4：新一代世界模拟 今天，我们宣布推出 Genie 4，我们的新世界模型，它解锁了前所未有的真实感并改进了实时交互模拟。 Genie 4 本身就是多模式的，可以与世界同时生成类似音频的音乐、环境噪音和交互式对话。</p></li><li><a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank" rel="noopener">人类/克劳德：投资公益</a><div class="meta">Anthropic / Claude · 10-28 13:03</div><p class="sum">今天，我们将 Anthropic 的部分股份捐赠给 Anthropic 公共福利基金，这是一个新的全资实体，其结构会随着公司的发展而增加股份。 经股东批准，今天将承诺认购 5% 的 Anthropic 股份，公司价值每增加 50%，董事会可酌情增持 2%。</p></li><li><a href="https://openai.com/index/retell-ai" target="_blank" rel="noopener">Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话</a><div class="meta">OpenAI / ChatGPT · 10-27 23:00</div><p class="sum">GPT-6 Astra 在 Retell 的语音代理基准测试中名列前茅，而 Codex 帮助其达到每名员工 160 万美元的年收入运行率。</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/" target="_blank" rel="noopener">我们最新的人工智能任务：绘制人类大脑图谱</a><div class="meta">Google AI Blog · 10-27 00:00</div><p class="sum">我们最新的人工智能任务：绘制人类大脑今天，我们推出“极地峰”，这是人工智能任务系列中的第三个任务，由谷歌研究中心和斯坦福学习加速器创建，旨在教导学生人工智能如何工作以及如何负责任地使用它。 AI Quests 邀请 11 至 14 岁的学生扮演 Google 研究人员的角色，解决人类面临的一些最大挑战。</p></li><li><a href="https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/" target="_blank" rel="noopener">东南亚数字经济规模将达3680亿美元</a><div class="meta">Google AI Blog · 10-21 12:00</div><p class="sum">2026 年东南亚电子经济报告的封面图片，标题为 Google、淡马锡和贝恩公司构建智能经济。 3D 插图展示了一颗发光的黄色星星，周围环绕着代表数字部门（包括数据中心）的微型场景</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>板块轮动</strong>：资金常在行业间切换，不是“好公司永远天天涨”。追昨天上涨板块，容易买在情绪高点；先看逻辑，再看价格。</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【标书加班】。标书这东西，白天像散文，夜里像刑法。格式错一个空格，废一宿；价格错一个零，废一年。社会经验：投标不是写作文，是把自己活成附件——附件越全，人越空。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>
