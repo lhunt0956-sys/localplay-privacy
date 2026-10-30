@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年10月30日 13:15 · 共 19 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 偏空；量能：两市合计约 11441 亿元（接口口径），成交中等；行业分化：偏强 蓄电池及其他电池、电池化学品、煤炭行业；偏弱 供水供气、金融行业、石油行业</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3644.59 <span style='color:#b42318'>-0.19%</span> · 约5138亿</li><li><strong>深证成指</strong> 11081.89 <span style='color:#b42318'>-0.51%</span> · 约6303亿</li><li><strong>创业板指</strong> 2489.39 <span style='color:#b42318'>-1.12%</span> · 约1260亿</li><li><strong>沪深300</strong> 4031.01 <span style='color:#b42318'>-0.27%</span> · 约2928亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>新能源/光伏 · 蓄电池及其他电池</strong> <span style='color:#0e7c66'>+2.46%</span> · 净流入约0.41亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>新能源/光伏 · 电池化学品</strong> <span style='color:#0e7c66'>+1.42%</span> · 净流入约-0.45亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#0e7c66'>+0.64%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>电力/公用 · 供水供气</strong> <span style='color:#b42318'>-0.09%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>金融/银行 · 金融行业</strong> <span style='color:#b42318'>-0.12%</span><div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#b42318'>-0.34%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>半导体/电子 · 电子信息</strong> <span style='color:#b42318'>-1.44%</span><div class='meta'>对应半导体ETF，关注景气与政策</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 51.600 · 盈亏 <span style='color:#0e7c66'>+1987.36（+62.64%）</span> · 仓位约 45.6%</li><li><strong>长江电力</strong>（600900） 现价 29.810 · 盈亏 <span style='color:#0e7c66'>+284.59（+10.55%）</span> · 仓位约 26.3%</li><li><strong>工商银行</strong>（601398） 现价 8.710 · 盈亏 <span style='color:#0e7c66'>+735.48（+39.17%）</span> · 仓位约 23.1%</li><li><strong>半导体ETF</strong>（159995） 现价 0.815 · 盈亏 <span style='color:#b42318'>-155.00（-48.74%）</span> · 仓位约 1.4%</li><li><strong>300ETF</strong>（510300） 现价 4.109 · 盈亏 <span style='color:#b42318'>-86.10（-17.32%）</span> · 仓位约 3.6%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 11327.90 元，浮动盈亏约 +2766.33 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>今日暂无高相关条目</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/money/fund/jjh/2026-10-30/doc-iniwysmx8222607.shtml' target='_blank' rel='noopener'>宽基ETF底仓配置需求持续升温！沪深300ETF华泰柏瑞（510300）单日成交额接近翻倍</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwysmu5505796.shtml' target='_blank' rel='noopener'>芯片超级周期推动，韩国9月份税收收入大增26.4万亿韩元</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/money/fund/jjh/2026-10-30/doc-iniwysmz4674292.shtml' target='_blank' rel='noopener'>今日早盘港股科技板块逆势活跃，恒生科技ETF华泰柏瑞（513130）交投火热</a></li></ul><p class='sum'>新手提醒：今天涨不代表明天涨，A股短期走势受情绪影响很大</p></section>
+    
+    <section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html" target="_blank" rel="noopener">星巴克销售额未达预期，但其在美国的扭亏为盈正在增强</a><div class="meta">CNBC · 10-30 05:29</div><p class="sum">星巴克周四公布的季度业绩好坏参半，因为其国际咖啡馆的表现低于预期。 然而，星巴克在美国的扭亏为盈仍在继续，因为其本土市场在这家咖啡巨头 2026 财年最后一个季度的表现超出了预期。“我们带着动力进入 2027 财年，对星巴克的目标有明确的优先事项和更高的目标，”首席执行官布莱恩·尼科尔 (Brian Niccol) 在 2026 财年最后一个季度的视频中表示。</p></li><li><a href="https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html" target="_blank" rel="noopener">挪威股市因盈利超出预期而上涨 13%，指引上调</a><div class="meta">CNBC · 10-30 04:14</div><p class="sum">挪威邮轮控股公司 (Norwegian Cruise Line Holdings) 公布好于预期的第三季度盈利并上调全年预期后，该公司股价周四飙升 13%。 该邮轮公司报告第三季度收入为 2 美元。 950 亿美元，超出华尔街预期的 2 美元。 根据 LSEG 分析师的估计，为 880 亿美元。 该期间净利润为 4.91 亿美元，即 1 美元。</p></li><li><a href="https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html" target="_blank" rel="noopener">邮轮公司的目标是降低燃料成本。 他们这样做的策略不同</a><div class="meta">CNBC · 10-30 03:36</div><p class="sum">尽管燃油价格上涨，嘉年华、皇家加勒比和挪威邮轮控股公司最近几个季度的盈利依然强劲。 领先的邮轮公司如何控制燃油成本归结为截然不同的策略。 自 2 月美以与伊朗战争爆发以来，油价一路飙升。周五布伦特原油触及六个月高点，收于 116 美元。</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Energy/Natural-Gas/Whats-Next-for-Global-Natural-Gas-Demand.html" target="_blank" rel="noopener">全球天然气需求的下一步是什么？</a><div class="meta">OilPrice · 10-30 07:00</div><p class="sum">伊朗战争和中东液化天然气供应不足颠覆了对近期天然气需求和进口成本的预测。 今年到目前为止，欧洲和亚洲的经济体更多地依赖可再生能源和煤炭发电，以抵消以极高价格采购的天然气供应的减少。 今年的危机促使各国政府重新考虑能源政策，能源安全再次成为重中之重……</p></li><li><a href="https://oilprice.com/Energy/Energy-General/Chinas-Battery-Factories-May-Sit-Atop-Lithium-Resources.html" target="_blank" rel="noopener">中国电池厂可能坐拥锂资源</a><div class="meta">OilPrice · 10-30 06:00</div><p class="sum">全球最大的电池制造商和用户、主导所有替代能源技术的国家即将研究是否也能增强其在关键电池金属——锂方面已经占据主导地位的地位。 一项新的研究表明，中国的电池工厂下方可能拥有大量未开发的锂资源。</p></li><li><a href="https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html" target="_blank" rel="noopener">特朗普的俄罗斯柴油机是一个合法的烫手山芋，保险丝有效期为五年</a><div class="meta">OilPrice · 10-30 05:00</div><p class="sum">一艘名为“Agioi Fanendes”号的马耳他国旗油轮于 10 月 22 日离开俄罗斯普里莫尔斯克港，载有近 40,000 吨超低硫柴油，船舶跟踪数据显示，该油轮于 11 月 7 日抵达纽约和新泽西港，即中期选举四天后。 没有人公开透露是谁购买了这些燃料，康涅狄格州民主党参议员理查德·布卢门撒尔(Richard Blumenthal)。</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/019/909.htm" target="_blank" rel="noopener">小米米家车载吸尘器便携版开售：20000Pa 大吸力，售价 269 元</a><div class="meta">IT之家·通信安防 · 10-30 10:22</div><p class="sum">IT之家 10 月 30 日消息，小米米家车载吸尘器便携版已开售，售价 269 元，此前众筹价为 189 元。作为一款主打“强劲吸净、折叠随行”的车载清洁新品，该产品凭借 20000Pa 大吸力、轻巧折叠机身与丰富配件，瞄准车内及日常多场景清洁需求。IT之家注意到，米家车载吸尘器便携版搭载转速高达 150000 转 / 分钟的 35mm 高速无刷电机，在纤巧机身内迸发澎湃动力，可提供 20000Pa 大吸力。新品采用机身折叠设计，整机重量仅 446g，单手可轻松握持，减轻长时间清洁的手部负担；折叠后体积更加紧凑，日常收纳不占空间。机身展开后呈现纤长形态，握持顺手，清理车内座椅底部、后备箱等低处积尘区域无需弯腰，轻吸即净。产品内置 3 节 2500mAh 大容量锂电池，满电状态下节能挡续航可达 40 分钟，切换强力挡后可持续工作 16 分钟。</p></li><li><a href="https://www.solidot.org/story?sid=85748" target="_blank" rel="noopener">Google AI 搜索产生的收入低于传统搜索</a><div class="meta">Solidot·通信 · 10-29 23:19</div><p class="sum">Google/Alphabet 在公布第三季度财报之后股价下跌了近 10%，原因是搜索巨人披露 AI 搜索产生的收入低于传统搜索，尽管其整体搜索业务收入同比增长 12% 达到 632.5 亿美元。搜索业务增速略低于去年第三季度的 14.5% ，Alphabet 首席商务官 Philipp Schindler 称，搜索业务增长放缓的原因在于“我们观察到 AI Mode 变现能力较低”。为推动 AI 业务 Google 同时在基础设施上投入巨额资金。第三季度公司支出达 514 亿美元，其中约三分之二用于服务器和网络设备，其余部分则用于数据中心建设。巨额支出影响了盈利能力：Alphabet 本季度净利润为 261.7 亿美元；去年第三季度在 Google 营收为 1023.5 亿美元的情况下净利润达到 350 亿美元。Schindler 认为，AI 搜索终将带来回报。</p></li><li><a href="https://www.solidot.org/story?sid=85739" target="_blank" rel="noopener">因强制应用内支付 Google 和苹果被韩国罚款 3.2 亿元</a><div class="meta">Solidot·通信 · 10-29 14:57</div><p class="sum">韩国广电媒体通信委员会以强制开发者使用特定应用内支付方式、不当拖延应用审核等为由，对谷歌和苹果合计处以 637.1 亿韩元（约合人民币 3.2 亿元）罚款。这是韩国自 2021 年出台禁止强制应用内支付相关规定以来，首次依据相关规定作出处罚。调查显示，两家公司虽允许第三方支付，却收取 26% 的手续费，并对使用流程和功能设置限制，实际仍引导开发者使用其自有支付系统。苹果还对韩国本土和海外开发者采用不同的手续费计算基准，被认定存在不当歧视。委员会对谷歌和苹果分别处以 429 亿韩元、208.1 亿韩元罚款，责令两家公司允许开发者通过外部支付链接向用户提供其他支付方式，合理调整第三方支付手续费，并完善审核程序，明确告知审核延迟的原因及后续安排。但对于新获准的外部支付是否收取手续费、收取多少，委员会并未直接作出规定，具体政策由企业制定。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://openai.com/index/openai-servicenow-partnership-expansion" target="_blank" rel="noopener">OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系</a><div class="meta">OpenAI / ChatGPT · 10-28 21:15</div><p class="sum">OpenAI 和 ServiceNow 扩大了合作伙伴关系，将 OpenAI 模型和代理引入 ServiceNow，并将 ServiceNow 工作流程引入 ChatGPT 和 Codex。</p></li><li><a href="https://www.anthropic.com/news/announcements" target="_blank" rel="noopener">人类/克劳德：公告</a><div class="meta">Anthropic / Claude · 10-30 13:15</div><p class="sum">公告 - 2026 年 10 月 21 日，物理学家 Christopher Stubbs 加入 Anthropic 的长期利益信托基金 实验物理学家、哈佛大学前科学院长 Christopher Stubbs 博士已加入 Anthropic 的长期利益信托基金。 他为信托基金带来了数十年在观测宇宙学和精密测量方面的科学专业知识。</p></li><li><a href="https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/" target="_blank" rel="noopener">Gemini 4 Carbon：我们的下一个前沿型号</a><div class="meta">Google DeepMind · 10-29 01:00</div><p class="sum">Gemini 4 Carbon：我们的下一个前沿型号今天，我们宣布推出下一个前沿型号：Gemini 4 Carbon，我们最强大的型号，具有最先进的网络安全和长期能力。 Carbon 在最近更新的 v5 中排名第一。 人工智能分析智能指数为 0，为 59。它在编码和代理任务以及对网络安全防御至关重要的关键功能方面显示出显着的进步......</p></li><li><a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank" rel="noopener">人类/克劳德：投资公益</a><div class="meta">Anthropic / Claude · 10-30 13:15</div><p class="sum">今天，我们将 Anthropic 的部分股份捐赠给 Anthropic 公共福利基金，这是一个新的全资实体，其结构会随着公司的发展而增加股份。 经股东批准，今天将承诺认购 5% 的 Anthropic 股份，公司价值每增加 50%，董事会可酌情增持 2%。</p></li><li><a href="https://openai.com/index/updated-model-spec" target="_blank" rel="noopener">更新后的模型规格，提供更强大、更有益的人工智能</a><div class="meta">OpenAI / ChatGPT · 10-30 01:00</div><p class="sum">OpenAI 更新后的模型规范概述了五个核心价值观，以指导更强大的人工智能走向正确的判断、人类的代理和忠实于人类的意图。</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/" target="_blank" rel="noopener">我们最新的人工智能任务：绘制人类大脑图谱</a><div class="meta">Google AI Blog · 10-27 00:00</div><p class="sum">我们最新的人工智能任务：绘制人类大脑今天，我们推出“极地峰”，这是人工智能任务系列中的第三个任务，由谷歌研究中心和斯坦福学习加速器创建，旨在教导学生人工智能如何工作以及如何负责任地使用它。 AI Quests 邀请 11 至 14 岁的学生扮演 Google 研究人员的角色，解决人类面临的一些最大挑战。</p></li><li><a href="https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/" target="_blank" rel="noopener">东南亚数字经济规模将达3680亿美元</a><div class="meta">Google AI Blog · 10-21 12:00</div><p class="sum">2026 年东南亚电子经济报告的封面图片，标题为 Google、淡马锡和贝恩公司构建智能经济。 3D 插图展示了一颗发光的黄色星星，周围环绕着代表数字部门（包括数据中心）的微型场景</p></li></ul></section><section class="cat"><h2>健康生活</h2><ul><li><a href="https://sspai.com/prime/story/zhuanglesha-261030" target="_blank" rel="noopener">《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？</a><div class="meta">少数派 · 10-30 11:30</div><p class="sum">编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的软硬件工具和使用 AI 的实践与思考。请先介绍一下自己，以及目前从事的工作。大家好，我是阿帅，硕士毕业于北京体育大学，现在是一名运动健康产品经理。你日常主要使用哪些硬件？最近有没有入手什么新设备？我日常用的是苹果三件套：老婆转给我的 iPhone 15、二手全新的 Apple Watch S9，以及花 2000 元买的 M1 MacBook Air。通过买二手、选低配，我用上了苹果生态，可以在上面尝鲜、折腾各种软件。最近买了阅星曈 X3，一款巴掌大小的墨水屏阅读器，我叫它“小鼻嘎”，带着它爬山、露营、参加音乐节。</p></li><li><a href="https://sspai.com/prime/story/how-to-analyze-health-data-with-agent" target="_blank" rel="noopener">让 Agent 读懂你的身体：数据处理篇</a><div class="meta">少数派 · 10-29 11:29</div><p class="sum">在上一篇文章《让 Agent 读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent 怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的 SQLite、Markdown 或 JSON 文件。此时，大多数人大概就忍不住让 AI Agent 来帮忙分析一下文件了—— “Claude，这是我的健康运动数据，帮我做一下详细的分析。” 我自己起初也是这么做的。在简短的提问之后，Claude 就能生成一个精美的 HTML。上面有每个动作的训练趋势、恢复状态的图标以及按照日历排列的训练日历图等。信息排得很满，但研究一下就会发现，它除了好看，并没有什么用。这就是问题所在——AI Agent 擅长描述，而如果想让它分析实际问题并给出建议，比如下一次训练该加多少重量，则需要用户自己对需求的判断与适当引导。</p></li><li><a href="https://sspai.com/post/116435" target="_blank" rel="noopener">精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践</a><div class="meta">少数派 · 10-30 11:13</div><p class="sum">Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点，少数派仅对标题和排版略作修改。对近半年的回顾 从今年3月25日以来，截至10月21日，不知不觉已经实践柳比歇夫时间管理法（简称为“柳比歇夫法”）176天，完整记录了4224小时的所有行为，精确到5分钟。3月31日我在少数派发布了《柳比歇夫时间管理法的基本设定》一文，介绍了我对柳比歇夫法的设置的一些决定；4月15日我发布了《时间管理：我实践柳比歇夫法的一周》，介绍我实践柳比歇夫法的一周，反响颇好，感谢少数派将其收为精选文章，并得到了1.8万的阅读量，但当时只公开了一周的实践，且对于方法的各中精微尚未完全把握。</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>护城河（初识）</strong>：护城河指公司难以被抢走的优势。长电的水电资产、神华的煤电一体，都是“不好复制”的例子——但护城河也会随产业政策变化。</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【绿茶黑咖啡】。上午绿茶续命，下午咖啡续命，晚上想着早睡，躺下开始续念头。念头一续就到两点，两点一过，第二天的方案开始穿睡衣上班。社会经验：提神饮品解决不了睡眠债，只能把欠条写得更工整。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>

@@ -1,16 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-10-29T13:15:38.375379+08:00",
+  "generated_at": "2026-10-30T13:15:07.828233+08:00",
   "timezone": "Asia/Shanghai",
   "count": 19,
   "items": [
     {
-      "title": "OpenAI 和 ServiceNow 扩大企业工作流合作伙伴关系",
+      "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系",
       "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
       "published": "2026-10-28T13:15:00+00:00",
-      "summary": "OpenAI 和 ServiceNow 扩大了他们的合作伙伴关系，将 OpenAI 模型和代理引入 ServiceNow，并将 ServiceNow 工作流引入 ChatGPT 和 Codex。",
+      "summary": "OpenAI 和 ServiceNow 扩大了合作伙伴关系，将 OpenAI 模型和代理引入 ServiceNow，并将 ServiceNow 工作流程引入 ChatGPT 和 Codex。",
       "score": 65,
       "original_title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "translated": true,
@@ -18,12 +18,12 @@
       "uid": "69aa4815b95c"
     },
     {
-      "title": "Anthropic / Claude：公告",
+      "title": "人类/克劳德：公告",
       "link": "https://www.anthropic.com/news/announcements",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-29T05:15:58+00:00",
-      "summary": "公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了数十年在观测宇宙学和精密测量领域的科学专业知识。",
+      "published": "2026-10-30T05:15:28+00:00",
+      "summary": "公告 - 2026 年 10 月 21 日，物理学家 Christopher Stubbs 加入 Anthropic 的长期利益信托基金 实验物理学家、哈佛大学前科学院长 Christopher Stubbs 博士已加入 Anthropic 的长期利益信托基金。 他为信托基金带来了数十年在观测宇宙学和精密测量方面的科学专业知识。",
       "score": 60,
       "original_title": "Anthropic / Claude：Announcements",
       "translated": true,
@@ -31,12 +31,12 @@
       "uid": "1c262b0ddbb0"
     },
     {
-      "title": "双子座 4 碳纤维：我们的下一个前沿模型",
+      "title": "Gemini 4 Carbon：我们的下一个前沿型号",
       "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-10-28T17:00:58+00:00",
-      "summary": "双子座4号碳纤维：我们的下一个前沿模型 今天，我们宣布了下一个前沿模型：双子座4号碳纤维，这是我们最强大的模型，具有最先进的网络安全和长远能力。在最近更新的人工分析智能指数v5.0中，碳纤维排名第一，得分为59。它在编码和自主任务以及对网络安全防御至关重要的关键能力方面显示出显著的提升...",
+      "summary": "Gemini 4 Carbon：我们的下一个前沿型号今天，我们宣布推出下一个前沿型号：Gemini 4 Carbon，我们最强大的型号，具有最先进的网络安全和长期能力。 Carbon 在最近更新的 v5 中排名第一。 人工智能分析智能指数为 0，为 59。它在编码和代理任务以及对网络安全防御至关重要的关键功能方面显示出显着的进步......",
       "score": 45,
       "original_title": "Gemini 4 Carbon: Our next frontier model",
       "translated": true,
@@ -44,25 +44,12 @@
       "uid": "6dc8225b4617"
     },
     {
-      "title": "Legora 正在为法律工作构建代理操作系统",
-      "link": "https://openai.com/index/legora",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-10-28T09:30:00+00:00",
-      "summary": "看看 Legora 如何使用 OpenAI 模型、ChatGPT 和 Codex 来加速法律工作流程、扩展合同分析，并让律师专注于更高价值的工作。",
-      "score": 65,
-      "original_title": "Legora is building the agentic operating system for legal work",
-      "translated": true,
-      "priority": 0,
-      "uid": "9dad94c3a641"
-    },
-    {
-      "title": "Anthropic / Claude：投资于公共利益",
+      "title": "人类/克劳德：投资公益",
       "link": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-10-29T05:15:58+00:00",
-      "summary": "今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。",
+      "published": "2026-10-30T05:15:28+00:00",
+      "summary": "今天，我们将 Anthropic 的部分股份捐赠给 Anthropic 公共福利基金，这是一个新的全资实体，其结构会随着公司的发展而增加股份。 经股东批准，今天将承诺认购 5% 的 Anthropic 股份，公司价值每增加 50%，董事会可酌情增持 2%。",
       "score": 60,
       "original_title": "Anthropic / Claude：Investing in the public benefit",
       "translated": true,
@@ -70,69 +57,69 @@
       "uid": "c34aebdbb449"
     },
     {
-      "title": "Meta拟发股筹集950亿美元AI投资资金",
-      "link": "https://www.ftchinese.com/story/001111205",
-      "source": "FT 中文网",
-      "category": "持仓相关",
-      "published": "2026-10-26T16:00:00+00:00",
-      "summary": "这是大型科技公司借助股市为其AI雄心提供资金的最新事例。芯片制造商英伟达、AMD和博通将作为基石投资者支持这笔交易。",
+      "title": "更新后的模型规格，提供更强大、更有益的人工智能",
+      "link": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-10-29T17:00:00+00:00",
+      "summary": "OpenAI 更新后的模型规范概述了五个核心价值观，以指导更强大的人工智能走向正确的判断、人类的代理和忠实于人类的意图。",
+      "score": 60,
+      "original_title": "An updated Model Spec for more capable and beneficial AI",
+      "translated": true,
+      "priority": 0,
+      "uid": "4ca706c7ea7e"
+    },
+    {
+      "title": "小米米家车载吸尘器便携版开售：20000Pa 大吸力，售价 269 元",
+      "link": "https://www.ithome.com/1/019/909.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-10-30T02:22:10+00:00",
+      "summary": "IT之家 10 月 30 日消息，小米米家车载吸尘器便携版已开售，售价 269 元，此前众筹价为 189 元。作为一款主打“强劲吸净、折叠随行”的车载清洁新品，该产品凭借 20000Pa 大吸力、轻巧折叠机身与丰富配件，瞄准车内及日常多场景清洁需求。IT之家注意到，米家车载吸尘器便携版搭载转速高达 150000 转 / 分钟的 35mm 高速无刷电机，在纤巧机身内迸发澎湃动力，可提供 20000Pa 大吸力。新品采用机身折叠设计，整机重量仅 446g，单手可轻松握持，减轻长时间清洁的手部负担；折叠后体积更加紧凑，日常收纳不占空间。机身展开后呈现纤长形态，握持顺手，清理车内座椅底部、后备箱等低处积尘区域无需弯腰，轻吸即净。产品内置 3 节 2500mAh 大容量锂电池，满电状态下节能挡续航可达 40 分钟，切换强力挡后可持续工作 16 分钟。",
       "score": 45,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "649dbc8c5f5b"
+      "uid": "50685765bb86"
     },
     {
-      "title": "全国首个华为升腾 950DT 超节点集群在武汉上线，全面支撑万亿参数大模型训练与智能体推理",
-      "link": "https://www.ithome.com/1/019/419.htm",
-      "source": "IT之家·通信安防",
+      "title": "Google AI 搜索产生的收入低于传统搜索",
+      "link": "https://www.solidot.org/story?sid=85748",
+      "source": "Solidot·通信",
       "category": "通信与安防",
-      "published": "2026-10-29T05:12:52+00:00",
-      "summary": "IT之家 10 月 29 日消息，以“数智荆楚、跃升有为”为主题的华为中国行 2026· 湖北省人工智能创新发展大会昨日（28 日）在武汉举办。 会上，由湖北科投投资建设的升腾 950 千卡超节点智算集群正式点亮， 全国首个升腾 950DT 1024 卡智算集群在武汉上线 。 据介绍，此次落地的升腾 950DT 1024 卡液冷超节点，单节点搭载 1024 张升腾 NPU 加速卡，采用计算柜与互联柜全液冷设计，FP8 算力达 1EFLOPS，配备 256TB 全局统一内存，卡间互联带宽达 TB 级，端到端通信微秒级时延；依托灵衢架构，集群内各卡可直接互访， 全面支撑万亿参数大模型训练与智能体推理 。 湖北科投透露， 该集群从项目启动到落地点亮，仅用时 1 个月 。 IT之家获悉，该超节点将为湖北省内大模型训练、行业 AI 智能体开发调优与运行提供本地算力支撑， 补齐湖北高端算力供给短板 。 相关阅读： 《 华为升腾 950 超节点真机首次公开亮相，升腾 384 超节点已商用落地 750 多套 》",
+      "published": "2026-10-29T15:19:44+00:00",
+      "summary": "Google/Alphabet 在公布第三季度财报之后股价下跌了近 10%，原因是搜索巨人披露 AI 搜索产生的收入低于传统搜索，尽管其整体搜索业务收入同比增长 12% 达到 632.5 亿美元。搜索业务增速略低于去年第三季度的 14.5% ，Alphabet 首席商务官 Philipp Schindler 称，搜索业务增长放缓的原因在于“我们观察到 AI Mode 变现能力较低”。为推动 AI 业务 Google 同时在基础设施上投入巨额资金。第三季度公司支出达 514 亿美元，其中约三分之二用于服务器和网络设备，其余部分则用于数据中心建设。巨额支出影响了盈利能力：Alphabet 本季度净利润为 261.7 亿美元；去年第三季度在 Google 营收为 1023.5 亿美元的情况下净利润达到 350 亿美元。Schindler 认为，AI 搜索终将带来回报。",
       "score": 35,
       "original_title": "",
       "translated": false,
-      "priority": 0,
-      "uid": "f220882db3c0"
+      "priority": 10,
+      "uid": "afd04a03ca64"
     },
     {
-      "title": "广电总局发布规定限制电视开机广告",
-      "link": "https://www.solidot.org/story?sid=85723",
+      "title": "因强制应用内支付 Google 和苹果被韩国罚款 3.2 亿元",
+      "link": "https://www.solidot.org/story?sid=85739",
       "source": "Solidot·通信",
       "category": "通信与安防",
-      "published": "2026-10-27T10:22:23+00:00",
-      "summary": "广电总局周二公布了《交互式网络电视运营服务管理暂行规定》，该暂行规定将从 2026 年 11 月 27 日起施行。新规包括： 第十一条 交互式网络电视集成播控服务提供者应当坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，不得播放开机广告。智能电视机应支持优先呈现直播频道功能，提供便捷设置入口。酒店等集团用户应当坚持直播优先原则，并符合国务院广播电视主管部门相关规定。 第十二条 交互式网络电视集成播控服务提供者应当向用户提供便捷设置入口，方便用户自行选择开机进直播或者电视交互主页。电视交互主页的页面、导航栏、状态栏、推荐位等内容应当符合国务院广播电视主管部门相关要求。 第十三条 交互式网络电视集成播控服务提供者应当在交互式网络电视首页设立免费专区，对优质免费内容进行重点推荐，精简收费栏目数量，明示节目收费信息，规范应用专区运营和订购支付管理。",
+      "published": "2026-10-29T06:57:07+00:00",
+      "summary": "韩国广电媒体通信委员会以强制开发者使用特定应用内支付方式、不当拖延应用审核等为由，对谷歌和苹果合计处以 637.1 亿韩元（约合人民币 3.2 亿元）罚款。这是韩国自 2021 年出台禁止强制应用内支付相关规定以来，首次依据相关规定作出处罚。调查显示，两家公司虽允许第三方支付，却收取 26% 的手续费，并对使用流程和功能设置限制，实际仍引导开发者使用其自有支付系统。苹果还对韩国本土和海外开发者采用不同的手续费计算基准，被认定存在不当歧视。委员会对谷歌和苹果分别处以 429 亿韩元、208.1 亿韩元罚款，责令两家公司允许开发者通过外部支付链接向用户提供其他支付方式，合理调整第三方支付手续费，并完善审核程序，明确告知审核延迟的原因及后续安排。但对于新获准的外部支付是否收取手续费、收取多少，委员会并未直接作出规定，具体政策由企业制定。",
       "score": 30,
       "original_title": "",
       "translated": false,
       "priority": 15,
-      "uid": "026b3e1d1716"
+      "uid": "1819ea4d4bd0"
     },
     {
-      "title": "三星：新版睡眠呼吸暂停检测算法下月率先向韩版 Galaxy Watch 9/Ultra2 手表及 Galaxy Ring 智能戒指推送",
-      "link": "https://www.ithome.com/1/019/413.htm",
-      "source": "IT之家·出行",
+      "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
+      "link": "https://sspai.com/prime/story/zhuanglesha-261030",
+      "source": "少数派",
       "category": "健康生活",
-      "published": "2026-10-29T04:29:31+00:00",
-      "summary": "IT之家 10 月 29 日消息，三星宣布旗下 Galaxy 设备新版睡眠呼吸暂停检测算法已获得韩国食品医药品安全处（MFDS）批准，新版算法相较原版不仅能够检测中重度睡眠呼吸暂停的相关迹象，还可借助 AI 统计用户睡眠期间每小时出现的呼吸中断次数，并根据发生频率划分为轻度、偶发和频繁三个等级。 IT之家获悉，韩版 Galaxy Watch Ultra2、Galaxy Watch9 和 Galaxy Ring 智能戒指将于今年 11 月率先获得新版算法，随后，运行 Wear OS 7.0 或更高版本系统的 Galaxy Watch7 和 Galaxy Watch8 也将获得更新。 三星表示，相关检测结果可作为用户与专业医疗人员沟通时的参考，但不能替代专业诊断。用户需要在 10 天内完成两次睡眠记录，每次至少持续 5 小时，系统才能生成检测结果。",
+      "published": "2026-10-30T03:30:43+00:00",
+      "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的软硬件工具和使用 AI 的实践与思考。请先介绍一下自己，以及目前从事的工作。大家好，我是阿帅，硕士毕业于北京体育大学，现在是一名运动健康产品经理。你日常主要使用哪些硬件？最近有没有入手什么新设备？我日常用的是苹果三件套：老婆转给我的 iPhone 15、二手全新的 Apple Watch S9，以及花 2000 元买的 M1 MacBook Air。通过买二手、选低配，我用上了苹果生态，可以在上面尝鲜、折腾各种软件。最近买了阅星曈 X3，一款巴掌大小的墨水屏阅读器，我叫它“小鼻嘎”，带着它爬山、露营、参加音乐节。",
       "score": 20,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "462a99d11454"
-    },
-    {
-      "title": "开发者成功在小米 REDMI K90 Pro Max 上运行苹果 iOS 17 系统，后续项目将开源",
-      "link": "https://www.ithome.com/1/019/409.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-10-29T04:10:29+00:00",
-      "summary": "IT之家 10 月 29 日消息，近期大量开发者成功将苹果 iOS 系统移植到各种手机上运行，例如开发者 @江灵夏草 便发文，宣布已成功在小米 REDMI K90 Pro Max 上运行 iOS 17 系统，目前该移植项目已完成多项核心硬件的驱动适配，涵盖 GPU 图形渲染、多核 CPU 调度、120Hz 屏幕显示以及 USB 数据通道。 该开发者表示，相应项目后续将正式开源至 UniXNU 代码仓库，面向全球技术社区开放，邀请开发者共同参与功能迭代与问题修复。 后续，开发者将继续推进剩余模块调试，目标是完成 Wi-Fi 模块、屏幕亮度调节以及 IPA 安装包侧装功能，若后续条件成熟，还计划搭建私有服务器环境拓展更多系统级功能。 不过受限于硬件驱动的适配门槛，当前仍有大量外围硬件尚未打通，相机模组、电源按键、音量按键、蜂窝通信基带以及扬声器等日常常用功能均无法正常使用，距离完整的日常使用体验仍有较大差距。",
-      "score": 20,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "fb798deeb378"
+      "uid": "29575ecdcf8b"
     },
     {
       "title": "让 Agent 读懂你的身体：数据处理篇",
@@ -148,64 +135,103 @@
       "uid": "373fde4e7268"
     },
     {
-      "title": "美国最大的廉价航空公司报告票价上涨71%",
-      "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-10-28T23:51:38+00:00",
-      "summary": "边疆航空公司报告称，由于该国最大的低成本航空公司试图转嫁更大幅度的喷气燃料价格上涨，第三季度机票价格上涨了71%。边疆航空第三季度的人均票价平均为67.82美元，而去年同期为39.74美元。包括该低成本航空公司的诸多费用，如托运和随身行李费用，人均总收入同比增长了30%...",
+      "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+      "link": "https://sspai.com/post/116435",
+      "source": "少数派",
+      "category": "健康生活",
+      "published": "2026-10-30T03:13:40+00:00",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点，少数派仅对标题和排版略作修改。对近半年的回顾 从今年3月25日以来，截至10月21日，不知不觉已经实践柳比歇夫时间管理法（简称为“柳比歇夫法”）176天，完整记录了4224小时的所有行为，精确到5分钟。3月31日我在少数派发布了《柳比歇夫时间管理法的基本设定》一文，介绍了我对柳比歇夫法的设置的一些决定；4月15日我发布了《时间管理：我实践柳比歇夫法的一周》，介绍我实践柳比歇夫法的一周，反响颇好，感谢少数派将其收为精选文章，并得到了1.8万的阅读量，但当时只公开了一周的实践，且对于方法的各中精微尚未完全把握。",
       "score": 15,
-      "original_title": "America's largest budget airline reports 71% jump in airfare",
-      "translated": true,
+      "original_title": "",
+      "translated": false,
       "priority": 0,
-      "uid": "222ab185e89b"
+      "uid": "8753d0737231"
     },
     {
-      "title": "随着全球燃料短缺加剧，石油炼油厂成为主要目标",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Refineries-Become-Prime-Targets-as-Global-Fuel-Shortage-Worsens.html",
+      "title": "全球天然气需求的下一步是什么？",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Whats-Next-for-Global-Natural-Gas-Demand.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-28T23:00:00+00:00",
-      "summary": "十年前，欧洲国家正在关闭炼油厂，而海湾石油国家则在建设新的炼油厂。现在，这些炼油厂中的许多在美国与以色列以及伊朗之间的战争中受到了破坏。来自最大炼油地区之一的燃料产量短期内不会恢复。世界主要燃料出口国之一俄罗斯的炼油能力也不会完全恢复。",
+      "published": "2026-10-29T23:00:00+00:00",
+      "summary": "伊朗战争和中东液化天然气供应不足颠覆了对近期天然气需求和进口成本的预测。 今年到目前为止，欧洲和亚洲的经济体更多地依赖可再生能源和煤炭发电，以抵消以极高价格采购的天然气供应的减少。 今年的危机促使各国政府重新考虑能源政策，能源安全再次成为重中之重……",
       "score": 15,
-      "original_title": "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
+      "original_title": "What’s Next for Global Natural Gas Demand?",
       "translated": true,
       "priority": 0,
-      "uid": "0b52124f0fe4"
+      "uid": "06d83970a24e"
     },
     {
-      "title": "联邦快递超出预期，在自调整日历以来的首次报告中上调前景",
-      "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+      "title": "中国电池厂可能坐拥锂资源",
+      "link": "https://oilprice.com/Energy/Energy-General/Chinas-Battery-Factories-May-Sit-Atop-Lithium-Resources.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-29T22:00:00+00:00",
+      "summary": "全球最大的电池制造商和用户、主导所有替代能源技术的国家即将研究是否也能增强其在关键电池金属——锂方面已经占据主导地位的地位。 一项新的研究表明，中国的电池工厂下方可能拥有大量未开发的锂资源。",
+      "score": 15,
+      "original_title": "China’s Battery Factories May Sit Atop Lithium Resources",
+      "translated": true,
+      "priority": 0,
+      "uid": "10ff7da7c757"
+    },
+    {
+      "title": "星巴克销售额未达预期，但其在美国的扭亏为盈正在增强",
+      "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-10-28T22:27:00+00:00",
-      "summary": "联邦快递周三发布的季度财报显示，公司收入和利润均超出华尔街预期，并提高了重新调整后的整个财年的全年展望。公司的股价在盘后交易中略有下跌。根据LSEG对分析师的调查，以下是截至9月30日的期间，公司表现与华尔街预期的对比：- 每股收益：3美元。",
+      "published": "2026-10-29T21:29:59+00:00",
+      "summary": "星巴克周四公布的季度业绩好坏参半，因为其国际咖啡馆的表现低于预期。 然而，星巴克在美国的扭亏为盈仍在继续，因为其本土市场在这家咖啡巨头 2026 财年最后一个季度的表现超出了预期。“我们带着动力进入 2027 财年，对星巴克的目标有明确的优先事项和更高的目标，”首席执行官布莱恩·尼科尔 (Brian Niccol) 在 2026 财年最后一个季度的视频中表示。",
       "score": 15,
-      "original_title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+      "original_title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
       "translated": true,
       "priority": 0,
-      "uid": "cdeb177a724b"
+      "uid": "0ec1d73f4882"
     },
     {
-      "title": "在首席执行官表示同店销售额增长将继续之后，Chipotle 股价上涨 7%",
-      "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
+      "title": "特朗普的俄罗斯柴油机是一个合法的烫手山芋，保险丝有效期为五年",
+      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-10-29T21:00:00+00:00",
+      "summary": "一艘名为“Agioi Fanendes”号的马耳他国旗油轮于 10 月 22 日离开俄罗斯普里莫尔斯克港，载有近 40,000 吨超低硫柴油，船舶跟踪数据显示，该油轮于 11 月 7 日抵达纽约和新泽西港，即中期选举四天后。 没有人公开透露是谁购买了这些燃料，康涅狄格州民主党参议员理查德·布卢门撒尔(Richard Blumenthal)。",
+      "score": 15,
+      "original_title": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
+      "translated": true,
+      "priority": 0,
+      "uid": "17c86c179f89"
+    },
+    {
+      "title": "挪威股市因盈利超出预期而上涨 13%，指引上调",
+      "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-10-28T22:12:28+00:00",
-      "summary": "Chipotle 墨西哥烧烤周三公布了喜忧参半的季度业绩，并表示其餐厅层面的运营利润率下滑。但该卷饼连锁店在本季度的客流量和同店销售额有所增长，因为低收入消费者的支出增加，逆转了行业趋势，首席执行官斯科特·博特赖特预计今年将有一个强劲的收官。该公司股价在盘后交易中上涨了 7%.",
+      "published": "2026-10-29T20:14:15+00:00",
+      "summary": "挪威邮轮控股公司 (Norwegian Cruise Line Holdings) 公布好于预期的第三季度盈利并上调全年预期后，该公司股价周四飙升 13%。 该邮轮公司报告第三季度收入为 2 美元。 950 亿美元，超出华尔街预期的 2 美元。 根据 LSEG 分析师的估计，为 880 亿美元。 该期间净利润为 4.91 亿美元，即 1 美元。",
       "score": 15,
-      "original_title": "Chipotle shares rise 7% after CEO says same-store sales growth will continue",
+      "original_title": "Norwegian shares surge 13% on earnings beat, guidance raise",
       "translated": true,
       "priority": 0,
-      "uid": "345b0376e271"
+      "uid": "c37aeb7e6c85"
     },
     {
-      "title": "我们最新的人工智能探索：绘制人类大脑",
+      "title": "邮轮公司的目标是降低燃料成本。 他们这样做的策略不同",
+      "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-10-29T19:36:04+00:00",
+      "summary": "尽管燃油价格上涨，嘉年华、皇家加勒比和挪威邮轮控股公司最近几个季度的盈利依然强劲。 领先的邮轮公司如何控制燃油成本归结为截然不同的策略。 自 2 月美以与伊朗战争爆发以来，油价一路飙升。周五布伦特原油触及六个月高点，收于 116 美元。",
+      "score": 15,
+      "original_title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
+      "translated": true,
+      "priority": 0,
+      "uid": "aa43711f578b"
+    },
+    {
+      "title": "我们最新的人工智能任务：绘制人类大脑图谱",
       "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-26T16:00:00+00:00",
-      "summary": "我们最新的人工智能任务：绘制人类大脑 今天，我们推出了“极地峰”，这是AI任务系列中的第三个任务，由谷歌研究院和斯坦福学习加速器创建，旨在教学生人工智能的工作原理以及如何负责任地使用它。AI任务邀请11至14岁的学生以谷歌研究人员的身份，去应对人类的一些最大挑战。",
+      "summary": "我们最新的人工智能任务：绘制人类大脑今天，我们推出“极地峰”，这是人工智能任务系列中的第三个任务，由谷歌研究中心和斯坦福学习加速器创建，旨在教导学生人工智能如何工作以及如何负责任地使用它。 AI Quests 邀请 11 至 14 岁的学生扮演 Google 研究人员的角色，解决人类面临的一些最大挑战。",
       "score": 15,
       "original_title": "Our newest AI Quest: Mapping the human brain",
       "translated": true,
@@ -213,74 +239,48 @@
       "uid": "d0c777d088b7"
     },
     {
-      "title": "东南亚的数字经济将达到3680亿美元",
+      "title": "东南亚数字经济规模将达3680亿美元",
       "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-21T04:00:00+00:00",
-      "summary": "谷歌、淡马锡和贝恩公司联合发布的《e-Conomy SEA 2026》报告的封面图片，标题为《构建智能经济》。一幅3D插图展示了一个发光的黄色星星，周围环绕着代表数字行业的微型场景，包括数据中心",
+      "summary": "2026 年东南亚电子经济报告的封面图片，标题为 Google、淡马锡和贝恩公司构建智能经济。 3D 插图展示了一颗发光的黄色星星，周围环绕着代表数字部门（包括数据中心）的微型场景",
       "score": 15,
       "original_title": "Southeast Asia’s digital economy to hit $368 billion",
       "translated": true,
       "priority": 0,
       "uid": "af3f5180566e"
-    },
-    {
-      "title": "和平谈判无法让石油买家免于100美元以上的油价",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Peace-Talks-Wont-Save-Oil-Buyers-From-100-Plus-Oil.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-29T00:00:00+00:00",
-      "summary": "中东国家已经重新启动外交努力，来自沙特阿拉伯、土耳其和巴基斯坦的高级代表团周一在德黑兰会见了伊朗官员，以探讨建立区域安全框架，力图缓解紧张局势。与此同时，伊朗总统佩泽什基安表达了解决地区分歧的意愿，但德黑兰仍坚持认为美国……",
-      "score": 10,
-      "original_title": "Peace Talks Won’t Save Oil Buyers From $100-Plus Oil",
-      "translated": true,
-      "priority": 0,
-      "uid": "466fd9a3abe2"
-    },
-    {
-      "title": "特朗普的俄罗斯柴油如何可能最终流入古巴",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/How-Trumps-Russian-Diesel-Could-End-Up-in-Cuba-Instead.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-10-28T22:28:57+00:00",
-      "summary": "加拿大即将达到……施耐德电气的226亿美元PTC……被称为根据唐纳德·特朗普与弗拉基米尔·普京达成的协议，将俄罗斯柴油运往美国的首艘油轮已将纽约取消为目的地。这艘悬挂马耳他旗帜的Agioi Fanendes号于10月22日从普里莫尔斯克起航，载有约4万吨超低硫柴油，原定于11月7日到达纽约。",
-      "score": 10,
-      "original_title": "How Trump’s Russian Diesel Could End Up in Cuba Instead",
-      "translated": true,
-      "priority": 0,
-      "uid": "3e7636bcf2be"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3667.7123,
-        "change": -13.7568,
-        "pct": -0.37,
-        "amount_yi": 4914.73
+        "price": 3644.5907,
+        "change": -6.843,
+        "pct": -0.19,
+        "amount_yi": 5138.03
       },
       {
         "name": "深证成指",
-        "price": 11274.84,
-        "change": -198.345,
-        "pct": -1.73,
-        "amount_yi": 5904.7
+        "price": 11081.89,
+        "change": -56.31,
+        "pct": -0.51,
+        "amount_yi": 6303.28
       },
       {
         "name": "创业板指",
-        "price": 2565.29,
-        "change": -69.465,
-        "pct": -2.64,
-        "amount_yi": 1203.95
+        "price": 2489.39,
+        "change": -28.194,
+        "pct": -1.12,
+        "amount_yi": 1260.27
       },
       {
         "name": "沪深300",
-        "price": 4058.0759,
-        "change": -25.7943,
-        "pct": -0.63,
-        "amount_yi": 2658.93
+        "price": 4031.0062,
+        "change": -10.8314,
+        "pct": -0.27,
+        "amount_yi": 2928.06
       }
     ],
     "holdings": [
@@ -289,11 +289,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 51.24,
-        "market_value": 5124.0,
-        "pnl": 1951.36,
-        "pnl_pct": 61.51,
-        "weight_hint": "45.3%",
+        "price": 51.6,
+        "market_value": 5160.0,
+        "pnl": 1987.36,
+        "pnl_pct": 62.64,
+        "weight_hint": "45.6%",
         "note": "",
         "available": true
       },
@@ -302,10 +302,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 29.78,
-        "market_value": 2978.0,
-        "pnl": 281.59,
-        "pnl_pct": 10.44,
+        "price": 29.81,
+        "market_value": 2981.0,
+        "pnl": 284.59,
+        "pnl_pct": 10.55,
         "weight_hint": "26.3%",
         "note": "",
         "available": true
@@ -315,11 +315,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.73,
-        "market_value": 2619.0,
-        "pnl": 741.48,
-        "pnl_pct": 39.49,
-        "weight_hint": "23.2%",
+        "price": 8.71,
+        "market_value": 2613.0,
+        "pnl": 735.48,
+        "pnl_pct": 39.17,
+        "weight_hint": "23.1%",
         "note": "",
         "available": true
       },
@@ -328,11 +328,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.843,
-        "market_value": 168.6,
-        "pnl": -149.4,
-        "pnl_pct": -46.98,
-        "weight_hint": "1.5%",
+        "price": 0.815,
+        "market_value": 163.0,
+        "pnl": -155.0,
+        "pnl_pct": -48.74,
+        "weight_hint": "1.4%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -341,11 +341,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.134,
-        "market_value": 413.4,
-        "pnl": -83.6,
-        "pnl_pct": -16.82,
-        "weight_hint": "3.7%",
+        "price": 4.109,
+        "market_value": 410.9,
+        "pnl": -86.1,
+        "pnl_pct": -17.32,
+        "weight_hint": "3.6%",
         "note": "",
         "available": true
       },
@@ -365,36 +365,50 @@
     ],
     "sectors": [
       {
+        "name": "新能源/光伏 · 蓄电池及其他电池",
+        "pct": 2.46,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.41,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 电池化学品",
+        "pct": 1.42,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": -0.45,
+        "source": "东财行业"
+      },
+      {
         "name": "煤炭 · 煤炭行业",
-        "pct": 1.0640157853985,
+        "pct": 0.64479329414974,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "金融/银行 · 金融行业",
-        "pct": 0.38926662168475,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
         "name": "电力/公用 · 供水供气",
-        "pct": -0.12615402259304,
+        "pct": -0.086615082573045,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
+        "name": "金融/银行 · 金融行业",
+        "pct": -0.12050889183466,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
         "name": "石油 · 石油行业",
-        "pct": -1.3187245768272,
+        "pct": -0.34251175285426,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "半导体/电子 · 电子信息",
-        "pct": -2.2301911941841,
+        "pct": -1.4370738269582,
         "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
@@ -403,50 +417,47 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "又大涨！多只银行股涨超4%，四大行A股总市值盘中破10万亿",
-        "link": "https://finance.sina.com.cn/roll/2026-10-29/doc-iniwwifc5362945.shtml",
+        "title": "宽基ETF底仓配置需求持续升温！沪深300ETF华泰柏瑞（510300）单日成交额接近翻倍",
+        "link": "https://finance.sina.com.cn/money/fund/jjh/2026-10-30/doc-iniwysmx8222607.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "存储“荒”延续 江波龙以自研主控芯片与企业级存储卡位新机遇",
-        "link": "https://finance.sina.com.cn/stock/2026-10-29/doc-iniwwiez8901926.shtml",
+        "title": "芯片超级周期推动，韩国9月份税收收入大增26.4万亿韩元",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwysmu5505796.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "穿越板块波动：从订单、技术到交付，拆解中际旭创的核心增长底气",
-        "link": "https://finance.sina.com.cn/stock/2026-10-29/doc-iniwwiew6072904.shtml",
+        "title": "今日早盘港股科技板块逆势活跃，恒生科技ETF华泰柏瑞（513130）交投火热",
+        "link": "https://finance.sina.com.cn/money/fund/jjh/2026-10-30/doc-iniwysmz4674292.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 11303.0,
-    "total_pnl": 2741.43,
-    "total_amount_yi": 10819.43,
+    "total_market_value": 11327.9,
+    "total_pnl": 2766.33,
+    "total_amount_yi": 11441.31,
     "bias": "偏空",
-    "volume_note": "量能：两市合计约 10819 亿元（接口口径），成交中等",
-    "sector_note": "行业分化：偏强 煤炭行业、金融行业；偏弱 供水供气、石油行业、电子信息",
+    "volume_note": "量能：两市合计约 11441 亿元（接口口径），成交中等",
+    "sector_note": "行业分化：偏强 蓄电池及其他电池、电池化学品、煤炭行业；偏弱 供水供气、金融行业、石油行业",
     "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
-    "errors": [
-      "东财行业板块失败: HTTP Error 502: Bad Gateway"
-    ]
+    "errors": []
   },
   "learning": {
-    "title": "净息差（银行）",
-    "body": "净息差 = 贷款利率与存款利率的差距，是银行赚钱能力的核心之一。工行观察点：净息差是否继续收窄，以及不良贷款率。",
+    "title": "护城河（初识）",
+    "body": "护城河指公司难以被抢走的优势。长电的水电资产、神华的煤电一体，都是“不好复制”的例子——但护城河也会随产业政策变化。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "AI 工具",
-    "text": "今儿聊【AI 工具】。大模型像特别能干的实习生：秒出三千字，里头三分真七分顺嘴。你让它写可研，它写得比你快；你让它对定额，它比你敢。社会经验：AI能提效，不能替你背锅——锅永远有编制，编制在你工号上。"
+    "topic": "绿茶黑咖啡",
+    "text": "今儿聊【绿茶黑咖啡】。上午绿茶续命，下午咖啡续命，晚上想着早睡，躺下开始续念头。念头一续就到两点，两点一过，第二天的方案开始穿睡衣上班。社会经验：提神饮品解决不了睡眠债，只能把欠条写得更工整。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
-    "东财行业板块失败: HTTP Error 502: Bad Gateway",
     "36氪: 解析失败 (<unknown>:11:168: not well-formed (invalid token))"
   ]
 }
