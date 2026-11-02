@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年11月02日 13:27 · 共 16 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 偏多；量能：两市合计约 12946 亿元（接口口径），成交偏活跃；行业分化：偏强 非银金融、光伏主材、电子信息；偏弱 石油行业、煤炭行业</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3621.98 <span style='color:#0e7c66'>+0.64%</span> · 约6149亿</li><li><strong>深证成指</strong> 10972.32 <span style='color:#0e7c66'>+1.28%</span> · 约6797亿</li><li><strong>创业板指</strong> 2454.41 <span style='color:#0e7c66'>+1.69%</span> · 约1415亿</li><li><strong>沪深300</strong> 4010.95 <span style='color:#0e7c66'>+0.64%</span> · 约3805亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>金融/银行 · 非银金融</strong> <span style='color:#0e7c66'>+3.30%</span> · 净流入约29.85亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>新能源/光伏 · 光伏主材</strong> <span style='color:#0e7c66'>+3.22%</span> · 净流入约1.53亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>半导体/电子 · 电子信息</strong> <span style='color:#0e7c66'>+3.22%</span><div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>金融/银行 · 金融控股</strong> <span style='color:#0e7c66'>+2.95%</span> · 净流入约0.67亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>新能源/光伏 · 光伏设备</strong> <span style='color:#0e7c66'>+2.14%</span> · 净流入约5.97亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>电力/公用 · 综合电力设备商</strong> <span style='color:#0e7c66'>+2.10%</span> · 净流入约0.10亿<div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>半导体/电子 · 半导体材料</strong> <span style='color:#0e7c66'>+2.08%</span> · 净流入约5.52亿<div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>电力/公用 · 电力行业</strong> <span style='color:#0e7c66'>+0.35%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#b42318'>-0.49%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#b42318'>-1.09%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 51.140 · 盈亏 <span style='color:#0e7c66'>+1941.36（+61.19%）</span> · 仓位约 45.4%</li><li><strong>长江电力</strong>（600900） 现价 29.640 · 盈亏 <span style='color:#0e7c66'>+267.59（+9.92%）</span> · 仓位约 26.3%</li><li><strong>工商银行</strong>（601398） 现价 8.730 · 盈亏 <span style='color:#0e7c66'>+741.48（+39.49%）</span> · 仓位约 23.3%</li><li><strong>半导体ETF</strong>（159995） 现价 0.790 · 盈亏 <span style='color:#b42318'>-160.00（-50.31%）</span> · 仓位约 1.4%</li><li><strong>300ETF</strong>（510300） 现价 4.087 · 盈亏 <span style='color:#b42318'>-88.30（-17.77%）</span> · 仓位约 3.6%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 11263.70 元，浮动盈亏约 +2702.13 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>今日暂无高相关条目</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>今日暂无高相关条目</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/money/fund/etf/2026-11-02/doc-inixiira7303131.shtml' target='_blank' rel='noopener'>增量资金来了？金融科技指数率先冲高逾8%！互联网金融爆发涨停潮，159851热度飙升，银之杰20CM封板！</a></li><li>【中】<a href='https://finance.sina.com.cn/money/fund/etf/2026-11-02/doc-inixiiqz0526451.shtml' target='_blank' rel='noopener'>9只热门宽基ETF总成交额近500亿元</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-02/doc-inixiira7286863.shtml' target='_blank' rel='noopener'>景旺电子于10月30日斥资约5028.16万元回购75万股A股</a></li><li>【中】<a href='https://finance.sina.com.cn/jjxw/2026-11-02/doc-inixiira7277859.shtml' target='_blank' rel='noopener'>白酒板块底部信号已现？皇台酒业、水井坊、金种子酒多股涨停，贵州茅台涨超3%，三季度多家酒企净利大增</a></li></ul><p class='sum'>新手提醒：板块轮动是常态，不要追高换仓</p></section>
+    
+    <section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html" target="_blank" rel="noopener">星巴克的销售未达预期，但其美国业务的扭转正在加速</a><div class="meta">CNBC · 10-30 21:29</div><p class="sum">星巴克周四发布了喜忧参半的季度业绩，其国际咖啡馆的表现不及预期。然而，其美国市场的复苏势头仍在延续，在咖啡巨头2026财年最后一个季度，其本土市场超出预期。首席执行官布莱恩·尼科尔在一段视频中表示：“我们以势头、明确的优先事项以及对星巴克未来发展的更高雄心进入2027财年。”</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Energy/Oil-Prices/Oil-Prices-No-Longer-Follow-Headlines.html" target="_blank" rel="noopener">油价不再跟随头条</a><div class="meta">OilPrice · 11-02 08:00</div><p class="sum">一个月前，一系列新闻报道称，霍尔木兹的石油流量已恢复到战前水平，推动油价下跌。然而，这种下跌并未持续。基准油价连续第四个月上涨，而且无论多次重复海湾国家的石油出口量甚至超过了战前水平，也无法改变这一点。因为石油桶并不是全部情况。</p></li><li><a href="https://oilprice.com/Energy/Energy-General/Massive-AI-Data-Center-Sparks-Backlash-Despite-Clean-Energy-Promises.html" target="_blank" rel="noopener">尽管承诺使用清洁能源，大型人工智能数据中心仍引发争议</a><div class="meta">OilPrice · 11-02 04:00</div><p class="sum">随着越来越多的政府对科技公司施加压力，要求它们开发更可持续的数据中心，以确保它们不会对电网造成进一步的负担，几家科技公司正在投资开发新的能源能力，并将其他创新理念融入其设施开发中。这促使谷歌建议开发其新的 U。</p></li><li><a href="https://oilprice.com/Energy/Energy-General/US-Labs-Look-to-New-Materials-to-Close-Chinas-Nuclear-Lead.html" target="_blank" rel="noopener">美国实验室寻求新材料以缩小中国在核能领域的领先优势</a><div class="meta">OilPrice · 11-02 02:00</div><p class="sum">美国正竞相重新确立自己在全球核能领域的领先地位。虽然该国仍然保持着世界最大核能生产国的地位，但可能无法长期保持这一荣誉。多年来，中国在核能研发方面的投入远远超过了美国。</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/020/920.htm" target="_blank" rel="noopener">消息称鸿蒙智行享界 10 月销量 G9 车型占比接近 70％，S9＋S9T 依然稳定 2000+ 辆</a><div class="meta">IT之家·通信安防 · 11-02 11:47</div><p class="sum">IT之家 11 月 2 日消息，多位博主今日分享了北汽新能源享界汽车 10 月“战报”。海报显示，享界汽车 10 月销量为 6,174 辆，并宣称品牌进入多车型协同增长新阶段。 博主 @未来的学习笔记 今日发文透露，鸿蒙智行享界 10 月销量中， 接近 70％是享界 G9 车型 ，大概在 4,000-4,300 辆区间，首月产能处于爬坡阶段。另外， 享界 S9 + 享界 S9T 依然稳定有 2,000+ 的销量 。 后续享界还将推出 V8 定位家用的旗舰 MPV 车型，预计 11 月上旬发布，官方预售价 32.98 万元起。参考IT之家此前报道， 该车提供纯电与增程两种动力形式，采用七座布局设计，分 Ultra+、Ultra、Max+ 和 Max 四个版本 ，全系标配 800V 高压平台、±12° 后轮转向和华为干昆智驾系统。</p></li><li><a href="https://www.ithome.com/1/020/915.htm" target="_blank" rel="noopener">不占地方的桌面新选择，英特尔酷睿华硕无双 7X 台式机上手体验</a><div class="meta">IT之家·通信安防 · 11-02 11:31</div><p class="sum">最近双 11 期间，可能有很多上班族想给自己换一台工作用的电脑。不过对于每天跟文字和表格打交道的打工人来说，想要找到一台合适自己的设备其实也并不容易。笔记本便携，但屏幕小，长时间伏案，脖子和眼睛都容易抗议；传统台式机用着踏实，可那个大家伙往桌下一放，小半个活动空间就没了，小户型书房更是塞都塞不下。其实不少人想要的，就是一台不占地方的主机，平时开着文档、算算表格，十几个网页轮着查资料，中午再刷刷网课和视频，都能稳稳当当跑下来，颜值最好还能跟家里的装修或者工位的风格搭得上。说到这，小编想起之前在 7 月份，华硕推出了无双 7X 台式机，瞄准的就是这批用户。于是小编搞来了这款无双 7X 台式机（V501MV），黑色仿木纹配色，上手几天之后，现在就和大家分享一下它的实际体验感受，看看它到底能不能满足小伙伴们既要省空间、又要高效办公生产的要求。</p></li><li><a href="https://www.solidot.org/story?sid=85756" target="_blank" rel="noopener">Claude Code for VS Code 官方扩展被入室后门</a><div class="meta">Solidot·通信 · 10-30 21:43</div><p class="sum">安全研究人员在 Cursor Marketplace 的 Claude Code for VS Code 官方扩展中发现了后门，该恶意版本已经撤下，攻击者也关闭了其服务器。Cursor 已发布安全公告，但 Claude Code 开发商 Anthropic 尚未做出任何声明。受影响的版本是 Anthropic.claude-code 2.313，共上线了大约 11 小时，受影响用户估计有 5,000 名，该扩展会试图植入一个持久 SSH 后门。恶意扩展会：收集主机和用户信息：主机名、用户名、操作系统、架构、主目录路径、环境变量名称、工作目录、已配置的 Git 邮箱以及公网 IP。尝试将攻击者控制的 SSH 键添加到 authorized_keys，启用本地 SSH 服务，并建立反向 SSH 隧道。由于恶意代码存在 bug，除非 Cursor 是以管理员权限启动的 (这种情况极为罕见) ，否则这一步会失败。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://openai.com/index/community-safety-report-and-new-protections-for-teens" target="_blank" rel="noopener">社区安全报告和青少年的新保护措施</a><div class="meta">OpenAI / ChatGPT · 10-30 17:00</div><p class="sum">OpenAI 正在通过扩展的保护措施、更早的干预以及对公共安全报告的新承诺，加强 ChatGPT 的暴力预防。</p></li><li><a href="https://www.anthropic.com/news/announcements" target="_blank" rel="noopener">Anthropic / Claude：公告</a><div class="meta">Anthropic / Claude · 11-02 13:27</div><p class="sum">公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了在天文观测宇宙学和精密测量领域数十年的科学专长。</p></li><li><a href="https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/" target="_blank" rel="noopener">双子座 4 碳纤维：我们的下一个前沿模型</a><div class="meta">Google DeepMind · 10-29 01:00</div><p class="sum">双子座4碳：我们的下一个前沿型号
+今天，我们宣布下一个前沿型号：双子座4碳，这是我们最强的型号，具备最先进的网络安全功能和长远能力。Carbon在最近更新的人工分析智能指数v5.0中排名第一，得分为59。在编码和自主任务方面显示出显著提升，同时在网络安全防御关键能力方面也有显著进展……</p></li><li><a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank" rel="noopener">Anthropic / Claude：投资于公共利益</a><div class="meta">Anthropic / Claude · 11-02 13:27</div><p class="sum">今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构随着公司发展而增加股份。经股东批准后，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。</p></li><li><a href="https://openai.com/index/helping-websites-express-ai-training-preferences" target="_blank" rel="noopener">让网站更容易表达 AI 培训偏好</a><div class="meta">OpenAI / ChatGPT · 10-30 17:30</div><p class="sum">OpenAI 将尊重共享的 robots.txt 信号，以帮助网站运营者向参与的提供商传达他们的 AI 训练偏好。</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/" target="_blank" rel="noopener">我们最新的人工智能探索：绘制人类大脑</a><div class="meta">Google AI Blog · 10-27 00:00</div><p class="sum">我们最新的人工智能任务：绘制人类大脑 今天，我们推出了“极地峰”，这是AI任务系列中的第三个任务，由谷歌研究院和斯坦福学习加速器创建，旨在教学生人工智能的工作原理以及如何负责任地使用它。AI任务邀请11至14岁的学生以谷歌研究员的身份，去应对人类的一些最大挑战。</p></li></ul></section><section class="cat"><h2>健康生活</h2><ul><li><a href="https://www.ithome.com/1/020/661.htm" target="_blank" rel="noopener">2026 年 10 月汽车销量 / 交付汇总（持续更新）：长安汽车 23.38 万辆</a><div class="meta">IT之家·出行 · 11-01 09:20</div><p class="sum">IT之家 11 月 1 日消息，各大车企今日起陆续交出了 2026 年 10 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。比亚迪 ：490,168 辆，同比增长 10.97%，环比增长 5.其中： 王朝 | 海洋：423,843 辆，同比增长 7.3%，环比增长 7.方程豹：43,872 辆，同比增长 41.29%，环比增长 1.腾势：15,152 辆，同比增长 49.5%，环比下降 16.仰望：258 辆，同比下降 60.55%，环比下降 33.上汽集团 ：430,018 辆，同比下降 5.28%，环比增长 5.其中： 上汽通用五菱：157,184 辆，同比下降 6.41%，环比增长 9.其中： 五菱银标：60,835 辆，同比下降 36.五菱红标：35,001 辆，同比下降 28.</p></li><li><a href="https://sspai.com/prime/story/zhuanglesha-261030" target="_blank" rel="noopener">《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？</a><div class="meta">少数派 · 10-30 11:30</div><p class="sum">编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的软硬件工具和使用 AI 的实践与思考。请先介绍一下自己，以及目前从事的工作。大家好，我是阿帅，硕士毕业于北京体育大学，现在是一名运动健康产品经理。你日常主要使用哪些硬件？最近有没有入手什么新设备？我日常用的是苹果三件套：老婆转给我的 iPhone 15、二手全新的 Apple Watch S9，以及花 2000 元买的 M1 MacBook Air。通过买二手、选低配，我用上了苹果生态，可以在上面尝鲜、折腾各种软件。最近买了阅星曈 X3，一款巴掌大小的墨水屏阅读器，我叫它“小鼻嘎”，带着它爬山、露营、参加音乐节。</p></li><li><a href="https://sspai.com/post/116435" target="_blank" rel="noopener">精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践</a><div class="meta">少数派 · 10-30 11:13</div><p class="sum">Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点，少数派仅对标题和排版略作修改。对近半年的回顾 从今年3月25日以来，截至10月21日，不知不觉已经实践柳比歇夫时间管理法（简称为“柳比歇夫法”）176天，完整记录了4224小时的所有行为，精确到5分钟。3月31日我在少数派发布了《柳比歇夫时间管理法的基本设定》一文，介绍了我对柳比歇夫法的设置的一些决定；4月15日我发布了《时间管理：我实践柳比歇夫法的一周》，介绍我实践柳比歇夫法的一周，反响颇好，感谢少数派将其收为精选文章，并得到了1.8万的阅读量，但当时只公开了一周的实践，且对于方法的各中精微尚未完全把握。</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>PB（市净率）</strong>：PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>

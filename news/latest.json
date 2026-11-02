@@ -1,8 +1,8 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-11-01T13:29:09.876061+08:00",
+  "generated_at": "2026-11-02T13:27:32.628897+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 16,
   "items": [
     {
       "title": "社区安全报告和青少年的新保护措施",
@@ -22,7 +22,7 @@
       "link": "https://www.anthropic.com/news/announcements",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-01T05:29:39+00:00",
+      "published": "2026-11-02T05:27:51+00:00",
       "summary": "公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了在天文观测宇宙学和精密测量领域数十年的科学专长。",
       "score": 60,
       "original_title": "Anthropic / Claude：Announcements",
@@ -36,7 +36,7 @@
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-10-28T17:00:58+00:00",
-      "summary": "双子座4号碳纤版：我们的下一代前沿模型 今天，我们宣布了下一代前沿模型：双子座4号碳纤版，这是我们最强大的模型，拥有最先进的网络安全和长远能力。在最近更新的人工分析智能指数v5.0中，碳纤版排名第一，得分为59。它在编码和自主任务以及对网络安全防御至关重要的关键能力方面显示出显著提升...",
+      "summary": "双子座4碳：我们的下一个前沿型号\n今天，我们宣布下一个前沿型号：双子座4碳，这是我们最强的型号，具备最先进的网络安全功能和长远能力。Carbon在最近更新的人工分析智能指数v5.0中排名第一，得分为59。在编码和自主任务方面显示出显著提升，同时在网络安全防御关键能力方面也有显著进展……",
       "score": 45,
       "original_title": "Gemini 4 Carbon: Our next frontier model",
       "translated": true,
@@ -48,8 +48,8 @@
       "link": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-01T05:29:39+00:00",
-      "summary": "今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。",
+      "published": "2026-11-02T05:27:51+00:00",
+      "summary": "今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构随着公司发展而增加股份。经股东批准后，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。",
       "score": 60,
       "original_title": "Anthropic / Claude：Investing in the public benefit",
       "translated": true,
@@ -70,56 +70,56 @@
       "uid": "149fff86800f"
     },
     {
-      "title": "东风本田 10 月终端销量 17,026 台，环比增长 16.9%",
-      "link": "https://www.ithome.com/1/020/689.htm",
+      "title": "消息称鸿蒙智行享界 10 月销量 G9 车型占比接近 70％，S9＋S9T 依然稳定 2000+ 辆",
+      "link": "https://www.ithome.com/1/020/920.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-11-01T03:29:41+00:00",
-      "summary": "IT之家 11 月 1 日消息，东风本田今日发文， 2026 年 10 月终端销量为 17,026 台 ，环比增长 16.9%，上年同期为 28,896 台。 CR-V 销量为 10,455 台，环比增长 7.9%； HR-V 销量为 2,383 台，环比增长 71.8%。 本田技研工业（中国）投资有限公司总经理、本田技研科技（中国）有限公司总经理五十岚雅行曾明确表态，中国市场的意义早已不止于销售，更是推进电动化与智能化变革的重要市场，立场今后也不会改变， 未来本田将一如既往深耕中国 。 据悉，本田在智能化领域已选定 Momenta 与华为 ，双方分别签署战略合作协议，Momenta 的领航辅助驾驶技术与华为的鸿蒙座舱将从 2027 年上市车型起陆续导入。 未来，本田将陆续推出基于东风集团和广汽集团各自平台研发的产品，2027 年推出首款搭载包括动力单元在内的合作伙伴技术的新能源汽车，此后快速扩充阵容。研发体系采用中方合作伙伴、合资公司与本田三方联合开发模式。 相关阅读： 《 2026 年 10 月汽车销量 / 交付汇总（持续更新） 》",
+      "published": "2026-11-02T03:47:15+00:00",
+      "summary": "IT之家 11 月 2 日消息，多位博主今日分享了北汽新能源享界汽车 10 月“战报”。海报显示，享界汽车 10 月销量为 6,174 辆，并宣称品牌进入多车型协同增长新阶段。 博主 @未来的学习笔记 今日发文透露，鸿蒙智行享界 10 月销量中， 接近 70％是享界 G9 车型 ，大概在 4,000-4,300 辆区间，首月产能处于爬坡阶段。另外， 享界 S9 + 享界 S9T 依然稳定有 2,000+ 的销量 。 后续享界还将推出 V8 定位家用的旗舰 MPV 车型，预计 11 月上旬发布，官方预售价 32.98 万元起。参考IT之家此前报道， 该车提供纯电与增程两种动力形式，采用七座布局设计，分 Ultra+、Ultra、Max+ 和 Max 四个版本 ，全系标配 800V 高压平台、±12° 后轮转向和华为干昆智驾系统。",
       "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "46430ac17808"
+      "uid": "6c37a8c77a35"
     },
     {
-      "title": "上汽通用五菱 2026 年 10 月全球总销量超 14.27 万辆，海外年销破 32 万台 / 套",
-      "link": "https://www.ithome.com/1/020/686.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-11-01T03:11:22+00:00",
-      "summary": "IT之家 11 月 1 日消息， 上汽通用五菱刚刚宣布，10 月全球销量 142,757 辆 ，新能源销量 99,958 辆，新能源占比突破 70%， 1-10 月海外累计销量突破 320,000 台 / 套 。IT之家注意到，五菱红标 10 月销量 35,001 辆，五菱银标销量 60,835 辆，海外出口 38,911 台 / 套，华境 S 车型的销量突破至 7,507 辆。相关阅读： 《 2026 年 10 月汽车销量 / 交付汇总（持续更新） 》 延伸阅读 五菱红标与银标是上汽通用五菱旗下的两大产品序列。红标以国内市场为重心，强调实用性与经济性，车型涵盖宏光、荣光等商用车及家用车型；银标则着眼于全球化，主打乘用化与更高品质，代表车型包括佳辰、星辰、凯捷等。华境是上汽通用五菱旗下的家庭智能出行品牌，其车型由上汽通用五菱与华为干昆合作打造。",
-      "score": 50,
-      "original_title": "",
-      "translated": false,
-      "priority": 25,
-      "uid": "51c37a7b4466"
-    },
-    {
-      "title": "2026 年 10 月汽车销量 / 交付汇总（持续更新）：蔚来公司交付新车 34,246 台，全年累计交付新车 334,547 台创历史新高",
+      "title": "2026 年 10 月汽车销量 / 交付汇总（持续更新）：长安汽车 23.38 万辆",
       "link": "https://www.ithome.com/1/020/661.htm",
       "source": "IT之家·出行",
       "category": "健康生活",
       "published": "2026-11-01T01:20:23+00:00",
-      "summary": "IT之家 11 月 1 日消息，各大车企今日起陆续交出了 2026 年 10 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。上汽通用五菱 ：142,757 辆，同比下降 18.4%（备注：上汽通用五菱 10 月销量 142757 辆，海外年销破 32 万）。其中： 五菱银标：60,835 辆，同比下降 36.外海出口：38,911 辆。五菱红标：35,001 辆，同比下降 28.华境 S：7,507 辆，环比增长 1.零跑汽车 ：106,127 辆，同比增长 50.99%，环比增长 0.45%（备注：连续 4 个月月销超 10 万台，全球累计交付超 190 万台）。上汽 MG ：85,000 辆（备注：原文为“全球新能源销量突破 85000+”）。长安启源 ：63,648 辆，环比增长 22.",
+      "summary": "IT之家 11 月 1 日消息，各大车企今日起陆续交出了 2026 年 10 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。比亚迪 ：490,168 辆，同比增长 10.97%，环比增长 5.其中： 王朝 | 海洋：423,843 辆，同比增长 7.3%，环比增长 7.方程豹：43,872 辆，同比增长 41.29%，环比增长 1.腾势：15,152 辆，同比增长 49.5%，环比下降 16.仰望：258 辆，同比下降 60.55%，环比下降 33.上汽集团 ：430,018 辆，同比下降 5.28%，环比增长 5.其中： 上汽通用五菱：157,184 辆，同比下降 6.41%，环比增长 9.其中： 五菱银标：60,835 辆，同比下降 36.五菱红标：35,001 辆，同比下降 28.",
       "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "73873e3cbe92"
+      "uid": "a854080a160f"
     },
     {
-      "title": "中国科学院院士欧阳明高：未来十年，磷酸铁锂仍将继续主导国内动力和储能电池市场",
-      "link": "https://www.ithome.com/1/020/695.htm",
+      "title": "不占地方的桌面新选择，英特尔酷睿华硕无双 7X 台式机上手体验",
+      "link": "https://www.ithome.com/1/020/915.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-11-01T03:52:39+00:00",
-      "summary": "IT之家 11 月 1 日消息，第 33 届中国汽车工程学会年会暨展览会于 10 月 27-30 日在苏州国际博览中心举行。据腾讯汽车报道，中国科学院院士欧阳明高表示，预计到 2030 年，中国动力电池出货量将在 2025 年 1875GWh 的基础上接近翻倍。未来十年，磷酸铁锂电池仍将继续主导国内动力和储能电池市场 。欧阳明高认为，中国动力电池产业仍将保持增长，并继续引领全球。未来，行业需要同时推进两条技术路线： 一条是以磷酸铁锂为代表 ，追求低成本、高安全和长寿命；另一条是以三元电池为代表 ，向更高能量密度发展。IT之家注意到，在固态电池上，欧阳明高表示，当前一些被称为“半固态电池”的产品，本质上属于固液混合电池， 不能将其与全固态电池混为一谈 。固液混合技术的安全性提升效果取决于具体材料和工艺，不能简单认为采用固液混合技术就意味着电池更加安全。",
-      "score": 45,
+      "published": "2026-11-02T03:31:53+00:00",
+      "summary": "最近双 11 期间，可能有很多上班族想给自己换一台工作用的电脑。不过对于每天跟文字和表格打交道的打工人来说，想要找到一台合适自己的设备其实也并不容易。笔记本便携，但屏幕小，长时间伏案，脖子和眼睛都容易抗议；传统台式机用着踏实，可那个大家伙往桌下一放，小半个活动空间就没了，小户型书房更是塞都塞不下。其实不少人想要的，就是一台不占地方的主机，平时开着文档、算算表格，十几个网页轮着查资料，中午再刷刷网课和视频，都能稳稳当当跑下来，颜值最好还能跟家里的装修或者工位的风格搭得上。说到这，小编想起之前在 7 月份，华硕推出了无双 7X 台式机，瞄准的就是这批用户。于是小编搞来了这款无双 7X 台式机（V501MV），黑色仿木纹配色，上手几天之后，现在就和大家分享一下它的实际体验感受，看看它到底能不能满足小伙伴们既要省空间、又要高效办公生产的要求。",
+      "score": 40,
       "original_title": "",
       "translated": false,
-      "priority": 25,
-      "uid": "774fff475564"
+      "priority": 15,
+      "uid": "66a66969ccf0"
+    },
+    {
+      "title": "Claude Code for VS Code 官方扩展被入室后门",
+      "link": "https://www.solidot.org/story?sid=85756",
+      "source": "Solidot·通信",
+      "category": "通信与安防",
+      "published": "2026-10-30T13:43:51+00:00",
+      "summary": "安全研究人员在 Cursor Marketplace 的 Claude Code for VS Code 官方扩展中发现了后门，该恶意版本已经撤下，攻击者也关闭了其服务器。Cursor 已发布安全公告，但 Claude Code 开发商 Anthropic 尚未做出任何声明。受影响的版本是 Anthropic.claude-code 2.313，共上线了大约 11 小时，受影响用户估计有 5,000 名，该扩展会试图植入一个持久 SSH 后门。恶意扩展会：收集主机和用户信息：主机名、用户名、操作系统、架构、主目录路径、环境变量名称、工作目录、已配置的 Git 邮箱以及公网 IP。尝试将攻击者控制的 SSH 键添加到 authorized_keys，启用本地 SSH 服务，并建立反向 SSH 隧道。由于恶意代码存在 bug，除非 Cursor 是以管理员权限启动的 (这种情况极为罕见) ，否则这一步会失败。",
+      "score": 25,
+      "original_title": "Claude Code for VS Code 官方扩展被植入后门",
+      "translated": true,
+      "priority": 0,
+      "uid": "7f10151a4e4e"
     },
     {
       "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
@@ -135,56 +135,43 @@
       "uid": "29575ecdcf8b"
     },
     {
-      "title": "让 Agent 读懂你的身体：数据处理篇",
-      "link": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
-      "source": "少数派",
-      "category": "健康生活",
-      "published": "2026-10-29T03:29:46+00:00",
-      "summary": "在上一篇文章《让 Agent 读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent 怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的 SQLite、Markdown 或 JSON 文件。此时，大多数人大概就忍不住让 AI Agent 来帮忙分析一下文件了—— “Claude，这是我的健康运动数据，帮我做一下详细的分析。” 我自己起初也是这么做的。在简短的提问之后，Claude 就能生成一个精美的 HTML。上面有每个动作的训练趋势、恢复状态的图标以及按照日历排列的训练日历图等。信息排得很满，但研究一下就会发现，它除了好看，并没有什么用。这就是问题所在——AI Agent 擅长描述，而如果想让它分析实际问题并给出建议，比如下一次训练该加多少重量，则需要用户自己对需求的判断与适当引导。",
-      "score": 20,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "373fde4e7268"
-    },
-    {
-      "title": "雪佛龙将勘探支出提高50%",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Chevron-Raises-Exploration-Spending-By-50.html",
+      "title": "油价不再跟随头条",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-No-Longer-Follow-Headlines.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-31T23:00:00+00:00",
-      "summary": "在多年专注于美国墨西哥湾和二叠纪页岩盆地的勘探和生产增长后，美国石油和天然气超级巨头雪佛龙重新回到高影响力的前沿勘探领域，寻求通过全球多样化的机会来更新其投资组合。",
+      "published": "2026-11-02T00:00:00+00:00",
+      "summary": "一个月前，一系列新闻报道称，霍尔木兹的石油流量已恢复到战前水平，推动油价下跌。然而，这种下跌并未持续。基准油价连续第四个月上涨，而且无论多次重复海湾国家的石油出口量甚至超过了战前水平，也无法改变这一点。因为石油桶并不是全部情况。",
       "score": 15,
-      "original_title": "Chevron Raises Exploration Spending By 50%",
+      "original_title": "Oil Prices No Longer Follow Headlines",
       "translated": true,
       "priority": 0,
-      "uid": "1360b9283bfd"
+      "uid": "60774880d426"
     },
     {
-      "title": "寒鸦项目获批引发关于英国能源未来的激烈辩论",
-      "link": "https://oilprice.com/Energy/Energy-General/Jackdaw-Approval-Sparks-Fierce-Debate-Over-Britains-Energy-Future.html",
+      "title": "尽管承诺使用清洁能源，大型人工智能数据中心仍引发争议",
+      "link": "https://oilprice.com/Energy/Energy-General/Massive-AI-Data-Center-Sparks-Backlash-Despite-Clean-Energy-Promises.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-31T19:00:00+00:00",
-      "summary": "继多年的法律斗争和政治不确定性之后，英国于10月21日批准了杰克道北海天然气田的开发。杰克道是北海的一个大型近海天然气田，自2025年以来由Adura拥有，Adura是壳牌与Equinor的合资企业，位于苏格兰阿伯丁以东约240公里。该油田已获得英方批准。",
+      "published": "2026-11-01T20:00:00+00:00",
+      "summary": "随着越来越多的政府对科技公司施加压力，要求它们开发更可持续的数据中心，以确保它们不会对电网造成进一步的负担，几家科技公司正在投资开发新的能源能力，并将其他创新理念融入其设施开发中。这促使谷歌建议开发其新的 U。",
       "score": 15,
-      "original_title": "Jackdaw Approval Sparks Fierce Debate Over Britain's Energy Future",
+      "original_title": "Massive AI Data Center Sparks Backlash Despite Clean Energy Promises",
       "translated": true,
       "priority": 0,
-      "uid": "a4c7665ce0f5"
+      "uid": "81351ec65ad1"
     },
     {
-      "title": "DARPA支持项目以测量人工智能在工作流程每个阶段的能耗",
-      "link": "https://oilprice.com/Energy/Energy-General/DARPA-Backs-Project-to-Measure-AI-Energy-Use-at-Every-Stage-of-the-Workflow.html",
+      "title": "美国实验室寻求新材料以缩小中国在核能领域的领先优势",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Labs-Look-to-New-Materials-to-Close-Chinas-Nuclear-Lead.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-10-31T17:00:00+00:00",
-      "summary": "人工智能的繁荣正在制造一个能源怪物。将机器学习不加区分地整合到从我们的能源电网到电动牙刷的一切中——真的——已经引发了一场全球竞赛，以尽可能快地建设数据中心容量，导致能源需求预测飙升，并给世界的能源电网带来了前所未有的压力。",
+      "published": "2026-11-01T18:00:00+00:00",
+      "summary": "美国正竞相重新确立自己在全球核能领域的领先地位。虽然该国仍然保持着世界最大核能生产国的地位，但可能无法长期保持这一荣誉。多年来，中国在核能研发方面的投入远远超过了美国。",
       "score": 15,
-      "original_title": "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
+      "original_title": "U.S. Labs Look to New Materials to Close China's Nuclear Lead",
       "translated": true,
       "priority": 0,
-      "uid": "da9ad1247deb"
+      "uid": "191063579fa3"
     },
     {
       "title": "星巴克的销售未达预期，但其美国业务的扭转正在加速",
@@ -192,7 +179,7 @@
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-10-30T13:29:50+00:00",
-      "summary": "星巴克周四发布了喜忧参半的季度业绩，其国际咖啡馆的表现不及预期。然而，其美国市场的复苏势头仍在延续，在这家咖啡巨头2026财年最后一个季度，美国本土市场业绩超出预期。首席执行官布莱恩·尼科尔在一段视频中表示：“我们以势头、明确的优先事项以及对星巴克未来成长的更高期望进入2027财年。”",
+      "summary": "星巴克周四发布了喜忧参半的季度业绩，其国际咖啡馆的表现不及预期。然而，其美国市场的复苏势头仍在延续，在咖啡巨头2026财年最后一个季度，其本土市场超出预期。首席执行官布莱恩·尼科尔在一段视频中表示：“我们以势头、明确的优先事项以及对星巴克未来发展的更高雄心进入2027财年。”",
       "score": 15,
       "original_title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
       "translated": true,
@@ -200,30 +187,17 @@
       "uid": "0ec1d73f4882"
     },
     {
-      "title": "挪威航空股价因盈利超预期和上调指引上涨13%",
-      "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-10-29T20:14:15+00:00",
-      "summary": "挪威邮轮控股公司周四股价飙升13%，此前该公司公布了好于预期的第三季度收益，并上调了全年展望。根据LSEG分析师的估计，这家邮轮公司报告的第三季度收入为29.5亿美元，高于华尔街预期的28.8亿美元。该季度净收入为4.91亿美元，或每股收益1美元。",
+      "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+      "link": "https://sspai.com/post/116435",
+      "source": "少数派",
+      "category": "健康生活",
+      "published": "2026-10-30T03:13:40+00:00",
+      "summary": "Matrix 首页推荐 Matrix 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点，少数派仅对标题和排版略作修改。对近半年的回顾 从今年3月25日以来，截至10月21日，不知不觉已经实践柳比歇夫时间管理法（简称为“柳比歇夫法”）176天，完整记录了4224小时的所有行为，精确到5分钟。3月31日我在少数派发布了《柳比歇夫时间管理法的基本设定》一文，介绍了我对柳比歇夫法的设置的一些决定；4月15日我发布了《时间管理：我实践柳比歇夫法的一周》，介绍我实践柳比歇夫法的一周，反响颇好，感谢少数派将其收为精选文章，并得到了1.8万的阅读量，但当时只公开了一周的实践，且对于方法的各中精微尚未完全把握。",
       "score": 15,
-      "original_title": "Norwegian shares surge 13% on earnings beat, guidance raise",
-      "translated": true,
+      "original_title": "",
+      "translated": false,
       "priority": 0,
-      "uid": "c37aeb7e6c85"
-    },
-    {
-      "title": "邮轮公司旨在降低燃料成本。他们实现这一目标的策略各不相同",
-      "link": "https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-10-29T19:36:04+00:00",
-      "summary": "尽管燃油价格上涨，嘉年华邮轮、皇家加勒比邮轮和挪威邮轮控股公司在最近几个季度的收益仍然强劲。领先的邮轮公司如何应对燃油成本归结为截然不同的策略。自从2月美以与伊朗战争爆发以来，油价飙升。布伦特原油上周五达到六个月来的高点，收于116美元。",
-      "score": 15,
-      "original_title": "Cruise companies aim to keep fuel costs down. Their strategies for doing so differ",
-      "translated": true,
-      "priority": 0,
-      "uid": "aa43711f578b"
+      "uid": "8753d0737231"
     },
     {
       "title": "我们最新的人工智能探索：绘制人类大脑",
@@ -231,7 +205,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-10-26T16:00:00+00:00",
-      "summary": "我们最新的人工智能任务：绘制人类大脑 今天，我们推出了“极地高峰”，这是人工智能任务系列中的第三个任务，由谷歌研究和斯坦福学习加速器共同创建，旨在教授学生人工智能的工作原理以及如何负责任地使用它。人工智能任务邀请11至14岁的学生以谷歌研究员的身份，挑战人类的一些最大挑战。",
+      "summary": "我们最新的人工智能任务：绘制人类大脑 今天，我们推出了“极地峰”，这是AI任务系列中的第三个任务，由谷歌研究院和斯坦福学习加速器创建，旨在教学生人工智能的工作原理以及如何负责任地使用它。AI任务邀请11至14岁的学生以谷歌研究员的身份，去应对人类的一些最大挑战。",
       "score": 15,
       "original_title": "Our newest AI Quest: Mapping the human brain",
       "translated": true,
@@ -243,31 +217,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3599.0166,
-        "change": -52.4171,
-        "pct": -1.44,
-        "amount_yi": 7642.27
+        "price": 3621.9815,
+        "change": 22.9649,
+        "pct": 0.64,
+        "amount_yi": 6148.95
       },
       {
         "name": "深证成指",
-        "price": 10833.78,
-        "change": -304.414,
-        "pct": -2.73,
-        "amount_yi": 9102.36
+        "price": 10972.32,
+        "change": 138.538,
+        "pct": 1.28,
+        "amount_yi": 6796.8
       },
       {
         "name": "创业板指",
-        "price": 2413.63,
-        "change": -103.959,
-        "pct": -4.13,
-        "amount_yi": 1847.13
+        "price": 2454.41,
+        "change": 40.783,
+        "pct": 1.69,
+        "amount_yi": 1414.86
       },
       {
         "name": "沪深300",
-        "price": 3985.501,
-        "change": -56.3366,
-        "pct": -1.39,
-        "amount_yi": 4568.56
+        "price": 4010.9516,
+        "change": 25.4506,
+        "pct": 0.64,
+        "amount_yi": 3804.71
       }
     ],
     "holdings": [
@@ -276,11 +250,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 51.99,
-        "market_value": 5199.0,
-        "pnl": 2026.36,
-        "pnl_pct": 63.87,
-        "weight_hint": "45.8%",
+        "price": 51.14,
+        "market_value": 5114.0,
+        "pnl": 1941.36,
+        "pnl_pct": 61.19,
+        "weight_hint": "45.4%",
         "note": "",
         "available": true
       },
@@ -289,11 +263,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 29.74,
-        "market_value": 2974.0,
-        "pnl": 277.59,
-        "pnl_pct": 10.29,
-        "weight_hint": "26.2%",
+        "price": 29.64,
+        "market_value": 2964.0,
+        "pnl": 267.59,
+        "pnl_pct": 9.92,
+        "weight_hint": "26.3%",
         "note": "",
         "available": true
       },
@@ -302,11 +276,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.75,
-        "market_value": 2625.0,
-        "pnl": 747.48,
-        "pnl_pct": 39.81,
-        "weight_hint": "23.1%",
+        "price": 8.73,
+        "market_value": 2619.0,
+        "pnl": 741.48,
+        "pnl_pct": 39.49,
+        "weight_hint": "23.3%",
         "note": "",
         "available": true
       },
@@ -315,10 +289,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.783,
-        "market_value": 156.6,
-        "pnl": -161.4,
-        "pnl_pct": -50.75,
+        "price": 0.79,
+        "market_value": 158.0,
+        "pnl": -160.0,
+        "pnl_pct": -50.31,
         "weight_hint": "1.4%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -328,10 +302,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.065,
-        "market_value": 406.5,
-        "pnl": -90.5,
-        "pnl_pct": -18.21,
+        "price": 4.087,
+        "market_value": 408.7,
+        "pnl": -88.3,
+        "pnl_pct": -17.77,
         "weight_hint": "3.6%",
         "note": "",
         "available": true
@@ -352,122 +326,122 @@
     ],
     "sectors": [
       {
-        "name": "金融/银行 · 股份制银行Ⅲ",
-        "pct": 0.83,
+        "name": "金融/银行 · 非银金融",
+        "pct": 3.3,
         "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 1.27,
+        "main_flow_yi": 29.85,
         "source": "东财行业"
       },
       {
-        "name": "金融/银行 · 银行",
-        "pct": 0.77,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -1.04,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭开采",
-        "pct": -0.31,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": -0.83,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭",
-        "pct": -0.79,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": -1.29,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 蓄电池及其他电池",
-        "pct": -0.94,
+        "name": "新能源/光伏 · 光伏主材",
+        "pct": 3.22,
         "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.37,
+        "main_flow_yi": 1.53,
         "source": "东财行业"
       },
       {
-        "name": "石油 · 石油石化",
-        "pct": -1.06,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": 5.51,
+        "name": "半导体/电子 · 电子信息",
+        "pct": 3.2191434067974,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "金融/银行 · 金融控股",
+        "pct": 2.95,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": 0.67,
         "source": "东财行业"
       },
       {
-        "name": "电力/公用 · 供水供气",
-        "pct": -1.7207529737845,
+        "name": "新能源/光伏 · 光伏设备",
+        "pct": 2.14,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 5.97,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 综合电力设备商",
+        "pct": 2.1,
+        "why": "对应长江电力，关注来水与股息稳定性",
+        "main_flow_yi": 0.1,
+        "source": "东财行业"
+      },
+      {
+        "name": "半导体/电子 · 半导体材料",
+        "pct": 2.08,
+        "why": "对应半导体ETF，关注景气与政策",
+        "main_flow_yi": 5.52,
+        "source": "东财行业"
+      },
+      {
+        "name": "电力/公用 · 电力行业",
+        "pct": 0.34877817266727,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": -2.0080591000672,
+        "pct": -0.49345486944007,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子信息",
-        "pct": -5.5477807920483,
-        "why": "对应半导体ETF，关注景气与政策",
+        "name": "煤炭 · 煤炭行业",
+        "pct": -1.0912157135063,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
     "policy_news": [],
-    "industry_news": [
-      {
-        "title": "韩股失守6000点 券商建议坚守芯片股逐步加仓",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixferx3086142.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "韩国10月出口同比增长93.7% 芯片出口暴涨259%",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixetzz6797762.shtml",
-        "level": "中",
-        "tag": "行业"
-      }
-    ],
+    "industry_news": [],
     "market_news": [
       {
-        "title": "3天2板后，002636紧急公告：未与英伟达、华为有过接触",
-        "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixeyiz3181000.shtml",
+        "title": "增量资金来了？金融科技指数率先冲高逾8%！互联网金融爆发涨停潮，159851热度飙升，银之杰20CM封板！",
+        "link": "https://finance.sina.com.cn/money/fund/etf/2026-11-02/doc-inixiira7303131.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "603008，A股公司大举增持，进入前十大股东！",
-        "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixetzy0993637.shtml",
+        "title": "9只热门宽基ETF总成交额近500亿元",
+        "link": "https://finance.sina.com.cn/money/fund/etf/2026-11-02/doc-inixiiqz0526451.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "高盛大砍韩国股市预期25%，缘何？",
-        "link": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixeyix6707220.shtml",
+        "title": "景旺电子于10月30日斥资约5028.16万元回购75万股A股",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-02/doc-inixiira7286863.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "白酒板块底部信号已现？皇台酒业、水井坊、金种子酒多股涨停，贵州茅台涨超3%，三季度多家酒企净利大增",
+        "link": "https://finance.sina.com.cn/jjxw/2026-11-02/doc-inixiira7277859.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 11361.1,
-    "total_pnl": 2799.53,
-    "total_amount_yi": 16744.63,
-    "bias": "偏空",
-    "volume_note": "量能：两市合计约 16745 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 股份制银行Ⅲ、银行；偏弱 煤炭开采、煤炭、蓄电池及其他电池",
-    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
+    "total_market_value": 11263.7,
+    "total_pnl": 2702.13,
+    "total_amount_yi": 12945.75,
+    "bias": "偏多",
+    "volume_note": "量能：两市合计约 12946 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 非银金融、光伏主材、电子信息；偏弱 石油行业、煤炭行业",
+    "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
   "learning": {
-    "title": "PE（市盈率）",
-    "body": "PE = 股价 ÷ 每股收益，粗看股票贵不贵。银行/能源股常见区间更低；神华这类更常结合股息率一起看，别只看PE。",
+    "title": "PB（市净率）",
+    "body": "PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "A股开盘",
-    "text": "今儿聊【A股开盘】。早盘像相亲：看着挺热闹，真心没几个。神华长江电力坐那儿跟老干部似的，不吵不闹，偶尔点个头；主题炒作跟广场舞大妈似的，音箱一响全场跟。社会经验：能吃息的先吃息，能睡觉的别盯盘——盯盘不涨，只涨血压。"
+    "topic": "视频监控方案",
+    "text": "今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
