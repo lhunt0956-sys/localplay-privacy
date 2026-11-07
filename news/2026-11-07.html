@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年11月07日 13:30 · 共 17 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 偏空；量能：两市合计约 16578 亿元（接口口径），成交偏活跃；行业分化：偏强 光伏电池组件、国有大型银行Ⅲ、银行；偏弱 煤炭开采、煤炭行业、石油行业</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3649.18 <span style='color:#b42318'>-1.10%</span> · 约7726亿</li><li><strong>深证成指</strong> 11175.78 <span style='color:#b42318'>-2.57%</span> · 约8852亿</li><li><strong>创业板指</strong> 2465.23 <span style='color:#b42318'>-3.96%</span> · 约1951亿</li><li><strong>沪深300</strong> 4054.28 <span style='color:#b42318'>-1.44%</span> · 约4788亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>新能源/光伏 · 光伏电池组件</strong> <span style='color:#0e7c66'>+1.46%</span> · 净流入约-2.08亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>金融/银行 · 国有大型银行Ⅲ</strong> <span style='color:#0e7c66'>+1.04%</span> · 净流入约5.09亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>金融/银行 · 银行</strong> <span style='color:#0e7c66'>+0.99%</span> · 净流入约8.53亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>电力/公用 · 电力行业</strong> <span style='color:#0e7c66'>+0.94%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>新能源/光伏 · 光伏辅材</strong> <span style='color:#0e7c66'>+0.86%</span> · 净流入约0.87亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>电力/公用 · 电力</strong> <span style='color:#0e7c66'>+0.76%</span> · 净流入约9.40亿<div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>煤炭 · 煤炭开采</strong> <span style='color:#b42318'>-0.56%</span> · 净流入约1.32亿<div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#b42318'>-0.91%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#b42318'>-1.53%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>半导体/电子 · 电子信息</strong> <span style='color:#b42318'>-3.10%</span><div class='meta'>对应半导体ETF，关注景气与政策</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 48.540 · 盈亏 <span style='color:#0e7c66'>+1681.36（+53.00%）</span> · 仓位约 44.3%</li><li><strong>长江电力</strong>（600900） 现价 29.910 · 盈亏 <span style='color:#0e7c66'>+294.59（+10.93%）</span> · 仓位约 27.3%</li><li><strong>工商银行</strong>（601398） 现价 8.440 · 盈亏 <span style='color:#0e7c66'>+654.48（+34.86%）</span> · 仓位约 23.1%</li><li><strong>半导体ETF</strong>（159995） 现价 0.832 · 盈亏 <span style='color:#b42318'>-151.60（-47.67%）</span> · 仓位约 1.5%</li><li><strong>300ETF</strong>（510300） 现价 4.124 · 盈亏 <span style='color:#b42318'>-84.60（-17.02%）</span> · 仓位约 3.8%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 10955.80 元，浮动盈亏约 +2394.23 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>【高】<a href='https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwthh5069285.shtml' target='_blank' rel='noopener'>ST龙大：实控人戴学斌因涉嫌操纵证券市场被证监会立案，此前已被刑事拘留</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwtfy8147526.shtml' target='_blank' rel='noopener'>“蓝潮”如何重塑美国能源政策：扭转特朗普政策 淡化气候叙事 新能源与LNG并行</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwhsh4917145.shtml' target='_blank' rel='noopener'>墨西哥批准六项光伏项目 将新增近650MW装机</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakq5276245.shtml' target='_blank' rel='noopener'>巴拉圭参议院因银行丑闻罢免总统</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwtfy8151535.shtml' target='_blank' rel='noopener'>美股科技股经历“过山车”，但斌：AI时代落幕概率极小，回笼资金继续加仓</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwthh5059115.shtml' target='_blank' rel='noopener'>章建平重仓股，公告大单+控股股东不减持</a></li><li>【中】<a href='https://finance.sina.com.cn/roll/2026-11-07/doc-inixwtfy8124087.shtml' target='_blank' rel='noopener'>10月A股回购图谱：多家行业龙头领衔实施大额回购，仅三成多的公司10月股价表现跑赢大盘</a></li></ul><p class='sum'>新手提醒：板块轮动是常态，不要追高换仓</p></section>
+    
+    <section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html" target="_blank" rel="noopener">马斯克表示，特斯拉明年将在德克萨斯州逐步减少Cybertruck的生产，以加快Cybercab的生产</a><div class="meta">CNBC · 11-06 23:06</div><p class="sum">特斯拉首席执行官埃隆·马斯克周五表示，这家电动汽车制造商将在明年年中左右“逐步停止”其德克萨斯州超级工厂的Cybertruck生产。马斯克在周五清晨在X上发布的一条帖子中称，他曾称Cybertruck为皮卡车领域的未来，他表示，这个大型工厂的生产结束将为制造Cybercab机器人出租车腾出空间。</p></li><li><a href="https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html" target="_blank" rel="noopener">Moderna上调2026年展望，CEO称新疫苗正在获得关注</a><div class="meta">CNBC · 11-06 20:43</div><p class="sum">Moderna 周五公布的第三季度收入和盈利远超预期，并提高了全年销售增长的前景，因为其一些新产品 gaining 动力且新冠疫苗收入表现优于预期。周五盘前交易中，Moderna 股价上涨约 3%。这家生物科技公司现在预计 2026 年的收入增长为 15% 至 25%，高于此前最高 10% 的预测。</p></li><li><a href="https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html" target="_blank" rel="noopener">随着运输成本飙升，小型零售商为这个假日季节的“巨大打击”作准备</a><div class="meta">CNBC · 11-06 20:00</div><p class="sum">当珍妮·希尔兹八年前开始她的手工发饰小生意时，她支付了2.93美元运送一份订单，按通胀调整后相当于今天的近4美元。希尔兹说，去年她的产品平均运费标签大约是4美元。但当她上个月带着一批典型订单去堪萨斯州堪萨斯城的本地邮局时，她惊讶地看到…</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Energy/Natural-Gas/Wall-Streets-Energy-Transition-Funds-Are-Packed-With-Natural-Gas.html" target="_blank" rel="noopener">华尔街的“能源转型”基金充斥着天然气</a><div class="meta">OilPrice · 11-07 07:00</div><p class="sum">随着我们进入联合国第31届年度旗舰气候大会（COP31），该会议将于下周在土耳其安塔利亚举行，绿色洗牌在私营部门中呈现出一个大而日益严重的问题。</p></li><li><a href="https://oilprice.com/Energy/Energy-General/Energy-Reliability-Is-Becoming-More-Important-Than-Energy-Politics.html" target="_blank" rel="noopener">能源可靠性正变得比能源政治更重要</a><div class="meta">OilPrice · 11-07 03:00</div><p class="sum">在过去的十年中，能源辩论通常将化石燃料与清洁能源对立起来。各国政府宣布了逐步淘汰某些技术的日期，投资者试图预测哪些行业将失宠，能源政策也越来越与政治身份纠缠在一起。与伊朗的战争揭示了以这种方式处理能源政策的局限性。</p></li><li><a href="https://oilprice.com/Alternative-Energy/Nuclear-Power/Americas-Nuclear-Revival-Is-Running-Into-a-Fuel-Supply-Wall.html" target="_blank" rel="noopener">美国的核能复兴正遇到燃料供应瓶颈</a><div class="meta">OilPrice · 11-07 05:00</div><p class="sum">美国拥有世界上最大的核电生产能力，但几十年来资金和政策支持不足正对这一老龄化行业构成生存威胁。在过去十年中，美国仅新增了一座核电厂，而许多核电厂正接近退役之时，而这正值社会越来越需要清洁、全天候的能源供应。</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.solidot.org/story?sid=85814" target="_blank" rel="noopener">摩托罗拉宣布第一款支持 GrapheneOS 的旗舰手机</a><div class="meta">Solidot·通信 · 11-06 14:01</div><p class="sum">摩托罗拉宣布了第一款支持安全加固发行版 GrapheneOS 的旗舰手机 Signature 27，但售价高达 1600 美元。Signature 27 配备了高通目前最强大的移动芯片骁龙 8 Elite Extreme Gen 6，内存只有 12GB 没有 16GB 版本（目前内存供应紧张而且价格昂贵），存储空间为 512G​​B (UFS 4.1）；显示屏为 6.8英寸 Extreme AMOLED Duo，120Hz刷新率，12,000 尼特峰值亮度；电池 7000 mAh，90W 有线充电，15W (Qi) 无线充电，等等。</p></li><li><a href="https://www.solidot.org/story?sid=85809" target="_blank" rel="noopener">印度金融机构遭黑客利用 AI 工具发动的网络攻击</a><div class="meta">Solidot·通信 · 11-06 00:53</div><p class="sum">印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密货币交易所。攻击者利用公开可用的 AI 工具，实现高速自动化入侵。印度计算机应急响应小组形容这项威胁“仍在发生，且持续活跃”。该机构点名四款用于入侵的工具，分别是 ARTEX、PentAGI、Cairn 和 CyberStrikeAI。ARTEX 此前曾被用于攻击韩国银行。印度计算机应急响应小组没有说明这些攻击事件由谁发动，也未透露该组织的运作地点。该机构也没有称这些攻击由国家支持或主导，且其点名的攻击工具均可在网络上免费获取。</p></li><li><a href="https://www.ithome.com/1/023/674.htm" target="_blank" rel="noopener">OpenAI 窃听案进入抗辩阶段：被告拒不认罪，若定罪最高监禁五年</a><div class="meta">IT之家·通信安防 · 11-07 13:22</div><p class="sum">北京时间 11 月 7 日，据《华尔街日报》报道，沙特公民阿卜杜勒拉赫曼 · 阿尔福赞 (Abdulrahman Alfozan) 被指控在 OpenAI 一间限制进入的会议室内安装窃听设备。当地时间周五，他在旧金山联邦法院出庭，对相关指控表示不认罪。周五，阿尔福赞参加了美国联邦治安法官的提审听证会。他的律师戴维 ·W· 里兹 (David W.Rizk) 表示，其当事人对检方提出的唯一一项指控拒不认罪。该罪名为截取口头通信内容，最高可判处 5 年监禁，并处以 25 万美元罚款。阿尔福赞目前被联邦执法部门羁押，下一次出庭时间将是 11 月 17 日。阿尔福赞被指控在今年 9 月 28 日前后，将一块拇指大小的电路板和麦克风用卫生纸包裹，藏入 OpenAI 办公室一间高管会议室壁挂电视的后方。当时，他即将离开美国。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://www.anthropic.com/news/announcements" target="_blank" rel="noopener">Anthropic / Claude：公告</a><div class="meta">Anthropic / Claude · 11-07 13:30</div><p class="sum">公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了在天文观测宇宙学和精密测量领域数十年的科学专长。</p></li><li><a href="https://openai.com/index/partnering-with-hacktron" target="_blank" rel="noopener">与Hacktron合作查找OpenAI系统中的漏洞</a><div class="meta">OpenAI / ChatGPT · 11-06 16:00</div><p class="sum">OpenAI 正与 Hacktron 合作，以寻找漏洞、测试与第三方服务的连接，并通过前沿 AI 加强防御。</p></li><li><a href="https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/" target="_blank" rel="noopener">利用人工智能加快规划决策</a><div class="meta">Google DeepMind · 10-30 22:18</div><p class="sum">使用 AI PlanAssist 加快规划决策已显示其可以将规划人员评估住宅申请所花费的时间减少多达 58%。PlanAssist 是一种 AI 规划工具，可以处理常规申请的繁重工作，从而使工作人员能够将专业知识集中在最重要的地方——它将向英格兰另外 12 个地方规划局提供。</p></li><li><a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank" rel="noopener">Anthropic / Claude：投资于公共利益</a><div class="meta">Anthropic / Claude · 11-07 13:30</div><p class="sum">今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。</p></li><li><a href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science" target="_blank" rel="noopener">衡量人工智能代理处理日常湿实验科学的能力</a><div class="meta">OpenAI / ChatGPT · 11-06 08:00</div><p class="sum">OpenAI 推出 BioBasicsBench，这是一个包含 100 项任务的基准，用于衡量 AI 代理解读原始实验数据和处理日常湿实验室科学的能力。</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/" target="_blank" rel="noopener">Gemini Omni 1.2 闪光灯：速度快且经济实惠，适合更长的片段</a><div class="meta">Google AI Blog · 11-06 01:00</div><p class="sum">双子座 Omni 1.2 闪电版：快速且具有成本效益，同时支持更长的视频片段
+
+今天，我们推出了双子座 Omni 1.2 闪电版，并在双子座 API 和双子座商业服务中全面开放。双子座 Omni 1.2 闪电版引入了原生 15 秒视频创作、多轮对话编辑功能，以及增强的参考跟随能力。我们将价格从双子座 Omni 1 降低了 30%。</p></li><li><a href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/" target="_blank" rel="noopener">我们在2026年10月宣布的最新人工智能新闻</a><div class="meta">Google AI Blog · 11-03 01:45</div><p class="sum">我们在2026年10月公布的最新人工智能新闻：二十多年来，我们一直在投资机器学习和人工智能的研究、工具以及基础设施，以构建让更多人日常生活更美好的产品。谷歌各团队正在探索在医疗、危机应对和教育等广泛领域释放人工智能的潜力。为了让您了解我们的进展，我们会定期进行总结...</p></li></ul></section><section class="cat"><h2>健康生活</h2><ul><li><a href="https://www.ithome.com/1/023/665.htm" target="_blank" rel="noopener">男子利用 AI 眼镜、智能戒指驾考作弊被成都交管查获：罚款 1900 元 + 禁考一年</a><div class="meta">IT之家·出行 · 11-07 11:49</div><p class="sum">IT之家 11 月 7 日消息，据成都交警，近日，成都公安交管部门查处一起机动车驾驶人考试舞弊案。10 月 16 日上午，成都公安交管十分局摩托车考场驻场民警在开展机动车驾驶员理论考试巡查过程中，发现一男子 神色紧张， 答题状态异常， 行为举止不自然， 当即对其开展核查。男子佩戴的眼镜暗藏玄机，手上还配有一枚智能戒指，长按可触发扫描，答案就显示在眼镜上。面对询问，该男子 承认自己利用 高科技设备作弊的违法行为。经了解，该男子早年申领汽车驾驶证时，理论科目历经四次考试才勉强通过。此次申请增驾摩托车驾驶证， 因担心再次考试失利， 心生焦虑便动起歪念， 在网络渠道购买 AI 眼镜、智能戒指等电子作弊设备，妄图借助所谓的“高科技”通过考试。IT之家从公告获悉，调查过程中该男子自行用手机刷题自测正确率超 85%，但民警随机抽题，让其使用设备演示， 结果这款高价购买的作弊设备 准确率极低。</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>板块轮动</strong>：资金常在行业间切换，不是“好公司永远天天涨”。追昨天上涨板块，容易买在情绪高点；先看逻辑，再看价格。</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【标书加班】。标书这东西，白天像散文，夜里像刑法。格式错一个空格，废一宿；价格错一个零，废一年。社会经验：投标不是写作文，是把自己活成附件——附件越全，人越空。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>

@@ -1,29 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-11-06T13:58:23.751253+08:00",
+  "generated_at": "2026-11-07T13:30:02.632283+08:00",
   "timezone": "Asia/Shanghai",
   "count": 17,
   "items": [
     {
-      "title": "Merge利用OpenAI技术构建产品和业务工具。",
-      "link": "https://openai.com/index/merge-builds-with-openai",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-11-05T08:00:00+00:00",
-      "summary": "Merge 使用 GPT-6 Astra、ChatGPT 和 Codex 来审查产品代码并支持营销。 其团队还使用人工智能来规划高管晚宴并准备销售更新。",
-      "score": 65,
-      "original_title": "Merge builds product and business tools with OpenAI technology",
-      "translated": true,
-      "priority": 0,
-      "uid": "92fee9cf789c"
-    },
-    {
-      "title": "Anthropic/Claude：公告",
+      "title": "Anthropic / Claude：公告",
       "link": "https://www.anthropic.com/news/announcements",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-06T05:58:44+00:00",
-      "summary": "公告 - 2026 年 10 月 21 日，物理学家 Christopher Stubbs 加入 Anthropic 的长期利益信托基金 实验物理学家、哈佛大学前科学院长 Christopher Stubbs 博士已加入 Anthropic 的长期利益信托基金。 他为信托基金带来了数十年在观测宇宙学和精密测量方面的科学专业知识。",
+      "published": "2026-11-07T05:30:16+00:00",
+      "summary": "公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了在天文观测宇宙学和精密测量领域数十年的科学专长。",
       "score": 60,
       "original_title": "Anthropic / Claude：Announcements",
       "translated": true,
@@ -31,12 +18,25 @@
       "uid": "1c262b0ddbb0"
     },
     {
+      "title": "与Hacktron合作查找OpenAI系统中的漏洞",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-11-06T08:00:00+00:00",
+      "summary": "OpenAI 正与 Hacktron 合作，以寻找漏洞、测试与第三方服务的连接，并通过前沿 AI 加强防御。",
+      "score": 60,
+      "original_title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "translated": true,
+      "priority": 0,
+      "uid": "22b3381dd015"
+    },
+    {
       "title": "利用人工智能加快规划决策",
       "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-10-30T14:18:30+00:00",
-      "summary": "利用 AI PlanAssist 加快规划决策已表明，它可以将规划官员评估住户申请的时间缩短多达 58%。 PlanAssist 是一种人工智能规划工具，可以处理日常应用程序的繁重工作，以便官员可以将他们的专业知识集中在最重要的事情上，该工具将提供给英格兰另外 12 个地方规划机构。",
+      "summary": "使用 AI PlanAssist 加快规划决策已显示其可以将规划人员评估住宅申请所花费的时间减少多达 58%。PlanAssist 是一种 AI 规划工具，可以处理常规申请的繁重工作，从而使工作人员能够将专业知识集中在最重要的地方——它将向英格兰另外 12 个地方规划局提供。",
       "score": 50,
       "original_title": "Speeding up planning decisions with AI",
       "translated": true,
@@ -44,25 +44,12 @@
       "uid": "93a382104599"
     },
     {
-      "title": "工信部等六部门：加快推进具身智能、大语言模型、脑机接口、外骨骼等在养老领域应用，鼓励电商平台设立银发消费板块",
-      "link": "https://www.ithome.com/1/023/230.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-11-06T05:38:55+00:00",
-      "summary": "IT之家 11 月 6 日消息，民政部、国家发展改革委、工业和信息化部、商务部、市场监管总局、全国老龄办日前印发《 关于培育多元场景 促进适老用品产品消费的若干措施 》（下称《措施》）。《措施》提到，结合居家养老服务， 推动适老化改造、健康管理、智能安防等用品产品进家入户 。有条件的社区养老服务中心、日间照料中心等社区养老服务设施可开设适老用品产品体验、租售网点，结合社区养老服务场景推动适老用品产品应用普及。鼓励养老服务机构发挥老年客群集聚优势，开展适老用品产品试用、展示、租售，推动适老用品产品规模化使用。引导有条件的老年教育机构、老年助餐点等为老服务设施嵌入式设置适老用品产品消费场景，拓展提供展示租售业务，实现资源共享、服务协同，满足老年人就近就便消费需求。引导各地因地制宜整合利用现有设施培育一批综合为老服务中心（乐龄中心）， 设置适老用品产品消费专区，推动适老用品产品消费和老年人文体娱乐、教育培训等服务融合发展 。",
-      "score": 105,
-      "original_title": "",
-      "translated": false,
-      "priority": 85,
-      "uid": "8bf1109ea2ae"
-    },
-    {
-      "title": "Anthropic / 克劳德：投资公益",
+      "title": "Anthropic / Claude：投资于公共利益",
       "link": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-06T05:58:44+00:00",
-      "summary": "今天，我们将 Anthropic 的部分股份捐赠给 Anthropic 公共福利基金，这是一个新的全资实体，其结构会随着公司的发展而增加股份。 经股东批准，今天将承诺认购 5% 的 Anthropic 股份，公司价值每增加 50%，董事会可酌情增持 2%。",
+      "published": "2026-11-07T05:30:16+00:00",
+      "summary": "今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。",
       "score": 60,
       "original_title": "Anthropic / Claude：Investing in the public benefit",
       "translated": true,
@@ -70,17 +57,30 @@
       "uid": "c34aebdbb449"
     },
     {
-      "title": "澳大利亚大学正在培养人工智能本土毕业生",
-      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "title": "衡量人工智能代理处理日常湿实验科学的能力",
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-11-05T17:00:00+00:00",
-      "summary": "澳大利亚大学正在扩大 ChatGPT 的使用范围，并将人工智能引入教学和学习，为学生成为人工智能劳动力做好准备。",
+      "published": "2026-11-06T00:00:00+00:00",
+      "summary": "OpenAI 推出 BioBasicsBench，这是一个包含 100 项任务的基准，用于衡量 AI 代理解读原始实验数据和处理日常湿实验室科学的能力。",
       "score": 60,
-      "original_title": "Australian universities are creating AI-native graduates",
+      "original_title": "Measuring how AI agents handle everyday wet-lab science",
       "translated": true,
       "priority": 0,
-      "uid": "b6757d715f13"
+      "uid": "59ebd9933c5a"
+    },
+    {
+      "title": "摩托罗拉宣布第一款支持 GrapheneOS 的旗舰手机",
+      "link": "https://www.solidot.org/story?sid=85814",
+      "source": "Solidot·通信",
+      "category": "通信与安防",
+      "published": "2026-11-06T06:01:57+00:00",
+      "summary": "摩托罗拉宣布了第一款支持安全加固发行版 GrapheneOS 的旗舰手机 Signature 27，但售价高达 1600 美元。Signature 27 配备了高通目前最强大的移动芯片骁龙 8 Elite Extreme Gen 6，内存只有 12GB 没有 16GB 版本（目前内存供应紧张而且价格昂贵），存储空间为 512G​​B (UFS 4.1）；显示屏为 6.8英寸 Extreme AMOLED Duo，120Hz刷新率，12,000 尼特峰值亮度；电池 7000 mAh，90W 有线充电，15W (Qi) 无线充电，等等。",
+      "score": 55,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "60f5b25e17b3"
     },
     {
       "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
@@ -96,90 +96,103 @@
       "uid": "7449987c80f8"
     },
     {
-      "title": "本田中国 10 月汽车销量 28652 辆，同比下降 52.2%",
-      "link": "https://www.ithome.com/1/023/221.htm",
+      "title": "OpenAI 窃听案进入抗辩阶段：被告拒不认罪，若定罪最高监禁五年",
+      "link": "https://www.ithome.com/1/023/674.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-11-06T05:04:06+00:00",
-      "summary": "IT之家 11 月 6 日消息，据财联社今日报道，本田中国 10 月汽车销量 28,652 辆， 同比下降 52.2% 。 本田技研工业（中国）投资有限公司总经理、本田技研科技（中国）有限公司总经理五十岚雅行曾明确表态，中国市场的意义早已不止于销售，更是推进电动化与智能化变革的重要市场，立场今后也不会改变， 未来本田将一如既往深耕中国 。 据悉，本田在智能化领域已选定 Momenta 与华为，双方分别签署战略合作协议，Momenta 的领航辅助驾驶技术与华为的鸿蒙座舱将从 2027 年上市车型起陆续导入。 未来，本田将陆续推出基于东风集团和广汽集团各自平台研发的产品，2027 年推出首款搭载包括动力单元在内的合作伙伴技术的新能源汽车，此后快速扩充阵容。研发体系采用中方合作伙伴、合资公司与本田三方联合开发模式。 据IT之家此前报道，东风本田 2026 年 10 月终端销量为 17,026 辆，环比增长 16.9%，上年同期为 28,896 辆。",
-      "score": 50,
+      "published": "2026-11-07T05:22:44+00:00",
+      "summary": "北京时间 11 月 7 日，据《华尔街日报》报道，沙特公民阿卜杜勒拉赫曼 · 阿尔福赞 (Abdulrahman Alfozan) 被指控在 OpenAI 一间限制进入的会议室内安装窃听设备。当地时间周五，他在旧金山联邦法院出庭，对相关指控表示不认罪。周五，阿尔福赞参加了美国联邦治安法官的提审听证会。他的律师戴维 ·W· 里兹 (David W.Rizk) 表示，其当事人对检方提出的唯一一项指控拒不认罪。该罪名为截取口头通信内容，最高可判处 5 年监禁，并处以 25 万美元罚款。阿尔福赞目前被联邦执法部门羁押，下一次出庭时间将是 11 月 17 日。阿尔福赞被指控在今年 9 月 28 日前后，将一块拇指大小的电路板和麦克风用卫生纸包裹，藏入 OpenAI 办公室一间高管会议室壁挂电视的后方。当时，他即将离开美国。",
+      "score": 40,
       "original_title": "",
       "translated": false,
-      "priority": 25,
-      "uid": "9381b9db9529"
+      "priority": 15,
+      "uid": "284005b02f94"
     },
     {
-      "title": "One UI 9.5 版三星健康应用曝光：新增“正念笔记”，把情绪日记装进手机",
-      "link": "https://www.ithome.com/1/023/228.htm",
+      "title": "男子利用 AI 眼镜、智能戒指驾考作弊被成都交管查获：罚款 1900 元 + 禁考一年",
+      "link": "https://www.ithome.com/1/023/665.htm",
       "source": "IT之家·出行",
       "category": "健康生活",
-      "published": "2026-11-06T05:33:57+00:00",
-      "summary": "IT之家 11 月 6 日消息，科技媒体 SamMobile 今天（11 月 6 日）发布博文，分享了一组应用截图，展示了 One UI 9.5 版本的三星健康（Samsung Health）应用， 三星公司计划引入正念笔记（Mindful note）新功能。定位方面，该功能位于应用的“正念”板块，本质上是一个轻量化的心情日记工具，用户可以记录想法、情绪和日常经历，也可通过引导式提示开始写作。IT之家注：正念（Mindfulness）是一种有意识地把注意力放在当下、并以不评判的态度观察自身想法、情绪、身体感受和周围环境的能力。简单说，就是“此刻我在做什么、感受到什么，我清楚地知道，但不急着评价或反应”。操作方式上，新功能提供两种记录方式：用户可以从“日常瞬间”卡片创建空白笔记，也可以选择系统给出的提示。",
-      "score": 25,
+      "published": "2026-11-07T03:49:42+00:00",
+      "summary": "IT之家 11 月 7 日消息，据成都交警，近日，成都公安交管部门查处一起机动车驾驶人考试舞弊案。10 月 16 日上午，成都公安交管十分局摩托车考场驻场民警在开展机动车驾驶员理论考试巡查过程中，发现一男子 神色紧张， 答题状态异常， 行为举止不自然， 当即对其开展核查。男子佩戴的眼镜暗藏玄机，手上还配有一枚智能戒指，长按可触发扫描，答案就显示在眼镜上。面对询问，该男子 承认自己利用 高科技设备作弊的违法行为。经了解，该男子早年申领汽车驾驶证时，理论科目历经四次考试才勉强通过。此次申请增驾摩托车驾驶证， 因担心再次考试失利， 心生焦虑便动起歪念， 在网络渠道购买 AI 眼镜、智能戒指等电子作弊设备，妄图借助所谓的“高科技”通过考试。IT之家从公告获悉，调查过程中该男子自行用手机刷题自测正确率超 85%，但民警随机抽题，让其使用设备演示， 结果这款高价购买的作弊设备 准确率极低。",
+      "score": 20,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "1ccc679e3602"
+      "uid": "03f4aa0de47e"
     },
     {
-      "title": "民主党横扫能源股，油价反弹至 100 美元",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Rebounds-Toward-100-as-Democrats-Sweep-Rattles-Energy-Stocks.html",
+      "title": "华尔街的“能源转型”基金充斥着天然气",
+      "link": "https://oilprice.com/Energy/Natural-Gas/Wall-Streets-Energy-Transition-Funds-Are-Packed-With-Natural-Gas.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-06T01:00:00+00:00",
-      "summary": "周四，在民主党控制众议院和参议院的第二天，油价扭转了近期的下跌趋势，从而对美国总统唐纳德·特朗普的政府构成了潜在的立法制约。 布伦特原油上涨 4. 0%，至 98 美元。 美国东部时间下午 3:15 每桶 38 美元，而 WTI 上涨 2. 9% 至 90 美元。 65 日，价格在周三跌至近两个月低点后，四个交易日以来首次上涨……",
+      "published": "2026-11-06T23:00:00+00:00",
+      "summary": "随着我们进入联合国第31届年度旗舰气候大会（COP31），该会议将于下周在土耳其安塔利亚举行，绿色洗牌在私营部门中呈现出一个大而日益严重的问题。",
       "score": 15,
-      "original_title": "Oil Rebounds Toward $100 as Democrats’ Sweep Rattles Energy Stocks",
+      "original_title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
       "translated": true,
       "priority": 0,
-      "uid": "ca9d92efacbc"
+      "uid": "018b1d1696ca"
     },
     {
-      "title": "尽管油价上涨，美国页岩巨头仍暂停钻探",
-      "link": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Giants-Hold-Back-on-Drilling-Despite-Higher-Oil-Prices.html",
+      "title": "能源可靠性正变得比能源政治更重要",
+      "link": "https://oilprice.com/Energy/Energy-General/Energy-Reliability-Is-Becoming-More-Important-Than-Energy-Politics.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": "尽管 WTI 原油平均价格较去年每桶上涨 20 美元，但美国最大的页岩油生产商今年在钻探支出方面仍保持保守。 尽管有迹象表明，规模较小的独立企业已开始利用油价上涨的机会来增加钻探，但在全球市场前所未有的不确定性中，最大的页岩油生产商仍保持着干燥状态。",
+      "published": "2026-11-06T19:00:00+00:00",
+      "summary": "在过去的十年中，能源辩论通常将化石燃料与清洁能源对立起来。各国政府宣布了逐步淘汰某些技术的日期，投资者试图预测哪些行业将失宠，能源政策也越来越与政治身份纠缠在一起。与伊朗的战争揭示了以这种方式处理能源政策的局限性。",
       "score": 15,
-      "original_title": "U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices",
+      "original_title": "Energy Reliability Is Becoming More Important Than Energy Politics",
       "translated": true,
       "priority": 0,
-      "uid": "ceea0762d0ab"
+      "uid": "014d30f801ac"
     },
     {
-      "title": "亚洲希望美国中期结果将缓解能源危机",
-      "link": "https://oilprice.com/Energy/Energy-General/Asia-Hopes-US-Midterm-Results-Will-Ease-Energy-Crisis.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-11-05T23:00:00+00:00",
-      "summary": "依赖石油和天然气进口来保障能源安全的亚洲国家希望美国中期选举的结果能够结束中东战争，从而结束亚洲国家正在经历的严重燃料危机。 然而，这种希望可能还为时过早。 特朗普仍然是总统，民主党人不喜欢伊朗。 亚洲是受美国影响最严重的地区。",
-      "score": 15,
-      "original_title": "Asia Hopes U.S. Midterm Results Will Ease Energy Crisis",
-      "translated": true,
-      "priority": 0,
-      "uid": "37b06c0a11fc"
-    },
-    {
-      "title": "Expedia 首席执行官表示，人工智能代理尚未改变预订习惯",
-      "link": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
+      "title": "马斯克表示，特斯拉明年将在德克萨斯州逐步减少Cybertruck的生产，以加快Cybercab的生产",
+      "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-11-05T17:03:35+00:00",
-      "summary": "Expedia 首席执行官阿丽亚娜·戈林 (Ariane Gorin) 周四表示，该公司尚未发现人工智能代理会影响客户的预订方式，但早期迹象表明行业有可能发生转变。 戈林在接受 CNBC 采访时表示：“这是人们获得灵感、制定旅行计划的好方法。” “我们还没有看到它改变了他们实际预订的方式。",
+      "published": "2026-11-06T15:06:11+00:00",
+      "summary": "特斯拉首席执行官埃隆·马斯克周五表示，这家电动汽车制造商将在明年年中左右“逐步停止”其德克萨斯州超级工厂的Cybertruck生产。马斯克在周五清晨在X上发布的一条帖子中称，他曾称Cybertruck为皮卡车领域的未来，他表示，这个大型工厂的生产结束将为制造Cybercab机器人出租车腾出空间。",
       "score": 15,
-      "original_title": "Expedia CEO says AI agents aren't changing booking habits — yet",
+      "original_title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
       "translated": true,
       "priority": 0,
-      "uid": "4687e0d8e44f"
+      "uid": "9fdeb7447fd9"
     },
     {
-      "title": "Gemini Omni 1.2 Flash：快速且经济高效，具有更长的剪辑",
+      "title": "Moderna上调2026年展望，CEO称新疫苗正在获得关注",
+      "link": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-11-06T12:43:28+00:00",
+      "summary": "Moderna 周五公布的第三季度收入和盈利远超预期，并提高了全年销售增长的前景，因为其一些新产品 gaining 动力且新冠疫苗收入表现优于预期。周五盘前交易中，Moderna 股价上涨约 3%。这家生物科技公司现在预计 2026 年的收入增长为 15% 至 25%，高于此前最高 10% 的预测。",
+      "score": 15,
+      "original_title": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
+      "translated": true,
+      "priority": 0,
+      "uid": "9019d736b5a4"
+    },
+    {
+      "title": "随着运输成本飙升，小型零售商为这个假日季节的“巨大打击”作准备",
+      "link": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-11-06T12:00:01+00:00",
+      "summary": "当珍妮·希尔兹八年前开始她的手工发饰小生意时，她支付了2.93美元运送一份订单，按通胀调整后相当于今天的近4美元。希尔兹说，去年她的产品平均运费标签大约是4美元。但当她上个月带着一批典型订单去堪萨斯州堪萨斯城的本地邮局时，她惊讶地看到…",
+      "score": 15,
+      "original_title": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
+      "translated": true,
+      "priority": 0,
+      "uid": "ce95fb2a7d22"
+    },
+    {
+      "title": "Gemini Omni 1.2 闪光灯：速度快且经济实惠，适合更长的片段",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-11-05T17:00:00+00:00",
-      "summary": "Gemini Omni 1. 2 Flash：快速且经济高效的更长剪辑 今天，我们推出 Gemini Omni 1. 2 Flash，并使其在 Gemini API 和 Gemini for Business 上普遍可用。 Gemini Omni 1. 2 Flash 引入了原生 15 秒视频创建、多轮对话编辑功能以及增强的参考跟踪功能。 我们已将 Gemini Omni 1 的价格降低了 30%。",
+      "summary": "双子座 Omni 1.2 闪电版：快速且具有成本效益，同时支持更长的视频片段\n\n今天，我们推出了双子座 Omni 1.2 闪电版，并在双子座 API 和双子座商业服务中全面开放。双子座 Omni 1.2 闪电版引入了原生 15 秒视频创作、多轮对话编辑功能，以及增强的参考跟随能力。我们将价格从双子座 Omni 1 降低了 30%。",
       "score": 15,
       "original_title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "translated": true,
@@ -187,74 +200,61 @@
       "uid": "e12ddc5e181e"
     },
     {
-      "title": "Wendy's 拒绝 Nelson Peltz 旗下 Trian 的 14 亿美元收购提议",
-      "link": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-11-05T15:08:05+00:00",
-      "summary": "Wendy's 周四表示将拒绝 1 美元。 以 Nelson Peltz 的 Trian Fund Management 为首的一群投资者提出了 40 亿美元的收购要约。 该团体出价7美元。 10 月 28 日，公司以每股 35 美元的现金将这家陷入困境的汉堡连锁店私有化。 除了 Trian 之外，该公司还包括投资公司 BlueFive Capital 和 Sixth Street Partners，以及温迪最大的特许经营商之一弗林集团 (Flynn Group)。",
-      "score": 15,
-      "original_title": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian",
-      "translated": true,
-      "priority": 0,
-      "uid": "1c05e1709c30"
-    },
-    {
-      "title": "E.l.f. Beauty销售额增长51%，上调全年业绩指引。",
-      "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-11-04T21:47:22+00:00",
-      "summary": "周三，美妆公司公布第二财季净销售额增长 51%，超出了华尔街预期。 该美容公司表示，其净销售额已连续 31 个季度实现增长，这归因于其产品组合的强劲表现。 该公司补充说，收入激增是由美国和国际零售和电子商务渠道推动的。",
-      "score": 15,
-      "original_title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
-      "translated": true,
-      "priority": 0,
-      "uid": "3393f4ee558b"
-    },
-    {
-      "title": "我们于 2026 年 10 月公布的最新 AI 新闻",
+      "title": "我们在2026年10月宣布的最新人工智能新闻",
       "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-11-02T17:45:00+00:00",
-      "summary": "我们于 2026 年 10 月宣布的最新人工智能新闻 20 多年来，我们一直投资于机器学习和人工智能研究、工具和基础设施，以打造让更多人的日常生活变得更美好的产品。 Google 的团队正在研究如何释放人工智能在医疗保健、危机应对和教育等广泛领域的优势。 为了让您随时了解我们的进展，我们正在定期进行调查...",
+      "summary": "我们在2026年10月公布的最新人工智能新闻：二十多年来，我们一直在投资机器学习和人工智能的研究、工具以及基础设施，以构建让更多人日常生活更美好的产品。谷歌各团队正在探索在医疗、危机应对和教育等广泛领域释放人工智能的潜力。为了让您了解我们的进展，我们会定期进行总结...",
       "score": 15,
       "original_title": "The latest AI news we announced in October 2026",
       "translated": true,
       "priority": 0,
       "uid": "fd304476b311"
+    },
+    {
+      "title": "美国的核能复兴正遇到燃料供应瓶颈",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Americas-Nuclear-Revival-Is-Running-Into-a-Fuel-Supply-Wall.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-11-06T21:00:00+00:00",
+      "summary": "美国拥有世界上最大的核电生产能力，但几十年来资金和政策支持不足正对这一老龄化行业构成生存威胁。在过去十年中，美国仅新增了一座核电厂，而许多核电厂正接近退役之时，而这正值社会越来越需要清洁、全天候的能源供应。",
+      "score": 10,
+      "original_title": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall",
+      "translated": true,
+      "priority": 0,
+      "uid": "0bbe81cfd674"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3651.3509,
-        "change": -38.56,
-        "pct": -1.05,
-        "amount_yi": 6298.42
+        "price": 3649.1774,
+        "change": -40.7335,
+        "pct": -1.1,
+        "amount_yi": 7726.35
       },
       {
         "name": "深证成指",
-        "price": 11211.53,
-        "change": -259.568,
-        "pct": -2.26,
-        "amount_yi": 7289.32
+        "price": 11175.78,
+        "change": -295.313,
+        "pct": -2.57,
+        "amount_yi": 8851.59
       },
       {
         "name": "创业板指",
-        "price": 2473.45,
-        "change": -93.357,
-        "pct": -3.64,
-        "amount_yi": 1615.4
+        "price": 2465.23,
+        "change": -101.571,
+        "pct": -3.96,
+        "amount_yi": 1951.35
       },
       {
         "name": "沪深300",
-        "price": 4056.2216,
-        "change": -57.1896,
-        "pct": -1.39,
-        "amount_yi": 3862.94
+        "price": 4054.2769,
+        "change": -59.1343,
+        "pct": -1.44,
+        "amount_yi": 4788.4
       }
     ],
     "holdings": [
@@ -263,11 +263,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 48.51,
-        "market_value": 4851.0,
-        "pnl": 1678.36,
-        "pnl_pct": 52.9,
-        "weight_hint": "44.4%",
+        "price": 48.54,
+        "market_value": 4854.0,
+        "pnl": 1681.36,
+        "pnl_pct": 53.0,
+        "weight_hint": "44.3%",
         "note": "",
         "available": true
       },
@@ -276,10 +276,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 29.85,
-        "market_value": 2985.0,
-        "pnl": 288.59,
-        "pnl_pct": 10.7,
+        "price": 29.91,
+        "market_value": 2991.0,
+        "pnl": 294.59,
+        "pnl_pct": 10.93,
         "weight_hint": "27.3%",
         "note": "",
         "available": true
@@ -289,11 +289,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.39,
-        "market_value": 2517.0,
-        "pnl": 639.48,
-        "pnl_pct": 34.06,
-        "weight_hint": "23.0%",
+        "price": 8.44,
+        "market_value": 2532.0,
+        "pnl": 654.48,
+        "pnl_pct": 34.86,
+        "weight_hint": "23.1%",
         "note": "",
         "available": true
       },
@@ -302,10 +302,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.833,
-        "market_value": 166.6,
-        "pnl": -151.4,
-        "pnl_pct": -47.61,
+        "price": 0.832,
+        "market_value": 166.4,
+        "pnl": -151.6,
+        "pnl_pct": -47.67,
         "weight_hint": "1.5%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -315,10 +315,10 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.131,
-        "market_value": 413.1,
-        "pnl": -83.9,
-        "pnl_pct": -16.88,
+        "price": 4.124,
+        "market_value": 412.4,
+        "pnl": -84.6,
+        "pnl_pct": -17.02,
         "weight_hint": "3.8%",
         "note": "",
         "available": true
@@ -339,153 +339,142 @@
     ],
     "sectors": [
       {
+        "name": "新能源/光伏 · 光伏电池组件",
+        "pct": 1.46,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": -2.08,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 国有大型银行Ⅲ",
+        "pct": 1.04,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": 5.09,
+        "source": "东财行业"
+      },
+      {
+        "name": "金融/银行 · 银行",
+        "pct": 0.99,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": 8.53,
+        "source": "东财行业"
+      },
+      {
         "name": "电力/公用 · 电力行业",
-        "pct": 1.2362843026116,
+        "pct": 0.94325497829016,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "新能源/光伏 · 光伏发电",
-        "pct": 1.14,
+        "name": "新能源/光伏 · 光伏辅材",
+        "pct": 0.86,
         "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 0.5,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 光伏电池组件",
-        "pct": 1.05,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": -2.38,
+        "main_flow_yi": 0.87,
         "source": "东财行业"
       },
       {
         "name": "电力/公用 · 电力",
-        "pct": 0.98,
+        "pct": 0.76,
         "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": 6.92,
+        "main_flow_yi": 9.4,
         "source": "东财行业"
       },
       {
-        "name": "金融/银行 · 银行",
-        "pct": 0.98,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -2.51,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 银行Ⅱ",
-        "pct": 0.98,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -2.51,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭",
-        "pct": -0.36,
+        "name": "煤炭 · 煤炭开采",
+        "pct": -0.56,
         "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 0.97,
+        "main_flow_yi": 1.32,
         "source": "东财行业"
       },
       {
         "name": "煤炭 · 煤炭行业",
-        "pct": -0.49238462127204,
+        "pct": -0.90823277291629,
         "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": -1.2613730355666,
+        "pct": -1.5301902398677,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "半导体/电子 · 电子信息",
-        "pct": -2.5321510549319,
+        "pct": -3.1022230607175,
         "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
-    "policy_news": [],
+    "policy_news": [
+      {
+        "title": "ST龙大：实控人戴学斌因涉嫌操纵证券市场被证监会立案，此前已被刑事拘留",
+        "link": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwthh5069285.shtml",
+        "level": "高",
+        "tag": "政策"
+      }
+    ],
     "industry_news": [
       {
-        "title": "南京银行业务部门负责人：2026年内净息差有望延续边际企稳态势",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-11-06/doc-inixuqhy8814221.shtml",
+        "title": "“蓝潮”如何重塑美国能源政策：扭转特朗普政策 淡化气候叙事 新能源与LNG并行",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwtfy8147526.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "南京银行业务部门负责人：预计四季度信贷投放总量较二、三季度会有提升，全年公司客户信贷投放总体平稳",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-11-06/doc-inixuqhy8813034.shtml",
+        "title": "墨西哥批准六项光伏项目 将新增近650MW装机",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwhsh4917145.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "南京银行业务部门负责人：策略摆布上，下一步债券资产配置将保持中性偏积极",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-11-06/doc-inixuqhs8222747.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "银行力挺大盘，建设银行涨超2%！银行ETF华宝（512800）再起升势，关注四重驱动",
-        "link": "https://finance.sina.com.cn/money/fund/etf/2026-11-06/doc-inixuqhu4997721.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "南京银行副行长江志纯：前三季度经营业绩延续稳健增长的态势，主要得益四个方面的工作",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-11-06/doc-inixuqia5457314.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "南京银行副行长江志纯：下阶段将重点在四个方面发力，走好高质量发展之路",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-11-06/doc-inixuqhy8805855.shtml",
+        "title": "巴拉圭参议院因银行丑闻罢免总统",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakq5276245.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "日本首相称密切关注股市动态，考虑动用央行出售资产收益资助重点投资项目",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixuqhy8806787.shtml",
-        "level": "高",
-        "tag": "股市"
-      },
-      {
-        "title": "6位券商首席最新研判：A股短期震荡不改长期向上趋势",
-        "link": "https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixuqia5461379.shtml",
+        "title": "美股科技股经历“过山车”，但斌：AI时代落幕概率极小，回笼资金继续加仓",
+        "link": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwtfy8151535.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "领益智造累计回购公司A股股份4336.72万股 耗资约5.6亿元",
-        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-06/doc-inixuiyu8329689.shtml",
+        "title": "章建平重仓股，公告大单+控股股东不减持",
+        "link": "https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwthh5059115.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "10月A股回购图谱：多家行业龙头领衔实施大额回购，仅三成多的公司10月股价表现跑赢大盘",
+        "link": "https://finance.sina.com.cn/roll/2026-11-07/doc-inixwtfy8124087.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 10932.7,
-    "total_pnl": 2371.13,
-    "total_amount_yi": 13587.74,
+    "total_market_value": 10955.8,
+    "total_pnl": 2394.23,
+    "total_amount_yi": 16577.94,
     "bias": "偏空",
-    "volume_note": "量能：两市合计约 13588 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 电力行业、光伏发电、光伏电池组件；偏弱 煤炭、煤炭行业、石油行业",
-    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
+    "volume_note": "量能：两市合计约 16578 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 光伏电池组件、国有大型银行Ⅲ、银行；偏弱 煤炭开采、煤炭行业、石油行业",
+    "tip": "板块轮动是常态，不要追高换仓",
     "errors": []
   },
   "learning": {
-    "title": "满仓的代价",
-    "body": "现金几乎为0时，回调里没有子弹加仓。新手版仓位：核心防御60–70%，成长卫星20–30%，现金尽量留10–20%。",
+    "title": "板块轮动",
+    "body": "资金常在行业间切换，不是“好公司永远天天涨”。追昨天上涨板块，容易买在情绪高点；先看逻辑，再看价格。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "机油保养",
-    "text": "今儿聊【机油保养】。NWG150说明书写六千公里一换，你心里写“再挺挺”。车不说话，缸里知道；等它说话，说话的方式通常是异响。社会经验：省下的机油钱，最后都会变成修理厂的茶位费。"
+    "topic": "标书加班",
+    "text": "今儿聊【标书加班】。标书这东西，白天像散文，夜里像刑法。格式错一个空格，废一宿；价格错一个零，废一年。社会经验：投标不是写作文，是把自己活成附件——附件越全，人越空。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
