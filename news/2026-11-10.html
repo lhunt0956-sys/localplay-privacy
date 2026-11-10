@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年11月10日 14:50 · 共 20 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 震荡；量能：两市合计约 14254 亿元（接口口径），成交偏活跃；行业分化：偏强 燃料电池、数字芯片设计、模拟芯片设计；偏弱 金融行业、煤炭行业、石油行业</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3661.58 <span style='color:#0e7c66'>+0.02%</span> · 约6396亿</li><li><strong>深证成指</strong> 11223.01 <span style='color:#0e7c66'>+0.70%</span> · 约7858亿</li><li><strong>创业板指</strong> 2488.33 <span style='color:#0e7c66'>+1.21%</span> · 约1577亿</li><li><strong>沪深300</strong> 4056.02 <span style='color:#0e7c66'>+-0.00%</span> · 约3619亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>新能源/光伏 · 燃料电池</strong> <span style='color:#0e7c66'>+4.36%</span> · 净流入约-0.00亿<div class='meta'>对应新能源ETF，波动大，只作卫星仓观察</div></li><li><strong>半导体/电子 · 数字芯片设计</strong> <span style='color:#0e7c66'>+4.09%</span> · 净流入约17.81亿<div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>半导体/电子 · 模拟芯片设计</strong> <span style='color:#0e7c66'>+3.12%</span> · 净流入约0.70亿<div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>金融/银行 · 金融信息服务</strong> <span style='color:#0e7c66'>+2.33%</span> · 净流入约-0.26亿<div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>电力/公用 · 供水供气</strong> <span style='color:#0e7c66'>+0.58%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>金融/银行 · 金融行业</strong> <span style='color:#b42318'>-0.17%</span><div class='meta'>对应工商银行，关注净息差与分红</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#b42318'>-1.27%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#b42318'>-1.35%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 48.850 · 盈亏 <span style='color:#0e7c66'>+1712.36（+53.97%）</span> · 仓位约 44.4%</li><li><strong>长江电力</strong>（600900） 现价 29.710 · 盈亏 <span style='color:#0e7c66'>+274.59（+10.18%）</span> · 仓位约 27.0%</li><li><strong>工商银行</strong>（601398） 现价 8.590 · 盈亏 <span style='color:#0e7c66'>+699.48（+37.26%）</span> · 仓位约 23.4%</li><li><strong>半导体ETF</strong>（159995） 现价 0.839 · 盈亏 <span style='color:#b42318'>-150.20（-47.23%）</span> · 仓位约 1.5%</li><li><strong>300ETF</strong>（510300） 现价 4.131 · 盈亏 <span style='color:#b42318'>-83.90（-16.88%）</span> · 仓位约 3.8%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 11013.90 元，浮动盈亏约 +2452.33 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>今日暂无高相关条目</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-10/doc-iniyfqtc2713420.shtml' target='_blank' rel='noopener'>花旗获中国外商独资证券牌照 将在内地招聘100名银行家</a></li><li>【中】<a href='https://finance.sina.com.cn/money/fund/jjh/2026-11-10/doc-iniyfqta2732102.shtml' target='_blank' rel='noopener'>端侧AI再升温！SoC芯片股冲高，龙迅股份涨超12%，科创芯片设计ETF华宝（589430）标的指数再涨超3%</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-11-10/doc-iniyfqta2734166.shtml' target='_blank' rel='noopener'>今日比特币：徘徊7.5万美元下方，现货ETF持续遭遇资金流出</a></li></ul><p class='sum'>新手提醒：今天涨不代表明天涨，A股短期走势受情绪影响很大</p></section>
+    
+    <section class="cat"><h2>持仓相关</h2><ul><li><a href="https://www.ftchinese.com/story/001111311" target="_blank" rel="noopener">Anthropic斥资34亿美元接手发电设备</a><div class="meta">FT 中文网 · 11-09 00:00</div><p class="sum">随着数据中心的电力需求激增，这家前沿AI公司与得州OnePWR Solutions达成协议，买下后者在几年前订购的燃气发电设备。</p></li></ul></section><section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html" target="_blank" rel="noopener">波音将裁减5%的商用飞机员工，因为生产增长比预期更慢</a><div class="meta">CNBC · 11-10 03:35</div><p class="sum">波音公司周一表示，由于其产量提升的速度比公司预期的要慢，公司计划裁减5%的商用飞机员工。商用飞机部门负责人斯蒂芬妮·波普在给员工的备忘录中表示，这些裁员将通过自然减员和解雇相结合的方式进行。波普重申，公司仍在努力稳定其畅销机型737 Max的生产率...</p></li><li><a href="https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html" target="_blank" rel="noopener">本田将在俄亥俄州投资30亿美元建设新的车辆组装厂</a><div class="meta">CNBC · 11-10 02:59</div><p class="sum">俄亥俄州玛丽斯维尔——本田汽车公司周一宣布，计划投资30亿美元在俄亥俄州建设一家新的汽车组装厂。本田表示，这家新工厂将位于其在俄亥俄州玛丽斯维尔的其他设施附近，预计将在2029年开始生产，年产能为24万辆汽车，并创造2000多个就业岗位。</p></li><li><a href="https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html" target="_blank" rel="noopener">高盛首席执行官所罗门表示，尽管市场不安，人工智能融资仍然强劲</a><div class="meta">CNBC · 11-10 02:14</div><p class="sum">高盛首席执行官大卫·所罗门周一在接受 CNBC 采访时表示，尽管最近市场因投资者重新评估大规模建设相关风险而出现波动，但对人工智能基础设施的融资需求仍然强劲。所罗门表示，过去几周他的公司在人工智能资本市场交易中一直“非常活跃”，他预计这种局面将持续下去。</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Latest-Energy-News/World-News/LNG-Traffic-Through-Hormuz-Hits-Highest-Level-Since-Iran-War-Began.html" target="_blank" rel="noopener">通过霍尔木兹海峡的液化天然气交通达到自伊朗战争开始以来的最高水平</a><div class="meta">OilPrice · 11-10 14:45</div><p class="sum">政治僵局可能会阻碍能源……小规模袭击已经针对……根据Kpler的数据（路透社引用），上个月通过霍尔木兹海峡的液化天然气出口达到自二月以来的最高总量，为31艘油船，而九月份为27艘。也许更令人印象深刻的是，尽管卡塔尔的拉斯拉凡枢纽仍在部分限制下，这些货物大多数仍是从该枢纽装载的……</p></li><li><a href="https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-Below-92-as-Trump-Signals-Restraint-on-Iran.html" target="_blank" rel="noopener">随着特朗普显示对伊朗的克制，油价跌破92美元</a><div class="meta">OilPrice · 11-10 13:20</div><p class="sum">COP31旨在加速全球……仅靠采矿无法实现……据报道称特朗普总统“目前不打算攻击伊朗”，布伦特原油价格下跌至每桶不足92美元，WTI原油价格下跌至每桶86美元。在撰写本文时，布伦特原油交易价格为每桶91.61美元，西得克萨斯中质原油价格为每桶85美元。</p></li><li><a href="https://oilprice.com/Energy/Crude-Oil/US-Traders-Weigh-the-Cost-of-Taking-Trumps-Russian-Diesel.html" target="_blank" rel="noopener">美国交易商权衡接受特朗普俄罗斯柴油的成本</a><div class="meta">OilPrice · 11-10 09:00</div><p class="sum">两艘运输俄罗斯柴油的油轮已经偏离了原定的美国目的地，而另一艘仍在北大西洋，没有申报卸货港口，这使得唐纳德·特朗普总统与弗拉基米尔·普京达成的缓解燃料价格的协议变得复杂。财政部已授权俄罗斯柴油交易，但立法者警告说，处理相关业务的公司……</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/024/827.htm" target="_blank" rel="noopener">5G 推进组：高通联合中兴通讯完多项 5G-A 先进技术互操作测试</a><div class="meta">IT之家·通信安防 · 11-10 14:45</div><p class="sum">IT之家 11 月 10 日消息，据“5G 推进组”微信公众号，近日，在 IMT-2020（5G）推进组的组织下，高通技术公司携手中兴通讯完成多项 5G-A 芯片与系统互操作测试，涵盖了 HPUE（高功率终端）、F/A SUL（补充上行链路）、基于层 1 的快速波形切换以及端侧 AI / ML 等多项关键技术的验证。据官方披露，HPUE FDD 频段测试采用基于高通 ® X105 5G 调制解调器及射频系统的移动测试终端，在 n1（2.1GHz）和 n28（700MHz）频段按照 PC2（26dBm）功率等级完成相关测试。PC2 功率等级通过提升终端最大发射功率，在中、近点可结合 UL MIMO 进一步提升用户速率， 在小区边缘则可扩大 FDD 频段的上行覆盖范围 。值得关注的是，单 PA 的 FDD HPUE 技术是提升 NR NTN 上行链路覆盖能力的重要技术手段之一。</p></li><li><a href="https://www.ithome.com/1/024/821.htm" target="_blank" rel="noopener">消息称华为星芒并非线上品牌，阔直板首批备货不多</a><div class="meta">IT之家·通信安防 · 11-10 14:37</div><p class="sum">IT之家 11 月 10 日消息，据博主 @数码闲聊站 今日爆料，星芒并非线上品牌，线上线下都会售卖，线上在现有华为店铺内销售，线下会进驻华为体验店。据其透露，阔直板首批备货不多，16GB 高配版本只在线上销售，12GB 版本全渠道销售。IT之家注意到，该博主此前曾爆料华为子品牌星芒的英文名是 OSTA，手机盒上也写的 OSTA，第一款阔直板手机叫 OSTA O1 Pro。该机可选星空黑 / 星云白 / 星芒紫三款配色，以及 12+256GB/12+512GB/16+512GB/16+1TB 容量。此前爆料显示，华为旗下“星芒”手机目前定位是主攻线上渠道，相对有性价比。据称，“星芒”系列目前已规划多款手机新品，其中一款将搭载主动散热风扇，甚至还有“整活儿”机型。不过，后续又有爆料称 华为子品牌星芒新品配置对标旗舰产线 ，价格不低。</p></li><li><a href="https://www.ithome.com/1/024/826.htm" target="_blank" rel="noopener">微软新专利瞄准闲置显卡：用户贡献 GPU 训练 AI，可获得现金或免费软件</a><div class="meta">IT之家·通信安防 · 11-10 14:43</div><p class="sum">IT之家 11 月 10 日消息，微软一项新的微软专利显示，该公司可能很快会允许用户通过将闲置的 GPU 用于 AI 训练来赚钱。微软于 2026 年 11 月 5 日公布了一项名为《利用边缘设备的闲置 GPU 算力开展机会式微型训练》（Opportunistic Micro-training on Edge Devices Using Spare GPU Utilization）的专利。该专利描述了一套全新的计算资源调度系统：将原本需要大型数据中心完成的高强度计算任务拆分成多个较小的子任务，并在不同设备处于闲置状态时，将这些任务分发给相应设备执行。简单来说，用户电脑中暂时没有被使用的 GPU 算力，未来可能被微软拿来训练 AI 模型，而用户也能因此获得相应报酬。专利对这套系统的描述如下：“这是一套利用边缘设备闲置 GPU 算力，通过机会式微型训练来训练机器学习模型的系统和方法。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://www.anthropic.com/news/announcements" target="_blank" rel="noopener">Anthropic / Claude：公告</a><div class="meta">Anthropic / Claude · 11-10 14:50</div><p class="sum">公告 - 2026年10月21日 物理学家克里斯托弗·斯塔布斯加入Anthropic长期利益信托 克里斯托弗·斯塔布斯博士，一位实验物理学家及前哈佛大学科学学院院长，已加入Anthropic的长期利益信托。他为信托带来了在天文观测宇宙学和精密测量领域数十年的科学专长。</p></li><li><a href="https://openai.com/index/chatgpt-enterprise-aws-marketplace" target="_blank" rel="noopener">ChatGPT 企业版现已在 AWS Marketplace 上架</a><div class="meta">OpenAI / ChatGPT · 11-10 03:00</div><p class="sum">ChatGPT Enterprise 现在可以通过 AWS Marketplace 获得，帮助组织通过现有的 AWS 采购和计费关系简化采购流程。</p></li><li><a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/" target="_blank" rel="noopener">Gemini Omni 1.2 闪光：快速且经济实惠，适合更长的片段</a><div class="meta">Google DeepMind · 11-06 01:05</div><p class="sum">双子座 Omni 1.2 闪电版：快速且具有成本效益，同时支持更长的视频片段
+
+今天，我们推出了双子座 Omni 1.2 闪电版，并在双子座 API 和双子座商业服务中全面开放。双子座 Omni 1.2 闪电版引入了原生 15 秒视频创作、多轮对话编辑功能，以及增强的参考跟随能力。与双子座 Omni 1 相比，我们将价格降低了 30%。</p></li><li><a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank" rel="noopener">Anthropic / Claude：投资于公共利益</a><div class="meta">Anthropic / Claude · 11-10 14:50</div><p class="sum">今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。</p></li><li><a href="https://openai.com/index/control-room" target="_blank" rel="noopener">控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载</a><div class="meta">OpenAI / ChatGPT · 11-09 21:00</div><p class="sum">了解 OpenAI 的控制中心如何跟踪我们研究基础设施中的模型工作负载，并在出现安全或保安问题时能够迅速停止它们。</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/" target="_blank" rel="noopener">Gemini Omni 1.2 闪光：快速且经济实惠，适合更长的片段</a><div class="meta">Google AI Blog · 11-06 01:00</div><p class="sum">双子座 Omni 1.2 闪电版：快速且具有成本效益，同时支持更长的视频片段
+
+今天，我们推出了双子座 Omni 1.2 闪电版，并在双子座 API 和双子座商业服务中全面开放。双子座 Omni 1.2 闪电版引入了原生 15 秒视频创作、多轮对话编辑功能，以及增强的参考跟随能力。与双子座 Omni 1 相比，我们将价格降低了 30%。</p></li><li><a href="https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/" target="_blank" rel="noopener">我们在2026年10月发布的最新人工智能新闻</a><div class="meta">Google AI Blog · 11-03 01:45</div><p class="sum">我们在2026年10月宣布的最新人工智能新闻：二十多年来，我们一直在投资机器学习和人工智能的研究、工具以及基础设施，以构建让更多人日常生活更美好的产品。谷歌各团队正在努力在医疗、危机应对和教育等广泛领域释放人工智能的优势。为了让您了解我们的进展，我们正在定期进行总结...</p></li></ul></section><section class="cat"><h2>健康生活</h2><ul><li><a href="https://www.ithome.com/1/024/817.htm" target="_blank" rel="noopener">本田 2027 财年半年报归母净利润 5167.61 亿日元，同比增长 65.7%</a><div class="meta">IT之家·出行 · 11-10 14:31</div><p class="sum">IT之家 11 月 10 日消息，本田今日发布 2027 财年（2026年4月1日～2027年3月31日）半年报（2026年4月1日～2026年9月30日）业绩快报报告： 营业总收入 ：12.04 万亿日元 （IT之家注：现汇率约合 5090.61 亿元人民币） ，同比增长 13.2% 毛利润 ：2.22 万亿日元 （现汇率约合 938.94 亿元人民币） ，同比增长 3.32% 毛利率 ：18.44%，同比下降 1.77 个百分点 归母净利润 ：5167.61 亿日元 （现汇率约合 218.53 亿元人民币） ，同比增长 65.7% 经营现金流 ：6328.55 亿日元 （现汇率约合 267.63 亿元人民币） 基本每股收益 ：132.75 日元 （现汇率约合 5.61 元人民币） ，同比增长 73.</p></li><li><a href="https://www.ithome.com/1/024/828.htm" target="_blank" rel="noopener">50℃ 热水喷淋定点拖地：小米米家扫拖机器人 7 Max 国补后 4999 → 3602 元</a><div class="meta">IT之家·出行 · 11-10 14:45</div><p class="sum">小米米家扫拖机器人 7 Max 开售于 2026 年 10 月 20 日，水箱版首销到手价 4999 元。11 大促期间，标价 5020 元；PLUS 会员立减 20.PLUS 会员可用满 800-80 元补贴（每天 10 点 / 20 点抢）；以旧换新立减 20 元；国补立减 644.晒单返 20 元京豆；商品详情页参加多买多返活动，可返 30 元 E 卡；实付 3652.89 元，到手价为 3602.89 元： 京东 米家 扫拖机器人 7Max 水箱版 券后 3652.89 元 领 8.8 折券 下单赠送价值 499 元的配件礼包。11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。据小米官方介绍，米家扫拖机器人 7 Max 拥有 6 cm 越障能力，可以轻松上台阶、翻越门槛，提升复杂家庭环境的清洁覆盖能力。</p></li><li><a href="https://www.ithome.com/1/024/819.htm" target="_blank" rel="noopener">小户型一步到位：卡萨帝 10kg 热泵洗烘一体机 10498 → 6104 元破冰新低</a><div class="meta">IT之家·出行 · 11-10 14:32</div><p class="sum">卡萨帝 · 揽光 GLD 热泵洗烘一体机 10kg（型号：CE AB10LWUGLDU1）日常售价 10498 元。11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 6104.2 元： 领 8.5 折洗衣机券： 点此查看 。领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）： 点此查看 。下单时选择“以旧换新 → 个护健康 → 普通牙刷 （无需回收）”补贴 500 元。参与家电家居多买多返活动，再返 100 元。京东 卡萨帝 揽光 10kg 热泵洗烘一体机 CE AB10LWUGLDU1 国补后 6104.2 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。关于尺寸 官方简介 京东 卡萨帝 揽光 10kg 热泵洗烘一体机 CE AB10LWUGLDU1 国补后 6104.</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>什么是指数</strong>：沪深300（Shanghai-Shenzhen 300 Index，沪深两市规模大、流动性好的300家公司）像“大盘平均分”。你买的300ETF，本质上就是在跟踪这个平均分。</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【通信铁塔】。这铁塔往山上一立，跟个钢筋仙鹤似的，鹤不飞，人得爬。领导说“顺便看看点位”，这顺便俩字一出，你就知道中午泡面泡不上了。缆没拉上先拉上脸色，链路没通先把汇报通了。社会经验：凡写着“现场简单勘察”的，背包里都得备双袜子。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>
