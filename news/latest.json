@@ -1,28 +1,15 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-11-12T14:45:08.676264+08:00",
+  "generated_at": "2026-11-13T14:00:25.318035+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 16,
+  "count": 18,
   "items": [
-    {
-      "title": "帮助护理人员在日常生活中使用人工智能",
-      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-11-10T12:00:00+00:00",
-      "summary": "OpenAI Academy 正在为美国五个城市的护理人员举办免费的 ChatGPT 实践研讨会，帮助他们培养日常生活中实用的人工智能技能。",
-      "score": 65,
-      "original_title": "Helping caregivers use AI in everyday life",
-      "translated": true,
-      "priority": 0,
-      "uid": "eb78ede5e758"
-    },
     {
       "title": "人类/克劳德：公告",
       "link": "https://www.anthropic.com/news/announcements",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-12T06:45:32+00:00",
+      "published": "2026-11-13T06:01:02+00:00",
       "summary": "公告 - 2026 年 10 月 21 日，物理学家 Christopher Stubbs 加入 Anthropic 的长期利益信托基金 实验物理学家、哈佛大学前科学院长 Christopher Stubbs 博士已加入 Anthropic 的长期利益信托基金。 他为信托基金带来了数十年在观测宇宙学和精密测量方面的科学专业知识。",
       "score": 60,
       "original_title": "Anthropic / Claude：Announcements",
@@ -31,12 +18,25 @@
       "uid": "1c262b0ddbb0"
     },
     {
+      "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品",
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-11-12T20:00:00+00:00",
+      "summary": "Amplitude 的主动产品代理 Wave 主要基于 OpenAI 模型构建，可确定要构建的内容、帮助团队通过编码代理交付变更并衡量影响。",
+      "score": 60,
+      "original_title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "translated": true,
+      "priority": 0,
+      "uid": "7e6f292ddcf8"
+    },
+    {
       "title": "Gemini 4 Carbon 现已上市",
       "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-11-10T16:03:47+00:00",
-      "summary": "Gemini 4 Carbon 现已上市 今天，我们正在向开发人员、企业、科学家和消费者提供 Gemini 4 Carbon。 Carbon 是我们最强大的模型，在网络安全能力和跨复杂知识工作、软件工程和科学推理的长期代理工作流程方面具有前沿性能。 两周前，我们通过 Fairw 向一组网络安全维护者发布了 Carbon...",
+      "summary": "Gemini 4 Carbon 现已上市 今天，我们正在向开发人员、企业、科学家和消费者提供 Gemini 4 Carbon。 Carbon 是我们最强大的模型，在网络安全功能和跨复杂知识工作、软件工程和科学推理的长期代理工作流程方面具有前沿性能。 两周前，我们通过 Fairw 向一组网络安全维护者发布了 Carbon...",
       "score": 50,
       "original_title": "Gemini 4 Carbon is now available",
       "translated": true,
@@ -44,11 +44,24 @@
       "uid": "a8fd340efd21"
     },
     {
-      "title": "人类/克劳德：投资公益",
+      "title": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
+      "link": "https://www.ithome.com/1/026/667.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-11-13T04:16:39+00:00",
+      "summary": "IT之家 11 月 13 日消息，海康威视今日（11 月 13 日）在互动平台表示， 海康机器人已完成股份制改制及上市辅导备案 ，IPO 相关进展请以官方披露信息为准。 IT之家查询公开资料获悉，海康机器人是面向全球的机器视觉和移动机器人产品及解决方案提供商，业务聚焦工业物联网、智慧物流和智能制造，前身为海康威视机器视觉业务部，2016 年独立成立。 2026 年 7 月 6 日，随着一台叉取机器人走下产线，海康机器人正式宣布， 其移动机器人全品类累计下线突破 20 万台 。 截至 2026 年 4 月，海康机器人累计服务客户超 2 万家，落地 1000 余个细分应用场景，覆盖汽车汽配、3C 电子、光伏、锂电、商业流通、食药品、烟草、鞋服等行业。",
+      "score": 75,
+      "original_title": "",
+      "translated": false,
+      "priority": 50,
+      "uid": "cc4ba3dd79e4"
+    },
+    {
+      "title": "Anthropic / 克劳德：投资公益",
       "link": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-12T06:45:32+00:00",
+      "published": "2026-11-13T06:01:02+00:00",
       "summary": "今天，我们将 Anthropic 的部分股份捐赠给 Anthropic 公共福利基金，这是一个新的全资实体，其结构会随着公司的发展而增加股份。 经股东批准，今天将承诺认购 5% 的 Anthropic 股份，公司价值每增加 50%，董事会可酌情增持 2%。",
       "score": 60,
       "original_title": "Anthropic / Claude：Investing in the public benefit",
@@ -57,17 +70,30 @@
       "uid": "c34aebdbb449"
     },
     {
-      "title": "面向退伍军人和现役军人的 ChatGPT Plus",
-      "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍",
+      "link": "https://openai.com/business/customer-stories/gondola",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-11-11T08:00:00+00:00",
-      "summary": "超过 20,000 名退伍军人和转业军人已申请免费一年的 ChatGPT Plus。 看看他们如何利用它为平民职业做好准备。",
+      "published": "2026-11-12T12:00:00+00:00",
+      "summary": "Gondola 帮助创意人员获得认可并获得聘用，Codex 将其首席工程师的产出提高了 50%，而 ChatGPT 则简化了日常工作。",
       "score": 60,
-      "original_title": "ChatGPT Plus for veterans and servicemembers",
+      "original_title": "Gondola doubles revenue as its team builds more with Codex",
       "translated": true,
       "priority": 0,
-      "uid": "5885c8acf96e"
+      "uid": "6a2e292d3a2b"
+    },
+    {
+      "title": "启境 GT7 迎上市以来最大规模 OTA：华为干昆智驾 ADS 5.0.2 上线，新增手势泊出、园区领航等",
+      "link": "https://www.ithome.com/1/026/660.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-11-13T03:58:08+00:00",
+      "summary": "IT之家 11 月 13 日消息，启境汽车今日宣布启境 GT7 迎上市以来最大规模 OTA，带来华为干昆智驾 ADS 5.0.2、鸿蒙座舱 HarmonySpace6、三电性能升级等。 智驾方面，新版本新增 手势泊出、园区领航、车道级导航、主动涉水检测 ；座舱方面，鸿蒙座舱 6 率先升级紫貂奇奇、干昆分享、工具栏自定义、调音魔方、“云瞰”远程语音提醒、竖向菜单栏、星环散射体辅助驾驶场景交互等；三电方面，86 度电池车型快充时间缩短，并带来动力电池极低温保温功能、超级冷却模式等。 IT之家注意到，启境 GT7 于今年 6 月上市，是广汽集团与华为干昆联合打造的高端智能新能源汽车品牌“启境”旗下首款车型， 官方指导价 20.99 万元起 。 启境 GT7 车身长宽高分别为 5050mm、1980mm 和 1470mm，轴距 3000mm，风阻系数 0.198Cd，搭载最新一代 HUAWEI XPIXEL 百万像素智慧投影大灯、前排双零重力座椅、896 线双光路图像级激光雷达、纯电续航达 900km。",
+      "score": 50,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "9dbe9fda2ace"
     },
     {
       "title": "意大利银行业抨击梅洛尼政府最新增税计划",
@@ -83,6 +109,19 @@
       "uid": "78d471aa31e2"
     },
     {
+      "title": "微软 365 大规模宕机超 10 小时，日本政府不得不改用电话维持工作",
+      "link": "https://www.ithome.com/1/026/662.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-11-13T04:10:25+00:00",
+      "summary": "IT之家 11 月 13 日消息，今日凌晨，微软旗下 Outlook、Teams 等 Microsoft 365 核心服务发生全球性大规模中断。监测网站 Downdetector 的数据显示，Outlook 的问题报告量一度接近 13 万条，故障持续数小时，波及多个国家和地区的政府机构与企业用户。日本政府是受波及的公共部门之一。据央视新闻今日报道，日本内阁官房副长官尾崎正直记者会上确认，数字厅运营的政府共通信息基盘“GSS”（IT之家注：Government Solution Service，为日本各府省厅提供标准化的办公电脑与网络环境）出现故障，各部门使用的 Outlook 等邮件软件停止运行，部分业务受到影响。有政府相关人士对媒体表示，“霞关（日本中央省厅集中地）相当混乱”。日本数字大臣古川俊治表示，作为紧急应对，已确保电话、聊天工具、短信等多种联络手段，“当前正通过上述方式维持运作，避免政府业务出现障碍”。",
+      "score": 30,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "297cf3031f93"
+    },
+    {
       "title": "Anthropic寻求以1.4万亿美元估值上市",
       "link": "https://www.ftchinese.com/story/001111328",
       "source": "FT 中文网",
@@ -96,30 +135,56 @@
       "uid": "e4d1c6f7134e"
     },
     {
-      "title": "随着伊朗和乌克兰和平乐观情绪增强，油价下跌",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Sink-as-Iran-and-Ukraine-Peace-Optimism-Builds.html",
+      "title": "尽管中东发生新的袭击，油价仍将连续第二周下跌",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Second-Weekly-Loss-Despite-Fresh-Middle-East-Attacks.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-12T06:35:48+00:00",
-      "summary": "陆军签署了……亚美尼亚正在推进计划……原油价格今天延续跌势，当天早些时候，由于乌克兰和伊朗的和平希望不断增强，布伦特原油和 WTI 在亚洲贸易中均下跌超过 1 美元。 截至撰写本文时，布伦特原油交易价格为 91 美元。 每桶 32 美元，西德克萨斯中质原油以 85 美元易手。 每桶 32 个。",
+      "published": "2026-11-13T05:45:00+00:00",
+      "summary": "全球库存耗尽并受到干扰……国家和公司正在前进……在中东消息连续两天上涨之后，原油价格今天将录得第二周的下跌。 截至撰写本文时，布伦特原油交易价格为 95 美元。 每桶 87 美元，西德克萨斯中质原油每桶 88 美元。 每桶49。",
       "score": 15,
-      "original_title": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
+      "original_title": "Oil Prices Head for Second Weekly Loss Despite Fresh Middle East Attacks",
       "translated": true,
       "priority": 0,
-      "uid": "0e715bdf36a2"
+      "uid": "0e2c46d386dd"
     },
     {
-      "title": "全球电网扩张激增 50% 创历史新高",
-      "link": "https://oilprice.com/Energy/Energy-General/Global-Power-Grid-Expansion-Surges-50-to-Record-High.html",
+      "title": "稀土战争：美国将军对中国的军事影响力发出警报",
+      "link": "https://oilprice.com/Energy/Energy-General/Rare-Earth-Wars-US-General-Sounds-Alarm-Over-Chinas-Military-Leverage.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-12T00:00:00+00:00",
-      "summary": "国际可再生​​能源机构本周在 COP31 上报告称，公用事业公司去年共修建了超过 21,000 公里的新输电线路，并援引了名为“净零公用事业联盟”的组织的数据。 IRENA 在报告中指出，这比去年安装的新输电线路多了 50%。",
+      "published": "2026-11-13T01:00:00+00:00",
+      "summary": "11月3日，陆军前副参谋长、退役四星将军杰克·基恩正式发出警告：中国“已经明确表示准备利用[美国]的依赖作为杠杆。”他所说的依赖是美国对中国稀土的依赖。 他并不是在有线电视新闻节目中这么说的。",
       "score": 15,
-      "original_title": "Global Power Grid Expansion Surges 50% to Record High",
+      "original_title": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
       "translated": true,
       "priority": 0,
-      "uid": "77db1915a4d6"
+      "uid": "fb43473c422a"
+    },
+    {
+      "title": "油价在和平希望与伊朗升级风险之间徘徊",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-11-13T00:00:00+00:00",
+      "summary": "受中东局势持续缓和以及俄罗斯-乌克兰战争的影响，油价已从 10 月底每桶 118 美元的峰值下跌约 20%。 几个月来，交易员和对冲基金经常押注于冲突的解决，只是在谈判破裂时才重新激活买盘。 -乌克兰和俄罗斯之间的调解谈判正在进行中，双方都没有取得突破的迹象......",
+      "score": 15,
+      "original_title": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
+      "translated": true,
+      "priority": 0,
+      "uid": "9cdf53a5c672"
+    },
+    {
+      "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI Blog",
+      "category": "AI与科技",
+      "published": "2026-11-12T18:00:00+00:00",
+      "summary": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 收听文章 此内容由 Google AI 生成。 生成式 AI 处于实验阶段 今天，Google 搜索通过 Gemini 4 Hydrogen 为每个人带来尖端智能。 这是迄今为止对搜索最大的模型升级。",
+      "score": 15,
+      "original_title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "translated": true,
+      "priority": 0,
+      "uid": "74ffa76cf3e0"
     },
     {
       "title": "美国航空自 2019 年以来首次将新鲜食品带回纽约-芝加哥头等舱",
@@ -133,19 +198,6 @@
       "translated": true,
       "priority": 0,
       "uid": "03948a030ff9"
-    },
-    {
-      "title": "量子计算被认为是解决人工智能失控的电力需求的方法",
-      "link": "https://oilprice.com/Energy/Energy-General/Quantum-Computing-Is-Being-Pitched-as-the-Fix-for-AIs-Runaway-Power-Appetite.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-11-11T22:00:00+00:00",
-      "summary": "量子计算能否拯救人工智能自身？ 人工智能领域的能源和水需求不断增加，给世界有限资源带来巨大压力，也给全球能源网络带来前所未有的压力。 潘多拉魔盒无法关闭：人工智能将继续存在。 那么我们如何改变它的功能以使其运营和增长预测保持在地球范围内......",
-      "score": 15,
-      "original_title": "Quantum Computing Is Being Pitched as the Fix for AI's Runaway Power Appetite",
-      "translated": true,
-      "priority": 0,
-      "uid": "95cdab4552fa"
     },
     {
       "title": "Gemini Decisions API：快速、经过校准的多模式决策",
@@ -166,7 +218,7 @@
       "source": "FT 中文网",
       "category": "A股与宏观",
       "published": "2026-11-11T16:00:00+00:00",
-      "summary": "理解世界经济的底层逻辑 全球经济的变化往往并非偶然，而是由政策、资本、技术与地缘政治共同推动。 FT中文网的内容强调背景、因果关系与长期影响，帮助读者超越新闻表面，理解正在发生的真实变化。 对于专业人士而言，系统性认知比碎片化信息更有价值。",
+      "summary": "投资者兴趣曾推动小型模块化核反应堆、地热能和燃料电池相关企业股价飙升，但这反过来意味着这些企业必须持续“烧钱”以完成项目。",
       "score": 15,
       "original_title": "",
       "translated": false,
@@ -185,63 +237,37 @@
       "translated": true,
       "priority": 0,
       "uid": "3d0b3f2b03b0"
-    },
-    {
-      "title": "体验 Esther Mahlangu 博士的艺术和遗产",
-      "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-11-11T09:00:00+00:00",
-      "summary": "体验 Esther Mahlangu 博士的艺术和遗产 今天，我们将在 Google 艺术与文化上分享艺术家 Esther Mahlangu 博士的首次在线回顾展，以纪念她 91 岁生日时的开拓精神。 超过 45 个故事和丰富的档案涵盖了她的艺术、生活和遗产，现已向全球观众开放。 多年来，我与埃丝特和她的家人密切合作。",
-      "score": 15,
-      "original_title": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "translated": true,
-      "priority": 0,
-      "uid": "33fbcb04618b"
-    },
-    {
-      "title": "中国 Android 厂商开始要求开发者身份验证",
-      "link": "https://www.solidot.org/story?sid=85848",
-      "source": "Solidot·通信",
-      "category": "通信与安防",
-      "published": "2026-11-10T11:18:31+00:00",
-      "summary": "Google 从今年 9 月起要求验证所有 Android 应用开发者的身份，未经身份验证的开发者的应用未来将无法在 Android 设备上安装（sideload）。Google 官方博客声称它是出于安全理由要求验证开发者身份，理由是其分析显示来自第三方源的恶意应用数量是 Google Play 的 90 多倍。现在，中国主要 Android 厂商也启动了开发者身份验证：OPPO、vivo、小米、荣耀推出 Android 侧载应用开发者身份验证（Android Developer Verification，简称 ADV），支持各方验证结果互认。ADV 旨在建立开发者与其应用之间的可信关联，为用户识别应用来源、判断应用是否安全提供依据。",
-      "score": 15,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "5de4cd1bf207"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3655.0012,
-        "change": -25.6416,
-        "pct": -0.7,
-        "amount_yi": 8220.75
+        "price": 3632.4264,
+        "change": -23.4031,
+        "pct": -0.64,
+        "amount_yi": 6145.9
       },
       {
         "name": "深证成指",
-        "price": 11204.06,
-        "change": -185.677,
-        "pct": -1.63,
-        "amount_yi": 9860.48
+        "price": 10969.66,
+        "change": -228.32,
+        "pct": -2.04,
+        "amount_yi": 7120.24
       },
       {
         "name": "创业板指",
-        "price": 2510.57,
-        "change": -61.494,
-        "pct": -2.39,
-        "amount_yi": 2215.42
+        "price": 2426.75,
+        "change": -82.684,
+        "pct": -3.29,
+        "amount_yi": 1574.03
       },
       {
         "name": "沪深300",
-        "price": 4041.6319,
-        "change": -34.0774,
-        "pct": -0.84,
-        "amount_yi": 4767.1
+        "price": 4012.9998,
+        "change": -30.9256,
+        "pct": -0.76,
+        "amount_yi": 3632.56
       }
     ],
     "holdings": [
@@ -250,11 +276,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 48.96,
-        "market_value": 4896.0,
-        "pnl": 1723.36,
-        "pnl_pct": 54.32,
-        "weight_hint": "44.3%",
+        "price": 49.92,
+        "market_value": 4992.0,
+        "pnl": 1819.36,
+        "pnl_pct": 57.35,
+        "weight_hint": "44.5%",
         "note": "",
         "available": true
       },
@@ -263,11 +289,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 29.61,
-        "market_value": 2961.0,
-        "pnl": 264.59,
-        "pnl_pct": 9.81,
-        "weight_hint": "26.8%",
+        "price": 29.88,
+        "market_value": 2988.0,
+        "pnl": 291.59,
+        "pnl_pct": 10.81,
+        "weight_hint": "26.7%",
         "note": "",
         "available": true
       },
@@ -276,10 +302,10 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 8.69,
-        "market_value": 2607.0,
-        "pnl": 729.48,
-        "pnl_pct": 38.85,
+        "price": 8.83,
+        "market_value": 2649.0,
+        "pnl": 771.48,
+        "pnl_pct": 41.09,
         "weight_hint": "23.6%",
         "note": "",
         "available": true
@@ -289,11 +315,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.88,
-        "market_value": 176.0,
-        "pnl": -142.0,
-        "pnl_pct": -44.65,
-        "weight_hint": "1.6%",
+        "price": 0.86,
+        "market_value": 172.0,
+        "pnl": -146.0,
+        "pnl_pct": -45.91,
+        "weight_hint": "1.5%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -302,11 +328,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.117,
-        "market_value": 411.7,
-        "pnl": -85.3,
-        "pnl_pct": -17.16,
-        "weight_hint": "3.7%",
+        "price": 4.086,
+        "market_value": 408.6,
+        "pnl": -88.4,
+        "pnl_pct": -17.79,
+        "weight_hint": "3.6%",
         "note": "",
         "available": true
       },
@@ -326,121 +352,103 @@
     ],
     "sectors": [
       {
-        "name": "金融/银行 · 金融信息服务",
-        "pct": 1.98,
+        "name": "金融/银行 · 银行",
+        "pct": 1.48,
         "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 0.4,
+        "main_flow_yi": 12.75,
         "source": "东财行业"
       },
       {
-        "name": "半导体/电子 · 半导体设备",
-        "pct": 0.84,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": 18.14,
+        "name": "金融/银行 · 银行Ⅱ",
+        "pct": 1.48,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": 12.75,
         "source": "东财行业"
       },
       {
-        "name": "金融/银行 · 国有大型银行Ⅲ",
-        "pct": 0.68,
-        "why": "对应工商银行，关注净息差与分红",
+        "name": "新能源/光伏 · 风电整机",
+        "pct": 0.48,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.25,
+        "source": "东财行业"
+      },
+      {
+        "name": "煤炭 · 煤炭开采",
+        "pct": -0.18,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": 2.38,
         "source": "东财行业"
       },
       {
-        "name": "新能源/光伏 · 光伏主材",
-        "pct": -0.09,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": 1.02,
+        "name": "煤炭 · 煤炭",
+        "pct": -0.55,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": 1.8,
         "source": "东财行业"
       },
       {
-        "name": "石油 · 石油行业",
-        "pct": -0.96869296644672,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "电力/公用 · 供水供气",
-        "pct": -1.0040047379999,
+        "name": "电力/公用 · 电力",
+        "pct": -0.71,
         "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "煤炭 · 煤炭行业",
-        "pct": -1.1050422293026,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": null,
-        "source": "新浪行业"
-      },
-      {
-        "name": "半导体/电子 · 电子信息",
-        "pct": -2.1506043148514,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": null,
-        "source": "新浪行业"
+        "main_flow_yi": 5.76,
+        "source": "东财行业"
       }
     ],
     "policy_news": [
       {
-        "title": "国泰海通证券路颖：中国资产具备较强安全性与韧性，宏观政策自主空间较大",
-        "link": "https://finance.sina.com.cn/stock/csjzbj/2026-11-12/doc-iniynaxf1802806.shtml",
+        "title": "稳市机制建设获货币政策“加力”表述！沪深300ETF华泰柏瑞（510300）助力布局核心资产估值修复窗口",
+        "link": "https://finance.sina.com.cn/money/fund/jjh/2026-11-13/doc-iniyqfwh8035210.shtml",
         "level": "高",
         "tag": "政策"
       }
     ],
     "industry_news": [
       {
-        "title": "6.8亿元拿下亚玛顿控制权，95后潮玩老板赵云鹏跨界光伏，18万元注册资本背后站着泡泡玛特、阅文",
-        "link": "https://finance.sina.com.cn/stock/csjzbj/2026-11-12/doc-iniynaxf1796172.shtml",
+        "title": "农业银行副行长王大军：信贷结构动能向新、向优、向好发展趋势非常明显",
+        "link": "https://finance.sina.com.cn/jryx/bank/2026-11-13/doc-iniyqfwf1261930.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "花旗：中广核电力重申“买入”评级 目标价3.8港元",
-        "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-11-12/doc-iniynaxi3843044.shtml",
+        "title": "台积电计划设立5亿美元创投基金 扶持芯片初创企业",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyqfwi3670577.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "ST喜临门遭立案，涉资金占用信披违规",
-        "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-12/doc-iniynaxh8548061.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "资金占用牵出立案，ST喜临门索赔进入征集",
-        "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-12/doc-iniynawz1164694.shtml",
+        "title": "2026年10月全国期货市场交易情况：成交量同比增长50.08%",
+        "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-13/doc-iniyqfwi3688002.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 11051.7,
-    "total_pnl": 2490.13,
-    "total_amount_yi": 18081.23,
+    "total_market_value": 11209.6,
+    "total_pnl": 2648.03,
+    "total_amount_yi": 13266.14,
     "bias": "偏空",
-    "volume_note": "量能：两市合计约 18081 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 金融信息服务、半导体设备、国有大型银行Ⅲ；偏弱 光伏主材、石油行业、供水供气",
+    "volume_note": "量能：两市合计约 13266 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 银行、银行Ⅱ、风电整机；偏弱 煤炭开采、煤炭、电力",
     "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
-    "errors": []
+    "errors": [
+      "新浪行业板块失败: <urlopen error _ssl.c:994: The handshake operation timed out>"
+    ]
   },
   "learning": {
-    "title": "PB（市净率）",
-    "body": "PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。",
+    "title": "股息率",
+    "body": "股息率 = 每股分红 ÷ 股价。偏防守时，高于约4%常被看作有一定现金回报缓冲。神华、工行的观察重点之一就是分红是否稳定。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "视频监控方案",
-    "text": "今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。"
+    "topic": "定额套用",
+    "text": "今儿聊【定额套用】。451跟陕西安装定额放一块，像俩表亲开会：看着都姓定，细问各算各的。你刚把边界理清，人家说“这块能不能合并”——合并的是定额，分裂的是头发。社会经验：重复计取这事，定额怕，审计更怕，最怕的是你自己半夜突然想起来。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
-    "IT之家·通信安防: 请求失败 (Remote end closed connection without response)",
+    "新浪行业板块失败: <urlopen error _ssl.c:994: The handshake operation timed out>",
     "36氪: 解析失败 (<unknown>:11:168: not well-formed (invalid token))",
-    "IT之家·出行: 请求失败 (Remote end closed connection without response)"
+    "InfoQ 中文: 解析失败 (<unknown>:2:0: syntax error)"
   ]
 }
