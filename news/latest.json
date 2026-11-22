@@ -1,8 +1,8 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-11-21T14:35:52.393060+08:00",
+  "generated_at": "2026-11-22T14:03:41.180505+08:00",
   "timezone": "Asia/Shanghai",
-  "count": 18,
+  "count": 17,
   "items": [
     {
       "title": "OpenAI 的性能工厂如何保持 ChatGPT 的高速运作",
@@ -22,8 +22,8 @@
       "link": "https://www.anthropic.com/news/announcements",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-21T06:36:15+00:00",
-      "summary": "公告 - 2026年11月20日 Anthropic 宣布首次公开募股完成，包括承销商额外购股权的全部行使，以及同时进行的私募配售完成 今日，Anthropic, PBC 宣布，其首次公开募股已完成，共发行1,127,000,000股A类普通股，公开发行价格为每股83美元。",
+      "published": "2026-11-22T06:04:01+00:00",
+      "summary": "公告 - 2026年11月20日 Anthropic宣布完成首次公开募股，包括承销商额外购股权的全部行使，以及同步私募的完成 今日，Anthropic, PBC宣布完成其首次公开募股，共计发售1,127,000,000股A类普通股，公开发售价为每股83美元。",
       "score": 60,
       "original_title": "Anthropic / Claude：Announcements",
       "translated": true,
@@ -36,7 +36,7 @@
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-11-18T21:35:43+00:00",
-      "summary": "推出 Gemini 4 Neon 今天，我们推出 Gemini 4 Neon — 在复杂的软件工程、知识工作和科学工作流程中，提供前沿级智能和快速的端到端任务完成能力。Neon 的排名领先于可比模型，在人工分析智能指数的 xhigh 思维水平上以 61 分位列整体第三，仅次于更大、更慢的模型。",
+      "summary": "推出 Gemini 4 Neon 今天，我们推出 Gemini 4 Neon — 在复杂的软件工程、知识工作和科学工作流程中，提供前沿级智能和快速端到端任务完成能力。Neon 在可比模型中排名靠前，并且在人工智能分析指数中以 61 分位列整体第三，在其超高思维水平上，仅次于更大、更慢的模型。",
       "score": 45,
       "original_title": "Introducing Gemini 4 Neon",
       "translated": true,
@@ -44,51 +44,25 @@
       "uid": "037d3963f9bd"
     },
     {
-      "title": "GrapheneOS 公开指责谷歌施压，阻挠与摩托罗拉建立第三方系统合作",
-      "link": "https://www.ithome.com/1/030/347.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-11-21T05:05:02+00:00",
-      "summary": "IT之家 11 月 21 日消息，GrapheneOS 官方账号在 Mastodon 平台发文，公开指责谷歌试图阻止 OEM 手机厂商与其合作，甚至施压手机制造商不要支持解锁 Bootloader（引导加载程序）。GrapheneOS 称谷歌曾多次主动联系 Android 设备制造商，询问对方是否正在与 GrapheneOS 合作，并声称谷歌随后会利用 Google Mobile Services（GMS）授权条款向手机厂商施压。GrapheneOS 指出，相关 GMS 授权条款此前已受到多个司法机构的反垄断审查，并认为谷歌正试图阻止其获得 Pixel 手机以外的硬件支持。GrapheneOS 还指责谷歌不断将更多功能和系统更新限制在 Pixel 系列设备上，并预计谷歌未来可能进一步限制 Pixel 手机的 Bootloader 解锁功能。",
-      "score": 100,
-      "original_title": "",
-      "translated": false,
-      "priority": 75,
-      "uid": "7608d259f207"
-    },
-    {
-      "title": "22.98 万元起鸿蒙智行问界 M6 现车权益：1 万元补贴、3 年 0 息、贷 5 免 3 三选一",
-      "link": "https://www.ithome.com/1/030/361.htm",
+      "title": "无需游戏引擎！马斯克称特斯拉 FSD v15 实景视图仅动用 AI4 芯片一个 TRIP 加速器一半算力",
+      "link": "https://www.ithome.com/1/030/563.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-11-21T06:26:09+00:00",
-      "summary": "IT之家 11 月 21 日消息，赛力斯执行董事、副总裁康波今日宣布，赛力斯汽车与华为联合设计的 AITO 问界 M6 推出限时现车购车权益。在 11 月 21 日 0 点至 11 月 30 日 24 点期间下定的用户，可在 10000 元现车补贴、3 年 0 息金融方案和“贷 5 免 3”金融方案三种权益方案中任选其一，官方宣称最快 1 周可提车。官方海报提示，现车数量有限，先到先得。问界 M6 官方指导价区间为 22.98 万-29.98 万元，共推出 8 款配置，纯电版 22.98 万元起，增程版 23.该车定位中大型大五座新能源 SUV，于 2026 年 4 月 22 日正式上市。具体来看，3 年 0 息方案的月供为 4445 元起，贷 5 免 3 方案的月供为 2667 元起。两款金融方案的首付金额均为 6.",
-      "score": 100,
-      "original_title": "",
-      "translated": false,
-      "priority": 65,
-      "uid": "6b59456e3f1c"
-    },
-    {
-      "title": "4299 元华擎 X870E TaiChi 太极 OCF 主板发售：22+2+1 相供电，支持 10400MHz 内存超频",
-      "link": "https://www.ithome.com/1/030/355.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-11-21T06:02:21+00:00",
-      "summary": "IT之家 11 月 21 日消息，华擎 X870E Taichi 太极 OCF 主板现已在京东上架开售，定价显示为 4299 元。京东 华擎（ASRock）X870E TaiChi 太极 OCF 主板 DDR5 支持 AMD CPU 9800X3D/9850X3D（AMD X870E/Socket AM5) 4299 元 直达链接 该主板采用 22+2+1 相供电设计，核心与 SOC 均采用 110A SPS 智能功率级，可独立监控每一相电源；搭配新一代 Dr.MOS，在增强超频能力的同时有效控制温度表现，可支持 R9 级处理器。在内存方面，该主板支持 10400 MHz 以上频率的 DDR5 内存超频，最大内存容量可达 128GB，同时兼容 Intel XMP 与 AMD EXPO 一键超频技术。为保障高频内存稳定性，该主板配备了专门的模组散热风扇，通过导向气流直接为内存模组降温，提升高频运作环境下的散热效率。",
+      "published": "2026-11-22T04:18:50+00:00",
+      "summary": "IT之家 11 月 22 日消息， 特斯拉今日宣布在美国市场推出 FSD v15 ，带来了全新可视化界面 ——“Tesla Reality View”（特斯拉实景视图）。随后全新的“Tesla Reality View”迅速引发网友热议。博主 @旌旗超智能 分析，特斯拉是在硬件劣势的情况做了 3D 高斯全场景重建。他称自己今天仔细检查了一下特斯拉 FSD 2 代芯片的规格，发现不如很多新势力的自研芯片。IT之家注意到，马斯克今日也发文对该功能进行了说明。他透露，FSD v15 的“Tesla Reality View”是由实时 AI 视频生成，无需游戏引擎！且仅动用了 AI4 芯片一个 TRIP 加速器一半的算力 。",
       "score": 65,
       "original_title": "",
       "translated": false,
-      "priority": 25,
-      "uid": "5ed43320c510"
+      "priority": 35,
+      "uid": "9f19dd6d1b06"
     },
     {
       "title": "Anthropic / Claude：投资于公共利益",
       "link": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-21T06:36:15+00:00",
-      "summary": "今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值超过设定基准每增加50%时，由董事会酌情增加额外的2%。",
+      "published": "2026-11-22T06:04:01+00:00",
+      "summary": "今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值较设定基准增加50%时，由董事会酌情再增加2%的股份。",
       "score": 60,
       "original_title": "Anthropic / Claude：Investing in the public benefit",
       "translated": true,
@@ -109,17 +83,30 @@
       "uid": "5cf05e415e57"
     },
     {
-      "title": "消息称华为星芒品牌已在内部酝酿约三年，将承担更多前沿技术的率先应用任务",
-      "link": "https://www.ithome.com/1/030/353.htm",
+      "title": "无限滚动自动播放有害社会",
+      "link": "https://www.solidot.org/story?sid=85946",
+      "source": "Solidot·通信",
+      "category": "通信与安防",
+      "published": "2026-11-20T10:50:51+00:00",
+      "summary": "根据发表在《The Lancet Psychiatry》期刊上的一篇报告，全球逾十分之一人口可能受到问题性互联网使用的影响，每年由此带来的经济和社会成本可能高达数十亿美元。问题性互联网使用包括了：强迫性使用社交媒体、过度沉迷游戏、网络赌博、强迫性网购、问题性色情内容消费，以及反复搜索加剧焦虑的健康信息。无限滚动的信息流、视频自动播放、个性化推荐以及各类通知等都在诱导用户不断回到社交应用和平台中。报告作者认为责任不应仅由用户和家庭承担，设计数字产品的企业也难辞其咎。企业在设计数字产品时就刻意捕捉并留住用户的注意力。报告作者主张通过更强有力的监管减少危害，认为目前已有充分证据支持采取协调一致的国际行动。",
+      "score": 50,
+      "original_title": "",
+      "translated": false,
+      "priority": 35,
+      "uid": "24e0c3034731"
+    },
+    {
+      "title": "终抵千万里程碑：曝华为 Mate 80 系列手机终端销量破 1000 万台，标准版占比近 58%",
+      "link": "https://www.ithome.com/1/030/560.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-11-21T05:48:08+00:00",
-      "summary": "IT之家 11 月 21 日消息，据《每日经济新闻》报道，近日，华为星芒相关负责人在接受媒体采访时透露，星芒品牌已在内部酝酿约三年， 未来一两年，公司不会对其提出过高的销量及经营目标要求 。现阶段，星芒更重要的任务是建立品牌认知、培育目标用户，并验证新的 AI 技术与产品体验。一个酝酿了约三年的新品牌，为何直到现在才正式推出？华为相关负责人解释称，荣耀独立之后，华为曾经历一段较长时间的供应链和技术体系重建，随后又投入大量资源建设鸿蒙操作系统及应用生态。直到相关基础能力逐步成熟，才具备推出新品牌的条件。谈及新品牌的销量预期时，华为相关负责人表示：“这一两年新品牌首先是要建立心智，把品牌真正树立起来。” 从产品配置来看，华为方面介绍，星芒与主品牌共享麒麟芯片、鸿蒙系统、影像及昆仑玻璃等技术体系，但拥有独立的品牌、产品和社区运营。",
-      "score": 55,
+      "published": "2026-11-22T03:56:29+00:00",
+      "summary": "IT之家 11 月 22 日消息，据博主 @智慧芯片案内人 透露，截至 W46（11 月 9 日-11 月 15 日）， 某厂 M80 系列手机销量已突破 1000 万台 ，其中标准版占比接近 58%。从评论区讨论来看， M80 预计指的是华为 Mate 80 系列手机 。华为 Mate 80 / Pro / Pro Max / RS 手机已于 2025 年 11 月 25 日发布 ，搭载麒麟 9020 / 9030 / 9030 Pro 处理器，首发鸿蒙 Harmony OS 6 系统，定价 4699 元起， 涨价后 5499 元起 （后增加了一款 Pro Max 风驰版机型）。",
+      "score": 50,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "977705a285b1"
+      "uid": "5acab9c678d5"
     },
     {
       "title": "Gemini 应用现在可在内存较低的安卓设备上使用。",
@@ -135,25 +122,51 @@
       "uid": "22e2c2a60bf7"
     },
     {
-      "title": "油价夹在即将出现的供应过剩与中东动荡之间",
-      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
+      "title": "人工智能热潮迫使全球电网进行大规模投资",
+      "link": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Forces-Massive-Investment-in-Power-Grids-Worldwide.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-21T00:00:00+00:00",
-      "summary": "过去几轮交易中，油价在狭窄区间内波动，因为对即将出现的供应过剩的预测与中东地区持续的袭击和停滞的外交努力相互碰撞。本月一系列机构报告推动了市场对供应过剩的预期，并压低了原油价格。周五早盘，布伦特原油上涨0.22%，至每桶92.18美元，远低于10月超过110美元的水平，但较上一交易日几乎没有变化。",
+      "published": "2026-11-22T00:00:00+00:00",
+      "summary": "信息技术行业正在推动全球电力需求的巨大增长，预计在未来十年将增加超过10,000太瓦时。为了将这些电力输送到需求中心，全球的电网将需要紧急升级。关键问题是谁来支付这笔费用。",
       "score": 15,
-      "original_title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+      "original_title": "AI Boom Forces Massive Investment in Power Grids Worldwide",
       "translated": true,
       "priority": 0,
-      "uid": "b85467799a16"
+      "uid": "c2c7eb320665"
     },
     {
-      "title": "Gap任命新的Athleta首席执行官，并表示Old Navy的转型正在显现进展迹象",
+      "title": "英国的净零革命有一个中国问题",
+      "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-11-21T18:00:00+00:00",
+      "summary": "工党政府在与中国的贸易关系中被指责为“投降”，因为英国向净零排放过渡面临多种安全风险。一份新报告在特朗普总统与习近平和普京的重大三方会晤前发布，强调了英国在净零相关技术上对中国的依赖以及供应链潜在的脆弱性。",
+      "score": 15,
+      "original_title": "Britain's Net Zero Revolution Has a China Problem",
+      "translated": true,
+      "priority": 0,
+      "uid": "4f8e6d08d174"
+    },
+    {
+      "title": "美国航空公司的国际头等舱已经结束。迎来的是超大型商务舱舱位",
+      "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-11-21T12:00:01+00:00",
+      "summary": "美国航空公司最后一班拥有八套舱的航班落地，本周标志着U.航司长途国际头等舱时代的结束。取而代之的将是一个可容纳70名乘客的大型商务舱。各大航空公司一直在放弃国际头等舱舱位，转向新的顶级舱位：更大、更豪华的商务舱，其特点是配备滑动门的套间，这是当下的设计潮流。",
+      "score": 15,
+      "original_title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+      "translated": true,
+      "priority": 0,
+      "uid": "5bf87c710773"
+    },
+    {
+      "title": "Gap任命新的Athleta首席执行官，并表示Old Navy的扭亏为盈正在显现进展迹象",
       "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-11-20T21:04:48+00:00",
-      "summary": "Gap公司周四宣布，Ashley Kechter将成为其Athleta品牌的下一任总裁兼首席执行官，自12月起生效。该零售商还表示，Old Navy的转型正在显示积极进展的迹象，周五股价上涨超过11%。Kechter来自活力服饰零售商Vuori，在那里她担任全球总裁，负责品牌的全球业务战略、营销和财务。",
+      "summary": "Gap公司周四宣布，Ashley Kechter将成为其Athleta品牌的下一任总裁兼首席执行官，自12月起生效。该零售商还表示，Old Navy的转型显示出积极进展的迹象，周五股价上涨超过11%。Kechter来自活力服装零售商Vuori，在那里她担任全球总裁，负责品牌的全球业务战略、营销和财务。",
       "score": 15,
       "original_title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
       "translated": true,
@@ -161,43 +174,17 @@
       "uid": "5b541332a51e"
     },
     {
-      "title": "美国数据中心繁荣面临新的政治现实",
-      "link": "https://oilprice.com/Energy/Energy-General/US-Data-Center-Boom-Faces-a-New-Political-Reality.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-11-20T19:00:00+00:00",
-      "summary": "从一月份开始，民主党州长将领导的美国各州总计占据2027-2030年宣布的数据中心容量300吉瓦(GW)的77%，包括五大市场：德克萨斯州、弗吉尼亚州、宾夕法尼亚州、俄亥俄州和乔治亚州。大多数获胜候选人的竞选活动都主张让数据中心支付其电网成本，而不是阻止它们，因此中期选举可能会改变增长的条件...",
-      "score": 15,
-      "original_title": "US Data Center Boom Faces a New Political Reality",
-      "translated": true,
-      "priority": 0,
-      "uid": "b9382ea3d5c5"
-    },
-    {
       "title": "拒绝廉价面料，价格更高：为什么购物者要求更好的衣服",
       "link": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-11-20T12:00:02+00:00",
-      "summary": "服装的制造方式已经不再像过去那样，越来越多的消费者开始注意到这一点。近年来，进口到美国的服装构成已经发生了变化。2010年，大约60%的服装主要由棉制成。现在，这一比例约为45%，而主要由聚酯纤维和尼龙等合成纤维制成的服装占进口的多数。在此之前的二十年中，服装价格总体呈下降趋势……",
+      "summary": "服装的制造方式已经不再像过去那样，越来越多的消费者开始注意到这一点。近年来，进口到美国的服装构成已经发生了变化。2010年，大约60%的服装主要由棉制成。现在，这一比例约为45%，而主要由聚酯纤维和尼龙等合成纤维制成的服装占进口的多数。在过去的二十年里，服装价格总体呈下降趋势，直到最近才出现变化。",
       "score": 15,
       "original_title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
       "translated": true,
       "priority": 0,
       "uid": "9512078eb38f"
-    },
-    {
-      "title": "沃尔玛提高前景预期，CEO在接受CNBC采访时表示，尽管燃油成本飙升，零售商仍计划保持低价",
-      "link": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-11-19T19:58:30+00:00",
-      "summary": "沃尔玛周四报告的收益和收入略高于预期，并上调了全年前景，因为该公司在繁忙的假日季之前看到了强劲的电子商务增长。沃尔玛表示，受店内履行的取货和配送推动，全球电子商务销售在财年第三季度飙升了17%，其中沃尔玛美国销售增长了23%，山姆会员商店美国销售增长了30%。沃尔玛美国的...",
-      "score": 15,
-      "original_title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-      "translated": true,
-      "priority": 0,
-      "uid": "d0b538a0e087"
     },
     {
       "title": "在 Gemini API 中引入工具检索",
@@ -226,17 +213,17 @@
       "uid": "624a81d05108"
     },
     {
-      "title": "阿根廷能源公司在2027年大选前抢售债券",
-      "link": "https://oilprice.com/Energy/Energy-General/Argentine-Energy-Firms-Rush-to-Sell-Bonds-Before-the-2027-Election.html",
+      "title": "埃默表示，风能可能使全天候太阳能发电成本降低18%",
+      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Could-Cut-the-Cost-of-Round-the-Clock-Solar-Power-by-18-Ember-Says.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-20T22:00:00+00:00",
-      "summary": "阿根廷的能源部门正迎来丰收年。2026年上半年，得益于中东出口下降和瓦卡穆埃尔塔页岩区强劲的生产数据，这个南美国家实现了五年来最好的能源贸易顺差，出口激增。而阿根廷的能源出口热潮尚未结束。",
+      "published": "2026-11-21T22:00:00+00:00",
+      "summary": "来自Ember能源的一份新报告显示了风能巨大的节约成本潜力。尽管太阳能和电池储能在全球范围内迅速发展，但风能的扩张较为缓慢。然而，根据这家著名能源智库的新报告，这对能源安全、减排目标和经济回报都是一个重大错失的机会。",
       "score": 10,
-      "original_title": "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election",
+      "original_title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
       "translated": true,
       "priority": 0,
-      "uid": "410df906c7f8"
+      "uid": "48aa04ca7805"
     }
   ],
   "market": {
@@ -425,40 +412,40 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "中信建投：AI芯片电感产业链投资前景",
-        "link": "https://finance.sina.com.cn/stock/s/2026-11-21/doc-iniznnyh3501059.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "高股息指数防“虚胖”：上证红利、中证红利等将引入可投资权重上限",
-        "link": "https://finance.sina.com.cn/roll/2026-11-21/doc-iniznhsh6809538.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "视频|特朗普谈芯片与黄仁勋：美国只愿意出售较旧芯片 黄仁勋是“才华横溢的人” 希望道歉后回归英伟达",
-        "link": "https://finance.sina.com.cn/stock/2026-11-21/doc-iniznhsh6793916.shtml",
+        "title": "华电国际电力股份将于2月1日派发中期股息每股0.09元",
+        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-22/doc-inizqmrk2938309.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "Anthropic上市表现遇冷 华尔街AI板块合计蒸发4万亿美元市值",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-iniznnyc4994741.shtml",
+        "title": "下周A股，非常关键！",
+        "link": "https://finance.sina.com.cn/stock/roll/2026-11-22/doc-inizqrxh2902967.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "6G将迎重磅大会，这些公司抢先布局！机构资金潜伏10只概念股",
-        "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-21/doc-iniznhsh6814449.shtml",
+        "title": "美股要“通宵”了，专家：A股、港股盘中震荡很可能加大",
+        "link": "https://finance.sina.com.cn/stock/roll/2026-11-22/doc-inizqrxe6127401.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "晕了晕了！近1900亿资金进场抄底宽基ETF，而行业主题ETF却遭遇资金抛售",
-        "link": "https://finance.sina.com.cn/roll/2026-11-21/doc-iniznhsh6809331.shtml",
+        "title": "马斯克最新警告：人工智能行业明年可能面临严重的资金短缺 可能需要数千亿美元额外资金投入",
+        "link": "https://finance.sina.com.cn/roll/2026-11-22/doc-inizqrxk9062900.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "下周A股28家公司限售股解禁：蓝特光学、炬光科技等热门股在列 多只价格曾翻倍",
+        "link": "https://finance.sina.com.cn/stock/roll/2026-11-22/doc-inizqrxh2848114.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "利好来了！360亿元长线资金，明天入市！",
+        "link": "https://finance.sina.com.cn/wm/2026-11-22/doc-inizqrxn1338786.shtml",
         "level": "中",
         "tag": "股市"
       }
@@ -469,18 +456,18 @@
     "bias": "偏空",
     "volume_note": "量能：两市合计约 14222 亿元（接口口径），成交偏活跃",
     "sector_note": "行业分化：偏强 国有大型银行Ⅲ；偏弱 煤炭、光伏主材、煤炭行业",
-    "tip": "成交量放大+上涨，比缩量上涨更有参考价值",
+    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
     "errors": []
   },
   "learning": {
-    "title": "PE（市盈率）",
-    "body": "PE = 股价 ÷ 每股收益，粗看股票贵不贵。银行/能源股常见区间更低；神华这类更常结合股息率一起看，别只看PE。",
+    "title": "PB（市净率）",
+    "body": "PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "A股开盘",
-    "text": "今儿聊【A股开盘】。早盘像相亲：看着挺热闹，真心没几个。神华长江电力坐那儿跟老干部似的，不吵不闹，偶尔点个头；主题炒作跟广场舞大妈似的，音箱一响全场跟。社会经验：能吃息的先吃息，能睡觉的别盯盘——盯盘不涨，只涨血压。"
+    "topic": "视频监控方案",
+    "text": "今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
