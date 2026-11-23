@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hunt 每日简报</title>
+  <style>
+    :root {
+      --ink: #1a1f2e;
+      --muted: #5c6578;
+      --paper: #f6f3ec;
+      --panel: rgba(255,255,255,0.78);
+      --accent: #0e7c66;
+      --line: rgba(26,31,46,0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Noto Sans SC", "PingFang SC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, #d7efe8 0%, transparent 55%),
+        radial-gradient(900px 500px at 100% 0%, #f2e6c9 0%, transparent 50%),
+        linear-gradient(180deg, #eef2f0 0%, var(--paper) 40%, #ebe6dc 100%);
+      min-height: 100vh;
+    }
+    .wrap {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    header {
+      margin-bottom: 36px;
+      animation: rise 0.7s ease both;
+    }
+    .brand {
+      font-family: "Fraunces", "Noto Serif SC", Georgia, serif;
+      font-size: clamp(2.2rem, 6vw, 3.4rem);
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      margin: 0 0 10px;
+    }
+    .sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 36em;
+    }
+    .cat {
+      background: var(--panel);
+      backdrop-filter: blur(8px);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 22px 24px;
+      margin-bottom: 18px;
+      animation: rise 0.8s ease both;
+    }
+    .humor, .learning, .market {
+      border-color: rgba(14,124,102,0.25);
+      background: linear-gradient(180deg, rgba(14,124,102,0.08), var(--panel));
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 0.85rem;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+    ul { list-style: none; padding: 0; margin: 0; }
+    li {
+      padding: 14px 0;
+      border-top: 1px solid var(--line);
+    }
+    li:first-child { border-top: 0; padding-top: 0; }
+    a {
+      color: var(--ink);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
+    a:hover { color: var(--accent); }
+    .meta {
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+    .sum {
+      margin: 10px 0 0;
+      color: #3d4556;
+      font-size: 0.95rem;
+      line-height: 1.75;
+      white-space: normal;
+    }
+    .disclaimer {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .errors {
+      margin-top: 24px;
+      color: #8a5a00;
+      font-size: 0.9rem;
+    }
+    .empty { color: var(--muted); }
+    footer {
+      margin-top: 28px;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: none; }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=IBM+Plex+Sans:wght@400;600&family=Noto+Sans+SC:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="brand">Hunt 每日简报</p>
+      <p class="sub">stock-learning · 通信安防 · ChatGPT/Claude · 健康 · 2026年11月23日 14:56 · 共 17 条</p>
+    </header>
+    <section class="cat market"><h2>📈 A股晨间雷达</h2><p class='sum'><strong>结论：</strong>今日整体倾向 偏多；量能：两市合计约 15256 亿元（接口口径），成交偏活跃；行业分化：偏强 电子信息、供水供气、石油行业；偏弱 煤炭行业、金融行业</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 指数</h3><ul><li><strong>上证指数</strong> 3535.20 <span style='color:#0e7c66'>+0.04%</span> · 约7240亿</li><li><strong>深证成指</strong> 10449.57 <span style='color:#0e7c66'>+1.88%</span> · 约8016亿</li><li><strong>创业板指</strong> 2279.70 <span style='color:#0e7c66'>+3.05%</span> · 约1658亿</li><li><strong>沪深300</strong> 3954.72 <span style='color:#0e7c66'>+0.00%</span> · 约4479亿</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 你关注的板块</h3><ul><li><strong>半导体/电子 · 电子信息</strong> <span style='color:#0e7c66'>+3.21%</span><div class='meta'>对应半导体ETF，关注景气与政策</div></li><li><strong>电力/公用 · 供水供气</strong> <span style='color:#0e7c66'>+0.87%</span><div class='meta'>对应长江电力，关注来水与股息稳定性</div></li><li><strong>石油 · 石油行业</strong> <span style='color:#0e7c66'>+0.41%</span><div class='meta'>能源价格联动，影响通胀与高股息板块风险偏好</div></li><li><strong>煤炭 · 煤炭行业</strong> <span style='color:#b42318'>-0.31%</span><div class='meta'>对应中国神华，关注煤价与高股息逻辑</div></li><li><strong>金融/银行 · 金融行业</strong> <span style='color:#b42318'>-0.81%</span><div class='meta'>对应工商银行，关注净息差与分红</div></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>持仓快照</h3><ul><li><strong>中国神华</strong>（601088） 现价 51.010 · 盈亏 <span style='color:#0e7c66'>+1928.36（+60.78%）</span> · 仓位约 44.2%</li><li><strong>长江电力</strong>（600900） 现价 31.420 · 盈亏 <span style='color:#0e7c66'>+445.59（+16.53%）</span> · 仓位约 27.2%</li><li><strong>工商银行</strong>（601398） 现价 9.140 · 盈亏 <span style='color:#0e7c66'>+864.48（+46.04%）</span> · 仓位约 23.7%</li><li><strong>半导体ETF</strong>（159995） 现价 0.813 · 盈亏 <span style='color:#b42318'>-155.40（-48.87%）</span> · 仓位约 1.4%</li><li><strong>300ETF</strong>（510300） 现价 4.026 · 盈亏 <span style='color:#b42318'>-94.40（-18.99%）</span> · 仓位约 3.5%</li><li>新能源ETF博时（516580）：暂无报价</li></ul><p class='sum'>持仓合计约 11550.20 元，浮动盈亏约 +2988.63 元。</p><h3 style='margin:14px 0 8px;font-size:0.95rem'>政策面 · 值得关注</h3><ul><li>今日暂无高相关条目</li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>行业面 · 相关资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztfnh0585824.shtml' target='_blank' rel='noopener'>机构：AI、电动车驱动电源管理芯片市场重构 将保持两位数增长</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/companyt/2026-11-23/doc-inizszek0695601.shtml' target='_blank' rel='noopener'>周群飞，入局芯片</a></li></ul><h3 style='margin:14px 0 8px;font-size:0.95rem'>股市面 · 市场资讯</h3><ul><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztfne8254279.shtml' target='_blank' rel='noopener'>摩根大通：亚洲股市投资者持仓降至历史低位，市场或迎来大幅反弹</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztfna2222061.shtml' target='_blank' rel='noopener'>AI数据中心热潮驱动数百亿资金涌入私募基础设施赛道</a></li><li>【中】<a href='https://finance.sina.com.cn/money/fund/2026-11-23/doc-inizszee2346518.shtml' target='_blank' rel='noopener'>马斯克放出Optimus重磅进展！物理AI爆发，科创人工智能ETF华宝（589520）跟踪指数猛拉4.4%，资金关注度高</a></li><li>【中】<a href='https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-inizszek0700394.shtml' target='_blank' rel='noopener'>博枫宣布收购黑石旗下PGP Glass，预计2027年第一季度完成交易</a></li><li>【中】<a href='https://finance.sina.com.cn/money/future/fmnews/2026-11-23/doc-iniztfmy5453668.shtml' target='_blank' rel='noopener'>【复盘】近十年大宗商品那些令人印象深刻的下跌行情！</a></li></ul><p class='sum'>新手提醒：一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向</p></section>
+    
+    <section class="cat"><h2>A股与宏观</h2><ul><li><a href="https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html" target="_blank" rel="noopener">随着公司现金紧缩加剧，埃里克·特朗普支持的机器人初创公司的员工失去了健康福利</a><div class="meta">CNBC · 11-23 02:55</div><p class="sum">根据 CNBC 获得的一份备忘录，未来工业基金会的员工被告知，他们通过管理员 Rippling 获得的健康福利已被终止，这加剧了这家由埃里克·特朗普 (Eric Trump) 建议和支持的人形机器人初创公司陷入财务困境的迹象。</p></li><li><a href="https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html" target="_blank" rel="noopener">披萨连锁店面临压力。 GLP-1 的使用只是问题的一部分</a><div class="meta">CNBC · 11-22 21:00</div><p class="sum">由于消费者支出疲软、餐饮选择增多以及 GLP-1 药物的兴起影响了其销售，大型披萨连锁店陷入困境。 此次疫情是达美乐比萨、棒约翰、小凯撒和必胜客的繁荣时期。 但自从餐厅重新开业以来，美国最大的披萨连锁店在留住顾客方面面临着一场艰苦的战斗。</p></li><li><a href="https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html" target="_blank" rel="noopener">美国航空公司的国际头等舱已经结束。 进入大型商务舱</a><div class="meta">CNBC · 11-21 20:00</div><p class="sum">The era of U. airlines&#x27; long-haul, international first class ended this week when American Airlines&#x27; last flight with its eight-suite section landed. 取而代之的是一个可容纳 70 名乘客的大型商务舱。 airlines have been ditching international first-class cabins for a new top tier: larger and souped-up business classes, featuring suites with sliding doors, the design du jour.</p></li></ul></section><section class="cat"><h2>能源与电力</h2><ul><li><a href="https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-AI-Bubble-Fears-Rattle-Global-Markets.html" target="_blank" rel="noopener">人工智能泡沫担忧扰乱全球市场，油价下滑</a><div class="meta">OilPrice · 11-23 13:50</div><p class="sum">澳大利亚的 Snowy 2.0 抽水电站……胡塞武装人员大约有 100 人……对受人工智能影响的商品的经济增长潜力的怀疑也引发了股票抛售，尽管波斯湾的油轮袭击事件不断，但今天仍拖累原油价格下跌。 截至撰写本文时，布伦特原油交易价格为 92 美元。 每桶 55 美元，西德克萨斯中质原油每桶 83 美元。</p></li><li><a href="https://oilprice.com/Energy/Oil-Prices/Oil-Markets-Are-Betting-on-a-Surplus-That-Hasnt-Arrived-Yet.html" target="_blank" rel="noopener">石油市场押注尚未到来的盈余</a><div class="meta">OilPrice · 11-23 08:00</div><p class="sum">由于对即将到来的盈余的预测与中东持续的袭击和外交停滞相冲突，过去几个交易日油价一直在窄幅波动。 本月一系列机构报告推高了对供应过剩的预期，并对原油造成压力。 布伦特原油上涨 1. 1%，至 92 美元。 上午 11:50 每桶 88 枚。 美国东部时间周四，远低于 110 美元上方的 10 月份水平，但变化不大...</p></li><li><a href="https://oilprice.com/Energy/Energy-General/Google-Backs-Superhot-Geothermal-in-50-MW-Oregon-Power-Deal.html" target="_blank" rel="noopener">Google 支持俄勒冈州 50 兆瓦超热地热电力交易</a><div class="meta">OilPrice · 11-23 02:00</div><p class="sum">人工智能时代驱动的能源需求失控正在推动大型科技公司追求上述所有能源生产方法。 该行业在推动天然气繁荣并延长化石燃料寿命的同时，也将大量资金投入下一代清洁能源技术，包括天基太阳能、核聚变和先进的地热能。</p></li></ul></section><section class="cat"><h2>通信与安防</h2><ul><li><a href="https://www.ithome.com/1/030/833.htm" target="_blank" rel="noopener">上汽 MG4 增推 530 从容版：限时补贴价 7.88 万元起，纯电续航 530km</a><div class="meta">IT之家·通信安防 · 11-23 13:33</div><p class="sum">IT之家 11 月 23 日消息，上汽 MG4 新增 530 从容版车型，官方指导价 8.18 万元，限时补贴价 7.作为参考，目前 MG4 系列共有 13 款车型在售，限时补贴价 6.新车定位紧凑型两厢纯电车，车身长宽高分别为 4395×1842×1551mm，轴距为 2750mm。外观采用家族化设计，前脸配备封闭式格栅和狭长大灯，下方设有蜂窝状下格栅。车身侧面采用短悬设计，搭配双色多辐轮毂，充电口位于前翼子板处；车尾配备小型扰流板，尾灯向两侧延伸，后包围加入黑色饰板。车身颜色方面，新车提供月光白、星野灰、清波翠、东来紫、冰晶蓝、杏仁米共 6 种选择。内饰提供蔷薇紫、黛山蓝、星夜紫三种配色。座舱配备 15.6 英寸中控屏和 8.8 英寸液晶仪表（IT之家注：搭载高通骁龙 8155 车机芯片，车机支持 Apple CarPlay、华为 HiCar 和 Carlink 手机互联）。</p></li><li><a href="https://www.solidot.org/story?sid=85946" target="_blank" rel="noopener">无限滚动自动播放有害社会</a><div class="meta">Solidot·通信 · 11-20 18:50</div><p class="sum">根据发表在《The Lancet Psychiatry》期刊上的一篇报告，全球逾十分之一人口可能受到问题性互联网使用的影响，每年由此带来的经济和社会成本可能高达数十亿美元。问题性互联网使用包括了：强迫性使用社交媒体、过度沉迷游戏、网络赌博、强迫性网购、问题性色情内容消费，以及反复搜索加剧焦虑的健康信息。无限滚动的信息流、视频自动播放、个性化推荐以及各类通知等都在诱导用户不断回到社交应用和平台中。报告作者认为责任不应仅由用户和家庭承担，设计数字产品的企业也难辞其咎。企业在设计数字产品时就刻意捕捉并留住用户的注意力。报告作者主张通过更强有力的监管减少危害，认为目前已有充分证据支持采取协调一致的国际行动。</p></li><li><a href="https://www.ithome.com/1/030/810.htm" target="_blank" rel="noopener">腾讯《地下城与勇士》经典版、《代号 FIGHT》国内首曝：后者 12 月 4 日开测，《卡赞》国区最新情报公开</a><div class="meta">IT之家·通信安防 · 11-23 13:08</div><p class="sum">IT之家 11 月 23 日消息，在 11 月 20 日的 2026 WeGame 游戏之夜活动上，腾讯公布了 DNF 系列三款新作的进展，同时带来多款游戏的测试与上线时间。其中， 《地下城与勇士》经典版 在国内首次亮相。该作以 70 版本为基准，保留上挑、浮空、连击等动作设计，以及技能衔接的打击手感。官方将这款产品定位为“DNF 唯一正版怀旧服”，并宣布 2027 年由国服率先上线。本次测试名为“重逢测试”，计划于 2026 年 12 月初启动。玩家需先完成游戏预约，并在官网或招募问卷页面绑定本人手机号及 QQ 号，之后填写问卷才能报名，具体开测时间后续在官网公告。官方还公布了本次测试的专属奖励：成功参与测试，并达成账号下至少一个角色完成一次觉醒的玩家，可获得“阿拉德开拓者”称号（IT之家附图示如下）领取资格。</p></li></ul></section><section class="cat"><h2>头部AI动态</h2><ul><li><a href="https://www.anthropic.com/news/announcements" target="_blank" rel="noopener">人类/克劳德：公告</a><div class="meta">Anthropic / Claude · 11-23 14:56</div><p class="sum">公告 - 2026 年 11 月 20 日 Anthropic 宣布完成首次公开发行，包括充分行使承销商购买额外股份的选择权，并完成同时私募配售 今天，中国人民银行 Anthropic 宣布完成首次公开发行，发行总计 1,127,000,000 股 A 类普通股，公开发行价格为 83 美元。</p></li><li><a href="https://openai.com/index/combatting-adversarial-distillation" target="_blank" rel="noopener">打击对抗性蒸馏</a><div class="meta">OpenAI / ChatGPT · 11-20 18:00</div><p class="sum">打击对抗性蒸馏我们如何解决蒸馏的安全风险以及我们为加强整个行业的保障措施所吸取的经验教训。 随着前沿人工智能模型的能力越来越强，保障措施在如何负责任地使用它们方面发挥着越来越重要的作用。 对抗性蒸馏为不良行为者在没有适当保障措施的情况下复制这些能力创造了一条途径。</p></li><li><a href="https://deepmind.google/blog/introducing-gemini-4-neon/" target="_blank" rel="noopener">Gemini 4 Neon 简介</a><div class="meta">Google DeepMind · 11-19 05:35</div><p class="sum">隆重推出 Gemini 4 Neon 今天，我们隆重推出 Gemini 4 Neon，它能够在复杂的软件工程、知识工作和科学工作流程中快速完成端到端任务，从而带来前沿级智能。 Neon 领先于同类模型，在人工智能分析智能指数中以极高的思维水平得分 61 分，总体排名第 3，仅落后于较大、速度较慢的模型。</p></li><li><a href="https://www.anthropic.com/news/public-benefit-fund" target="_blank" rel="noopener">人类/克劳德：投资公益</a><div class="meta">Anthropic / Claude · 11-23 14:56</div><p class="sum">今天，我们将 Anthropic 的部分股份捐赠给 Anthropic 公共福利基金，这是一个新的全资实体，其结构会随着公司的发展而增加股份。 经股东批准，今天将承诺认购 5% 的 Anthropic 股份，公司价值每增加 50%，董事会可酌情增持 2%。</p></li><li><a href="https://openai.com/index/perplexity-and-intelligence" target="_blank" rel="noopener">困惑与智慧</a><div class="meta">OpenAI / ChatGPT · 11-22 08:00</div><p class="sum">从远处看，现代人工智能的构建方式似乎与过去几十年软件的构建方式类似：使用针对特定功能的多种技术。 确实有各种各样的方法，但它们不是从头开始设计某些东西，而是主要利用来自更简单且难以解释的过程的智能：训练压缩器（或者等效地（在...中打开）</p></li></ul></section><section class="cat"><h2>AI与科技</h2><ul><li><a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/" target="_blank" rel="noopener">Gemini 应用程序现在可在内存较低的 Android 设备上使用。</a><div class="meta">Google AI Blog · 11-19 01:00</div><p class="sum">Gemini 应用程序现在可在内存较低的 Android 设备上使用。 对于全球数亿人来说，低内存 Android 设备是他们与互联网、教育和商务的日常联系。 直到最近，硬件限制意味着这些手机只有基本的语音命令。 现在，我们将 Gemini 应用程序引入符合条件的 Android（Go 版）设备，将 Google 的个人 AI 助手置于...</p></li><li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/" target="_blank" rel="noopener">在 Gemini API 中引入工具检索</a><div class="meta">Google AI Blog · 11-20 02:00</div><p class="sum">介绍 Gemini API 中的工具检索 今天，我们将在 Gemini API 中推出工具检索，该功能可在交互 API 中预览。 当代理连接到数十个甚至数百个工具时，在每个请求上发送每个完整参数架构的速度会很快增加。 随着候选列表的增长，它会增加输入令牌数量、增加延迟并降低工具选择的准确性。</p></li><li><a href="https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/" target="_blank" rel="noopener">沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。</a><div class="meta">Google AI Blog · 11-20 01:00</div><p class="sum">沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 关于人工智能时代的创造力，列奥纳多·达·芬奇、本杰明·富兰克林和阿达·洛夫莱斯教给我们什么？ 在我们最新一集的《技术与社会对话》中，肯特·沃克与传记作家兼历史学家沃尔特·艾萨克森坐下来讨论为什么历史上最大的突破始终是一项团队运动。</p></li></ul></section>
+    <section class="cat learning"><h2>📚 今日学习点</h2><p class="sum"><strong>股息率</strong>：股息率 = 每股分红 ÷ 股价。偏防守时，高于约4%常被看作有一定现金回报缓冲。神华、工行的观察重点之一就是分红是否稳定。</p></section>
+    <section class="cat humor"><h2>😄【郭式一乐】</h2><p class="sum">今儿聊【定额套用】。451跟陕西安装定额放一块，像俩表亲开会：看着都姓定，细问各算各的。你刚把边界理清，人家说“这块能不能合并”——合并的是定额，分裂的是头发。社会经验：重复计取这事，定额怕，审计更怕，最怕的是你自己半夜突然想起来。</p></section>
+    <p class="disclaimer">⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。</p>
+    <section class='errors'><h2>抓取提醒</h2><ul><li>东财行业板块失败: HTTP Error 502: Bad Gateway</li><li>36氪: 解析失败 (&lt;unknown&gt;:11:168: not well-formed (invalid token))</li><li>InfoQ 中文: 解析失败 (&lt;unknown&gt;:2:0: syntax error)</li></ul></section>
+    <footer>按 Hunt / stock-learning 过滤 · news-bot 自动生成</footer>
+  </div>
+</body>
+</html>

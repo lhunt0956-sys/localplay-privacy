@@ -1,29 +1,16 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-11-22T14:03:41.180505+08:00",
+  "generated_at": "2026-11-23T14:56:01.549434+08:00",
   "timezone": "Asia/Shanghai",
   "count": 17,
   "items": [
     {
-      "title": "OpenAI 的性能工厂如何保持 ChatGPT 的高速运作",
-      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-11-19T08:00:00+00:00",
-      "summary": "OpenAI 的性能工厂如何保持 ChatGPT 的快速响应 我们基于 Codex 的系统能够自动发现并修复性能问题。智能代理发展的惊人速度使传统的性能工程方法变得不可持续。为了跟上这种发展，我们构建了性能工厂，这是一个自主系统，利用 Codex 和我们模型的全部能力以前所未有的速度发现并修复性能回退。",
-      "score": 65,
-      "original_title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "translated": true,
-      "priority": 0,
-      "uid": "476c5b2462a8"
-    },
-    {
-      "title": "Anthropic / Claude：公告",
+      "title": "人类/克劳德：公告",
       "link": "https://www.anthropic.com/news/announcements",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-22T06:04:01+00:00",
-      "summary": "公告 - 2026年11月20日 Anthropic宣布完成首次公开募股，包括承销商额外购股权的全部行使，以及同步私募的完成 今日，Anthropic, PBC宣布完成其首次公开募股，共计发售1,127,000,000股A类普通股，公开发售价为每股83美元。",
+      "published": "2026-11-23T06:56:19+00:00",
+      "summary": "公告 - 2026 年 11 月 20 日 Anthropic 宣布完成首次公开发行，包括充分行使承销商购买额外股份的选择权，并完成同时私募配售 今天，中国人民银行 Anthropic 宣布完成首次公开发行，发行总计 1,127,000,000 股 A 类普通股，公开发行价格为 83 美元。",
       "score": 60,
       "original_title": "Anthropic / Claude：Announcements",
       "translated": true,
@@ -31,12 +18,25 @@
       "uid": "1c262b0ddbb0"
     },
     {
-      "title": "介绍 Gemini 4 Neon",
+      "title": "打击对抗性蒸馏",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-11-20T10:00:00+00:00",
+      "summary": "打击对抗性蒸馏我们如何解决蒸馏的安全风险以及我们为加强整个行业的保障措施所吸取的经验教训。 随着前沿人工智能模型的能力越来越强，保障措施在如何负责任地使用它们方面发挥着越来越重要的作用。 对抗性蒸馏为不良行为者在没有适当保障措施的情况下复制这些能力创造了一条途径。",
+      "score": 60,
+      "original_title": "Combatting adversarial distillation",
+      "translated": true,
+      "priority": 0,
+      "uid": "5cf05e415e57"
+    },
+    {
+      "title": "Gemini 4 Neon 简介",
       "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
       "published": "2026-11-18T21:35:43+00:00",
-      "summary": "推出 Gemini 4 Neon 今天，我们推出 Gemini 4 Neon — 在复杂的软件工程、知识工作和科学工作流程中，提供前沿级智能和快速端到端任务完成能力。Neon 在可比模型中排名靠前，并且在人工智能分析指数中以 61 分位列整体第三，在其超高思维水平上，仅次于更大、更慢的模型。",
+      "summary": "隆重推出 Gemini 4 Neon 今天，我们隆重推出 Gemini 4 Neon，它能够在复杂的软件工程、知识工作和科学工作流程中快速完成端到端任务，从而带来前沿级智能。 Neon 领先于同类模型，在人工智能分析智能指数中以极高的思维水平得分 61 分，总体排名第 3，仅落后于较大、速度较慢的模型。",
       "score": 45,
       "original_title": "Introducing Gemini 4 Neon",
       "translated": true,
@@ -44,25 +44,25 @@
       "uid": "037d3963f9bd"
     },
     {
-      "title": "无需游戏引擎！马斯克称特斯拉 FSD v15 实景视图仅动用 AI4 芯片一个 TRIP 加速器一半算力",
-      "link": "https://www.ithome.com/1/030/563.htm",
+      "title": "上汽 MG4 增推 530 从容版：限时补贴价 7.88 万元起，纯电续航 530km",
+      "link": "https://www.ithome.com/1/030/833.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-11-22T04:18:50+00:00",
-      "summary": "IT之家 11 月 22 日消息， 特斯拉今日宣布在美国市场推出 FSD v15 ，带来了全新可视化界面 ——“Tesla Reality View”（特斯拉实景视图）。随后全新的“Tesla Reality View”迅速引发网友热议。博主 @旌旗超智能 分析，特斯拉是在硬件劣势的情况做了 3D 高斯全场景重建。他称自己今天仔细检查了一下特斯拉 FSD 2 代芯片的规格，发现不如很多新势力的自研芯片。IT之家注意到，马斯克今日也发文对该功能进行了说明。他透露，FSD v15 的“Tesla Reality View”是由实时 AI 视频生成，无需游戏引擎！且仅动用了 AI4 芯片一个 TRIP 加速器一半的算力 。",
-      "score": 65,
+      "published": "2026-11-23T05:33:47+00:00",
+      "summary": "IT之家 11 月 23 日消息，上汽 MG4 新增 530 从容版车型，官方指导价 8.18 万元，限时补贴价 7.作为参考，目前 MG4 系列共有 13 款车型在售，限时补贴价 6.新车定位紧凑型两厢纯电车，车身长宽高分别为 4395×1842×1551mm，轴距为 2750mm。外观采用家族化设计，前脸配备封闭式格栅和狭长大灯，下方设有蜂窝状下格栅。车身侧面采用短悬设计，搭配双色多辐轮毂，充电口位于前翼子板处；车尾配备小型扰流板，尾灯向两侧延伸，后包围加入黑色饰板。车身颜色方面，新车提供月光白、星野灰、清波翠、东来紫、冰晶蓝、杏仁米共 6 种选择。内饰提供蔷薇紫、黛山蓝、星夜紫三种配色。座舱配备 15.6 英寸中控屏和 8.8 英寸液晶仪表（IT之家注：搭载高通骁龙 8155 车机芯片，车机支持 Apple CarPlay、华为 HiCar 和 Carlink 手机互联）。",
+      "score": 75,
       "original_title": "",
       "translated": false,
-      "priority": 35,
-      "uid": "9f19dd6d1b06"
+      "priority": 50,
+      "uid": "3daab1d46303"
     },
     {
-      "title": "Anthropic / Claude：投资于公共利益",
+      "title": "人类/克劳德：投资公益",
       "link": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-22T06:04:01+00:00",
-      "summary": "今天，我们将将部分Anthropic的股份投入Anthropic公共利益基金，这是一个全资拥有的新实体，其结构会随着公司增长而增加股份。经股东批准，今天将承诺Anthropic 5%的股份，并在公司价值较设定基准增加50%时，由董事会酌情再增加2%的股份。",
+      "published": "2026-11-23T06:56:19+00:00",
+      "summary": "今天，我们将 Anthropic 的部分股份捐赠给 Anthropic 公共福利基金，这是一个新的全资实体，其结构会随着公司的发展而增加股份。 经股东批准，今天将承诺认购 5% 的 Anthropic 股份，公司价值每增加 50%，董事会可酌情增持 2%。",
       "score": 60,
       "original_title": "Anthropic / Claude：Investing in the public benefit",
       "translated": true,
@@ -70,17 +70,17 @@
       "uid": "c34aebdbb449"
     },
     {
-      "title": "对抗敌对蒸馏",
-      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "title": "困惑与智慧",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-11-20T10:00:00+00:00",
-      "summary": "应对对抗性蒸馏 我们如何应对蒸馏的安全风险，以及我们为加强整个行业的防护措施所学到的经验。随着前沿人工智能模型能力的提升，防护措施在模型的负责任使用中扮演着日益重要的角色。对抗性蒸馏为不良行为者在没有适当防护的情况下复制这些能力创造了途径。",
-      "score": 60,
-      "original_title": "Combatting adversarial distillation",
+      "published": "2026-11-22T00:00:00+00:00",
+      "summary": "从远处看，现代人工智能的构建方式似乎与过去几十年软件的构建方式类似：使用针对特定功能的多种技术。 确实有各种各样的方法，但它们不是从头开始设计某些东西，而是主要利用来自更简单且难以解释的过程的智能：训练压缩器（或者等效地（在...中打开）",
+      "score": 55,
+      "original_title": "Perplexity and Intelligence",
       "translated": true,
       "priority": 0,
-      "uid": "5cf05e415e57"
+      "uid": "833f56061f06"
     },
     {
       "title": "无限滚动自动播放有害社会",
@@ -96,25 +96,25 @@
       "uid": "24e0c3034731"
     },
     {
-      "title": "终抵千万里程碑：曝华为 Mate 80 系列手机终端销量破 1000 万台，标准版占比近 58%",
-      "link": "https://www.ithome.com/1/030/560.htm",
+      "title": "腾讯《地下城与勇士》经典版、《代号 FIGHT》国内首曝：后者 12 月 4 日开测，《卡赞》国区最新情报公开",
+      "link": "https://www.ithome.com/1/030/810.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-11-22T03:56:29+00:00",
-      "summary": "IT之家 11 月 22 日消息，据博主 @智慧芯片案内人 透露，截至 W46（11 月 9 日-11 月 15 日）， 某厂 M80 系列手机销量已突破 1000 万台 ，其中标准版占比接近 58%。从评论区讨论来看， M80 预计指的是华为 Mate 80 系列手机 。华为 Mate 80 / Pro / Pro Max / RS 手机已于 2025 年 11 月 25 日发布 ，搭载麒麟 9020 / 9030 / 9030 Pro 处理器，首发鸿蒙 Harmony OS 6 系统，定价 4699 元起， 涨价后 5499 元起 （后增加了一款 Pro Max 风驰版机型）。",
-      "score": 50,
+      "published": "2026-11-23T05:08:13+00:00",
+      "summary": "IT之家 11 月 23 日消息，在 11 月 20 日的 2026 WeGame 游戏之夜活动上，腾讯公布了 DNF 系列三款新作的进展，同时带来多款游戏的测试与上线时间。其中， 《地下城与勇士》经典版 在国内首次亮相。该作以 70 版本为基准，保留上挑、浮空、连击等动作设计，以及技能衔接的打击手感。官方将这款产品定位为“DNF 唯一正版怀旧服”，并宣布 2027 年由国服率先上线。本次测试名为“重逢测试”，计划于 2026 年 12 月初启动。玩家需先完成游戏预约，并在官网或招募问卷页面绑定本人手机号及 QQ 号，之后填写问卷才能报名，具体开测时间后续在官网公告。官方还公布了本次测试的专属奖励：成功参与测试，并达成账号下至少一个角色完成一次觉醒的玩家，可获得“阿拉德开拓者”称号（IT之家附图示如下）领取资格。",
+      "score": 20,
       "original_title": "",
       "translated": false,
-      "priority": 25,
-      "uid": "5acab9c678d5"
+      "priority": 0,
+      "uid": "46aa20c9b46d"
     },
     {
-      "title": "Gemini 应用现在可在内存较低的安卓设备上使用。",
+      "title": "Gemini 应用程序现在可在内存较低的 Android 设备上使用。",
       "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-11-18T17:00:00+00:00",
-      "summary": "Gemini 应用现在可以在低内存的 Android 设备上使用。对于全球数亿人来说，低内存的 Android 设备是他们日常连接互联网、教育和商业的工具。直到最近，硬件限制意味着这些手机只能使用基本的语音命令。现在，我们将 Gemini 应用带到符合条件的 Android（Go 版）设备上，将 Google 的个人 AI 助手放在他们手中...",
+      "summary": "Gemini 应用程序现在可在内存较低的 Android 设备上使用。 对于全球数亿人来说，低内存 Android 设备是他们与互联网、教育和商务的日常联系。 直到最近，硬件限制意味着这些手机只有基本的语音命令。 现在，我们将 Gemini 应用程序引入符合条件的 Android（Go 版）设备，将 Google 的个人 AI 助手置于...",
       "score": 20,
       "original_title": "The Gemini app is now available on lower-memory Android devices.",
       "translated": true,
@@ -122,38 +122,77 @@
       "uid": "22e2c2a60bf7"
     },
     {
-      "title": "人工智能热潮迫使全球电网进行大规模投资",
-      "link": "https://oilprice.com/Energy/Crude-Oil/AI-Boom-Forces-Massive-Investment-in-Power-Grids-Worldwide.html",
+      "title": "人工智能泡沫担忧扰乱全球市场，油价下滑",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-AI-Bubble-Fears-Rattle-Global-Markets.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-22T00:00:00+00:00",
-      "summary": "信息技术行业正在推动全球电力需求的巨大增长，预计在未来十年将增加超过10,000太瓦时。为了将这些电力输送到需求中心，全球的电网将需要紧急升级。关键问题是谁来支付这笔费用。",
+      "published": "2026-11-23T05:50:00+00:00",
+      "summary": "澳大利亚的 Snowy 2.0 抽水电站……胡塞武装人员大约有 100 人……对受人工智能影响的商品的经济增长潜力的怀疑也引发了股票抛售，尽管波斯湾的油轮袭击事件不断，但今天仍拖累原油价格下跌。 截至撰写本文时，布伦特原油交易价格为 92 美元。 每桶 55 美元，西德克萨斯中质原油每桶 83 美元。",
       "score": 15,
-      "original_title": "AI Boom Forces Massive Investment in Power Grids Worldwide",
+      "original_title": "Oil Prices Slide as AI Bubble Fears Rattle Global Markets",
       "translated": true,
       "priority": 0,
-      "uid": "c2c7eb320665"
+      "uid": "bdcfb0930949"
     },
     {
-      "title": "英国的净零革命有一个中国问题",
-      "link": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Revolution-Has-a-China-Problem.html",
+      "title": "石油市场押注尚未到来的盈余",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Markets-Are-Betting-on-a-Surplus-That-Hasnt-Arrived-Yet.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-21T18:00:00+00:00",
-      "summary": "工党政府在与中国的贸易关系中被指责为“投降”，因为英国向净零排放过渡面临多种安全风险。一份新报告在特朗普总统与习近平和普京的重大三方会晤前发布，强调了英国在净零相关技术上对中国的依赖以及供应链潜在的脆弱性。",
+      "published": "2026-11-23T00:00:00+00:00",
+      "summary": "由于对即将到来的盈余的预测与中东持续的袭击和外交停滞相冲突，过去几个交易日油价一直在窄幅波动。 本月一系列机构报告推高了对供应过剩的预期，并对原油造成压力。 布伦特原油上涨 1. 1%，至 92 美元。 上午 11:50 每桶 88 枚。 美国东部时间周四，远低于 110 美元上方的 10 月份水平，但变化不大...",
       "score": 15,
-      "original_title": "Britain's Net Zero Revolution Has a China Problem",
+      "original_title": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet",
       "translated": true,
       "priority": 0,
-      "uid": "4f8e6d08d174"
+      "uid": "fb45f57b291d"
     },
     {
-      "title": "美国航空公司的国际头等舱已经结束。迎来的是超大型商务舱舱位",
+      "title": "随着公司现金紧缩加剧，埃里克·特朗普支持的机器人初创公司的员工失去了健康福利",
+      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-11-22T18:55:05+00:00",
+      "summary": "根据 CNBC 获得的一份备忘录，未来工业基金会的员工被告知，他们通过管理员 Rippling 获得的健康福利已被终止，这加剧了这家由埃里克·特朗普 (Eric Trump) 建议和支持的人形机器人初创公司陷入财务困境的迹象。",
+      "score": 15,
+      "original_title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "translated": true,
+      "priority": 0,
+      "uid": "557634161f86"
+    },
+    {
+      "title": "Google 支持俄勒冈州 50 兆瓦超热地热电力交易",
+      "link": "https://oilprice.com/Energy/Energy-General/Google-Backs-Superhot-Geothermal-in-50-MW-Oregon-Power-Deal.html",
+      "source": "OilPrice",
+      "category": "能源与电力",
+      "published": "2026-11-22T18:00:00+00:00",
+      "summary": "人工智能时代驱动的能源需求失控正在推动大型科技公司追求上述所有能源生产方法。 该行业在推动天然气繁荣并延长化石燃料寿命的同时，也将大量资金投入下一代清洁能源技术，包括天基太阳能、核聚变和先进的地热能。",
+      "score": 15,
+      "original_title": "Google Backs Superhot Geothermal in 50 MW Oregon Power Deal",
+      "translated": true,
+      "priority": 0,
+      "uid": "ed5098071f18"
+    },
+    {
+      "title": "披萨连锁店面临压力。 GLP-1 的使用只是问题的一部分",
+      "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-11-22T13:00:01+00:00",
+      "summary": "由于消费者支出疲软、餐饮选择增多以及 GLP-1 药物的兴起影响了其销售，大型披萨连锁店陷入困境。 此次疫情是达美乐比萨、棒约翰、小凯撒和必胜客的繁荣时期。 但自从餐厅重新开业以来，美国最大的披萨连锁店在留住顾客方面面临着一场艰苦的战斗。",
+      "score": 15,
+      "original_title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+      "translated": true,
+      "priority": 0,
+      "uid": "fdf93ef6d625"
+    },
+    {
+      "title": "美国航空公司的国际头等舱已经结束。 进入大型商务舱",
       "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
       "source": "CNBC",
       "category": "A股与宏观",
       "published": "2026-11-21T12:00:01+00:00",
-      "summary": "美国航空公司最后一班拥有八套舱的航班落地，本周标志着U.航司长途国际头等舱时代的结束。取而代之的将是一个可容纳70名乘客的大型商务舱。各大航空公司一直在放弃国际头等舱舱位，转向新的顶级舱位：更大、更豪华的商务舱，其特点是配备滑动门的套间，这是当下的设计潮流。",
+      "summary": "The era of U. airlines' long-haul, international first class ended this week when American Airlines' last flight with its eight-suite section landed. 取而代之的是一个可容纳 70 名乘客的大型商务舱。 airlines have been ditching international first-class cabins for a new top tier: larger and souped-up business classes, featuring suites with sliding doors, the design du jour.",
       "score": 15,
       "original_title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
       "translated": true,
@@ -161,38 +200,12 @@
       "uid": "5bf87c710773"
     },
     {
-      "title": "Gap任命新的Athleta首席执行官，并表示Old Navy的扭亏为盈正在显现进展迹象",
-      "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-11-20T21:04:48+00:00",
-      "summary": "Gap公司周四宣布，Ashley Kechter将成为其Athleta品牌的下一任总裁兼首席执行官，自12月起生效。该零售商还表示，Old Navy的转型显示出积极进展的迹象，周五股价上涨超过11%。Kechter来自活力服装零售商Vuori，在那里她担任全球总裁，负责品牌的全球业务战略、营销和财务。",
-      "score": 15,
-      "original_title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
-      "translated": true,
-      "priority": 0,
-      "uid": "5b541332a51e"
-    },
-    {
-      "title": "拒绝廉价面料，价格更高：为什么购物者要求更好的衣服",
-      "link": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-11-20T12:00:02+00:00",
-      "summary": "服装的制造方式已经不再像过去那样，越来越多的消费者开始注意到这一点。近年来，进口到美国的服装构成已经发生了变化。2010年，大约60%的服装主要由棉制成。现在，这一比例约为45%，而主要由聚酯纤维和尼龙等合成纤维制成的服装占进口的多数。在过去的二十年里，服装价格总体呈下降趋势，直到最近才出现变化。",
-      "score": 15,
-      "original_title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes",
-      "translated": true,
-      "priority": 0,
-      "uid": "9512078eb38f"
-    },
-    {
       "title": "在 Gemini API 中引入工具检索",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-11-19T18:00:00+00:00",
-      "summary": "在 Gemini API 中引入工具检索 今天我们在 Gemini API 中推出了工具检索功能，并在交互 API 中提供预览。当一个代理连接到数十个甚至数百个工具时，每次请求发送完整的参数模式会迅速增加负担。这会增加输入令牌数量、增加延迟，并随着候选列表的增长降低工具选择的准确性。",
+      "summary": "介绍 Gemini API 中的工具检索 今天，我们将在 Gemini API 中推出工具检索，该功能可在交互 API 中预览。 当代理连接到数十个甚至数百个工具时，在每个请求上发送每个完整参数架构的速度会很快增加。 随着候选列表的增长，它会增加输入令牌数量、增加延迟并降低工具选择的准确性。",
       "score": 15,
       "original_title": "Introducing Tool Retrieval in the Gemini API",
       "translated": true,
@@ -200,61 +213,48 @@
       "uid": "c804ff585eb7"
     },
     {
-      "title": "沃尔特·艾萨克森谈人工智能时代的好奇心与创造力。",
+      "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。",
       "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-11-19T17:00:00+00:00",
-      "summary": "沃尔特·艾萨克森谈人工智能时代的好奇心与创造力。列奥纳多·达·芬奇、本杰明·富兰克林和艾达·洛芙莱斯在人工智能时代的创造力上能教会我们什么？在我们最新一期的《技术与社会对话》中，肯特·沃克与传记作家兼历史学家沃尔特·艾萨克森坐下来，讨论为什么历史上最大的突破总是团队合作的结果。",
+      "summary": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 关于人工智能时代的创造力，列奥纳多·达·芬奇、本杰明·富兰克林和阿达·洛夫莱斯教给我们什么？ 在我们最新一集的《技术与社会对话》中，肯特·沃克与传记作家兼历史学家沃尔特·艾萨克森坐下来讨论为什么历史上最大的突破始终是一项团队运动。",
       "score": 15,
       "original_title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "translated": true,
       "priority": 0,
       "uid": "624a81d05108"
-    },
-    {
-      "title": "埃默表示，风能可能使全天候太阳能发电成本降低18%",
-      "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Could-Cut-the-Cost-of-Round-the-Clock-Solar-Power-by-18-Ember-Says.html",
-      "source": "OilPrice",
-      "category": "能源与电力",
-      "published": "2026-11-21T22:00:00+00:00",
-      "summary": "来自Ember能源的一份新报告显示了风能巨大的节约成本潜力。尽管太阳能和电池储能在全球范围内迅速发展，但风能的扩张较为缓慢。然而，根据这家著名能源智库的新报告，这对能源安全、减排目标和经济回报都是一个重大错失的机会。",
-      "score": 10,
-      "original_title": "Wind Could Cut the Cost of Round-the-Clock Solar Power by 18%, Ember Says",
-      "translated": true,
-      "priority": 0,
-      "uid": "48aa04ca7805"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3533.7929,
-        "change": -43.8245,
-        "pct": -1.22,
-        "amount_yi": 7025.74
+        "price": 3535.2032,
+        "change": 1.4103,
+        "pct": 0.04,
+        "amount_yi": 7240.3
       },
       {
         "name": "深证成指",
-        "price": 10256.39,
-        "change": -326.815,
-        "pct": -3.09,
-        "amount_yi": 7196.27
+        "price": 10449.57,
+        "change": 193.179,
+        "pct": 1.88,
+        "amount_yi": 8016.09
       },
       {
         "name": "创业板指",
-        "price": 2212.13,
-        "change": -81.214,
-        "pct": -3.54,
-        "amount_yi": 1372.51
+        "price": 2279.7,
+        "change": 67.572,
+        "pct": 3.05,
+        "amount_yi": 1658.17
       },
       {
         "name": "沪深300",
-        "price": 3954.565,
-        "change": -30.2749,
-        "pct": -0.76,
-        "amount_yi": 4411.08
+        "price": 3954.7228,
+        "change": 0.1578,
+        "pct": 0.0,
+        "amount_yi": 4479.48
       }
     ],
     "holdings": [
@@ -263,11 +263,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 52.0,
-        "market_value": 5200.0,
-        "pnl": 2027.36,
-        "pnl_pct": 63.9,
-        "weight_hint": "44.3%",
+        "price": 51.01,
+        "market_value": 5101.0,
+        "pnl": 1928.36,
+        "pnl_pct": 60.78,
+        "weight_hint": "44.2%",
         "note": "",
         "available": true
       },
@@ -276,11 +276,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 31.62,
-        "market_value": 3162.0,
-        "pnl": 465.59,
-        "pnl_pct": 17.27,
-        "weight_hint": "26.9%",
+        "price": 31.42,
+        "market_value": 3142.0,
+        "pnl": 445.59,
+        "pnl_pct": 16.53,
+        "weight_hint": "27.2%",
         "note": "",
         "available": true
       },
@@ -289,11 +289,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 9.4,
-        "market_value": 2820.0,
-        "pnl": 942.48,
-        "pnl_pct": 50.2,
-        "weight_hint": "24.0%",
+        "price": 9.14,
+        "market_value": 2742.0,
+        "pnl": 864.48,
+        "pnl_pct": 46.04,
+        "weight_hint": "23.7%",
         "note": "",
         "available": true
       },
@@ -302,10 +302,10 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.814,
-        "market_value": 162.8,
-        "pnl": -155.2,
-        "pnl_pct": -48.81,
+        "price": 0.813,
+        "market_value": 162.6,
+        "pnl": -155.4,
+        "pnl_pct": -48.87,
         "weight_hint": "1.4%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
@@ -315,11 +315,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.018,
-        "market_value": 401.8,
-        "pnl": -95.2,
-        "pnl_pct": -19.15,
-        "weight_hint": "3.4%",
+        "price": 4.026,
+        "market_value": 402.6,
+        "pnl": -94.4,
+        "pnl_pct": -18.99,
+        "weight_hint": "3.5%",
         "note": "",
         "available": true
       },
@@ -339,72 +339,37 @@
     ],
     "sectors": [
       {
-        "name": "金融/银行 · 国有大型银行Ⅲ",
-        "pct": 2.39,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 2.73,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭",
-        "pct": -1.25,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": -0.48,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 光伏主材",
-        "pct": -1.5,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": -0.55,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭行业",
-        "pct": -1.5908670489681,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "name": "半导体/电子 · 电子信息",
+        "pct": 3.2075996808728,
+        "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "电力/公用 · 综合电力设备商",
-        "pct": -1.69,
-        "why": "对应长江电力，关注来水与股息稳定性",
-        "main_flow_yi": -0.44,
-        "source": "东财行业"
-      },
-      {
-        "name": "新能源/光伏 · 综合电力设备商",
-        "pct": -1.69,
-        "why": "对应新能源ETF，波动大，只作卫星仓观察",
-        "main_flow_yi": -0.44,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 电力行业",
-        "pct": -1.9265634215067,
+        "name": "电力/公用 · 供水供气",
+        "pct": 0.86712261846605,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
         "name": "石油 · 石油行业",
-        "pct": -2.4408449652907,
+        "pct": 0.40550879877582,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "金融/银行 · 金融控股",
-        "pct": -2.65,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -0.47,
-        "source": "东财行业"
+        "name": "煤炭 · 煤炭行业",
+        "pct": -0.30613066945944,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子信息",
-        "pct": -4.905167006153,
-        "why": "对应半导体ETF，关注景气与政策",
+        "name": "金融/银行 · 金融行业",
+        "pct": -0.80651950632251,
+        "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
@@ -412,65 +377,74 @@
     "policy_news": [],
     "industry_news": [
       {
-        "title": "华电国际电力股份将于2月1日派发中期股息每股0.09元",
-        "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-22/doc-inizqmrk2938309.shtml",
+        "title": "机构：AI、电动车驱动电源管理芯片市场重构 将保持两位数增长",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztfnh0585824.shtml",
+        "level": "中",
+        "tag": "行业"
+      },
+      {
+        "title": "周群飞，入局芯片",
+        "link": "https://finance.sina.com.cn/stock/companyt/2026-11-23/doc-inizszek0695601.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "下周A股，非常关键！",
-        "link": "https://finance.sina.com.cn/stock/roll/2026-11-22/doc-inizqrxh2902967.shtml",
+        "title": "摩根大通：亚洲股市投资者持仓降至历史低位，市场或迎来大幅反弹",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztfne8254279.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "美股要“通宵”了，专家：A股、港股盘中震荡很可能加大",
-        "link": "https://finance.sina.com.cn/stock/roll/2026-11-22/doc-inizqrxe6127401.shtml",
+        "title": "AI数据中心热潮驱动数百亿资金涌入私募基础设施赛道",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztfna2222061.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "马斯克最新警告：人工智能行业明年可能面临严重的资金短缺 可能需要数千亿美元额外资金投入",
-        "link": "https://finance.sina.com.cn/roll/2026-11-22/doc-inizqrxk9062900.shtml",
+        "title": "马斯克放出Optimus重磅进展！物理AI爆发，科创人工智能ETF华宝（589520）跟踪指数猛拉4.4%，资金关注度高",
+        "link": "https://finance.sina.com.cn/money/fund/2026-11-23/doc-inizszee2346518.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "下周A股28家公司限售股解禁：蓝特光学、炬光科技等热门股在列 多只价格曾翻倍",
-        "link": "https://finance.sina.com.cn/stock/roll/2026-11-22/doc-inizqrxh2848114.shtml",
+        "title": "博枫宣布收购黑石旗下PGP Glass，预计2027年第一季度完成交易",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-inizszek0700394.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "利好来了！360亿元长线资金，明天入市！",
-        "link": "https://finance.sina.com.cn/wm/2026-11-22/doc-inizqrxn1338786.shtml",
+        "title": "【复盘】近十年大宗商品那些令人印象深刻的下跌行情！",
+        "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-23/doc-iniztfmy5453668.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 11746.6,
-    "total_pnl": 3185.03,
-    "total_amount_yi": 14222.01,
-    "bias": "偏空",
-    "volume_note": "量能：两市合计约 14222 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 国有大型银行Ⅲ；偏弱 煤炭、光伏主材、煤炭行业",
-    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
-    "errors": []
+    "total_market_value": 11550.2,
+    "total_pnl": 2988.63,
+    "total_amount_yi": 15256.39,
+    "bias": "偏多",
+    "volume_note": "量能：两市合计约 15256 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 电子信息、供水供气、石油行业；偏弱 煤炭行业、金融行业",
+    "tip": "一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向",
+    "errors": [
+      "东财行业板块失败: HTTP Error 502: Bad Gateway"
+    ]
   },
   "learning": {
-    "title": "PB（市净率）",
-    "body": "PB = 股价 ÷ 每股净资产。工行常长期低于1，意思是市价比账面净资产还低——不等于一定便宜，但银行股里 PB 往往比 PE 更常用。",
+    "title": "股息率",
+    "body": "股息率 = 每股分红 ÷ 股价。偏防守时，高于约4%常被看作有一定现金回报缓冲。神华、工行的观察重点之一就是分红是否稳定。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "视频监控方案",
-    "text": "今儿聊【视频监控方案】。甲方要“全覆盖、全天候、全智能”，就差没要求镜头会做饭了。你算带宽算到小数点后两位，人家一句“再加个AI”，公式当场失业。专线按80%负载留余量，余量留给谁呢？留给临时加的点位和临时加的领导。社会经验：参数写得越满，变更写得越勤。"
+    "topic": "定额套用",
+    "text": "今儿聊【定额套用】。451跟陕西安装定额放一块，像俩表亲开会：看着都姓定，细问各算各的。你刚把边界理清，人家说“这块能不能合并”——合并的是定额，分裂的是头发。社会经验：重复计取这事，定额怕，审计更怕，最怕的是你自己半夜突然想起来。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
+    "东财行业板块失败: HTTP Error 502: Bad Gateway",
     "36氪: 解析失败 (<unknown>:11:168: not well-formed (invalid token))",
     "InfoQ 中文: 解析失败 (<unknown>:2:0: syntax error)"
   ]
