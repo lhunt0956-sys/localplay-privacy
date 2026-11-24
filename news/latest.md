@@ -1,115 +1,120 @@
 # Hunt 每日简报
-_生成时间：2026-11-23 14:56 (Asia/Shanghai)_
+_生成时间：2026-11-24 17:24 (Asia/Shanghai)_
 
 > 个性化源：stock-learning 持仓雷达 / 通信安防 / 头部AI（ChatGPT·Claude） / 健康出行
 
 ## 📈 A股晨间雷达（stock-learning）
 
-**结论**：今日整体倾向 **偏多**
-**量能：两市合计约 15256 亿元（接口口径），成交偏活跃**
-**行业分化：偏强 电子信息、供水供气、石油行业；偏弱 煤炭行业、金融行业**
+**结论**：今日整体倾向 **震荡**
+**量能：两市合计约 16551 亿元（接口口径），成交偏活跃**
+**行业分化：偏强 电子器件、金融行业；偏弱 石油行业、供水供气、煤炭行业**
 
 ### 股市面 · 指数
 
-- 上证指数：3535.20（+1.41 / +0.04% · 成交约 7240 亿）
-- 深证成指：10449.57（+193.18 / +1.88% · 成交约 8016 亿）
-- 创业板指：2279.70（+67.57 / +3.05% · 成交约 1658 亿）
-- 沪深300：3954.72（+0.16 / +0.00% · 成交约 4479 亿）
+- 上证指数：3548.37（+9.42 / +0.27% · 成交约 7719 亿）
+- 深证成指：10423.60（-30.77 / -0.29% · 成交约 8832 亿）
+- 创业板指：2278.99（-1.21 / -0.05% · 成交约 2004 亿）
+- 沪深300：3963.82（+5.53 / +0.14% · 成交约 5069 亿）
 
 ### 行业面 · 你关注的板块
 
-- **半导体/电子 · 电子信息** +3.21% — 对应半导体ETF，关注景气与政策
-- **电力/公用 · 供水供气** +0.87% — 对应长江电力，关注来水与股息稳定性
-- **石油 · 石油行业** +0.41% — 能源价格联动，影响通胀与高股息板块风险偏好
-- **煤炭 · 煤炭行业** -0.31% — 对应中国神华，关注煤价与高股息逻辑
-- **金融/银行 · 金融行业** -0.81% — 对应工商银行，关注净息差与分红
+- **半导体/电子 · 电子器件** +0.55% — 对应半导体ETF，关注景气与政策
+- **金融/银行 · 金融行业** +0.30% — 对应工商银行，关注净息差与分红
+- **石油 · 石油行业** -1.44% — 能源价格联动，影响通胀与高股息板块风险偏好
+- **电力/公用 · 供水供气** -1.44% — 对应长江电力，关注来水与股息稳定性
+- **煤炭 · 煤炭行业** -1.58% — 对应中国神华，关注煤价与高股息逻辑
 
 ### 持仓快照
 
-- **中国神华**（601088）现价 51.010 · 成本 31.7264 · 盈亏 +1928.36元（+60.78%） · 仓位约 44.2%
-- **长江电力**（600900）现价 31.420 · 成本 26.9641 · 盈亏 +445.59元（+16.53%） · 仓位约 27.2%
-- **工商银行**（601398）现价 9.140 · 成本 6.2584 · 盈亏 +864.48元（+46.04%） · 仓位约 23.7%
-- **半导体ETF**（159995）现价 0.813 · 成本 1.5900 · 盈亏 -155.40元（-48.87%） · 仓位约 1.4%
-- **300ETF**（510300）现价 4.026 · 成本 4.9700 · 盈亏 -94.40元（-18.99%） · 仓位约 3.5%
+- **中国神华**（601088）现价 50.910 · 成本 31.7264 · 盈亏 +1918.36元（+60.47%） · 仓位约 43.9%
+- **长江电力**（600900）现价 31.640 · 成本 26.9641 · 盈亏 +467.59元（+17.34%） · 仓位约 27.3%
+- **工商银行**（601398）现价 9.220 · 成本 6.2584 · 盈亏 +888.48元（+47.32%） · 仓位约 23.9%
+- **半导体ETF**（159995）现价 0.823 · 成本 1.5900 · 盈亏 -153.40元（-48.24%） · 仓位约 1.4%
+- **300ETF**（510300）现价 4.033 · 成本 4.9700 · 盈亏 -93.70元（-18.85%） · 仓位约 3.5%
 - 新能源ETF博时（516580）：暂无报价 · 迷你基金，关注清盘风险；若接口无数据则只做新闻关键词跟踪
 
-持仓合计市值约 **11550.20 元**，浮动盈亏约 **+2988.63 元**（相对成本）。
+持仓合计市值约 **11588.90 元**，浮动盈亏约 **+3027.33 元**（相对成本）。
 
 ### 政策面 · 值得关注
 
-- 今日暂无高相关条目（或源站暂不可用）
+- 【高】[央行：11月25日将开展5000亿元7天期逆回购操作](https://finance.sina.com.cn/jryx/bank/2026-11-24/doc-inizvqtf2241171.shtml)
 
 ### 行业面 · 相关资讯
 
-- 【中】[机构：AI、电动车驱动电源管理芯片市场重构 将保持两位数增长](https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztfnh0585824.shtml)
-- 【中】[周群飞，入局芯片](https://finance.sina.com.cn/stock/companyt/2026-11-23/doc-inizszek0695601.shtml)
+- 【中】[民生银行29家村镇银行改革收尾！仅剩一家尚待批复，贷款占比不足千分之四](https://finance.sina.com.cn/money/bank/gsdt/2026-11-24/doc-inizvqth9007172.shtml)
+- 【中】[Signal联合联合航空及多家银行，因客户风险问题限制AI智能代理](https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvqtf2223524.shtml)
+- 【中】[2026年上半年半导体业务收入占比突破六成 江化微规模效应有望逐步释放](https://finance.sina.com.cn/stock/observe/2026-11-24/doc-inizvqtf2212439.shtml)
+- 【中】[报道：美国国债清算新规将推高交易成本，德国商业银行考虑缩减美债交易业务](https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvqte0039717.shtml)
 
 ### 股市面 · 市场资讯
 
-- 【中】[摩根大通：亚洲股市投资者持仓降至历史低位，市场或迎来大幅反弹](https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztfne8254279.shtml)
-- 【中】[AI数据中心热潮驱动数百亿资金涌入私募基础设施赛道](https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-iniztfna2222061.shtml)
-- 【中】[马斯克放出Optimus重磅进展！物理AI爆发，科创人工智能ETF华宝（589520）跟踪指数猛拉4.4%，资金关注度高](https://finance.sina.com.cn/money/fund/2026-11-23/doc-inizszee2346518.shtml)
-- 【中】[博枫宣布收购黑石旗下PGP Glass，预计2027年第一季度完成交易](https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-inizszek0700394.shtml)
-- 【中】[【复盘】近十年大宗商品那些令人印象深刻的下跌行情！](https://finance.sina.com.cn/money/future/fmnews/2026-11-23/doc-iniztfmy5453668.shtml)
+- 【中】[大商所：关于就有价证券作为保证金折扣比率规则优化公开征求意见的公告](https://finance.sina.com.cn/money/future/fmnews/2026-11-24/doc-inizvqth8969790.shtml)
+- 【中】[光大期货1124热点追踪：地缘退潮、平衡表修复，原油是否走出单边行情？](https://finance.sina.com.cn/money/future/fmnews/2026-11-24/doc-inizvqth8951087.shtml)
+- 【中】[午后，A股“大象起舞”](https://finance.sina.com.cn/stock/marketresearch/2026-11-24/doc-inizvqtf2192517.shtml)
 
-> 新手提醒：一条政策新闻短期可能反应过度，等市场消化1-3天再判断方向
+> 新手提醒：板块轮动是常态，不要追高换仓
 
 ## A股与宏观
 
-- **[随着公司现金紧缩加剧，埃里克·特朗普支持的机器人初创公司的员工失去了健康福利](https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html)** （CNBC · 11-23 02:55）
+- **[随着公司现金紧缩加剧，埃里克·特朗普支持的机器人初创公司的员工失去了健康福利](https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html)** （CNBC · 11-24 07:28）
   根据 CNBC 获得的一份备忘录，未来工业基金会的员工被告知，他们通过管理员 Rippling 获得的健康福利已被终止，这加剧了这家由埃里克·特朗普 (Eric Trump) 建议和支持的人形机器人初创公司陷入财务困境的迹象。
+- **[ESPN 和 NFL 将在 Imax 影院放映第 61 届超级碗比赛](https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html)** （CNBC · 11-24 05:55）
+  第 61 届超级碗比赛将于 2 月份通过与 NFL 和迪士尼 ESPN 的合作在数百家 Imax 影院进行现场直播，ESPN 拥有 2027 年比赛的转播权。 据新闻稿称，这标志着该公司历史上规模最大的 Imax 现场直播活动，也是超级碗首次以这种形式进行。 二月的四小时活动
 - **[披萨连锁店面临压力。 GLP-1 的使用只是问题的一部分](https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html)** （CNBC · 11-22 21:00）
   由于消费者支出疲软、餐饮选择增多以及 GLP-1 药物的兴起影响了其销售，大型披萨连锁店陷入困境。 此次疫情是达美乐比萨、棒约翰、小凯撒和必胜客的繁荣时期。 但自从餐厅重新开业以来，美国最大的披萨连锁店在留住顾客方面面临着一场艰苦的战斗。
-- **[美国航空公司的国际头等舱已经结束。 进入大型商务舱](https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html)** （CNBC · 11-21 20:00）
-  The era of U. airlines' long-haul, international first class ended this week when American Airlines' last flight with its eight-suite section landed. 取而代之的是一个可容纳 70 名乘客的大型商务舱。 airlines have been ditching international first-class cabins for a new top tier: larger and souped-up business classes, featuring suites with sliding doors, the design du jour.
 
 ## 能源与电力
 
-- **[人工智能泡沫担忧扰乱全球市场，油价下滑](https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-AI-Bubble-Fears-Rattle-Global-Markets.html)** （OilPrice · 11-23 13:50）
-  澳大利亚的 Snowy 2.0 抽水电站……胡塞武装人员大约有 100 人……对受人工智能影响的商品的经济增长潜力的怀疑也引发了股票抛售，尽管波斯湾的油轮袭击事件不断，但今天仍拖累原油价格下跌。 截至撰写本文时，布伦特原油交易价格为 92 美元。 每桶 55 美元，西德克萨斯中质原油每桶 83 美元。
-- **[石油市场押注尚未到来的盈余](https://oilprice.com/Energy/Oil-Prices/Oil-Markets-Are-Betting-on-a-Surplus-That-Hasnt-Arrived-Yet.html)** （OilPrice · 11-23 08:00）
-  由于对即将到来的盈余的预测与中东持续的袭击和外交停滞相冲突，过去几个交易日油价一直在窄幅波动。 本月一系列机构报告推高了对供应过剩的预期，并对原油造成压力。 布伦特原油上涨 1. 1%，至 92 美元。 上午 11:50 每桶 88 枚。 美国东部时间周四，远低于 110 美元上方的 10 月份水平，但变化不大...
-- **[Google 支持俄勒冈州 50 兆瓦超热地热电力交易](https://oilprice.com/Energy/Energy-General/Google-Backs-Superhot-Geothermal-in-50-MW-Oregon-Power-Deal.html)** （OilPrice · 11-23 02:00）
-  人工智能时代驱动的能源需求失控正在推动大型科技公司追求上述所有能源生产方法。 该行业在推动天然气繁荣并延长化石燃料寿命的同时，也将大量资金投入下一代清洁能源技术，包括天基太阳能、核聚变和先进的地热能。
+- **[Equinor 锁定 40 年来最长的天然气供应协议](https://oilprice.com/Latest-Energy-News/World-News/Equinor-Locks-In-Longest-Gas-Supply-Deal-in-40-Years.html)** （OilPrice · 11-24 17:25）
+  Equinor 周三表示……从事太阳能地球工程的私营公司……Equinor 已与德国能源公司 VNG 签署了一项为期 18 年的天然气供应协议，这是这家挪威能源巨头自 1986 年以来签署的最长的天然气销售协议。根据周二宣布的与 VNG 的协议，Equinor 将每年向 VNG 供应高达 15. 3 TWh 或约 1. 40 亿立方米 (bcm) 的天然气，从 2017 年开始。
+- **[尽管霍尔木兹矿场索赔，但油价仍保持在三个月低点附近](https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Hold-Near-Three-Month-Lows-Despite-Hormuz-Mine-Claims.html)** （OilPrice · 11-24 15:05）
+  特朗普保留了广泛的外交政策，并且……美国和伊朗……周二早盘原油价格仍然低迷，尽管伊朗声称三艘油轮在霍尔木兹海峡触雷，布伦特原油价格仍低于每桶90美元。 截至撰写本文时，布伦特原油交易价格为 88 美元。 每桶 67 美元，西德克萨斯中质原油每桶 79 美元。
+- **[美国炼油厂淹没了自己的汽油意外之财](https://oilprice.com/Energy/Crude-Oil/Americas-Refiners-Drowned-Their-Own-Gasoline-Windfall.html)** （OilPrice · 11-24 09:00）
+  2026年，炼油厂为了追求柴油和航空燃油的利润而减少了每桶汽油的产量，但他们仍然生产了足够的汽油，几乎耗尽了他们的汽油利润。 根据美国能源情报署 (EIA) 的数据，今年前 8 个月汽油产量平均低于 45%，并且每个月都低于之前的五年低点。
 
 ## 通信与安防
 
-- **[上汽 MG4 增推 530 从容版：限时补贴价 7.88 万元起，纯电续航 530km](https://www.ithome.com/1/030/833.htm)** （IT之家·通信安防 · 11-23 13:33）
-  IT之家 11 月 23 日消息，上汽 MG4 新增 530 从容版车型，官方指导价 8.18 万元，限时补贴价 7.作为参考，目前 MG4 系列共有 13 款车型在售，限时补贴价 6.新车定位紧凑型两厢纯电车，车身长宽高分别为 4395×1842×1551mm，轴距为 2750mm。外观采用家族化设计，前脸配备封闭式格栅和狭长大灯，下方设有蜂窝状下格栅。车身侧面采用短悬设计，搭配双色多辐轮毂，充电口位于前翼子板处；车尾配备小型扰流板，尾灯向两侧延伸，后包围加入黑色饰板。车身颜色方面，新车提供月光白、星野灰、清波翠、东来紫、冰晶蓝、杏仁米共 6 种选择。内饰提供蔷薇紫、黛山蓝、星夜紫三种配色。座舱配备 15.6 英寸中控屏和 8.8 英寸液晶仪表（IT之家注：搭载高通骁龙 8155 车机芯片，车机支持 Apple CarPlay、华为 HiCar 和 Carlink 手机互联）。
-- **[无限滚动自动播放有害社会](https://www.solidot.org/story?sid=85946)** （Solidot·通信 · 11-20 18:50）
-  根据发表在《The Lancet Psychiatry》期刊上的一篇报告，全球逾十分之一人口可能受到问题性互联网使用的影响，每年由此带来的经济和社会成本可能高达数十亿美元。问题性互联网使用包括了：强迫性使用社交媒体、过度沉迷游戏、网络赌博、强迫性网购、问题性色情内容消费，以及反复搜索加剧焦虑的健康信息。无限滚动的信息流、视频自动播放、个性化推荐以及各类通知等都在诱导用户不断回到社交应用和平台中。报告作者认为责任不应仅由用户和家庭承担，设计数字产品的企业也难辞其咎。企业在设计数字产品时就刻意捕捉并留住用户的注意力。报告作者主张通过更强有力的监管减少危害，认为目前已有充分证据支持采取协调一致的国际行动。
-- **[腾讯《地下城与勇士》经典版、《代号 FIGHT》国内首曝：后者 12 月 4 日开测，《卡赞》国区最新情报公开](https://www.ithome.com/1/030/810.htm)** （IT之家·通信安防 · 11-23 13:08）
-  IT之家 11 月 23 日消息，在 11 月 20 日的 2026 WeGame 游戏之夜活动上，腾讯公布了 DNF 系列三款新作的进展，同时带来多款游戏的测试与上线时间。其中， 《地下城与勇士》经典版 在国内首次亮相。该作以 70 版本为基准，保留上挑、浮空、连击等动作设计，以及技能衔接的打击手感。官方将这款产品定位为“DNF 唯一正版怀旧服”，并宣布 2027 年由国服率先上线。本次测试名为“重逢测试”，计划于 2026 年 12 月初启动。玩家需先完成游戏预约，并在官网或招募问卷页面绑定本人手机号及 QQ 号，之后填写问卷才能报名，具体开测时间后续在官网公告。官方还公布了本次测试的专属奖励：成功参与测试，并达成账号下至少一个角色完成一次觉醒的玩家，可获得“阿拉德开拓者”称号（IT之家附图示如下）领取资格。
+- **[GrapheneOS 指责 Google 恐吓其合作伙伴](https://www.solidot.org/story?sid=85968)** （Solidot·通信 · 11-23 21:58）
+  Android 安全加固发行版项目 GrapheneOS 指责 Google 恐吓其合作伙伴。摩托罗拉最近与 GrapheneOS 合作推出了首款支持 GrapheneOS 的高端智能手机 Signature 27。GrapheneOS 通过其社交媒体账号指责 Google 向 Android 手机厂商施压，手机厂商因与其合作而受到质询，甚至还遭到了撤销 Google 应用授权的威胁。GrapheneOS 认为 Google 正针对其采取阻挠行动，且打压态势可能会进一步升级。GrapheneOS 认为，Google 的部分行为已触犯美国刑法，其违反反垄断的行为可能导致相关个人面临入狱。该项目希望与美国司法部进行沟通，指出此前针对 Google 的反垄断诉讼未触及该公司最严重的违规行为。他们正寻求支持者帮忙引荐检察官和监管机构，承诺无论未来发生什么，该项目都有足够资源继续运营。GrapheneOS 还指出，目前越来越多的 Android 功能和更新仅限于 Pixel 系列手机，其他硬件合作伙伴落在后面。
+- **[解剖 Tor 协议](https://www.solidot.org/story?sid=85974)** （Solidot·通信 · 11-24 16:02）
+  Alessandro Greco 写道： 《Tor 解剖（Anatomia di Tor / Onion Routing Anatomy）》由我在意大利发起并负责编辑，已经正式公开发布。这是一本可免费下载的开源技术书籍，介绍 Tor 匿名网络的底层机制：信元、通信通道与电路、分层加密、Onion Services、流量分析及安全边界。 全书包含 31 章、20 个可在私有 Tor 测试网络中复现的实验、176 道附解答练习题和 39 幅技术插图。简体中文版已提供 PDF 和 EPUB，采用 GNU GPL-3.0-or-later 许可；项目独立于 Tor Project。 简体中文版及下载（Zenodo DOI）： https://doi.org/10.5281/zenodo.24207976 开源项目主页： https://github.com/aleff-github/onion-routing-anatomy
+- **[新一代华为鸿蒙智家无界交互发布，号称“住进未来家”](https://www.ithome.com/1/031/642.htm)** （IT之家·通信安防 · 11-24 16:55）
+  IT之家 11 月 24 日现场消息，在今天（24 日）下午的华为 Mate X8 及全场景新品发布会上，新一代华为鸿蒙智家无界交互正式发布。 IT之家从发布会现场获悉，其主打“住进未来家”，带来“更懂你”的小艺管家、意式美学智能开关都灵、隐形 AI 超感传感器 Air，轻松睡自然醒的智慧睡眠 2.0 等软硬件。 具体来看，“智能开关都灵”采用经典意式美学，是华为米兰美学研究所设计的产品；全屋看板则内置“3D 掌控中心”，所见即所得，支持宠物一键查找（需配合华为蓝牙网关、HUAWEI Tag 等实现）。 交互方面，该交互方案支持“场景大师”模式，结合 AI 超感传感器 Air 可做到 0.6 秒内“一步亮”精准感知。 同时，其支持人车家联动，鸿蒙智行车辆、华为手机 / 手表等产品都可以操控智能家居设备。 此次还发布了“智慧睡眠 2.0”，通过播放助眠歌单、关闭窗帘灯光、调温和“哄睡模式”等手段来营造 适于褪黑素分泌的环境 。
 
 ## 头部AI动态
 
-- **[人类/克劳德：公告](https://www.anthropic.com/news/announcements)** （Anthropic / Claude · 11-23 14:56）
+- **[人类/克劳德：公告](https://www.anthropic.com/news/announcements)** （Anthropic / Claude · 11-24 17:25）
   公告 - 2026 年 11 月 20 日 Anthropic 宣布完成首次公开发行，包括充分行使承销商购买额外股份的选择权，并完成同时私募配售 今天，中国人民银行 Anthropic 宣布完成首次公开发行，发行总计 1,127,000,000 股 A 类普通股，公开发行价格为 83 美元。
-- **[打击对抗性蒸馏](https://openai.com/index/combatting-adversarial-distillation)** （OpenAI / ChatGPT · 11-20 18:00）
-  打击对抗性蒸馏我们如何解决蒸馏的安全风险以及我们为加强整个行业的保障措施所吸取的经验教训。 随着前沿人工智能模型的能力越来越强，保障措施在如何负责任地使用它们方面发挥着越来越重要的作用。 对抗性蒸馏为不良行为者在没有适当保障措施的情况下复制这些能力创造了一条途径。
+- **[OpenAI 和 Cisco 推出 Shirudo](https://openai.com/index/introducing-shirudo)** （OpenAI / ChatGPT · 11-24 05:20）
+  OpenAI 和思科推出 Shirudo 开源运行时，可帮助操作员保护正在运行的 Linux 系统，而无需等待补丁或重新启动 OpenAI 和思科正在推出 Shirudo，这是一个开源运行时，可帮助团队在推出补丁时保护 Linux 系统。 在受控测试中（在新窗口中打开），Codex 生成的防护罩阻止了针对正在运行的 El 的 Java4Shell 漏洞利用尝试。
 - **[Gemini 4 Neon 简介](https://deepmind.google/blog/introducing-gemini-4-neon/)** （Google DeepMind · 11-19 05:35）
-  隆重推出 Gemini 4 Neon 今天，我们隆重推出 Gemini 4 Neon，它能够在复杂的软件工程、知识工作和科学工作流程中快速完成端到端任务，从而带来前沿级智能。 Neon 领先于同类模型，在人工智能分析智能指数中以极高的思维水平得分 61 分，总体排名第 3，仅落后于较大、速度较慢的模型。
-- **[人类/克劳德：投资公益](https://www.anthropic.com/news/public-benefit-fund)** （Anthropic / Claude · 11-23 14:56）
+  Gemini 4 Neon 简介 最后更新时间：2026 年 11 月 23 日 今天，我们推出 Gemini 4 Neon — 带来前沿级智能，在复杂的软件工程、知识工作和科学工作流程中快速完成端到端任务。 Neon 领先于同类模型，在人工智能分析智能指数中以极高的思维水平得分 61 分，总体排名第 3，仅落后于 La...
+- **[人类/克劳德：投资公益](https://www.anthropic.com/news/public-benefit-fund)** （Anthropic / Claude · 11-24 17:25）
   今天，我们将 Anthropic 的部分股份捐赠给 Anthropic 公共福利基金，这是一个新的全资实体，其结构会随着公司的发展而增加股份。 经股东批准，今天将承诺认购 5% 的 Anthropic 股份，公司价值每增加 50%，董事会可酌情增持 2%。
-- **[困惑与智慧](https://openai.com/index/perplexity-and-intelligence)** （OpenAI / ChatGPT · 11-22 08:00）
-  从远处看，现代人工智能的构建方式似乎与过去几十年软件的构建方式类似：使用针对特定功能的多种技术。 确实有各种各样的方法，但它们不是从头开始设计某些东西，而是主要利用来自更简单且难以解释的过程的智能：训练压缩器（或者等效地（在...中打开）
+- **[内部法律的互联智能](https://openai.com/business/learn/connected-intelligence-for-in-house-legal)** （OpenAI / ChatGPT · 11-23 16:00）
+  观看 OpenAI 的 Stacey Wang 和 Craig Bruney、LECG 的 Mary O’Carroll 和 Cooley 的 Richard Segal 探索 AI 如何帮助内部法律团队连接业务环境、构建可重复使用的工作流程并从外部顾问那里获得更多收益。
 
 ## AI与科技
 
-- **[Gemini 应用程序现在可在内存较低的 Android 设备上使用。](https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/)** （Google AI Blog · 11-19 01:00）
-  Gemini 应用程序现在可在内存较低的 Android 设备上使用。 对于全球数亿人来说，低内存 Android 设备是他们与互联网、教育和商务的日常联系。 直到最近，硬件限制意味着这些手机只有基本的语音命令。 现在，我们将 Gemini 应用程序引入符合条件的 Android（Go 版）设备，将 Google 的个人 AI 助手置于...
+- **[更适合您的 Google 搜索](https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/)** （Google AI Blog · 11-24 01:00）
+  更适合您的 Google 搜索最有用的搜索体验将世界上丰富的信息与与您独特相关的见解结合在一起。 如今，搜索变得更加定制化，能够将更多应用程序连接到个人智能 - 我们正在引入更多与个人相关的响应，因此您可以更轻松地找到您需要的内容。
 - **[在 Gemini API 中引入工具检索](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/)** （Google AI Blog · 11-20 02:00）
   介绍 Gemini API 中的工具检索 今天，我们将在 Gemini API 中推出工具检索，该功能可在交互 API 中预览。 当代理连接到数十个甚至数百个工具时，在每个请求上发送每个完整参数架构的速度会很快增加。 随着候选列表的增长，它会增加输入令牌数量、增加延迟并降低工具选择的准确性。
 - **[沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。](https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/)** （Google AI Blog · 11-20 01:00）
   沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 关于人工智能时代的创造力，列奥纳多·达·芬奇、本杰明·富兰克林和阿达·洛夫莱斯教给我们什么？ 在我们最新一集的《技术与社会对话》中，肯特·沃克与传记作家兼历史学家沃尔特·艾萨克森坐下来讨论为什么历史上最大的突破始终是一项团队运动。
 
+## 健康生活
+
+- **[IDC：2027 年中国智能眼镜出货将破 450.6 万台，AI 驱动生态跃迁](https://www.ithome.com/1/031/553.htm)** （IT之家·出行 · 11-24 16:14）
+  IT之家 11 月 24 日消息， I DC 最新报告预计， 2027 年中国智能眼镜行业将以生态落地和用户体验升级为核心驱动力 ，行业重心由单点创新演进为多模态感知、生态协同和多场景价值闭环。AI 大模型、端侧算力与多模态交互深度融合，推动智能眼镜在物理世界的感知、交互和服务能力实现质的飞跃。隐私合规、渠道变革和供应链优化成为焦点，市场结构加速分层。基于上述判断，IDC 梳理出 2027 年中国智能眼镜市场的十大洞察，涵盖结构分化、AI 落地、场景协同、交互进化、隐私合规、配置取舍、供应链优化、渠道变革、价位段升级等关键方向。洞察一：行业定位及市场方向趋于清晰 —— 全球出货将突破 2622.1 万台，中国突破 450.6 万台，显示轻量眼镜主导高端化升级，无显示类聚焦极简与 AI 创新。在 AI 原生能力深度嵌入的推动下，2027 年智能眼镜行业迎来品类分化和定位定型的关键节点。
+
 ## 📚 今日学习点
 
-**股息率**：股息率 = 每股分红 ÷ 股价。偏防守时，高于约4%常被看作有一定现金回报缓冲。神华、工行的观察重点之一就是分红是否稳定。
+**ETF 适合新手的原因**：ETF（交易型开放式指数基金）一篮子持股，分散单家公司暴雷风险。半导体/新能源这种高波动行业，用 ETF 比赌单票更适合学习仓。
 
 ## 😄【郭式一乐】
 
-今儿聊【定额套用】。451跟陕西安装定额放一块，像俩表亲开会：看着都姓定，细问各算各的。你刚把边界理清，人家说“这块能不能合并”——合并的是定额，分裂的是头发。社会经验：重复计取这事，定额怕，审计更怕，最怕的是你自己半夜突然想起来。
+今儿聊【Android 编译】。Gradle一转，茶凉了；再转，饭糊了；还转，人傻了。你写驱动模式、均衡器、歌词翻译，它回你一个依赖冲突，态度比产品经理还硬。社会经验：能跑的别乱动，能动的别升级——升级这词在编程圈跟“改造”在装修圈一个味儿。
 
 ---
 
@@ -117,6 +122,6 @@ _生成时间：2026-11-23 14:56 (Asia/Shanghai)_
 
 ## 抓取提醒
 
-- 东财行业板块失败: HTTP Error 502: Bad Gateway
+- 东财行业板块失败: <urlopen error _ssl.c:994: The handshake operation timed out>
 - 36氪: 解析失败 (<unknown>:11:168: not well-formed (invalid token))
 - InfoQ 中文: 解析失败 (<unknown>:2:0: syntax error)
