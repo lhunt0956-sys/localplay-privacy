@@ -1,6 +1,6 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-11-24T17:24:52.170119+08:00",
+  "generated_at": "2026-11-25T15:55:20.189494+08:00",
   "timezone": "Asia/Shanghai",
   "count": 18,
   "items": [
@@ -9,7 +9,7 @@
       "link": "https://www.anthropic.com/news/announcements",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-24T09:25:26+00:00",
+      "published": "2026-11-25T07:55:41+00:00",
       "summary": "公告 - 2026 年 11 月 20 日 Anthropic 宣布完成首次公开发行，包括充分行使承销商购买额外股份的选择权，并完成同时私募配售 今天，中国人民银行 Anthropic 宣布完成首次公开发行，发行总计 1,127,000,000 股 A 类普通股，公开发行价格为 83 美元。",
       "score": 60,
       "original_title": "Anthropic / Claude：Announcements",
@@ -18,17 +18,17 @@
       "uid": "1c262b0ddbb0"
     },
     {
-      "title": "OpenAI 和 Cisco 推出 Shirudo",
-      "link": "https://openai.com/index/introducing-shirudo",
+      "title": "GPT-6 模型展示了内在的蛋白质设计能力",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "source": "OpenAI / ChatGPT",
       "category": "头部AI动态",
-      "published": "2026-11-23T21:20:00+00:00",
-      "summary": "OpenAI 和思科推出 Shirudo 开源运行时，可帮助操作员保护正在运行的 Linux 系统，而无需等待补丁或重新启动 OpenAI 和思科正在推出 Shirudo，这是一个开源运行时，可帮助团队在推出补丁时保护 Linux 系统。 在受控测试中（在新窗口中打开），Codex 生成的防护罩阻止了针对正在运行的 El 的 Java4Shell 漏洞利用尝试。",
-      "score": 60,
-      "original_title": "OpenAI and Cisco introduce Shirudo",
+      "published": "2026-11-24T13:00:00+00:00",
+      "summary": "GPT-6 模型展示了内在的蛋白质设计能力 - 我们的 GPT-6 模型系列可以仅使用推理和代码来设计新的蛋白质形状及其化学构建模块的序列，而无需调用专门的生物学模型来生成这些设计。 - 内部研究模型在许多蛋白质设计任务上匹配或优于专门模型。",
+      "score": 50,
+      "original_title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "translated": true,
       "priority": 0,
-      "uid": "c2daf2ad8cf9"
+      "uid": "89819dcb83a9"
     },
     {
       "title": "Gemini 4 Neon 简介",
@@ -44,30 +44,30 @@
       "uid": "037d3963f9bd"
     },
     {
-      "title": "人类/克劳德：投资公益",
+      "title": "中国工程院院士邬贺铨：未来 6G 的流量增长主要来自终端结构的调整，单靠手机带不起代际增长",
+      "link": "https://www.ithome.com/1/032/143.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-11-25T07:19:21+00:00",
+      "summary": "IT之家 11 月 25 日消息，据科创板日报，在 2026 年 6G 发展大会，中国工程院院士邬贺铨表示，未来 6G 的流量增长主要来自终端结构的调整， 可能出现沉浸式的终端、机器的流量等等 。单靠手机本身是撑不起这个流量的，也带不起代际的增长 。ToC 的应用主要是着重于带宽。ToB 的应用可能是多维度的，不仅是带宽，还有时延、可靠性、同步等等。我们需要 6G 在同一套标准下，同时支持 ToC 和 ToB 的应用。IT之家注意到，工业和信息化部昨天（24 日）在上海正式 启动 6G 创新发展部省协同试点 ，北京、河北、上海、江苏、浙江、安徽、湖北、广东 8 个省市获批开展 6G 试点工作。6G 部省协同试点的重点任务是：在国家层面体系布局基础上，因地制宜，围绕新型终端、关键芯片器件、仪器仪表、卫星互联网等 6G 关联产业，面向沉浸式通信、工业制造、低空经济、海洋经济等 6G 潜在应用场景加强攻关，形成全国 6G“一盘棋”发展格局。",
+      "score": 60,
+      "original_title": "",
+      "translated": false,
+      "priority": 25,
+      "uid": "5388c53ef1cf"
+    },
+    {
+      "title": "Anthropic / 克劳德：投资公益",
       "link": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-24T09:25:26+00:00",
+      "published": "2026-11-25T07:55:41+00:00",
       "summary": "今天，我们将 Anthropic 的部分股份捐赠给 Anthropic 公共福利基金，这是一个新的全资实体，其结构会随着公司的发展而增加股份。 经股东批准，今天将承诺认购 5% 的 Anthropic 股份，公司价值每增加 50%，董事会可酌情增持 2%。",
       "score": 60,
       "original_title": "Anthropic / Claude：Investing in the public benefit",
       "translated": true,
       "priority": 0,
       "uid": "c34aebdbb449"
-    },
-    {
-      "title": "内部法律的互联智能",
-      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "source": "OpenAI / ChatGPT",
-      "category": "头部AI动态",
-      "published": "2026-11-23T08:00:00+00:00",
-      "summary": "观看 OpenAI 的 Stacey Wang 和 Craig Bruney、LECG 的 Mary O’Carroll 和 Cooley 的 Richard Segal 探索 AI 如何帮助内部法律团队连接业务环境、构建可重复使用的工作流程并从外部顾问那里获得更多收益。",
-      "score": 60,
-      "original_title": "Connected intelligence for in-house legal",
-      "translated": true,
-      "priority": 0,
-      "uid": "598981f57bf2"
     },
     {
       "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
@@ -83,108 +83,134 @@
       "uid": "87aa1109f7c1"
     },
     {
-      "title": "IDC：2027 年中国智能眼镜出货将破 450.6 万台，AI 驱动生态跃迁",
-      "link": "https://www.ithome.com/1/031/553.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-11-24T08:14:30+00:00",
-      "summary": "IT之家 11 月 24 日消息， I DC 最新报告预计， 2027 年中国智能眼镜行业将以生态落地和用户体验升级为核心驱动力 ，行业重心由单点创新演进为多模态感知、生态协同和多场景价值闭环。AI 大模型、端侧算力与多模态交互深度融合，推动智能眼镜在物理世界的感知、交互和服务能力实现质的飞跃。隐私合规、渠道变革和供应链优化成为焦点，市场结构加速分层。基于上述判断，IDC 梳理出 2027 年中国智能眼镜市场的十大洞察，涵盖结构分化、AI 落地、场景协同、交互进化、隐私合规、配置取舍、供应链优化、渠道变革、价位段升级等关键方向。洞察一：行业定位及市场方向趋于清晰 —— 全球出货将突破 2622.1 万台，中国突破 450.6 万台，显示轻量眼镜主导高端化升级，无显示类聚焦极简与 AI 创新。在 AI 原生能力深度嵌入的推动下，2027 年智能眼镜行业迎来品类分化和定位定型的关键节点。",
-      "score": 55,
+      "title": "与 Astra 一起寻找遥远的行星",
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI / ChatGPT",
+      "category": "头部AI动态",
+      "published": "2026-11-24T11:00:00+00:00",
+      "summary": "使用 Astra 寻找遥远的行星 两名业余天文学家使用 Codex 和 Astra 在公共望远镜数据中寻找行星的迹象。 现在，他们为专业天文学家提供了一些可以更仔细观察的地方。 自 1992 年宣布第一批行星(opens in a new window)以来，天文学家已确认太阳系外存在 6,400 多颗行星(opens in a new window)。",
+      "score": 50,
+      "original_title": "Searching for distant planets with Astra",
+      "translated": true,
+      "priority": 0,
+      "uid": "0f933ea24efb"
+    },
+    {
+      "title": "工程师反馈 USB 网卡接苹果 Studio Display 后，2.5G 宽带下载骤降约 75%",
+      "link": "https://www.ithome.com/1/032/118.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-11-25T06:41:15+00:00",
+      "summary": "IT之家 11 月 25 日消息，软件工程师 Oscar Molnar 发现， 通过苹果 Studio Display XDR 的 USB-C 接口连接有线网络后，其 2.5Gbps 对称宽带下载速度从约 2.3Gbps 跌至 600Mbps，相当于损失约 75%。其设备如下： MacBook Pro M3 Pro 2026 Studio Display XDR，所有设备都连接到它上面，因此切换笔记本电脑只需一根线缆。UGREEN USB-C 转 2.5G 以太网适配器，插入显示器 UniFi Dream Router 7 根据博文描述，设备链路是 MacBook Pro M3 Pro 通过雷雳 3 连接显示器，显示器作为 USB-C 集线器，再连接 UGREEN USB-C 转 2.5G 网口适配器及路由器。",
+      "score": 45,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "166f333946cf"
+      "uid": "beea4ab3e3da"
     },
     {
-      "title": "解剖 Tor 协议",
-      "link": "https://www.solidot.org/story?sid=85974",
-      "source": "Solidot·通信",
-      "category": "通信与安防",
-      "published": "2026-11-24T08:02:16+00:00",
-      "summary": "Alessandro Greco 写道： 《Tor 解剖（Anatomia di Tor / Onion Routing Anatomy）》由我在意大利发起并负责编辑，已经正式公开发布。这是一本可免费下载的开源技术书籍，介绍 Tor 匿名网络的底层机制：信元、通信通道与电路、分层加密、Onion Services、流量分析及安全边界。 全书包含 31 章、20 个可在私有 Tor 测试网络中复现的实验、176 道附解答练习题和 39 幅技术插图。简体中文版已提供 PDF 和 EPUB，采用 GNU GPL-3.0-or-later 许可；项目独立于 Tor Project。 简体中文版及下载（Zenodo DOI）： https://doi.org/10.5281/zenodo.24207976 开源项目主页： https://github.com/aleff-github/onion-routing-anatomy",
-      "score": 30,
+      "title": "小鹏图灵 AI 智驾官宣推出付费订阅服务：2027 年第二季度开始，老车主权益终身不变",
+      "link": "https://www.ithome.com/1/032/138.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-11-25T07:10:28+00:00",
+      "summary": "IT之家 11 月 25 日现场消息，在今日的“Origin 原点”2026 小鹏科技日活动中，小鹏集团董事长、CEO 何小鹏宣布， 小鹏图灵 AI 智驾将于 2027 年第二季度面向全球新购车用户提供订阅服务 ，服务开启前下订用户，智驾权益终身不变。 何小鹏解释称，智驾并不是一劳永逸的一次性开发，而是需要长期训练、持续迭代，因此在整个行业里的确有非常多的智能驾驶公司都陆续推出了智驾订阅服务，以支持智驾更好地研发与迭代。何小鹏认为， 健康且合理的商业模型是维持用户体验不断提升的关键 。 何小鹏还称，在今年前三季度，很多行业伙伴的研发费用基本上保持不变，甚至还有少量的下行。但是，小鹏的研发投入继续同比大幅增长 31%。 IT之家在发布会现场获悉，具体的订阅方案与细则， 小鹏会在明年向大家宣布 。",
+      "score": 20,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "78363fb3c852"
+      "uid": "cb9248b70574"
     },
     {
-      "title": "新一代华为鸿蒙智家无界交互发布，号称“住进未来家”",
-      "link": "https://www.ithome.com/1/031/642.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-11-24T08:55:52+00:00",
-      "summary": "IT之家 11 月 24 日现场消息，在今天（24 日）下午的华为 Mate X8 及全场景新品发布会上，新一代华为鸿蒙智家无界交互正式发布。 IT之家从发布会现场获悉，其主打“住进未来家”，带来“更懂你”的小艺管家、意式美学智能开关都灵、隐形 AI 超感传感器 Air，轻松睡自然醒的智慧睡眠 2.0 等软硬件。 具体来看，“智能开关都灵”采用经典意式美学，是华为米兰美学研究所设计的产品；全屋看板则内置“3D 掌控中心”，所见即所得，支持宠物一键查找（需配合华为蓝牙网关、HUAWEI Tag 等实现）。 交互方面，该交互方案支持“场景大师”模式，结合 AI 超感传感器 Air 可做到 0.6 秒内“一步亮”精准感知。 同时，其支持人车家联动，鸿蒙智行车辆、华为手机 / 手表等产品都可以操控智能家居设备。 此次还发布了“智慧睡眠 2.0”，通过播放助眠歌单、关闭窗帘灯光、调温和“哄睡模式”等手段来营造 适于褪黑素分泌的环境 。",
-      "score": 25,
-      "original_title": "",
-      "translated": false,
-      "priority": 0,
-      "uid": "81df3f156def"
-    },
-    {
-      "title": "Equinor 锁定 40 年来最长的天然气供应协议",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Locks-In-Longest-Gas-Supply-Deal-in-40-Years.html",
+      "title": "尽管霍尔木兹海峡的威胁不断增加，石油价格仍然下滑",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Slide-Despite-Mounting-Threats-in-the-Strait-of-Hormuz.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-24T09:25:00+00:00",
-      "summary": "Equinor 周三表示……从事太阳能地球工程的私营公司……Equinor 已与德国能源公司 VNG 签署了一项为期 18 年的天然气供应协议，这是这家挪威能源巨头自 1986 年以来签署的最长的天然气销售协议。根据周二宣布的与 VNG 的协议，Equinor 将每年向 VNG 供应高达 15. 3 TWh 或约 1. 40 亿立方米 (bcm) 的天然气，从 2017 年开始。",
+      "published": "2026-11-25T05:50:00+00:00",
+      "summary": "周三亚洲早盘原油价格走低，延续了近期的下跌趋势，尽管有报道称霍尔木兹海峡涉及油轮的事件越来越频繁，伊朗当局将其归因于地雷和其他暗示使用弹丸袭击的消息来源。 截至撰写本文时，布伦特原油交易价格为 90 美元。 每桶 10 美元，西德克萨斯中质原油价格为 80 美元。",
       "score": 15,
-      "original_title": "Equinor Locks In Longest Gas Supply Deal in 40 Years",
+      "original_title": "Oil Prices Slide Despite Mounting Threats in the Strait of Hormuz",
       "translated": true,
       "priority": 0,
-      "uid": "36310aa5aa0c"
+      "uid": "9cf96c9b7f06"
     },
     {
-      "title": "尽管霍尔木兹矿场索赔，但油价仍保持在三个月低点附近",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Hold-Near-Three-Month-Lows-Despite-Hormuz-Mine-Claims.html",
+      "title": "柴油紧缩尚未结束",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Diesel-Crunch-Isnt-Over-Yet.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-24T07:05:00+00:00",
-      "summary": "特朗普保留了广泛的外交政策，并且……美国和伊朗……周二早盘原油价格仍然低迷，尽管伊朗声称三艘油轮在霍尔木兹海峡触雷，布伦特原油价格仍低于每桶90美元。 截至撰写本文时，布伦特原油交易价格为 88 美元。 每桶 67 美元，西德克萨斯中质原油每桶 79 美元。",
+      "published": "2026-11-25T01:00:00+00:00",
+      "summary": "由于市场参与者和分析师押注霍尔木兹海峡原油流量将继续恢复，11 月份迄今为止油价已下跌 20% 以上，布伦特原油本周跌破每桶 90 美元。 预测人士表示，石油市场的平衡似乎正在转向供应过剩，原油价格也反映了这一观点。 但产品市场，特别是柴油市场仍然紧张，...",
       "score": 15,
-      "original_title": "Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims",
+      "original_title": "The Diesel Crunch Isn’t Over Yet",
       "translated": true,
       "priority": 0,
-      "uid": "5e2d6d15c19b"
+      "uid": "b0763d9272db"
     },
     {
-      "title": "美国炼油厂淹没了自己的汽油意外之财",
-      "link": "https://oilprice.com/Energy/Crude-Oil/Americas-Refiners-Drowned-Their-Own-Gasoline-Windfall.html",
+      "title": "参议院调查万斯在委内瑞拉石油交易中的涉嫌角色",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Senate-Investigates-Vances-Alleged-Role-in-Venezuela-Oil-Deal.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-24T01:00:00+00:00",
-      "summary": "2026年，炼油厂为了追求柴油和航空燃油的利润而减少了每桶汽油的产量，但他们仍然生产了足够的汽油，几乎耗尽了他们的汽油利润。 根据美国能源情报署 (EIA) 的数据，今年前 8 个月汽油产量平均低于 45%，并且每个月都低于之前的五年低点。",
+      "published": "2026-11-25T00:00:00+00:00",
+      "summary": "美国参议院已对副总统万斯和维托尔之间涉嫌委内瑞拉石油交易合同的关系展开调查。 路透社本月早些时候的报道称，美国副总统在美国入侵委内瑞拉之前会见了一名维托交易员。",
       "score": 15,
-      "original_title": "America's Refiners Drowned Their Own Gasoline Windfall",
+      "original_title": "Senate Investigates Vance’s Alleged Role in Venezuela Oil Deal",
       "translated": true,
       "priority": 0,
-      "uid": "fcc9cfc394de"
+      "uid": "76f72eaf9bfc"
     },
     {
-      "title": "随着公司现金紧缩加剧，埃里克·特朗普支持的机器人初创公司的员工失去了健康福利",
-      "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "title": "零售业的复苏正好赶上假期季节",
+      "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
       "source": "CNBC",
       "category": "A股与宏观",
-      "published": "2026-11-23T23:28:19+00:00",
-      "summary": "根据 CNBC 获得的一份备忘录，未来工业基金会的员工被告知，他们通过管理员 Rippling 获得的健康福利已被终止，这加剧了这家由埃里克·特朗普 (Eric Trump) 建议和支持的人形机器人初创公司陷入财务困境的迹象。",
+      "published": "2026-11-24T19:26:39+00:00",
+      "summary": "随着扭亏为盈的努力开始引起消费者的共鸣，曾经陷入困境的零售商正在进入假日季，业绩和销售势头都有所改善。 周二的几份收益报告指出了强劲业绩背后的多种因素，包括坚韧的消费者、更强的执行力以及对以合适价格提供合适产品的需求。 Kohl's 报告可比销售额增长 1.",
       "score": 15,
-      "original_title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "original_title": "Retail turnarounds are taking hold just in time for the holiday season",
       "translated": true,
       "priority": 0,
-      "uid": "557634161f86"
+      "uid": "d1f201407ada"
     },
     {
-      "title": "ESPN 和 NFL 将在 Imax 影院放映第 61 届超级碗比赛",
-      "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-11-23T21:55:27+00:00",
-      "summary": "第 61 届超级碗比赛将于 2 月份通过与 NFL 和迪士尼 ESPN 的合作在数百家 Imax 影院进行现场直播，ESPN 拥有 2027 年比赛的转播权。 据新闻稿称，这标志着该公司历史上规模最大的 Imax 现场直播活动，也是超级碗首次以这种形式进行。 二月的四小时活动",
+      "title": "双子座如何为金州勇士队的组织和球迷改变比赛。",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "Google AI Blog",
+      "category": "AI与科技",
+      "published": "2026-11-24T16:00:00+00:00",
+      "summary": "双子座如何为金州勇士队的组织和球迷改变比赛。 今天，我们正在扩大与金州勇士队的合作伙伴关系，让 Google Gemini 成为勇士队、2026 年 WNBA 冠军 Valkyries 和 Chase Center 的官方人工智能助理合作伙伴和官方生成人工智能和企业法学硕士合作伙伴。 此次合作将 Gemini 整合到整个特许经营生态系统中。",
       "score": 15,
-      "original_title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
+      "original_title": "How Gemini is changing the game for Golden State's organization and fans.",
       "translated": true,
       "priority": 0,
-      "uid": "0c2bb37682ea"
+      "uid": "788c863ee8f8"
+    },
+    {
+      "title": "百思买 (Best Buy) 报告可比销售额增长 6.1%，为五年来最高",
+      "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-11-24T14:51:58+00:00",
+      "summary": "百思买周二的第三财季营收和利润超出了华尔街预期，并上调了全年指引。 根据市场情报平台 StreetAccount 的数据，这家消费电子零售商报告可比销售额增长 6. 1%，大大超出预期的 2. 3%。 该公司表示，增长是五年来的最高水平。",
+      "score": 15,
+      "original_title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+      "translated": true,
+      "priority": 0,
+      "uid": "3c4172defddb"
+    },
+    {
+      "title": "美国一些食品银行认为需求已达到疫情水平",
+      "link": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-11-24T12:00:01+00:00",
+      "summary": "在 Covid-19 大流行期间，格雷格·西尔弗曼 (Greg Silverman) 看到一名 MTA 巴士司机在曼哈顿上西区靠边停车，让乘客下车，然后跑过街道朝他跑来。 西尔弗曼是纽约非营利组织“西区反饥饿运动”的负责人，他最初以为司机想使用正在分发食物的教堂的卫生间。",
+      "score": 15,
+      "original_title": "Some U.S. food banks see demand top pandemic levels",
+      "translated": true,
+      "priority": 0,
+      "uid": "c9ec66e5e879"
     },
     {
       "title": "更适合您的 Google 搜索",
@@ -200,19 +226,6 @@
       "uid": "ff8ef139e78f"
     },
     {
-      "title": "披萨连锁店面临压力。 GLP-1 的使用只是问题的一部分",
-      "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-11-22T13:00:01+00:00",
-      "summary": "由于消费者支出疲软、餐饮选择增多以及 GLP-1 药物的兴起影响了其销售，大型披萨连锁店陷入困境。 此次疫情是达美乐比萨、棒约翰、小凯撒和必胜客的繁荣时期。 但自从餐厅重新开业以来，美国最大的披萨连锁店在留住顾客方面面临着一场艰苦的战斗。",
-      "score": 15,
-      "original_title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
-      "translated": true,
-      "priority": 0,
-      "uid": "fdf93ef6d625"
-    },
-    {
       "title": "在 Gemini API 中引入工具检索",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
       "source": "Google AI Blog",
@@ -224,50 +237,37 @@
       "translated": true,
       "priority": 0,
       "uid": "c804ff585eb7"
-    },
-    {
-      "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-      "source": "Google AI Blog",
-      "category": "AI与科技",
-      "published": "2026-11-19T17:00:00+00:00",
-      "summary": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 关于人工智能时代的创造力，列奥纳多·达·芬奇、本杰明·富兰克林和阿达·洛夫莱斯教给我们什么？ 在我们最新一集的《技术与社会对话》中，肯特·沃克与传记作家兼历史学家沃尔特·艾萨克森坐下来讨论为什么历史上最大的突破始终是一项团队运动。",
-      "score": 15,
-      "original_title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "translated": true,
-      "priority": 0,
-      "uid": "624a81d05108"
     }
   ],
   "market": {
     "indices": [
       {
         "name": "上证指数",
-        "price": 3548.3694,
-        "change": 9.4214,
-        "pct": 0.27,
-        "amount_yi": 7718.61
+        "price": 3476.4697,
+        "change": -71.8997,
+        "pct": -2.03,
+        "amount_yi": 6527.09
       },
       {
         "name": "深证成指",
-        "price": 10423.6,
-        "change": -30.766,
-        "pct": -0.29,
-        "amount_yi": 8832.25
+        "price": 10086.36,
+        "change": -337.248,
+        "pct": -3.24,
+        "amount_yi": 7303.88
       },
       {
         "name": "创业板指",
-        "price": 2278.99,
-        "change": -1.21,
-        "pct": -0.05,
-        "amount_yi": 2003.89
+        "price": 2183.58,
+        "change": -95.41,
+        "pct": -4.19,
+        "amount_yi": 1534.36
       },
       {
         "name": "沪深300",
-        "price": 3963.8232,
-        "change": 5.5294,
-        "pct": 0.14,
-        "amount_yi": 5068.66
+        "price": 3898.2356,
+        "change": -65.5876,
+        "pct": -1.65,
+        "amount_yi": 4109.85
       }
     ],
     "holdings": [
@@ -276,11 +276,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 50.91,
-        "market_value": 5091.0,
-        "pnl": 1918.36,
-        "pnl_pct": 60.47,
-        "weight_hint": "43.9%",
+        "price": 51.82,
+        "market_value": 5182.0,
+        "pnl": 2009.36,
+        "pnl_pct": 63.33,
+        "weight_hint": "44.3%",
         "note": "",
         "available": true
       },
@@ -289,10 +289,10 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 31.64,
-        "market_value": 3164.0,
-        "pnl": 467.59,
-        "pnl_pct": 17.34,
+        "price": 31.96,
+        "market_value": 3196.0,
+        "pnl": 499.59,
+        "pnl_pct": 18.53,
         "weight_hint": "27.3%",
         "note": "",
         "available": true
@@ -302,11 +302,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 9.22,
-        "market_value": 2766.0,
-        "pnl": 888.48,
-        "pnl_pct": 47.32,
-        "weight_hint": "23.9%",
+        "price": 9.2,
+        "market_value": 2760.0,
+        "pnl": 882.48,
+        "pnl_pct": 47.0,
+        "weight_hint": "23.6%",
         "note": "",
         "available": true
       },
@@ -315,11 +315,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.823,
-        "market_value": 164.6,
-        "pnl": -153.4,
-        "pnl_pct": -48.24,
-        "weight_hint": "1.4%",
+        "price": 0.773,
+        "market_value": 154.6,
+        "pnl": -163.4,
+        "pnl_pct": -51.38,
+        "weight_hint": "1.3%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -328,11 +328,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 4.033,
-        "market_value": 403.3,
-        "pnl": -93.7,
-        "pnl_pct": -18.85,
-        "weight_hint": "3.5%",
+        "price": 3.97,
+        "market_value": 397.0,
+        "pnl": -100.0,
+        "pnl_pct": -20.12,
+        "weight_hint": "3.4%",
         "note": "",
         "available": true
       },
@@ -352,119 +352,99 @@
     ],
     "sectors": [
       {
-        "name": "半导体/电子 · 电子器件",
-        "pct": 0.54931915372496,
-        "why": "对应半导体ETF，关注景气与政策",
-        "main_flow_yi": null,
-        "source": "新浪行业"
+        "name": "金融/银行 · 国有大型银行Ⅲ",
+        "pct": 0.71,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": -5.45,
+        "source": "东财行业"
+      },
+      {
+        "name": "新能源/光伏 · 光伏主材",
+        "pct": -0.41,
+        "why": "对应新能源ETF，波动大，只作卫星仓观察",
+        "main_flow_yi": 0.08,
+        "source": "东财行业"
+      },
+      {
+        "name": "煤炭 · 煤炭开采",
+        "pct": -0.68,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": -2.74,
+        "source": "东财行业"
       },
       {
         "name": "金融/银行 · 金融行业",
-        "pct": 0.29850746268657,
+        "pct": -0.73938717154798,
         "why": "对应工商银行，关注净息差与分红",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
+        "name": "煤炭 · 煤炭行业",
+        "pct": -0.99524252201017,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
         "name": "石油 · 石油行业",
-        "pct": -1.4385751255899,
+        "pct": -1.0579967565063,
         "why": "能源价格联动，影响通胀与高股息板块风险偏好",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "电力/公用 · 供水供气",
-        "pct": -1.43954515212,
+        "name": "电力/公用 · 电力行业",
+        "pct": -2.0398054755043,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "煤炭 · 煤炭行业",
-        "pct": -1.5849097220354,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
+        "name": "半导体/电子 · 电子器件",
+        "pct": -6.3798904565709,
+        "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
-    "policy_news": [
-      {
-        "title": "央行：11月25日将开展5000亿元7天期逆回购操作",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-11-24/doc-inizvqtf2241171.shtml",
-        "level": "高",
-        "tag": "政策"
-      }
-    ],
-    "industry_news": [
-      {
-        "title": "民生银行29家村镇银行改革收尾！仅剩一家尚待批复，贷款占比不足千分之四",
-        "link": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-24/doc-inizvqth9007172.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "Signal联合联合航空及多家银行，因客户风险问题限制AI智能代理",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvqtf2223524.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "2026年上半年半导体业务收入占比突破六成 江化微规模效应有望逐步释放",
-        "link": "https://finance.sina.com.cn/stock/observe/2026-11-24/doc-inizvqtf2212439.shtml",
-        "level": "中",
-        "tag": "行业"
-      },
-      {
-        "title": "报道：美国国债清算新规将推高交易成本，德国商业银行考虑缩减美债交易业务",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvqte0039717.shtml",
-        "level": "中",
-        "tag": "行业"
-      }
-    ],
+    "policy_news": [],
+    "industry_news": [],
     "market_news": [
       {
-        "title": "大商所：关于就有价证券作为保证金折扣比率规则优化公开征求意见的公告",
-        "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-24/doc-inizvqth8969790.shtml",
+        "title": "黄仁勋重掌英伟达，AI板块的拐点来了吗？",
+        "link": "https://finance.sina.com.cn/money/fund/jjh/2026-11-25/doc-inizxtsh8601962.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "光大期货1124热点追踪：地缘退潮、平衡表修复，原油是否走出单边行情？",
-        "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-24/doc-inizvqth8951087.shtml",
-        "level": "中",
-        "tag": "股市"
-      },
-      {
-        "title": "午后，A股“大象起舞”",
-        "link": "https://finance.sina.com.cn/stock/marketresearch/2026-11-24/doc-inizvqtf2192517.shtml",
+        "title": "突发大消息！危险信号出现，全球股市集体杀跌！",
+        "link": "https://finance.sina.com.cn/stock/bxjj/2026-11-25/doc-inizxtsh8595782.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 11588.9,
-    "total_pnl": 3027.33,
-    "total_amount_yi": 16550.86,
-    "bias": "震荡",
-    "volume_note": "量能：两市合计约 16551 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 电子器件、金融行业；偏弱 石油行业、供水供气、煤炭行业",
-    "tip": "板块轮动是常态，不要追高换仓",
-    "errors": [
-      "东财行业板块失败: <urlopen error _ssl.c:994: The handshake operation timed out>"
-    ]
+    "total_market_value": 11689.6,
+    "total_pnl": 3128.03,
+    "total_amount_yi": 13830.97,
+    "bias": "偏空",
+    "volume_note": "量能：两市合计约 13831 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 国有大型银行Ⅲ；偏弱 光伏主材、煤炭开采、金融行业",
+    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
+    "errors": []
   },
   "learning": {
-    "title": "ETF 适合新手的原因",
-    "body": "ETF（交易型开放式指数基金）一篮子持股，分散单家公司暴雷风险。半导体/新能源这种高波动行业，用 ETF 比赌单票更适合学习仓。",
+    "title": "T+1 是什么",
+    "body": "A股当天买进，最早第二天才能卖。所以冲动追高的容错更低——买之前先问自己：逻辑还在吗，还是只是看着涨？",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "Android 编译",
-    "text": "今儿聊【Android 编译】。Gradle一转，茶凉了；再转，饭糊了；还转，人傻了。你写驱动模式、均衡器、歌词翻译，它回你一个依赖冲突，态度比产品经理还硬。社会经验：能跑的别乱动，能动的别升级——升级这词在编程圈跟“改造”在装修圈一个味儿。"
+    "topic": "血压小计",
+    "text": "今儿聊【血压小计】。坐一天跟焊在椅子上似的，心血管在心里敲锣：该运动了！你说忙，它说行，那我先升高点；你说回头，它说回头是岸，岸上是跑步机。社会经验：指标不吓人的时候最该吓人——等它吓人，你就只剩吓自己了。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
-    "东财行业板块失败: <urlopen error _ssl.c:994: The handshake operation timed out>",
     "36氪: 解析失败 (<unknown>:11:168: not well-formed (invalid token))",
     "InfoQ 中文: 解析失败 (<unknown>:2:0: syntax error)"
   ]
