@@ -1,6 +1,6 @@
 {
   "title": "Hunt 每日简报",
-  "generated_at": "2026-11-26T15:46:33.028793+08:00",
+  "generated_at": "2026-11-27T15:45:51.207283+08:00",
   "timezone": "Asia/Shanghai",
   "count": 18,
   "items": [
@@ -9,7 +9,7 @@
       "link": "https://www.anthropic.com/news/announcements",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-26T07:46:50+00:00",
+      "published": "2026-11-27T07:46:14+00:00",
       "summary": "公告 - 2026年11月20日 Anthropic宣布完成首次公开募股，包括承销商购买额外股票选择权的全部行使，以及同期私募发行的完成 今日，Anthropic, PBC宣布完成其首次公开募股，共计发行11.27亿股A类普通股，公开发售价为每股83美元。",
       "score": 60,
       "original_title": "Anthropic / Claude：Announcements",
@@ -31,7 +31,7 @@
       "uid": "89819dcb83a9"
     },
     {
-      "title": "推出 Gemini 4 Neon",
+      "title": "介绍双子座4霓虹",
       "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
       "source": "Google DeepMind",
       "category": "头部AI动态",
@@ -44,25 +44,12 @@
       "uid": "037d3963f9bd"
     },
     {
-      "title": "三星电子将在 ISSCC 2027 展示 5XX 层超高堆叠 3D NAND",
-      "link": "https://www.ithome.com/1/032/832.htm",
-      "source": "IT之家·通信安防",
-      "category": "通信与安防",
-      "published": "2026-11-26T07:24:22+00:00",
-      "summary": "IT之家 11 月 26 日消息，根据 2027 IEEE ISSCC 官方预告，三星电子将于明年 2 月 14~18 日在这场举行于旧金山的产学会议上展示 5XX 层超高堆叠 3D NAND。三星电子在 FMS 2026 上官宣了 4XX 层的第 10 代 V-NAND 。即将展示的 5XX 层 NAND 依旧采用晶圆键合工艺， 在 TLC 模式下实现了 42 Gb / mm² 的面密度 ，写入吞吐量为 290MB/s，每引脚 I/O 速率为 6.值得注意的是，Solidigm 也将在本次会议上展示其 新一代 240 层 PLC NAND 闪存 。其依旧采用浮栅式结构，面密度达到约 31 Gb / mm²。这一新款 NAND 预计将在下月的 IEEE IEDM 2026 首次公布。其它一些值得注意的成果还包括三星电子的 48GB 17Gbps HBM4E 内存、SK 海力士采用晶圆对晶圆键合的 16Gb DDR DRAM 等。",
-      "score": 65,
-      "original_title": "",
-      "translated": false,
-      "priority": 40,
-      "uid": "bfee66cf0460"
-    },
-    {
       "title": "Anthropic / Claude：投资于公共利益",
       "link": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "Anthropic / Claude",
       "category": "头部AI动态",
-      "published": "2026-11-26T07:46:50+00:00",
-      "summary": "今天，我们将承诺将安思哲（Anthropic）的一部分股份注入安思哲公益基金（Anthropic Public Benefit Fund），这是一个全资新实体，其结构会随着公司成长而增加持股比例。经股东批准后，安思哲今天将承诺5%的股份，每当公司的价值超过设定基线增加50%时，董事会可自行决定再增加2%的股份。",
+      "published": "2026-11-27T07:46:14+00:00",
+      "summary": "今天，我们将承诺将安思哲（Anthropic）的一部分股份注入安思哲公益基金（Anthropic Public Benefit Fund），这是一个全资新实体，其结构会随着公司增长而增加持股比例。经股东批准后，安思哲今天将承诺5%的股份，每当公司的价值超过设定基线增加50%时，董事会可自行决定再增加2%的股份。",
       "score": 60,
       "original_title": "Anthropic / Claude：Investing in the public benefit",
       "translated": true,
@@ -70,17 +57,30 @@
       "uid": "c34aebdbb449"
     },
     {
-      "title": "达尔优推出 AE5 抓握电竞鼠标：重约 55g，到手价 299 元起",
-      "link": "https://www.ithome.com/1/032/773.htm",
+      "title": "华为星芒 OSTA O1 Pro 阔直板手机首销激活量曝光，开售三天约 4700 台",
+      "link": "https://www.ithome.com/1/033/356.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-11-26T06:50:03+00:00",
-      "summary": "IT之家 11 月 26 日消息，达尔优今日推出 AE5 抓握无线电竞鼠标，将于 11 月 30 日 20:00 正式开售，原价 339 元起， 到手价 299 元起 。 达尔优 AE5 被官方称为“长歪了”的抓握鼠，其特创抓握模具通过右侧壁微收、背峰后移、微凹弧面按键引导槽、背高微调等设计，让鼠标能够实现“指尖按、两边夹、掌部靠”的自然抓握姿态。 达尔优 AE5 重约 55g，搭载与原相联合研发、深度调校的 AIM-3955 Pro 传感器，最高支持 40000DPI 分辨率、750IPS 追踪速度与 60G 加速度；主控采用 Nordic 的 54 系列 N54L15 芯片，支持有线与 2.4G 无线双 8000Hz 回报率。 IT之家附这款鼠标主要参数： 京东 达尔优（DAREU）AE5 299 元 直达链接",
-      "score": 50,
+      "published": "2026-11-27T06:31:35+00:00",
+      "summary": "IT之家 11 月 27 日消息，博主 @数码闲聊站 今日发文爆料，某厂 O1 Pro（预计指华为星芒 OSTA O1 Pro ）开售 3 天， 首销激活销量约 4700 台 （统计周期为 W47 | 11 月 16 日-11 月 22 日）。参考IT之家此前报道， 华为全新子品牌星芒于 11 月 20 日发布首款机型 OSTA O1 Pro ，12GB+256GB 版本首发价 5499 元，顶配 16GB+1TB 首发 8799 元。这一定价与外界此前对子品牌“主打性价比”的预期形成落差。对此，星芒品牌总经理刘赫在微博评论区密集回应了网友质疑。针对华为星芒 O1 Pro 定价 5499 元起引发的争议，华为星芒品牌总经理刘赫的回应是：“我宁愿先把产品做好一点…… 便宜未必是创新的方向 。O1 Pro 是尝试新技术，在 AI 带来新体验。",
+      "score": 55,
       "original_title": "",
       "translated": false,
       "priority": 25,
-      "uid": "aadf609b94dc"
+      "uid": "8fc3010d929b"
+    },
+    {
+      "title": "海康威视称“取消大小周遭员工抵制”报道不属实：公司反对以在岗时间替代价值贡献的无效“内卷”",
+      "link": "https://www.ithome.com/1/033/469.htm",
+      "source": "IT之家·通信安防",
+      "category": "通信与安防",
+      "published": "2026-11-27T07:15:41+00:00",
+      "summary": "IT之家 11 月 27 日消息，据 Vista 看天下今日报道，海康威视近日下发全员通知，将取消原有的 996（大小周）工作模式，试行新的 965 工作新规。报道称该事件引发大量内部争议 ，多位海康威视内部人员直言，早晚餐补没了，员工称每月少 3,000 元。截至IT之家发文，“海康威视取消大小周遭员工抵制”话题已登顶微博热搜。对此，海康威视回应上海证券报称，此报道不属实。海康威视持续努力营造良好的职场环境， 反对以在岗时间替代价值贡献的无效“内卷” 。海康威视称， 一方面，公司坚持“反内卷”、追求有效益的增长 ：通过文搜等大模型技术应用，既提升了解决问题的效率，也开辟了用新技术破解“老大难”痛点的新增长点；通过观澜编码技术，在同等效果下显著提高用户存储空间使用率，节约存储投入成本。另一方面，公司抓住了机器视觉、红外热成像、智慧存储等产品线的增长机会。",
+      "score": 50,
+      "original_title": "",
+      "translated": false,
+      "priority": 10,
+      "uid": "2c15b5ac2fe7"
     },
     {
       "title": "与Astra一起搜索遥远的行星",
@@ -96,72 +96,85 @@
       "uid": "0f933ea24efb"
     },
     {
-      "title": "Counterpoint：中国双 11 智能手机销量同比降 17%，畅销榜前五均为苹果 iPhone，华为逆势唯一增长",
-      "link": "https://www.ithome.com/1/032/780.htm",
+      "title": "荣耀 Earbuds 耳夹式耳机开售：Hi-Res 金标音质、40 小时综合续航，首销价 449 元",
+      "link": "https://www.ithome.com/1/033/498.htm",
       "source": "IT之家·通信安防",
       "category": "通信与安防",
-      "published": "2026-11-26T07:07:34+00:00",
-      "summary": "IT之家 11 月 26 日消息，根据 Counterpoint Research 中国每周智能手机销量追踪报告，2026 年双 11 购物节（促销周期为 10 月 12 日至 11 月 13 日，对应第 42 周至第 46 周）期间，中国市场智能手机累计销量 同比下降 17% ，全平台促销折扣未能抵消零部件成本上涨带来的终端售价走高影响，消费者需求持续低迷。各电商平台采取了差异化促销策略：京东、天猫组合使用品牌直降、平台优惠券、以旧换新补贴与分期免息政策，拼多多则将百亿补贴资源集中倾斜至 iPhone 产品线。受上游零部件成本大幅上涨限制，全行业厂商难以拿出足够幅度的降价力度，最终未能拉动整体大盘回升。Counterpoint 中国每周智能手机机型销量追踪报告 尽管促销期内自身销量 同比下降 8% ，苹果依然凭借显著优于大盘的表现拿下市场第一的位置，共有六款机型跻身全渠道销量畅销榜前十，其中 iPhone 18 Pro Max 位居总榜首位 ；",
-      "score": 30,
-      "original_title": "",
-      "translated": false,
-      "priority": 15,
-      "uid": "357c7f615ff1"
-    },
-    {
-      "title": "英伟达黄仁勋的“失业 11 天”：曾想骑摩托横穿美国",
-      "link": "https://www.ithome.com/1/032/880.htm",
-      "source": "IT之家·出行",
-      "category": "健康生活",
-      "published": "2026-11-26T07:36:24+00:00",
-      "summary": "IT之家 11 月 26 日消息，播客主持人、AI 研究者莱克斯 · 弗里德曼（Lex Fridman）于 11 月 24 日在 X 平台发布推文，报道称在黄仁勋离职英伟达 CEO 的 11 天时间里， 他们曾规划骑摩托车横穿美国。 根据弗里德曼推文内容，黄仁勋当时主动给他发私信，提出两人各骑一辆摩托车、结伴完成这场横贯美国的公路旅行。弗里德曼称，这个提议听起来有些像玩笑，但当时黄仁勋很可能是认真的。 据弗里德曼回忆，黄仁勋是在他正进行摩托车横穿美国的旅途中发来消息的。黄仁勋表示，希望加入这段公路旅行，并提议两人各骑一辆摩托车同行。 弗里德曼事后写道，自己很后悔当时没有答应这次邀约，并调侃称，黄仁勋如今已经重新忙碌起来，这趟旅行恐怕更难成行了。IT之家附上相关截图如下： 弗里德曼表示，黄仁勋发出邀约后不久便重返英伟达管理层，原本可能展开的两人骑行计划也随之搁置。弗里德曼对黄仁勋的回归表示振奋，并称其是“不可多得的领袖”。",
+      "published": "2026-11-27T07:23:50+00:00",
+      "summary": "IT之家 11 月 27 日消息，荣耀 Earbuds 耳夹式耳机于 11 月 23 日正式发布，其拥有 Hi-Res 金标音质、约 40 小时综合续航。新品今日正式开售，建议零售价 499 元、首销价 449 元。 据介绍，这款耳机提供星空黑和珠光白两款配色，拥有专属挂饰配件，单耳重 5.6g， 单次续航约 10 小时、综合续航约 40 小时 。另外，荣耀 Earbuds 耳夹耳机支持跨生态适配不同设备，拥有耳畔 AI 助手等功能。 该耳机采用柔软牢固 C 桥设计，辅以食品级亲肤硅胶，支持日常佩戴无感；搭载旗舰耳机同规格双磁路镀钛动圈， 拥有 Hi-Res 金标音质 ，支持 LHDC5.0 无损格式。荣耀 Earbuds 耳夹耳机还支持实时翻译等功能。 IT之家附荣耀 Earbuds 耳夹式耳机核心亮点如下： 京东 荣耀 Earbuds 耳夹式耳机 449 元 直达链接",
       "score": 20,
       "original_title": "",
       "translated": false,
       "priority": 0,
-      "uid": "cd7f67a6daf0"
+      "uid": "9ddf152c24ca"
     },
     {
-      "title": "安桥公司寻求与原住民社区达成10亿美元的管道协议",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Enbridge-Eyes-1-Billion-Pipeline-Deal-With-Indigenous-Communities.html",
+      "title": "澳大利亚通过开创性法律，将天然气保留给国内消费者",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Passes-Landmark-Law-to-Reserve-Gas-for-Domestic-Consumers.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-26T06:45:00+00:00",
-      "summary": "美国的目标是……萨克帕斯（Thacker Pass）的成本上涨了31%，……据《环球邮报》援引未透露姓名的消息来源报道，加拿大恩桥公司（Enbridge）据称正在与一群土著社区就出售其3号管道网络的一部分股份进行谈判。该刊物还表示，此次出售可能获利超过10亿美元（15亿加元），并补充说，这将成为涉及土著......的最大交易。",
+      "published": "2026-11-27T07:30:00+00:00",
+      "summary": "活跃的伊朗强硬派总人数正在倡导…… 澳大利亚议会今天通过了一项法律，要求液化天然气出口商从2028年起，将相当于其年度出口量最多20%的天然气用于国内市场。该计划是工党政府的创意，旨在确保澳大利亚不会过度出口天然气而损害本国消费者的利益。",
       "score": 15,
-      "original_title": "Enbridge Eyes $1 Billion Pipeline Deal With Indigenous Communities",
+      "original_title": "Australia Passes Landmark Law to Reserve Gas for Domestic Consumers",
       "translated": true,
       "priority": 0,
-      "uid": "7c0c88f3217f"
+      "uid": "31efe9eb29a7"
     },
     {
-      "title": "由于霍尔木兹矿罢工震动全球市场，油价上涨",
-      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Rallies-as-Hormuz-Mine-Strikes-Rattle-Global-Markets.html",
+      "title": "东风本田曹东杰：未来两年将投放 6 款以上全新产品，动力形式涵盖燃油、混动、插混和纯电",
+      "link": "https://www.ithome.com/1/033/385.htm",
+      "source": "IT之家·出行",
+      "category": "健康生活",
+      "published": "2026-11-27T06:53:06+00:00",
+      "summary": "IT之家 11 月 27 日消息，据界面新闻报道，东风本田汽车有限公司执行副总经理曹东杰在接受采访时表示，未来两年（2027 年和 2028 年），东风本田将陆续投放 6 款以上的全新产品， 动力形式涵盖燃油、混动、插混和纯电 。 谈及公司未来的整体规划，曹东杰表示，将分三个阶段推进新战略。 第一阶段 ，集中精力稳住现有燃油车基盘，继续做好 CR-V、HR-V、英仕派、思域等主力油车产品。 第二阶段 ，实现二次转型，公司将结合本田、东风以及智能化科技公司的优势，把更具竞争力的产品快速推向市场。 第三阶段 ，希望未来中国成功的商品能够走向全球市场，借助渠道优势实现海外拓展。 据IT之家此前报道， 东风本田 2026 年 10 月终端销量为 17,026 台 ，环比增长 16.9%，上年同期为 28,896 台。 CR-V 销量为 10,455 台，环比增长 7.9%； HR-V 销量为 2,383 台，环比增长 71.8%。",
+      "score": 15,
+      "original_title": "",
+      "translated": false,
+      "priority": 0,
+      "uid": "3a23e307755b"
+    },
+    {
+      "title": "随着中东供应风险超越过剩担忧，油价攀升",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Middle-East-Supply-Risks-Overshadow-Glut-Fears.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-26T05:18:59+00:00",
-      "summary": "随着……加拿大的油田服务行业……原油价格在周四亚洲早盘交易中回升，在霍尔木兹海峡有油轮触雷的新报告以及也门胡塞武装对沙特阿拉伯的一次炼油厂袭击的消息传出后，油价上涨。撰写本文时，布伦特原油的交易价格为每桶95.30美元，西德克萨斯中质原油的价格为84美元。",
+      "published": "2026-11-27T05:18:44+00:00",
+      "summary": "参议院已启动……WTI原油价格反弹……在经历一连串下跌之后，原油价格有望录得周度涨幅，因为关于霍尔木兹海峡油轮袭击事件的报道日益频繁，这削弱了对供应过剩的预期。数据显示，中东能源商品出口低于战前水平，这也对此有所贡献，此外最新的胡塞武装对沙特能源目标的袭击也起到了推动作用。",
       "score": 15,
-      "original_title": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets",
+      "original_title": "Oil Prices Climb as Middle East Supply Risks Overshadow Glut Fears",
       "translated": true,
       "priority": 0,
-      "uid": "379604cc7366"
+      "uid": "6e2f083b3d4a"
     },
     {
-      "title": "劳动力短缺可能破坏加拿大油气行业的增长势头",
-      "link": "https://oilprice.com/Energy/Energy-General/Labor-Shortages-Could-Derail-Canadas-Oil-and-Gas-Growth-Momentum.html",
+      "title": "渣打银行：油价需要新的冲击才能进一步下跌",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Oil-Needs-a-New-Shock-to-Fall-Further.html",
       "source": "OilPrice",
       "category": "能源与电力",
-      "published": "2026-11-26T01:00:00+00:00",
-      "summary": "多年来，加拿大石油和天然气服务业首次看到长期重大上行潜力和增长动力，因为加拿大正在扩大其能源基础设施，以向美国以外的市场出口石油和液化天然气。",
+      "published": "2026-11-27T01:00:00+00:00",
+      "summary": "油价继续从近期的下跌中回升，中东供应威胁的重新出现超过了此前对全球供应过剩的担忧。1月交割的布伦特原油上涨1.3%，周四美国东部时间中午12点交易价为每桶95.90美元，此前周一收盘价为每桶89.37美元，而相应的WTI原油合约上涨1.2%，成交价为84美元每桶。",
       "score": 15,
-      "original_title": "Labor Shortages Could Derail Canada’s Oil and Gas Growth Momentum",
+      "original_title": "Standard Chartered: Oil Needs a New Shock to Fall Further",
       "translated": true,
       "priority": 0,
-      "uid": "6e088ef9d8dd"
+      "uid": "8d638f49f6ac"
     },
     {
-      "title": "随着消费者寻求价值，二手购物在这个假日季正成为主流",
+      "title": "随着好莱坞进入短视频、竖屏视频领域，微短剧应用追逐利润",
+      "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+      "source": "CNBC",
+      "category": "A股与宏观",
+      "published": "2026-11-26T18:27:43+00:00",
+      "summary": "博格丹·内斯维特表示，他的使命很简单：“我们本质上是在为21世纪打造迪士尼。” 内斯维特是微剧应用程序My Drama的联合创始人，该应用围绕最新的短小精悍的故事形式构建。短篇连载“微剧”视频专为移动设备创作，今年已经产生了数十亿的观看次数。它们通常包含浪漫题材，并通常以悬念结尾，让...",
+      "score": 15,
+      "original_title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+      "translated": true,
+      "priority": 0,
+      "uid": "cd25bf4733bb"
+    },
+    {
+      "title": "这个假日季节，二手购物正成为主流，因为消费者在寻找物有所值的商品",
       "link": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
       "source": "CNBC",
       "category": "A股与宏观",
@@ -192,7 +205,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-11-24T16:00:00+00:00",
-      "summary": "双子座如何改变金州组织和球迷的游戏规则。今天，我们正在扩大与金州的合作——使 Google Gemini 成为勇士队、2026 年 WNBA 冠军瓦尔基里队以及切斯中心的官方 AI 助手合作伙伴和官方生成式 AI & 企业大语言模型合作伙伴。此次合作将在整个特许经营生态系统中整合 Gemini。",
+      "summary": "双子座如何改变金州组织和球迷的游戏体验。今天，我们正在扩大与金州的合作——使 Google Gemini 成为勇士队、2026 年 WNBA 冠军瓦尔基里队以及切斯中心的官方 AI 助手合作伙伴和官方生成式 AI & 企业大语言模型合作伙伴。此次合作将在整个特许经营生态系统中整合 Gemini。",
       "score": 15,
       "original_title": "How Gemini is changing the game for Golden State's organization and fans.",
       "translated": true,
@@ -200,25 +213,12 @@
       "uid": "788c863ee8f8"
     },
     {
-      "title": "百思买报告可比销售增长6.1%，为五年来最高",
-      "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-      "source": "CNBC",
-      "category": "A股与宏观",
-      "published": "2026-11-24T14:51:58+00:00",
-      "summary": "百思买在周二公布的第三财季财报中，其收入和利润均超出华尔街预期，并上调了全年指引。这家消费电子零售商报告的同店销售增长率为6.1%，远超市场情报平台StreetAccount预期的2.3%。公司表示，这一增长是五年来最高的。",
-      "score": 15,
-      "original_title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-      "translated": true,
-      "priority": 0,
-      "uid": "3c4172defddb"
-    },
-    {
       "title": "一个更符合您个人需求的 Google 搜索",
       "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-11-23T17:00:00+00:00",
-      "summary": "一个更加量身定制、独属于你的谷歌搜索。最有帮助的搜索体验将世界丰富的信息与对你特别相关的洞察结合在一起。如今，搜索变得更加个性化，你可以将更多的应用连接到个人智能中——我们还推出了更多与你个人相关的回应，让你更容易找到所需内容。",
+      "summary": "一个更加量身定制、独属于你的谷歌搜索。最有帮助的搜索体验将世界丰富的信息与对你特别相关的洞察结合在一起。如今，搜索变得更加个性化，你可以将更多的应用连接到个人智能中——我们还推出了更多与个人相关的回应，让你更容易找到所需内容。",
       "score": 15,
       "original_title": "A more tailored Google Search that’s uniquely yours",
       "translated": true,
@@ -231,7 +231,7 @@
       "source": "Google AI Blog",
       "category": "AI与科技",
       "published": "2026-11-19T18:00:00+00:00",
-      "summary": "在 Gemini API 中推出工具检索 今天我们在 Gemini API 中推出了工具检索功能，该功能在交互 API 中提供预览。当一个代理连接到几十个甚至上百个工具时，每次请求发送所有完整参数架构会迅速增加。这会使输入令牌数量膨胀，增加延迟，并随着候选列表的增加降低工具选择的准确性。",
+      "summary": "在 Gemini API 中推出工具检索 今天我们在 Gemini API 中推出了工具检索功能，该功能在交互 API 中提供预览。当一个代理连接到几十个甚至上百个工具时，每次请求发送所有完整参数架构会迅速累积。这会增加输入令牌数量、增加延迟，并且随着候选列表的增长降低工具选择的准确性。",
       "score": 15,
       "original_title": "Introducing Tool Retrieval in the Gemini API",
       "translated": true,
@@ -243,31 +243,31 @@
     "indices": [
       {
         "name": "上证指数",
-        "price": 3476.8816,
-        "change": 0.4119,
-        "pct": 0.01,
-        "amount_yi": 6133.33
+        "price": 3606.4868,
+        "change": 129.6052,
+        "pct": 3.73,
+        "amount_yi": 9297.77
       },
       {
         "name": "深证成指",
-        "price": 10084.04,
-        "change": -2.312,
-        "pct": -0.02,
-        "amount_yi": 7040.44
+        "price": 10814.02,
+        "change": 729.975,
+        "pct": 7.24,
+        "amount_yi": 10700.17
       },
       {
         "name": "创业板指",
-        "price": 2189.82,
-        "change": 6.24,
-        "pct": 0.29,
-        "amount_yi": 1432.37
+        "price": 2443.96,
+        "change": 254.141,
+        "pct": 11.61,
+        "amount_yi": 2490.96
       },
       {
         "name": "沪深300",
-        "price": 3900.5483,
-        "change": 2.3127,
-        "pct": 0.06,
-        "amount_yi": 3713.98
+        "price": 4063.064,
+        "change": 162.5157,
+        "pct": 4.17,
+        "amount_yi": 6143.37
       }
     ],
     "holdings": [
@@ -276,11 +276,11 @@
         "symbol": "601088",
         "shares": 100,
         "cost": 31.7264,
-        "price": 53.0,
-        "market_value": 5300.0,
-        "pnl": 2127.36,
-        "pnl_pct": 67.05,
-        "weight_hint": "44.9%",
+        "price": 50.86,
+        "market_value": 5086.0,
+        "pnl": 1913.36,
+        "pnl_pct": 60.31,
+        "weight_hint": "44.1%",
         "note": "",
         "available": true
       },
@@ -289,11 +289,11 @@
         "symbol": "600900",
         "shares": 100,
         "cost": 26.9641,
-        "price": 31.8,
-        "market_value": 3180.0,
-        "pnl": 483.59,
-        "pnl_pct": 17.93,
-        "weight_hint": "27.0%",
+        "price": 31.22,
+        "market_value": 3122.0,
+        "pnl": 425.59,
+        "pnl_pct": 15.78,
+        "weight_hint": "27.1%",
         "note": "",
         "available": true
       },
@@ -302,11 +302,11 @@
         "symbol": "601398",
         "shares": 300,
         "cost": 6.2584,
-        "price": 9.23,
-        "market_value": 2769.0,
-        "pnl": 891.48,
-        "pnl_pct": 47.48,
-        "weight_hint": "23.5%",
+        "price": 9.1,
+        "market_value": 2730.0,
+        "pnl": 852.48,
+        "pnl_pct": 45.4,
+        "weight_hint": "23.7%",
         "note": "",
         "available": true
       },
@@ -315,11 +315,11 @@
         "symbol": "159995",
         "shares": 200,
         "cost": 1.59,
-        "price": 0.76,
-        "market_value": 152.0,
-        "pnl": -166.0,
-        "pnl_pct": -52.2,
-        "weight_hint": "1.3%",
+        "price": 0.836,
+        "market_value": 167.2,
+        "pnl": -150.8,
+        "pnl_pct": -47.42,
+        "weight_hint": "1.5%",
         "note": "代码按芯片ETF近似跟踪，可按实际持仓代码修改",
         "available": true
       },
@@ -328,11 +328,11 @@
         "symbol": "510300",
         "shares": 100,
         "cost": 4.97,
-        "price": 3.959,
-        "market_value": 395.9,
-        "pnl": -101.1,
-        "pnl_pct": -20.34,
-        "weight_hint": "3.4%",
+        "price": 4.162,
+        "market_value": 416.2,
+        "pnl": -80.8,
+        "pnl_pct": -16.26,
+        "weight_hint": "3.6%",
         "note": "",
         "available": true
       },
@@ -352,124 +352,131 @@
     ],
     "sectors": [
       {
-        "name": "煤炭 · 煤炭开采",
-        "pct": 2.72,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 2.55,
-        "source": "东财行业"
-      },
-      {
-        "name": "煤炭 · 煤炭",
-        "pct": 2.58,
-        "why": "对应中国神华，关注煤价与高股息逻辑",
-        "main_flow_yi": 2.99,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 金融信息服务",
-        "pct": 1.33,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": -0.11,
-        "source": "东财行业"
-      },
-      {
-        "name": "石油 · 石油行业",
-        "pct": 1.0302841086481,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "name": "半导体/电子 · 电子信息",
+        "pct": 9.8516181536438,
+        "why": "对应半导体ETF，关注景气与政策",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "石油 · 石油石化",
-        "pct": 0.99,
-        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
-        "main_flow_yi": 2.42,
-        "source": "东财行业"
-      },
-      {
-        "name": "金融/银行 · 银行",
-        "pct": 0.97,
-        "why": "对应工商银行，关注净息差与分红",
-        "main_flow_yi": 1.78,
-        "source": "东财行业"
-      },
-      {
-        "name": "电力/公用 · 电力行业",
-        "pct": 0.53091243392324,
+        "name": "电力/公用 · 供水供气",
+        "pct": 3.2086541987532,
         "why": "对应长江电力，关注来水与股息稳定性",
         "main_flow_yi": null,
         "source": "新浪行业"
       },
       {
-        "name": "半导体/电子 · 电子器件",
-        "pct": -0.17670814762789,
-        "why": "对应半导体ETF，关注景气与政策",
+        "name": "石油 · 石油行业",
+        "pct": 2.1245364647713,
+        "why": "能源价格联动，影响通胀与高股息板块风险偏好",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "金融/银行 · 金融行业",
+        "pct": 2.0107971435405,
+        "why": "对应工商银行，关注净息差与分红",
+        "main_flow_yi": null,
+        "source": "新浪行业"
+      },
+      {
+        "name": "煤炭 · 煤炭行业",
+        "pct": 1.0375680482941,
+        "why": "对应中国神华，关注煤价与高股息逻辑",
         "main_flow_yi": null,
         "source": "新浪行业"
       }
     ],
-    "policy_news": [],
+    "policy_news": [
+      {
+        "title": "中国人民银行安康市分行被罚36.8万元：违反国库管理规定",
+        "link": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaefwk5555974.shtml",
+        "level": "高",
+        "tag": "政策"
+      },
+      {
+        "title": "国务院国资委：因企施策、分类推进战新产业资源整合",
+        "link": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaefwc1073894.shtml",
+        "level": "高",
+        "tag": "政策"
+      }
+    ],
     "industry_news": [
       {
-        "title": "聚焦核“芯”设计，科创芯片设计ETF景顺（认购代码：589473）正在发行",
-        "link": "https://finance.sina.com.cn/money/fund/jjh/2026-11-26/doc-inkaaaxc1363358.shtml",
+        "title": "汉中农商银行被罚67.9万元：违反国库管理规定等",
+        "link": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaefwk5560084.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "银行股的新高与高股息",
-        "link": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-26/doc-inkaaawz8894624.shtml",
+        "title": "平利农商银行被罚18万元：违反征信管理规定",
+        "link": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaefwk5558362.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "高盛：预计沪深300明年上涨10%，上调港股至高配",
-        "link": "https://finance.sina.com.cn/jjxw/2026-11-26/doc-inkaaaxi3670013.shtml",
+        "title": "岚皋农商银行被罚87.8万元：违反金融统计管理规定等",
+        "link": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaefwk5557228.shtml",
         "level": "中",
         "tag": "行业"
       },
       {
-        "title": "漳浦民生村镇银行获批解散，资产、负债、业务等由中国民生银行承继",
-        "link": "https://finance.sina.com.cn/jryx/bank/2026-11-26/doc-inizzwrf1468622.shtml",
+        "title": "多家银行表态：加力推动股票回购增持贷款投放",
+        "link": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaefwi3221881.shtml",
         "level": "中",
         "tag": "行业"
       }
     ],
     "market_news": [
       {
-        "title": "AI抛售潮下，欧洲富裕投资者将目光投向股市以外的资产",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzwrf1466904.shtml",
+        "title": "A股成交额单日新增近7000亿元",
+        "link": "https://finance.sina.com.cn/wm/2026-11-27/doc-inkaefwk5567222.shtml",
         "level": "中",
         "tag": "股市"
       },
       {
-        "title": "人工智能前景不确定性持续，但韩国股市小幅反弹",
-        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzwrf1423562.shtml",
+        "title": "上海期货交易所：关于同意中储发展股份有限公司退会的公告",
+        "link": "https://finance.sina.com.cn/money/future/roll/2026-11-27/doc-inkaefwe7859457.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "上海期货交易所：关于同意富国基金管理有限公司退会的公告",
+        "link": "https://finance.sina.com.cn/money/future/roll/2026-11-27/doc-inkaefwk5548832.shtml",
+        "level": "中",
+        "tag": "股市"
+      },
+      {
+        "title": "韩国股市周五收涨4.34%，科技股领涨",
+        "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaefwk5516893.shtml",
         "level": "中",
         "tag": "股市"
       }
     ],
-    "total_market_value": 11796.9,
-    "total_pnl": 3235.33,
-    "total_amount_yi": 13173.77,
-    "bias": "震荡",
-    "volume_note": "量能：两市合计约 13174 亿元（接口口径），成交偏活跃",
-    "sector_note": "行业分化：偏强 煤炭开采、煤炭、金融信息服务；偏弱 电子器件",
-    "tip": "板块轮动是常态，不要追高换仓",
-    "errors": []
+    "total_market_value": 11521.4,
+    "total_pnl": 2959.83,
+    "total_amount_yi": 19997.94,
+    "bias": "偏多",
+    "volume_note": "量能：两市合计约 19998 亿元（接口口径），成交偏活跃",
+    "sector_note": "行业分化：偏强 电子信息、供水供气、石油行业；偏弱 暂无",
+    "tip": "今天涨不代表明天涨，A股短期走势受情绪影响很大",
+    "errors": [
+      "东财行业板块失败: HTTP Error 502: Bad Gateway"
+    ]
   },
   "learning": {
-    "title": "满仓的代价",
-    "body": "现金几乎为0时，回调里没有子弹加仓。新手版仓位：核心防御60–70%，成长卫星20–30%，现金尽量留10–20%。",
+    "title": "板块轮动",
+    "body": "资金常在行业间切换，不是“好公司永远天天涨”。追昨天上涨板块，容易买在情绪高点；先看逻辑，再看价格。",
     "section": "📚 今日学习点"
   },
   "humor": {
     "title": "😄【郭式一乐】",
-    "topic": "机油保养",
-    "text": "今儿聊【机油保养】。NWG150说明书写六千公里一换，你心里写“再挺挺”。车不说话，缸里知道；等它说话，说话的方式通常是异响。社会经验：省下的机油钱，最后都会变成修理厂的茶位费。"
+    "topic": "标书加班",
+    "text": "今儿聊【标书加班】。标书这东西，白天像散文，夜里像刑法。格式错一个空格，废一宿；价格错一个零，废一年。社会经验：投标不是写作文，是把自己活成附件——附件越全，人越空。"
   },
   "disclaimer": "⚡ 免责：以上内容仅供学习参考，不构成投资建议；投资有风险，决策需谨慎。",
   "errors": [
+    "东财行业板块失败: HTTP Error 502: Bad Gateway",
     "36氪: 解析失败 (<unknown>:11:168: not well-formed (invalid token))",
     "InfoQ 中文: 解析失败 (<unknown>:2:0: syntax error)"
   ]
